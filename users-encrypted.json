@@ -1,0 +1,24 @@
+{
+  "encrypted": "U2FsdGVkX19kZW1vX2VuY3J5cHRpb25fa2V5X2Zvcl9pdmFjX3N5c3RlbQ==",
+  "users": {
+    "demo_user1": {
+      "password": "cGFzczEyMzQ1Ng==",
+      "expires": "2025-12-31",
+      "role": "premium",
+      "name": "Demo User 1"
+    },
+    "demo_user2": {
+      "password": "bXlzZWN1cmVwYXNz",
+      "expires": "2026-06-30",
+      "role": "premium",
+      "name": "Demo User 2"
+    },
+    "demo_user3": {
+      "password": "dGVzdDEyMzQ1Ng==",
+      "expires": "2025-11-15",
+      "role": "basic",
+      "name": "Demo User 3"
+    }
+  },
+  "note": "Passwords are base64 encoded. Actual passwords: pass123456, mysecurepass, test123456"
+}

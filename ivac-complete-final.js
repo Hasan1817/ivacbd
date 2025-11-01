@@ -1,1 +1,2342 @@
-(function(_0x275364,_0x2eeff4){const _0x2c26d4=_0x60d7,_0x3cc560=_0x275364();while(!![]){try{const _0x11b219=-parseInt(_0x2c26d4(0x226))/0x1*(parseInt(_0x2c26d4(0x349))/0x2)+parseInt(_0x2c26d4(0x325))/0x3+parseInt(_0x2c26d4(0x301))/0x4+-parseInt(_0x2c26d4(0x24c))/0x5*(parseInt(_0x2c26d4(0x2b5))/0x6)+parseInt(_0x2c26d4(0x344))/0x7*(-parseInt(_0x2c26d4(0x1c7))/0x8)+-parseInt(_0x2c26d4(0x269))/0x9*(parseInt(_0x2c26d4(0x264))/0xa)+parseInt(_0x2c26d4(0x1ea))/0xb*(parseInt(_0x2c26d4(0x1c3))/0xc);if(_0x11b219===_0x2eeff4)break;else _0x3cc560['push'](_0x3cc560['shift']());}catch(_0x4b640a){_0x3cc560['push'](_0x3cc560['shift']());}}}(_0x19ef,0x673b6),(function(_0x114f00,_0x18ac32){const _0x4e7ad8=_0x60d7,_0x768088=_0x5cd4,_0x333622=_0x114f00();while(!![]){try{const _0x30f205=-parseInt(_0x768088(0x216))/0x1+parseInt(_0x768088(0x1f4))/0x2*(parseInt(_0x768088(0x39e))/0x3)+-parseInt(_0x768088(0x1f2))/0x4*(-parseInt(_0x768088(0x259))/0x5)+-parseInt(_0x768088(0x31a))/0x6+parseInt(_0x768088(0x3a7))/0x7*(parseInt(_0x768088(0x253))/0x8)+-parseInt(_0x768088(0x258))/0x9*(-parseInt(_0x768088(0x367))/0xa)+parseInt(_0x768088(0x2b3))/0xb*(parseInt(_0x768088(0x2b6))/0xc);if(_0x30f205===_0x18ac32)break;else _0x333622[_0x4e7ad8(0x300)](_0x333622[_0x4e7ad8(0x33c)]());}catch(_0x1b75b5){_0x333622['push'](_0x333622[_0x4e7ad8(0x33c)]());}}}(_0x318a,0x19f91),(function(){'use strict';const _0x4ea6bf=_0x60d7;const _0x4dda6b=_0x5cd4,_0x45d9b1=_0x4ea6bf(0x361);if(window[_0x4dda6b(0x233)]){console[_0x4ea6bf(0x2aa)](_0x4dda6b(0x3b5)+_0x45d9b1+')',_0x4dda6b(0x1fa));return;}console[_0x4ea6bf(0x2aa)](_0x4dda6b(0x2b4)+_0x45d9b1+_0x4dda6b(0x20d),_0x4dda6b(0x340)),window[_0x4dda6b(0x233)]=!![],window[_0x4dda6b(0x382)]=_0x45d9b1;const _0x31a255=_0x4dda6b(0x2df);async function _0x54a49a(){const _0x37ffe3=_0x4ea6bf,_0x310431=_0x4dda6b,_0x361e8d=localStorage[_0x37ffe3(0x29b)]('IVAC_AUTH_SESSION');if(_0x361e8d)try{const _0x1d7529=JSON[_0x310431(0x2f0)](_0x361e8d),_0x490af5=new Date()[_0x310431(0x327)]();if(_0x1d7529[_0x310431(0x21e)]&&_0x1d7529[_0x310431(0x21e)]>_0x490af5){const _0x5d22da=new Date(_0x1d7529[_0x310431(0x1d8)])[_0x310431(0x327)]();return _0x5d22da>_0x490af5?(console[_0x310431(0x226)](_0x310431(0x296)+_0x1d7529[_0x310431(0x1cc)],_0x310431(0x2f1)),_0x328018(_0x1d7529[_0x310431(0x1d8)],_0x1d7529[_0x310431(0x1cc)]),!![]):(localStorage[_0x310431(0x264)](_0x310431(0x222)),_0x169b77(_0x1d7529[_0x37ffe3(0x203)],_0x1d7529[_0x310431(0x1d8)]),![]);}}catch(_0x65bfb9){localStorage[_0x310431(0x264)](_0x310431(0x222));}return await _0x1e8fa2();}function _0x328018(_0x44139f,_0x2fea74){const _0x4f977e=_0x4dda6b,_0x16f09e=new Date(),_0x419242=new Date(_0x44139f),_0x23de9b=Math[_0x4f977e(0x391)]((_0x419242-_0x16f09e)/(0x3e8*0x3c*0x3c*0x18));_0x23de9b<=0x7&&_0x23de9b>0x0&&console[_0x4f977e(0x226)](_0x4f977e(0x3b7)+_0x23de9b+'\x20days\x20('+_0x44139f+')',_0x4f977e(0x1fa));}function _0x169b77(_0x526e59,_0x5ac98a){const _0x5a1f75=_0x4ea6bf,_0x385170=_0x4dda6b,_0x379ec7=document[_0x385170(0x34b)](_0x385170(0x2de));_0x379ec7[_0x385170(0x1d7)][_0x5a1f75(0x2b4)]=_0x385170(0x263),_0x379ec7[_0x385170(0x21d)]=_0x5a1f75(0x289)+_0x526e59+_0x5a1f75(0x377)+_0x5ac98a+_0x5a1f75(0x1a3),document[_0x385170(0x2a8)][_0x385170(0x227)](_0x379ec7);}async function _0x1e8fa2(){return new Promise(_0x1988d3=>{const _0x5a9a30=_0x60d7,_0xf5ca91=_0x5cd4,_0x2bdfb2=document[_0xf5ca91(0x34b)](_0xf5ca91(0x2de));_0x2bdfb2['id']=_0x5a9a30(0x1f9),_0x2bdfb2[_0xf5ca91(0x1d7)]['cssText']=_0xf5ca91(0x3ba);const _0x2a233c=document[_0x5a9a30(0x254)](_0x5a9a30(0x378));_0x2a233c[_0xf5ca91(0x1d7)][_0xf5ca91(0x355)]=_0xf5ca91(0x1ff),_0x2a233c[_0xf5ca91(0x21d)]=_0xf5ca91(0x27b)+_0x45d9b1+_0xf5ca91(0x22d),_0x2bdfb2[_0x5a9a30(0x2e4)](_0x2a233c),document[_0xf5ca91(0x2a8)][_0xf5ca91(0x227)](_0x2bdfb2);const _0x285789=document[_0xf5ca91(0x321)](_0xf5ca91(0x3ac)),_0x3bc364=document[_0xf5ca91(0x321)](_0xf5ca91(0x200)),_0x34081a=document[_0xf5ca91(0x321)](_0x5a9a30(0x2ac)),_0x49222b=document[_0xf5ca91(0x321)](_0xf5ca91(0x39c));setTimeout(()=>_0x285789['focus'](),0x64),[_0x285789,_0x3bc364][_0xf5ca91(0x386)](_0x117c06=>{const _0x591a31=_0x5a9a30,_0x4fcee5=_0xf5ca91;_0x117c06[_0x591a31(0x233)](_0x4fcee5(0x37e),()=>{const _0x4b21b3=_0x591a31,_0x1446a4=_0x4fcee5;_0x117c06[_0x1446a4(0x1d7)][_0x4b21b3(0x2e7)]=_0x1446a4(0x1e4);}),_0x117c06[_0x4fcee5(0x365)](_0x4fcee5(0x366),()=>{const _0x5a33fe=_0x4fcee5;_0x117c06[_0x5a33fe(0x1d7)][_0x5a33fe(0x352)]=_0x5a33fe(0x2eb);});}),_0x3bc364['addEventListener'](_0xf5ca91(0x20f),_0x1a3bdb=>{const _0x1d2f1c=_0xf5ca91;if(_0x1a3bdb[_0x1d2f1c(0x2dc)]===_0x1d2f1c(0x3a0))_0x34081a[_0x1d2f1c(0x2c5)]();}),_0x34081a[_0xf5ca91(0x365)](_0xf5ca91(0x2c5),async()=>{const _0x4c5ede=_0x5a9a30,_0x21691e=_0xf5ca91,_0x11be56=_0x285789[_0x21691e(0x346)][_0x21691e(0x1fe)](),_0x31b605=_0x3bc364[_0x21691e(0x346)];if(!_0x11be56||!_0x31b605){_0xdc95be(_0x21691e(0x392));return;}_0x34081a[_0x21691e(0x2bb)]=!![],_0x34081a[_0x21691e(0x1fb)]=_0x21691e(0x1fc),_0x49222b[_0x21691e(0x1d7)]['display']=_0x21691e(0x2d0);try{const _0x575d7d=await _0x25a24d(_0x11be56,_0x31b605);if(_0x575d7d[_0x21691e(0x207)]){const _0x176285={'username':_0x11be56,'userExpires':_0x575d7d[_0x21691e(0x1d8)],'sessionExpires':new Date()[_0x21691e(0x327)]()+0x18*0x3c*0x3c*0x3e8,'role':_0x575d7d[_0x21691e(0x25f)]};localStorage[_0x21691e(0x36e)](_0x4c5ede(0x316),JSON[_0x21691e(0x330)](_0x176285)),_0x34081a[_0x4c5ede(0x1e1)][_0x21691e(0x1cd)]=_0x21691e(0x238),_0x34081a[_0x21691e(0x1fb)]=_0x21691e(0x3a6),setTimeout(()=>{const _0xa05837=_0x4c5ede,_0x47b647=_0x21691e;_0x2bdfb2[_0x47b647(0x303)](),_0x328018(_0x575d7d[_0xa05837(0x28b)],_0x11be56),_0x1988d3(!![]);},0x320);}else _0xdc95be(_0x575d7d[_0x21691e(0x23b)]),_0x34081a[_0x21691e(0x2bb)]=![],_0x34081a[_0x21691e(0x1fb)]=_0x21691e(0x2a1);}catch(_0x1134fd){_0xdc95be(_0x21691e(0x354)),_0x34081a[_0x21691e(0x2bb)]=![],_0x34081a[_0x21691e(0x1fb)]=_0x21691e(0x2a1);}});function _0xdc95be(_0x39b4f0){const _0x1dd8a0=_0xf5ca91;_0x49222b[_0x1dd8a0(0x1fb)]=_0x39b4f0,_0x49222b[_0x1dd8a0(0x1d7)][_0x1dd8a0(0x3c1)]=_0x1dd8a0(0x23a),_0x285789[_0x1dd8a0(0x1d7)][_0x1dd8a0(0x352)]=_0x1dd8a0(0x21c),_0x3bc364[_0x1dd8a0(0x1d7)][_0x1dd8a0(0x352)]=_0x1dd8a0(0x21c),setTimeout(()=>{const _0x6d2595=_0x60d7,_0x28d83b=_0x1dd8a0;_0x285789[_0x28d83b(0x1d7)][_0x28d83b(0x352)]=_0x28d83b(0x2eb),_0x3bc364[_0x6d2595(0x1e1)]['borderColor']=_0x28d83b(0x2eb);},0x7d0);}});}async function _0x25a24d(_0x38fcc7,_0x26b147){const _0x4b0566=_0x4ea6bf,_0x2cefc1=_0x4dda6b;try{const _0x206b25=await fetch(_0x31a255+_0x4b0566(0x1e7)+Date[_0x2cefc1(0x33e)](),{'cache':_0x2cefc1(0x2b0)});if(!_0x206b25['ok'])return{'success':![],'error':_0x2cefc1(0x282)};const _0x2f7f60=await _0x206b25[_0x2cefc1(0x36c)](),_0x43ef06=_0x2f7f60[_0x2cefc1(0x28f)][_0x38fcc7];if(!_0x43ef06)return{'success':![],'error':_0x2cefc1(0x220)};const _0x16e860=atob(_0x43ef06[_0x2cefc1(0x31c)]);if(_0x16e860!==_0x26b147)return{'success':![],'error':_0x2cefc1(0x220)};const _0x247637=new Date(_0x43ef06[_0x2cefc1(0x36f)]),_0x1e3a38=new Date();if(_0x247637<_0x1e3a38)return{'success':![],'error':_0x4b0566(0x249)+_0x43ef06[_0x2cefc1(0x36f)]+_0x2cefc1(0x3af)};return console[_0x2cefc1(0x226)](_0x2cefc1(0x33a)+_0x38fcc7,'color:\x20#28a745;\x20font-weight:\x20bold;'),{'success':!![],'userExpires':_0x43ef06[_0x2cefc1(0x36f)],'role':_0x43ef06['role']||'basic'};}catch(_0x572e43){return console[_0x4b0566(0x24a)](_0x4b0566(0x2e5),_0x572e43),{'success':![],'error':_0x2cefc1(0x3aa)};}}(async function _0x25d2ca(){const _0x2da730=_0x4ea6bf,_0x1dc836=_0x4dda6b,_0x5e08da=await _0x54a49a();if(!_0x5e08da){console[_0x1dc836(0x226)](_0x1dc836(0x1cf),_0x1dc836(0x322));return;}console[_0x1dc836(0x226)](_0x1dc836(0x368),_0x1dc836(0x340));const _0x40270c=document[_0x1dc836(0x34b)](_0x1dc836(0x1d7));_0x40270c[_0x1dc836(0x21d)]=_0x1dc836(0x328),document[_0x1dc836(0x334)][_0x1dc836(0x227)](_0x40270c);const _0x57df5c={'logs':[],'container':null,'contentDiv':null,'init'(_0x466a4e){const _0x210801=_0x1dc836;this[_0x210801(0x239)]=_0x466a4e;const _0x2a49f7=document[_0x210801(0x34b)](_0x210801(0x2de));_0x2a49f7[_0x210801(0x2b8)]=_0x210801(0x27c),_0x2a49f7[_0x210801(0x1fb)]='Network\x20Logs';const _0x4cfbb4=document[_0x210801(0x34b)](_0x210801(0x2de));_0x4cfbb4[_0x210801(0x2b8)]=_0x210801(0x3a8),_0x466a4e[_0x210801(0x227)](_0x2a49f7),_0x466a4e[_0x210801(0x227)](_0x4cfbb4),this[_0x210801(0x331)]=_0x4cfbb4,this[_0x210801(0x201)]();},'add'(_0x5d5cfb,_0x3c3527=_0x1dc836(0x30f)){const _0x530936=_0x1dc836,_0x133c82=new Date()[_0x530936(0x287)]();this[_0x530936(0x1f9)][_0x530936(0x33f)]({'timestamp':_0x133c82,'message':_0x5d5cfb,'type':_0x3c3527});if(this[_0x530936(0x1f9)][_0x530936(0x1d4)]>0x64)this[_0x530936(0x1f9)]['shift']();this[_0x530936(0x201)]();},'render'(){const _0xa7ef19=_0x60d7,_0x4c38a0=_0x1dc836;if(!this[_0x4c38a0(0x331)])return;this[_0x4c38a0(0x331)][_0x4c38a0(0x21d)]=this[_0xa7ef19(0x28d)][_0x4c38a0(0x2c7)](_0x311724=>_0xa7ef19(0x2cb)+_0x311724[_0xa7ef19(0x2b2)]+_0x4c38a0(0x3ad)+_0x311724[_0x4c38a0(0x280)]+']\x20'+_0x311724[_0x4c38a0(0x358)]+_0x4c38a0(0x34f))[_0x4c38a0(0x1d9)](''),this[_0x4c38a0(0x331)][_0xa7ef19(0x30d)]=this[_0x4c38a0(0x331)][_0xa7ef19(0x25f)];},'clear'(){const _0x14c2ed=_0x1dc836;this[_0x14c2ed(0x1f9)]=[],this[_0x14c2ed(0x201)]();}};function _0x3b5cc6(){const _0x1a8518=_0x1dc836;try{const _0x274aee=localStorage[_0x1a8518(0x3ae)](_0x1a8518(0x337));if(_0x274aee)return JSON[_0x1a8518(0x2f0)](_0x274aee);}catch(_0x3112b2){_0x57df5c[_0x1a8518(0x1e6)](_0x1a8518(0x2c8)+_0x3112b2['message'],_0x1a8518(0x23b));}return null;}function _0x1a4605(_0x480833,_0x1bf1a8=0x8){const _0x686f1=_0x60d7,_0x115925=_0x1dc836,_0xe6417f=_0x480833[_0x686f1(0x356)];let _0x554ea9=_0x1bf1a8;_0x480833[_0x115925(0x2bb)]=!![],_0x480833[_0x115925(0x1fb)]=_0x115925(0x27e)+_0x554ea9+'s';const _0x2171b7=setInterval(()=>{const _0x20d6c3=_0x686f1,_0x3d6c1c=_0x115925;_0x554ea9--,_0x554ea9>0x0?_0x480833[_0x3d6c1c(0x1fb)]='Wait\x20'+_0x554ea9+'s':(clearInterval(_0x2171b7),_0x480833[_0x20d6c3(0x2a1)]=![],_0x480833[_0x3d6c1c(0x1fb)]=_0xe6417f);},0x3e8);}const _0x5d8f9a=window[_0x1dc836(0x251)];window[_0x1dc836(0x251)]=async function(..._0x41b929){const _0x1d5fbd=_0x60d7,_0x2b6e74=_0x1dc836,_0x290be5=_0x41b929[0x0],_0x463715=_0x41b929[0x1]||{};_0x57df5c[_0x2b6e74(0x1e6)](_0x2b6e74(0x3c9)+(_0x463715[_0x2b6e74(0x3b2)]||_0x2b6e74(0x317))+'\x20'+_0x290be5,_0x2b6e74(0x30f));try{const _0x3ec22c=await _0x5d8f9a[_0x1d5fbd(0x2d3)](this,_0x41b929),_0x35d5ee=_0x3ec22c[_0x2b6e74(0x25e)];if(_0x35d5ee>=0xc8&&_0x35d5ee<0x12c)_0x57df5c[_0x1d5fbd(0x271)]('['+_0x35d5ee+']\x20'+_0x290be5,_0x2b6e74(0x207));else{if(_0x35d5ee>=0x190&&_0x35d5ee<0x1f4)_0x57df5c[_0x1d5fbd(0x271)]('['+_0x35d5ee+']\x20'+_0x290be5,_0x2b6e74(0x23b));else _0x35d5ee>=0x1f4?_0x57df5c[_0x2b6e74(0x1e6)]('['+_0x35d5ee+']\x20'+_0x290be5,_0x1d5fbd(0x24a)):_0x57df5c[_0x1d5fbd(0x271)]('['+_0x35d5ee+']\x20'+_0x290be5,_0x2b6e74(0x361));}return _0x3ec22c;}catch(_0x583192){_0x57df5c[_0x2b6e74(0x1e6)](_0x2b6e74(0x2e3)+_0x583192[_0x2b6e74(0x358)],_0x2b6e74(0x23b));throw _0x583192;}};const _0x43cba4=XMLHttpRequest[_0x1dc836(0x26c)][_0x2da730(0x2b6)],_0x1b5859=XMLHttpRequest[_0x1dc836(0x26c)][_0x1dc836(0x2ad)];XMLHttpRequest[_0x1dc836(0x26c)][_0x1dc836(0x341)]=function(_0x30a192,_0x31d5eb,..._0x4ee368){const _0x137968=_0x2da730,_0x1b428e=_0x1dc836;return this[_0x1b428e(0x218)]=_0x30a192,this[_0x137968(0x296)]=_0x31d5eb,_0x43cba4[_0x137968(0x2d3)](this,[_0x30a192,_0x31d5eb,..._0x4ee368]);},XMLHttpRequest[_0x1dc836(0x26c)][_0x2da730(0x2bd)]=function(..._0x139430){const _0x3208c0=_0x2da730,_0x12408a=_0x1dc836;return _0x57df5c[_0x12408a(0x1e6)](_0x12408a(0x3c9)+this[_0x12408a(0x218)]+'\x20'+this[_0x12408a(0x304)],_0x3208c0(0x23c)),this['addEventListener'](_0x12408a(0x3be),function(){const _0x5b86eb=_0x3208c0,_0x1d677b=_0x12408a,_0x340a31=this[_0x5b86eb(0x2a8)];if(_0x340a31>=0xc8&&_0x340a31<0x12c)_0x57df5c[_0x1d677b(0x1e6)]('['+_0x340a31+']\x20'+this[_0x1d677b(0x304)],'success');else{if(_0x340a31>=0x190&&_0x340a31<0x1f4)_0x57df5c['add']('['+_0x340a31+']\x20'+this[_0x5b86eb(0x296)],_0x1d677b(0x23b));else _0x340a31>=0x1f4?_0x57df5c[_0x1d677b(0x1e6)]('['+_0x340a31+']\x20'+this['_url'],_0x1d677b(0x23b)):_0x57df5c[_0x5b86eb(0x271)]('['+_0x340a31+']\x20'+this[_0x5b86eb(0x296)],_0x1d677b(0x361));}}),this[_0x3208c0(0x233)](_0x12408a(0x23b),function(){const _0x5da8b1=_0x12408a;_0x57df5c[_0x5da8b1(0x1e6)](_0x5da8b1(0x2db)+this[_0x5da8b1(0x304)],_0x5da8b1(0x23b));}),_0x1b5859[_0x3208c0(0x2d3)](this,_0x139430);};const _0x5bfa34=document[_0x1dc836(0x34b)](_0x2da730(0x378));_0x5bfa34['id']=_0x1dc836(0x21f);const _0x449139=document[_0x1dc836(0x34b)](_0x2da730(0x378));_0x449139[_0x1dc836(0x2b8)]=_0x1dc836(0x2b5),_0x449139[_0x1dc836(0x21d)]=_0x2da730(0x308);const _0x1c6afe=document[_0x1dc836(0x34b)](_0x2da730(0x378));_0x1c6afe[_0x1dc836(0x2b8)]='ivac-body-wrapper';const _0xd41476=document[_0x1dc836(0x34b)](_0x2da730(0x378));_0xd41476[_0x2da730(0x1c9)]=_0x1dc836(0x288);const _0x194eff=document[_0x2da730(0x254)](_0x1dc836(0x2de));_0x194eff[_0x1dc836(0x2b8)]=_0x1dc836(0x295);const _0x376ffc=document[_0x1dc836(0x34b)](_0x1dc836(0x2de));_0x376ffc[_0x1dc836(0x2b8)]=_0x2da730(0x25a),_0x376ffc[_0x1dc836(0x21d)]=_0x2da730(0x22e);const _0x34bbe8=document[_0x1dc836(0x34b)](_0x1dc836(0x2de));_0x34bbe8[_0x2da730(0x1c9)]=_0x1dc836(0x33d),_0x194eff['appendChild'](_0x376ffc),_0x194eff[_0x1dc836(0x227)](_0x34bbe8),_0x1c6afe[_0x2da730(0x2e4)](_0xd41476),_0x1c6afe[_0x2da730(0x2e4)](_0x194eff),_0x5bfa34[_0x2da730(0x2e4)](_0x449139),_0x5bfa34[_0x1dc836(0x227)](_0x1c6afe),document[_0x1dc836(0x2a8)][_0x2da730(0x2e4)](_0x5bfa34),_0x57df5c[_0x1dc836(0x34e)](_0xd41476),_0x57df5c[_0x1dc836(0x1e6)](_0x1dc836(0x2f5),_0x1dc836(0x207));function _0x368b60(){const _0x3739a9=_0x2da730,_0x8de5d9=_0x1dc836;_0x34bbe8[_0x8de5d9(0x21d)]='',_0x34bbe8[_0x8de5d9(0x2b8)]=_0x8de5d9(0x2e8);const _0x4db90d=document[_0x8de5d9(0x34b)](_0x8de5d9(0x2de));_0x4db90d[_0x3739a9(0x1c9)]=_0x8de5d9(0x29c),_0x4db90d[_0x8de5d9(0x1d7)][_0x8de5d9(0x355)]=_0x8de5d9(0x1f7);const _0x11eed1=document[_0x8de5d9(0x34b)](_0x8de5d9(0x2de));_0x11eed1[_0x8de5d9(0x1fb)]=_0x8de5d9(0x351),_0x11eed1['style'][_0x8de5d9(0x355)]='font-size:\x2015px;\x20font-weight:\x20700;\x20text-align:\x20center;\x20margin-bottom:\x2010px;',_0x4db90d[_0x3739a9(0x2e4)](_0x11eed1);const _0x385a48=_0x3b5cc6(),_0xe4a313=document[_0x3739a9(0x254)](_0x8de5d9(0x2de));_0x385a48?(_0xe4a313[_0x8de5d9(0x1fb)]=_0x3739a9(0x31e)+(_0x385a48[_0x8de5d9(0x246)]||_0x8de5d9(0x1f3)),_0xe4a313[_0x3739a9(0x1e1)][_0x8de5d9(0x355)]='font-size:\x2011px;\x20color:\x20#059669;\x20text-align:\x20center;\x20margin-bottom:\x2010px;\x20background:\x20#d1fae5;\x20padding:\x204px;\x20border-radius:\x204px;'):(_0xe4a313[_0x8de5d9(0x1fb)]=_0x8de5d9(0x231),_0xe4a313[_0x8de5d9(0x1d7)][_0x3739a9(0x2b4)]=_0x8de5d9(0x269)),_0x4db90d[_0x8de5d9(0x227)](_0xe4a313);const _0xa6a1f5=document[_0x8de5d9(0x34b)](_0x8de5d9(0x2de));_0xa6a1f5[_0x8de5d9(0x1d7)][_0x3739a9(0x2b4)]=_0x8de5d9(0x3c5),_0x4db90d[_0x8de5d9(0x227)](_0xa6a1f5);const _0x1de564=(_0x1f326d,_0x2483ca=![])=>{const _0x400af2=_0x3739a9,_0x2ca741=_0x8de5d9;_0xa6a1f5[_0x2ca741(0x1fb)]=_0x1f326d,_0xa6a1f5[_0x2ca741(0x1d7)][_0x400af2(0x19c)]=_0x2ca741(0x23a),_0xa6a1f5[_0x400af2(0x1e1)][_0x400af2(0x23e)]=_0x2483ca?'#fee2e2':_0x400af2(0x239),_0xa6a1f5[_0x2ca741(0x1d7)][_0x2ca741(0x1dd)]=_0x2483ca?_0x400af2(0x246):_0x400af2(0x25e),setTimeout(()=>_0xa6a1f5[_0x2ca741(0x1d7)][_0x400af2(0x19c)]=_0x2ca741(0x2d0),0xbb8);},_0x51de3b=document[_0x8de5d9(0x34b)](_0x3739a9(0x275));_0x51de3b[_0x3739a9(0x356)]=_0x8de5d9(0x326),_0x51de3b[_0x8de5d9(0x2b8)]=_0x8de5d9(0x35b),_0x51de3b[_0x8de5d9(0x1d7)][_0x3739a9(0x2b4)]=_0x8de5d9(0x21a),_0x51de3b[_0x8de5d9(0x365)](_0x3739a9(0x35f),()=>{const _0x55db0c=_0x3739a9,_0x1d6e75=_0x8de5d9;if(!_0x385a48){_0x1de564(_0x1d6e75(0x34a),!![]);return;}const _0x17c8fc=document[_0x1d6e75(0x249)](_0x1d6e75(0x23d));_0x17c8fc?(_0x17c8fc[_0x1d6e75(0x346)]=_0x385a48['webfile_id'],_0x1de564(_0x1d6e75(0x1d5)+_0x385a48[_0x1d6e75(0x246)]),_0x57df5c[_0x1d6e75(0x1e6)](_0x55db0c(0x357)+_0x385a48[_0x1d6e75(0x246)],_0x1d6e75(0x207))):(_0x1de564(_0x1d6e75(0x2d8),!![]),_0x57df5c[_0x1d6e75(0x1e6)](_0x1d6e75(0x2ae),_0x1d6e75(0x361))),_0x1a4605(_0x51de3b);}),_0x4db90d[_0x8de5d9(0x227)](_0x51de3b);const _0x22a110=document[_0x3739a9(0x254)](_0x8de5d9(0x234));_0x22a110[_0x3739a9(0x356)]=_0x8de5d9(0x333),_0x22a110[_0x8de5d9(0x2b8)]=_0x3739a9(0x2f6),_0x22a110[_0x8de5d9(0x1d7)][_0x8de5d9(0x355)]=_0x8de5d9(0x39d),_0x22a110[_0x3739a9(0x233)](_0x8de5d9(0x2c5),()=>{const _0x2c4f43=_0x3739a9,_0x28b9cc=_0x8de5d9;if(!_0x385a48){_0x1de564(_0x28b9cc(0x34a),!![]);return;}let _0x306874=0x0;const _0x1ff920=[{'selector':_0x28b9cc(0x217),'value':_0x385a48[_0x28b9cc(0x325)]?.[_0x2c4f43(0x215)]},{'selector':_0x28b9cc(0x205),'value':_0x385a48[_0x2c4f43(0x295)]?.[_0x28b9cc(0x35a)]},{'selector':_0x28b9cc(0x2d7),'value':_0x385a48[_0x2c4f43(0x295)]?.[_0x28b9cc(0x27a)]},{'selector':_0x28b9cc(0x23d),'value':_0x385a48[_0x28b9cc(0x246)]},{'selector':_0x28b9cc(0x2d2),'value':_0x385a48[_0x28b9cc(0x1f0)]||_0x385a48['webfile_id']},{'selector':_0x28b9cc(0x34d),'value':_0x385a48[_0x28b9cc(0x279)]},{'selector':_0x28b9cc(0x37b),'value':_0x385a48[_0x28b9cc(0x24f)]},{'selector':_0x28b9cc(0x335),'value':_0x385a48[_0x28b9cc(0x2dd)]},{'selector':_0x28b9cc(0x228),'value':_0x385a48[_0x28b9cc(0x312)]},{'selector':_0x2c4f43(0x383),'value':_0x385a48[_0x28b9cc(0x2fa)]}];_0x1ff920[_0x28b9cc(0x386)](({selector:_0x13ae7d,value:_0x3eb633})=>{const _0x273ba6=_0x2c4f43,_0x1c14af=_0x28b9cc;if(!_0x3eb633)return;const _0x1f3ef0=document[_0x1c14af(0x249)](_0x13ae7d);_0x1f3ef0&&(_0x1f3ef0[_0x1c14af(0x346)]=_0x3eb633,_0x1f3ef0[_0x273ba6(0x2d9)](new Event(_0x1c14af(0x2cc),{'bubbles':!![]})),_0x1f3ef0[_0x1c14af(0x1d6)](new Event(_0x1c14af(0x32a),{'bubbles':!![]})),_0x306874++,_0x57df5c['add'](_0x1c14af(0x37a)+(_0x1f3ef0[_0x1c14af(0x21b)]||_0x1f3ef0['id']||_0x1c14af(0x204))+_0x273ba6(0x2a3)+_0x3eb633,_0x1c14af(0x207)));}),_0x306874>0x0?(_0x1de564(_0x306874+_0x28b9cc(0x2ef)),_0x57df5c[_0x2c4f43(0x271)](_0x28b9cc(0x1db)+_0x306874+_0x2c4f43(0x365),_0x28b9cc(0x207))):(_0x1de564(_0x28b9cc(0x22f),!![]),_0x57df5c[_0x2c4f43(0x271)](_0x28b9cc(0x3c8),_0x28b9cc(0x361))),_0x1a4605(_0x22a110);}),_0x4db90d[_0x8de5d9(0x227)](_0x22a110);const _0x25cc7e=document[_0x8de5d9(0x34b)](_0x8de5d9(0x234));_0x25cc7e[_0x3739a9(0x356)]=_0x8de5d9(0x306),_0x25cc7e[_0x8de5d9(0x2b8)]=_0x3739a9(0x2f6),_0x25cc7e[_0x8de5d9(0x1d7)][_0x3739a9(0x2b4)]=_0x8de5d9(0x390),_0x25cc7e[_0x8de5d9(0x365)](_0x3739a9(0x35f),()=>{const _0x3881ca=_0x3739a9,_0x6660c5=_0x8de5d9;if(!_0x385a48){_0x1de564(_0x6660c5(0x34a),!![]);return;}if(!_0x385a48[_0x6660c5(0x387)]||_0x385a48[_0x6660c5(0x387)][_0x6660c5(0x1d4)]===0x0){_0x1de564(_0x6660c5(0x2c0),!![]);return;}let _0x2cd6d1=0x0;_0x385a48[_0x6660c5(0x387)][_0x3881ca(0x368)]((_0x46e9bf,_0x3a5bdb)=>{const _0x45e16f=_0x3881ca,_0x455033=_0x6660c5,_0x17a225=_0x3a5bdb+0x1,_0xea9da0=['input[name=\x22family_name_'+_0x17a225+'\x22]',_0x455033(0x32d)+_0x3a5bdb+_0x455033(0x3c7),_0x455033(0x2a7)+_0x17a225+'\x22]',_0x455033(0x2f9)+_0x17a225+')'],_0x2663d9=[_0x455033(0x24e)+_0x17a225+'\x22]',_0x455033(0x32d)+_0x3a5bdb+_0x455033(0x309),_0x455033(0x29a)+_0x17a225+'\x22]',_0x455033(0x265)+_0x17a225+')'];for(const _0x1035c4 of _0xea9da0){const _0x49f629=document[_0x455033(0x249)](_0x1035c4);if(_0x49f629){_0x49f629[_0x455033(0x346)]=_0x46e9bf[_0x455033(0x21b)],_0x49f629[_0x455033(0x1d6)](new Event(_0x45e16f(0x240),{'bubbles':!![]})),_0x49f629['dispatchEvent'](new Event(_0x455033(0x32a),{'bubbles':!![]})),_0x2cd6d1++,_0x57df5c['add'](_0x455033(0x376)+_0x17a225+_0x45e16f(0x230)+_0x46e9bf['name'],_0x455033(0x207));break;}}for(const _0x3b9084 of _0x2663d9){const _0x48de23=document[_0x455033(0x249)](_0x3b9084);if(_0x48de23){_0x48de23[_0x455033(0x346)]=_0x46e9bf[_0x455033(0x397)],_0x48de23[_0x455033(0x1d6)](new Event(_0x455033(0x2cc),{'bubbles':!![]})),_0x48de23[_0x455033(0x1d6)](new Event(_0x455033(0x32a),{'bubbles':!![]})),_0x2cd6d1++,_0x57df5c[_0x455033(0x1e6)](_0x455033(0x376)+_0x17a225+_0x455033(0x22a)+_0x46e9bf[_0x455033(0x397)],_0x455033(0x207));break;}}}),_0x57df5c[_0x6660c5(0x1e6)](_0x6660c5(0x284)+_0x385a48[_0x3881ca(0x23d)],_0x6660c5(0x30f)),_0x385a48[_0x6660c5(0x387)][_0x3881ca(0x368)]((_0x45bd30,_0x46ccb3)=>{const _0x283d9a=_0x3881ca,_0x56c08a=_0x6660c5;_0x57df5c[_0x56c08a(0x1e6)](_0x283d9a(0x371)+(_0x46ccb3+0x1)+']\x20'+_0x45bd30[_0x283d9a(0x339)]+_0x56c08a(0x298)+_0x45bd30[_0x56c08a(0x397)],_0x56c08a(0x30f));}),_0x2cd6d1>0x0?_0x1de564(_0x6660c5(0x2be)+_0x2cd6d1+_0x6660c5(0x383)):(_0x1de564(_0x6660c5(0x1dc)+_0x385a48[_0x3881ca(0x1ae)][_0x6660c5(0x1d4)]+_0x6660c5(0x206),!![]),_0x57df5c[_0x6660c5(0x1e6)](_0x6660c5(0x1f1),_0x6660c5(0x361))),_0x1a4605(_0x25cc7e);}),_0x4db90d['appendChild'](_0x25cc7e),_0x34bbe8[_0x8de5d9(0x227)](_0x4db90d),_0x57df5c[_0x3739a9(0x271)](_0x8de5d9(0x318),_0x385a48?_0x8de5d9(0x207):_0x8de5d9(0x361));}function _0x5ab09a(){const _0xb4700e=_0x2da730,_0x586cc1=_0x1dc836;_0x34bbe8[_0x586cc1(0x21d)]='',_0x34bbe8['className']='popup-panel\x20active';const _0x33e5ea=document[_0xb4700e(0x254)](_0x586cc1(0x2de));_0x33e5ea['className']=_0x586cc1(0x29c);function _0x3eb443(_0x1a356c,_0x3f189d={},_0x10ae07=[]){const _0x5a1d87=_0xb4700e,_0x48ed4d=_0x586cc1,_0x13c0d5=document['createElement'](_0x1a356c);return Object[_0x5a1d87(0x2ce)](_0x13c0d5,_0x3f189d),(_0x10ae07||[])[_0x48ed4d(0x386)](_0x331af5=>_0x13c0d5[_0x48ed4d(0x227)](_0x331af5)),_0x13c0d5;}function _0x79010(_0x5ad430,_0x3833c6={}){const _0xa6cc5a=_0x586cc1;return Object[_0xa6cc5a(0x286)](_0x5ad430[_0xa6cc5a(0x1d7)],_0x3833c6),_0x5ad430;}const _0x56c499=_0x3eb443(_0x586cc1(0x2de),{'innerText':_0x586cc1(0x349)});_0x79010(_0x56c499,{'fontSize':_0xb4700e(0x200),'fontWeight':0x2bc,'textAlign':_0x586cc1(0x2d6),'marginBottom':_0x586cc1(0x3cd)}),_0x33e5ea[_0x586cc1(0x227)](_0x56c499);const _0x2f6521=_0x3eb443('input',{'type':_0x586cc1(0x28e),'readOnly':!![],'placeholder':_0x586cc1(0x1f8)});_0x79010(_0x2f6521,{'color':_0xb4700e(0x22c)}),_0x33e5ea[_0xb4700e(0x2e4)](_0x2f6521);const _0xd03ca1=localStorage[_0x586cc1(0x3ae)](_0x586cc1(0x323));_0xd03ca1&&(_0x2f6521[_0x586cc1(0x346)]=_0xd03ca1,_0x57df5c[_0x586cc1(0x1e6)](_0x586cc1(0x29f),_0x586cc1(0x207)));const _0x29e7a4=_0x79010(_0x3eb443(_0x586cc1(0x2de)),{'display':_0x586cc1(0x2ab),'gap':'6px'});_0x33e5ea[_0x586cc1(0x227)](_0x29e7a4);const _0x13b482=_0x79010(_0x3eb443(_0x586cc1(0x2de)),{'display':_0x586cc1(0x34c),'gap':_0x586cc1(0x1ea)}),_0x12d56=_0x3eb443(_0x586cc1(0x32a),{'type':_0xb4700e(0x19f),'value':_0x586cc1(0x275)});_0x79010(_0x12d56,{'flex':'1'});const _0x9ee3dd=_0x3eb443(_0xb4700e(0x275),{'innerText':_0xb4700e(0x236)});_0x9ee3dd[_0xb4700e(0x30a)][_0x586cc1(0x1e6)](_0x586cc1(0x35b)),_0x79010(_0x9ee3dd,{'background':_0x586cc1(0x3a5),'color':_0x586cc1(0x289)}),_0x13b482[_0x586cc1(0x227)](_0x12d56),_0x13b482[_0x586cc1(0x227)](_0x9ee3dd),_0x29e7a4[_0x586cc1(0x227)](_0x13b482);const _0x31b519=_0x79010(_0x3eb443(_0xb4700e(0x378),{'innerText':_0xb4700e(0x235)}),{'height':_0xb4700e(0x2c6),'borderRadius':'6px','border':_0x586cc1(0x24a),'display':_0x586cc1(0x34c),'alignItems':_0x586cc1(0x2d6),'justifyContent':_0x586cc1(0x2d6),'color':_0x586cc1(0x36d),'fontSize':_0x586cc1(0x271)});_0x29e7a4[_0x586cc1(0x227)](_0x31b519);function _0x2315ea(_0x2cd6ed,_0x47567e,_0x4a0dfd,_0x5bb6be){const _0x1bebaf=_0xb4700e,_0x9a69f4=_0x586cc1,_0xb08197=_0x79010(_0x3eb443(_0x9a69f4(0x2de)),{'display':_0x1bebaf(0x2b7),'gap':_0x9a69f4(0x1ea)}),_0x5cfc6a=_0x3eb443(_0x9a69f4(0x32a),{'type':_0x47567e,'placeholder':_0x2cd6ed});_0x79010(_0x5cfc6a,{'flex':'1'});const _0x3eb8c6=_0x3eb443(_0x9a69f4(0x234),{'innerText':_0x4a0dfd});return _0x3eb8c6[_0x9a69f4(0x20b)][_0x9a69f4(0x1e6)](_0x9a69f4(0x35b)),_0x79010(_0x3eb8c6,{'background':_0x5bb6be,'color':_0x9a69f4(0x289),'flex':_0x1bebaf(0x35c)}),_0xb08197[_0x9a69f4(0x227)](_0x5cfc6a),_0xb08197[_0x9a69f4(0x227)](_0x3eb8c6),_0x29e7a4[_0x9a69f4(0x227)](_0xb08197),{'input':_0x5cfc6a,'btn':_0x3eb8c6};}const _0x30aea6=_0x2315ea(_0x586cc1(0x1ec),'text',_0x586cc1(0x294),_0xb4700e(0x1b7)),_0x4085be=_0x2315ea(_0x586cc1(0x242),_0x586cc1(0x31c),_0x586cc1(0x2a1),_0x586cc1(0x374)),_0xe1a47b=_0x2315ea(_0x586cc1(0x39b),_0x586cc1(0x28e),_0x586cc1(0x320),_0x586cc1(0x1da)),_0x3fccee=_0x3b5cc6();_0x3fccee&&_0x3fccee[_0xb4700e(0x295)]&&_0x3fccee[_0x586cc1(0x325)][_0x586cc1(0x27a)]&&(_0x30aea6[_0x586cc1(0x32a)][_0xb4700e(0x1b6)]=_0x3fccee[_0x586cc1(0x325)][_0x586cc1(0x27a)],_0x57df5c[_0xb4700e(0x271)](_0xb4700e(0x255),_0x586cc1(0x207)));const _0x41e642=_0x79010(_0x3eb443(_0xb4700e(0x378),{'innerText':''}),{'fontSize':_0x586cc1(0x2fd),'color':_0x586cc1(0x230),'minHeight':_0x586cc1(0x1ef)});_0x29e7a4[_0x586cc1(0x227)](_0x41e642);let _0xf66889='';function _0xb5e309(_0x41f086){const _0x1652d4=_0xb4700e,_0x79760a=_0x586cc1;_0x31b519[_0x1652d4(0x286)]='';const _0x4055ca=_0x3eb443(_0x79760a(0x2de));_0x31b519[_0x79760a(0x227)](_0x4055ca);if(!window[_0x79760a(0x2fc)]){const _0x1be3fb=document[_0x79760a(0x34b)](_0x79760a(0x36b));_0x1be3fb[_0x79760a(0x3cb)]='https://challenges.cloudflare.com/turnstile/v0/api.js',_0x1be3fb[_0x79760a(0x30a)]=!![],_0x1be3fb[_0x79760a(0x22c)]=!![],_0x1be3fb[_0x79760a(0x396)]=()=>{const _0x148dc0=_0x1652d4;window[_0x148dc0(0x28c)][_0x148dc0(0x2f7)](_0x4055ca,{'sitekey':_0x41f086,'callback':_0x3a99dd=>{const _0x3c1419=_0x5cd4;_0xf66889=_0x3a99dd,_0x57df5c[_0x3c1419(0x1e6)](_0x3c1419(0x266),_0x3c1419(0x207));}});},document[_0x79760a(0x334)][_0x79760a(0x227)](_0x1be3fb);}else window[_0x79760a(0x2fc)][_0x79760a(0x201)](_0x4055ca,{'sitekey':_0x41f086,'callback':_0x1f4340=>{const _0x32ee8b=_0x1652d4,_0x528d37=_0x79760a;_0xf66889=_0x1f4340,_0x57df5c[_0x32ee8b(0x271)](_0x32ee8b(0x1b3),_0x528d37(0x207));}});}_0x9ee3dd[_0x586cc1(0x365)](_0x586cc1(0x2c5),()=>{const _0x3894f3=_0xb4700e,_0x4b1c37=_0x12d56[_0x3894f3(0x1b6)]['trim']();if(!_0x4b1c37)return;_0xb5e309(_0x4b1c37),_0x1a4605(_0x9ee3dd);});async function _0x3320d6(_0x308d4d,_0xcc763e){const _0x48bc7c=_0xb4700e,_0x4cbc28=_0x586cc1,_0x30fa14=await fetch(_0x308d4d,{'method':_0x48bc7c(0x30e),'headers':{'Content-Type':_0x4cbc28(0x359)},'body':JSON[_0x4cbc28(0x330)](_0xcc763e)});return _0x30fa14[_0x4cbc28(0x36c)]();}_0x30aea6[_0xb4700e(0x384)][_0x586cc1(0x365)](_0x586cc1(0x2c5),async()=>{const _0x304c77=_0xb4700e,_0x243d89=_0x586cc1,_0x42abcd=_0x30aea6[_0x304c77(0x341)][_0x304c77(0x1b6)][_0x243d89(0x1fe)](),_0x44edea={'answer':0x1,'captcha_token':_0xf66889||'','mobile_no':_0x42abcd,'problem':_0x243d89(0x344)};try{const _0x46aa9f=await _0x3320d6(_0x243d89(0x257),_0x44edea);_0x41e642['innerText']=_0x46aa9f[_0x243d89(0x358)]||_0x304c77(0x216),_0x57df5c[_0x243d89(0x1e6)](_0x304c77(0x2d1)+_0x42abcd,_0x243d89(0x207)),_0x1a4605(_0x30aea6[_0x304c77(0x384)]);}catch(_0x50012e){_0x41e642[_0x243d89(0x297)]=_0x243d89(0x2fe)+_0x50012e[_0x304c77(0x33e)],_0x57df5c[_0x243d89(0x1e6)](_0x243d89(0x38a)+_0x50012e[_0x243d89(0x358)],_0x243d89(0x23b));}}),_0x4085be[_0x586cc1(0x399)][_0x586cc1(0x365)](_0x586cc1(0x2c5),async()=>{const _0x150e12=_0xb4700e,_0x13950c=_0x586cc1,_0x73a632={'mobile_no':_0x30aea6[_0x13950c(0x32a)][_0x13950c(0x346)][_0x150e12(0x232)](),'password':_0x4085be[_0x13950c(0x32a)][_0x150e12(0x1b6)]['trim']()};try{const _0x2890f7=await _0x3320d6(_0x150e12(0x2dc),_0x73a632);_0x2890f7[_0x150e12(0x23b)]&&_0x2890f7[_0x13950c(0x209)][_0x13950c(0x323)]?(localStorage[_0x13950c(0x36e)](_0x13950c(0x323),_0x2890f7[_0x13950c(0x209)]['access_token']),_0x2f6521[_0x13950c(0x346)]=_0x2890f7[_0x150e12(0x23b)]['access_token'],_0x41e642[_0x13950c(0x297)]=_0x13950c(0x373),_0x57df5c[_0x13950c(0x1e6)](_0x13950c(0x31f)+_0x2890f7[_0x13950c(0x209)][_0x13950c(0x21b)],_0x13950c(0x207))):(_0x41e642[_0x13950c(0x297)]=_0x13950c(0x25b),_0x57df5c[_0x13950c(0x1e6)](_0x13950c(0x2af)+(_0x2890f7[_0x13950c(0x358)]||_0x13950c(0x244)),_0x150e12(0x24a))),_0x1a4605(_0x4085be[_0x13950c(0x399)]);}catch(_0x32f43d){_0x41e642[_0x13950c(0x297)]=_0x13950c(0x2fe)+_0x32f43d['message'],_0x57df5c[_0x13950c(0x1e6)](_0x150e12(0x2ad)+_0x32f43d[_0x13950c(0x358)],_0x13950c(0x23b));}}),_0xe1a47b[_0x586cc1(0x399)][_0x586cc1(0x365)](_0x586cc1(0x2c5),async()=>{const _0x5d1ec0=_0xb4700e,_0x5400c5=_0x586cc1,_0x460a96=_0xe1a47b['input'][_0x5400c5(0x346)][_0x5400c5(0x1fe)]();if(!_0x460a96||_0x460a96[_0x5400c5(0x1d4)]!==0x6||!/^\d{6}$/[_0x5400c5(0x24b)](_0x460a96)){_0x41e642[_0x5400c5(0x297)]='Please\x20enter\x20valid\x206-digit\x20OTP',_0x57df5c[_0x5400c5(0x1e6)](_0x5400c5(0x224),_0x5400c5(0x23b));return;}const _0x26c54c={'mobile_no':_0x30aea6[_0x5400c5(0x32a)][_0x5400c5(0x346)][_0x5400c5(0x1fe)](),'password':_0x4085be[_0x5400c5(0x32a)][_0x5400c5(0x346)][_0x5400c5(0x1fe)](),'otp':_0x460a96};try{const _0x3f61e2=await _0x3320d6(_0x5400c5(0x2e6),_0x26c54c);_0x3f61e2[_0x5d1ec0(0x23b)]&&_0x3f61e2[_0x5d1ec0(0x23b)][_0x5400c5(0x323)]?(localStorage[_0x5400c5(0x36e)]('access_token',_0x3f61e2[_0x5400c5(0x209)][_0x5400c5(0x323)]),_0x2f6521[_0x5400c5(0x346)]=_0x3f61e2[_0x5400c5(0x209)][_0x5d1ec0(0x1ff)],_0x41e642[_0x5400c5(0x297)]=_0x5400c5(0x255),_0x57df5c[_0x5400c5(0x1e6)](_0x5400c5(0x347),_0x5400c5(0x207))):(_0x41e642[_0x5400c5(0x297)]=_0x5400c5(0x356),_0x57df5c[_0x5400c5(0x1e6)](_0x5400c5(0x33b),_0x5400c5(0x23b))),_0x1a4605(_0xe1a47b[_0x5400c5(0x399)]);}catch(_0x2f1965){_0x41e642['innerText']=_0x5400c5(0x3c6)+_0x2f1965['message'],_0x57df5c[_0x5d1ec0(0x271)](_0x5400c5(0x202)+_0x2f1965[_0x5400c5(0x358)],_0x5400c5(0x23b));}}),_0x34bbe8[_0x586cc1(0x227)](_0x33e5ea);}function _0x3b39f4(){const _0x2869df=_0x2da730,_0x78f806=_0x1dc836;_0x34bbe8[_0x78f806(0x21d)]='',_0x34bbe8[_0x78f806(0x2b8)]=_0x78f806(0x2e8);const _0x2b0a70=document[_0x2869df(0x254)](_0x78f806(0x2de));_0x2b0a70[_0x78f806(0x2b8)]=_0x78f806(0x2fb);function _0x11e3d3(_0x3f7956,_0x281b2f,_0x3ec25d=![]){const _0x560de9=_0x2869df,_0x4038b1=_0x78f806,_0x43258f=document[_0x560de9(0x254)](_0x4038b1(0x234));_0x43258f[_0x560de9(0x356)]=_0x3f7956,_0x43258f['style']['backgroundColor']=_0x281b2f;if(_0x3ec25d)_0x43258f[_0x4038b1(0x1d7)][_0x560de9(0x379)]=_0x4038b1(0x35c);return _0x43258f;}const _0x1442ab=document[_0x78f806(0x34b)](_0x78f806(0x2de));_0x1442ab[_0x2869df(0x1c9)]=_0x78f806(0x2ca),_0x1442ab[_0x78f806(0x1fb)]=_0x2869df(0x1db),_0x2b0a70[_0x78f806(0x227)](_0x1442ab);function _0x573911(_0x20a619){const _0x4c77cc=_0x2869df,_0x38297b=_0x78f806;_0x1442ab[_0x38297b(0x1fb)]=_0x20a619,_0x57df5c[_0x4c77cc(0x271)](_0x20a619,_0x20a619[_0x38297b(0x221)]('[ERR]')?_0x4c77cc(0x24a):_0x4c77cc(0x280));}const _0x221ea9=document[_0x78f806(0x34b)]('div'),_0x19d340=document[_0x78f806(0x34b)](_0x78f806(0x32a));_0x19d340[_0x78f806(0x281)]=_0x78f806(0x28e),_0x19d340[_0x78f806(0x350)]=!![],_0x19d340['placeholder']=_0x78f806(0x1e2),_0x19d340[_0x78f806(0x1d7)][_0x78f806(0x1dd)]=_0x78f806(0x3c0),_0x221ea9[_0x78f806(0x227)](_0x19d340),_0x2b0a70[_0x78f806(0x227)](_0x221ea9);const _0x4eda20=localStorage[_0x78f806(0x3ae)](_0x78f806(0x323));_0x4eda20&&(_0x19d340[_0x78f806(0x346)]=_0x4eda20,_0x573911(_0x78f806(0x214)));const _0xe6871a=_0x11e3d3('Get\x20Token',_0x78f806(0x31e),!![]);_0x221ea9[_0x2869df(0x2e4)](_0xe6871a),_0xe6871a[_0x78f806(0x365)](_0x78f806(0x2c5),()=>{const _0x176c5a=_0x2869df,_0x3dcc61=_0x78f806,_0x5ad9a0=localStorage[_0x176c5a(0x29b)](_0x176c5a(0x1ff));_0x5ad9a0?(_0x19d340[_0x176c5a(0x1b6)]=_0x5ad9a0,_0x573911(_0x3dcc61(0x345))):_0x573911(_0x3dcc61(0x203));});function _0x5a5aba(){const _0x312c9c=_0x2869df,_0x1e2b99=_0x78f806;return _0x19d340[_0x312c9c(0x1b6)][_0x1e2b99(0x1fe)]()||localStorage[_0x1e2b99(0x3ae)](_0x1e2b99(0x323));}const _0x3be1fc=document[_0x78f806(0x34b)](_0x2869df(0x378));_0x3be1fc[_0x78f806(0x2b8)]=_0x78f806(0x2c9),_0x2b0a70[_0x78f806(0x227)](_0x3be1fc);const _0x7e0319=_0x11e3d3('Server\x20Update',_0x78f806(0x2f7),!![]),_0xe8285d=_0x11e3d3(_0x78f806(0x225),_0x78f806(0x381),!![]),_0x377536=_0x11e3d3(_0x78f806(0x301),_0x78f806(0x3a5),!![]);_0x3be1fc[_0x78f806(0x227)](_0x7e0319),_0x3be1fc['appendChild'](_0xe8285d),_0x3be1fc[_0x2869df(0x2e4)](_0x377536);const _0xe40036=document[_0x78f806(0x34b)](_0x78f806(0x32a));_0xe40036[_0x78f806(0x281)]=_0x78f806(0x28e),_0xe40036[_0x78f806(0x346)]=_0x2869df(0x304),_0xe40036[_0x78f806(0x1d7)]['marginTop']=_0x78f806(0x254),_0x2b0a70[_0x2869df(0x2e4)](_0xe40036);const _0x2cdb41=document['createElement'](_0x78f806(0x32a));_0x2cdb41[_0x2869df(0x2b2)]=_0x78f806(0x28e),_0x2cdb41[_0x2869df(0x1b6)]=_0x2869df(0x33d),_0x2cdb41[_0x78f806(0x2ce)]=_0x2869df(0x23f),_0x2b0a70[_0x78f806(0x227)](_0x2cdb41);const _0x1fde60=_0x11e3d3(_0x78f806(0x314),_0x78f806(0x2da),!![]);_0x2b0a70[_0x78f806(0x227)](_0x1fde60);const _0x5a5cfc=document[_0x78f806(0x34b)](_0x78f806(0x2de));_0x5a5cfc[_0x78f806(0x1d7)][_0x2869df(0x2da)]=_0x78f806(0x342),_0x5a5cfc[_0x78f806(0x1d7)][_0x78f806(0x1f6)]=_0x78f806(0x29d),_0x5a5cfc['style'][_0x78f806(0x26b)]=_0x78f806(0x208),_0x5a5cfc[_0x78f806(0x1d7)][_0x78f806(0x20c)]=_0x2869df(0x27e),_0x5a5cfc[_0x2869df(0x1e1)][_0x78f806(0x276)]=_0x78f806(0x2a5),_0x5a5cfc[_0x2869df(0x1e1)][_0x78f806(0x1cd)]=_0x78f806(0x289),_0x5a5cfc[_0x78f806(0x1d7)][_0x78f806(0x324)]=_0x78f806(0x332),_0x5a5cfc[_0x2869df(0x1e1)][_0x78f806(0x2d5)]=_0x78f806(0x1ea),_0x5a5cfc[_0x2869df(0x1e1)][_0x78f806(0x274)]='0\x200\x2012px\x20rgba(0,0,0,0.3)',_0x5a5cfc[_0x2869df(0x1e1)][_0x78f806(0x2cf)]=_0x2869df(0x250),_0x5a5cfc[_0x78f806(0x1d7)][_0x78f806(0x2a3)]=_0x78f806(0x236),_0x5a5cfc[_0x78f806(0x1d7)]['overflowY']=_0x78f806(0x31b),_0x5a5cfc[_0x78f806(0x1d7)][_0x78f806(0x3c1)]=_0x78f806(0x2d0),document[_0x78f806(0x2a8)][_0x2869df(0x2e4)](_0x5a5cfc);const _0x4d74d0=document[_0x78f806(0x34b)](_0x78f806(0x2de));_0x4d74d0[_0x78f806(0x1fb)]=_0x2869df(0x2ed),_0x4d74d0[_0x78f806(0x1d7)][_0x78f806(0x212)]=_0x78f806(0x388),_0x4d74d0[_0x78f806(0x1d7)][_0x78f806(0x3cc)]=_0x78f806(0x267),_0x4d74d0[_0x78f806(0x1d7)][_0x78f806(0x336)]=_0x78f806(0x254),_0x5a5cfc[_0x78f806(0x227)](_0x4d74d0);const _0x4de805=document[_0x2869df(0x254)](_0x78f806(0x2de));_0x4de805['className']=_0x78f806(0x20e),_0x5a5cfc[_0x78f806(0x227)](_0x4de805);const _0x32375f=[],_0x4c8e9a=[_0x78f806(0x315),_0x78f806(0x246),_0x78f806(0x1f0),_0x78f806(0x28b),_0x2869df(0x34d),_0x2869df(0x23d),_0x78f806(0x2fa),_0x2869df(0x276)],_0x3ab31c=_0x3b5cc6(),_0x7ba27f=['3',_0x3ab31c?.[_0x2869df(0x32c)]||'',_0x3ab31c?.[_0x78f806(0x1f0)]||_0x3ab31c?.[_0x78f806(0x246)]||'',_0x3ab31c?.[_0x78f806(0x24f)]?_0x3ab31c[_0x78f806(0x24f)][_0x78f806(0x339)]('|')[0x1]:'',_0x3ab31c?.[_0x2869df(0x34d)]||'',_0x3ab31c?.[_0x78f806(0x312)]||'',_0x3ab31c?.[_0x78f806(0x2fa)]||'',''];_0x4c8e9a[_0x2869df(0x368)]((_0x16126f,_0x47cf97)=>{const _0x1fe8cc=_0x2869df,_0x45de45=_0x78f806,_0x5c3151=document[_0x45de45(0x34b)](_0x45de45(0x2de));_0x5c3151[_0x45de45(0x2b8)]=_0x45de45(0x2bd);const _0x83a198=document[_0x45de45(0x34b)](_0x45de45(0x32a));_0x83a198[_0x45de45(0x281)]=_0x45de45(0x28e),_0x83a198[_0x45de45(0x346)]=_0x16126f,_0x83a198[_0x45de45(0x1d7)][_0x45de45(0x20c)]=_0x45de45(0x2a4);const _0x552ce0=document[_0x45de45(0x34b)](_0x45de45(0x32a));_0x552ce0[_0x45de45(0x281)]=_0x45de45(0x28e),_0x552ce0[_0x1fe8cc(0x322)]='Value',_0x552ce0[_0x45de45(0x1d7)][_0x45de45(0x20c)]=_0x45de45(0x1e1),_0x552ce0[_0x45de45(0x346)]=_0x7ba27f[_0x47cf97]||'',_0x5c3151[_0x45de45(0x227)](_0x83a198),_0x5c3151[_0x1fe8cc(0x2e4)](_0x552ce0),_0x4de805[_0x1fe8cc(0x2e4)](_0x5c3151),_0x32375f['push']({'keyInput':_0x83a198,'valueInput':_0x552ce0});});let _0x349734=![],_0xfec4d9=0x0,_0x48a86a=0x0;_0x4d74d0[_0x78f806(0x365)](_0x78f806(0x2c4),_0x544776=>{const _0x14286b=_0x2869df,_0x34b856=_0x78f806;_0x349734=!![],_0xfec4d9=_0x544776[_0x14286b(0x293)]-_0x5a5cfc[_0x34b856(0x3a1)]()[_0x34b856(0x26b)],_0x48a86a=_0x544776[_0x34b856(0x377)]-_0x5a5cfc[_0x34b856(0x3a1)]()[_0x34b856(0x1f6)],_0x4d74d0[_0x14286b(0x1e1)][_0x14286b(0x36d)]=_0x34b856(0x38f);}),document[_0x78f806(0x365)](_0x78f806(0x38c),_0x2795c2=>{const _0x149e1a=_0x2869df,_0x511b87=_0x78f806;if(!_0x349734)return;_0x5a5cfc[_0x511b87(0x1d7)][_0x149e1a(0x355)]=_0x2795c2[_0x511b87(0x2ac)]-_0xfec4d9+'px',_0x5a5cfc[_0x149e1a(0x1e1)][_0x511b87(0x1f6)]=_0x2795c2[_0x511b87(0x377)]-_0x48a86a+'px';}),document[_0x78f806(0x365)](_0x78f806(0x372),()=>{const _0x13f6a8=_0x2869df,_0x2ce1c3=_0x78f806;_0x349734&&(_0x349734=![],_0x4d74d0[_0x13f6a8(0x1e1)][_0x2ce1c3(0x212)]='grab');}),_0x1fde60[_0x78f806(0x365)](_0x2869df(0x35f),()=>{const _0x5a9967=_0x2869df,_0x65274c=_0x78f806;_0x5a5cfc[_0x65274c(0x1d7)][_0x65274c(0x3c1)]=_0x5a5cfc[_0x65274c(0x1d7)][_0x5a9967(0x19c)]===_0x65274c(0x2d0)?_0x65274c(0x23a):_0x65274c(0x2d0);});const _0x28ddf7=document[_0x78f806(0x34b)](_0x78f806(0x2de));_0x28ddf7[_0x78f806(0x1d7)][_0x78f806(0x379)]='fixed',_0x28ddf7[_0x78f806(0x1d7)][_0x78f806(0x1f6)]=_0x78f806(0x1ce),_0x28ddf7['style'][_0x78f806(0x26b)]=_0x78f806(0x291),_0x28ddf7[_0x78f806(0x1d7)][_0x78f806(0x20c)]=_0x78f806(0x395),_0x28ddf7[_0x2869df(0x1e1)][_0x78f806(0x276)]=_0x78f806(0x25d),_0x28ddf7[_0x78f806(0x1d7)][_0x78f806(0x1cd)]=_0x78f806(0x289),_0x28ddf7[_0x2869df(0x1e1)][_0x78f806(0x324)]=_0x78f806(0x332),_0x28ddf7[_0x78f806(0x1d7)][_0x78f806(0x2d5)]=_0x78f806(0x1ea),_0x28ddf7[_0x78f806(0x1d7)][_0x78f806(0x274)]=_0x78f806(0x32c),_0x28ddf7[_0x78f806(0x1d7)][_0x78f806(0x2cf)]=_0x2869df(0x250),_0x28ddf7[_0x78f806(0x1d7)][_0x78f806(0x2a3)]=_0x78f806(0x3ab),_0x28ddf7[_0x78f806(0x1d7)][_0x78f806(0x3c1)]=_0x78f806(0x2d0),_0x28ddf7[_0x2869df(0x1e1)][_0x2869df(0x34e)]=_0x78f806(0x31b),document[_0x78f806(0x2a8)][_0x78f806(0x227)](_0x28ddf7);const _0x2fa500=document[_0x78f806(0x34b)](_0x78f806(0x2de));_0x2fa500[_0x78f806(0x1fb)]=_0x78f806(0x3b1),_0x2fa500[_0x78f806(0x1d7)][_0x2869df(0x36d)]=_0x78f806(0x388),_0x2fa500[_0x78f806(0x1d7)]['fontWeight']=_0x2869df(0x2e8),_0x2fa500[_0x2869df(0x1e1)][_0x78f806(0x336)]=_0x78f806(0x254),_0x28ddf7[_0x2869df(0x2e4)](_0x2fa500);const _0x36bef0=document[_0x2869df(0x254)]('textarea');_0x36bef0[_0x78f806(0x1d7)][_0x78f806(0x20c)]=_0x2869df(0x1d6),_0x36bef0[_0x78f806(0x1d7)][_0x2869df(0x284)]=_0x78f806(0x256),_0x36bef0[_0x78f806(0x1d7)][_0x78f806(0x1eb)]=_0x78f806(0x2d0),_0x36bef0[_0x78f806(0x1d7)][_0x78f806(0x35e)]=_0x78f806(0x1e3),_0x36bef0[_0x78f806(0x350)]=!![],_0x28ddf7[_0x2869df(0x2e4)](_0x36bef0);let _0x199f45=![],_0xbc4aea=0x0,_0x19db3e=0x0;_0x2fa500[_0x78f806(0x365)](_0x78f806(0x2c4),_0x536c8a=>{const _0x2dda87=_0x2869df,_0x3eeb28=_0x78f806;_0x199f45=!![],_0xbc4aea=_0x536c8a[_0x3eeb28(0x2ac)]-_0x28ddf7[_0x3eeb28(0x3a1)]()[_0x2dda87(0x355)],_0x19db3e=_0x536c8a[_0x3eeb28(0x377)]-_0x28ddf7[_0x3eeb28(0x3a1)]()[_0x2dda87(0x313)],_0x2fa500[_0x3eeb28(0x1d7)][_0x3eeb28(0x212)]=_0x3eeb28(0x38f);}),document[_0x78f806(0x365)](_0x78f806(0x38c),_0x118a3f=>{const _0x228c40=_0x2869df,_0x2d4722=_0x78f806;if(!_0x199f45)return;_0x28ddf7[_0x2d4722(0x1d7)][_0x2d4722(0x26b)]=_0x118a3f[_0x228c40(0x293)]-_0xbc4aea+'px',_0x28ddf7[_0x2d4722(0x1d7)]['top']=_0x118a3f[_0x228c40(0x2b8)]-_0x19db3e+'px';}),document[_0x2869df(0x233)](_0x78f806(0x372),()=>{const _0x49b9a6=_0x78f806;_0x199f45&&(_0x199f45=![],_0x2fa500[_0x49b9a6(0x1d7)][_0x49b9a6(0x212)]=_0x49b9a6(0x388));});let _0x135467=![];_0x7e0319[_0x78f806(0x365)](_0x78f806(0x2c5),async()=>{const _0x16b102=_0x2869df,_0x51ce76=_0x78f806,_0x254c45=document[_0x51ce76(0x3bf)]('script[src],\x20script:not([src])');let _0x50df2b='';for(const _0x34d171 of _0x254c45){const _0x572f5d=_0x1f1b76=>{const _0x2ebbf4=_0x51ce76,_0x52adcb=/const\s+[a-zA-Z0-9_$]+\s*=\s*localStorage\.getItem\(["']access_token["']\)[\s\S]*?await\s+[a-zA-Z0-9_$]+\([\s\S]*?\}\s*\)/g,_0x21e7f9=_0x1f1b76[_0x2ebbf4(0x260)](_0x52adcb);if(_0x21e7f9)_0x50df2b+=_0x21e7f9['join']('\x0a\x0a');};try{if(_0x34d171[_0x51ce76(0x3cb)]){const _0x562971=await fetch(_0x34d171[_0x16b102(0x222)]),_0x2fe2a7=await _0x562971[_0x51ce76(0x28e)]();_0x572f5d(_0x2fe2a7);}else _0x572f5d(_0x34d171[_0x51ce76(0x1fb)]||'');}catch(_0x54fb65){console[_0x51ce76(0x226)](_0x54fb65);}}const _0x44d21a=_0x50df2b||_0x51ce76(0x2e4);_0x36bef0[_0x51ce76(0x346)]=_0x44d21a,_0x135467=!_0x135467,_0x28ddf7[_0x51ce76(0x1d7)]['display']=_0x135467?_0x51ce76(0x23a):_0x51ce76(0x2d0),_0x50df2b?(navigator[_0x51ce76(0x2b9)][_0x51ce76(0x25c)](_0x50df2b)[_0x51ce76(0x2f3)](()=>{}),_0x573911(_0x51ce76(0x23c))):_0x573911(_0x16b102(0x340)),_0x1a4605(_0x7e0319);}),_0xe8285d[_0x78f806(0x365)](_0x2869df(0x35f),()=>{const _0x24bcc4=_0x2869df,_0x25f27b=_0x78f806,_0x534098=_0x36bef0[_0x24bcc4(0x1b6)];if(!_0x534098){_0x573911(_0x25f27b(0x2ee));return;}const _0x265c97=_0x534098[_0x25f27b(0x260)](/is_edit[^?]+\?"([^"]+)":"([^"]+)"/);_0x265c97&&_0x265c97[0x2]?_0x2cdb41[_0x25f27b(0x346)]=_0x265c97[0x2]:_0x2cdb41[_0x24bcc4(0x1b6)]=_0x24bcc4(0x23f);const _0x59b2bc=/body\s*:\s*\{([\s\S]*?)\}/g;let _0x5b307f,_0x30f438=[];while(_0x5b307f=_0x59b2bc[_0x25f27b(0x28d)](_0x534098)){const _0x14755d=/(\w+)\s*:/g;let _0xa0fcea;while(_0xa0fcea=_0x14755d[_0x25f27b(0x28d)](_0x5b307f[0x1])){_0x30f438[_0x24bcc4(0x300)](_0xa0fcea[0x1]);}}for(let _0x1fe6b4=0x0;_0x1fe6b4<_0x32375f[_0x25f27b(0x1d4)]&&_0x1fe6b4<_0x30f438[_0x25f27b(0x1d4)];_0x1fe6b4++){_0x32375f[_0x1fe6b4][_0x25f27b(0x39f)][_0x25f27b(0x346)]=_0x30f438[_0x1fe6b4];}_0x573911(_0x25f27b(0x28c));});const _0x4c2e5e=document['createElement'](_0x78f806(0x2de));_0x4c2e5e[_0x78f806(0x1d7)][_0x78f806(0x3a4)]=_0x78f806(0x1ea),_0x4c2e5e[_0x2869df(0x1e1)][_0x78f806(0x311)]=_0x78f806(0x27f),_0x4c2e5e['style'][_0x78f806(0x3c1)]=_0x78f806(0x34c),_0x4c2e5e[_0x78f806(0x1d7)][_0x78f806(0x3a9)]=_0x78f806(0x2d6),_0x4c2e5e[_0x78f806(0x1d7)][_0x78f806(0x2cd)]=_0x78f806(0x2d6),_0x4c2e5e[_0x78f806(0x1d7)][_0x78f806(0x324)]='1px\x20dashed\x20#ccc',_0x4c2e5e[_0x78f806(0x1d7)][_0x78f806(0x2d5)]=_0x2869df(0x1d0),_0x4c2e5e[_0x2869df(0x356)]=_0x78f806(0x370),_0x2b0a70[_0x78f806(0x227)](_0x4c2e5e);const _0x5d17d6=document[_0x2869df(0x254)](_0x78f806(0x32a));_0x5d17d6[_0x78f806(0x281)]=_0x2869df(0x19f),_0x5d17d6[_0x78f806(0x2ce)]=_0x78f806(0x2f4),_0x5d17d6[_0x78f806(0x346)]=_0x78f806(0x268),_0x5d17d6[_0x78f806(0x1d7)][_0x78f806(0x3a4)]=_0x78f806(0x254),_0x2b0a70[_0x2869df(0x2e4)](_0x5d17d6);function _0x542607(_0x33531f){const _0x1af8df=_0x2869df,_0x14abcc=_0x78f806,_0x17383e=_0x32375f[_0x14abcc(0x394)](_0x1a76a0=>_0x1a76a0[_0x1af8df(0x310)][_0x14abcc(0x346)]===_0x14abcc(0x273));_0x17383e?(_0x17383e['valueInput']['value']=_0x33531f,_0x573911(_0x14abcc(0x223)),_0x57df5c['add'](_0x14abcc(0x2b1),_0x1af8df(0x280))):_0x573911(_0x14abcc(0x1ee));}function _0x48dbfc(){const _0x16d9a5=_0x2869df,_0x2e150e=_0x78f806;window[_0x2e150e(0x2fc)]?(_0x4c2e5e['textContent']='',window['turnstile'][_0x2e150e(0x201)](_0x4c2e5e,{'sitekey':_0x5d17d6[_0x16d9a5(0x1b6)],'callback':_0x542607,'theme':'light'}),_0x573911(_0x2e150e(0x229))):setTimeout(_0x48dbfc,0x1f4);}_0x377536[_0x78f806(0x365)](_0x78f806(0x2c5),()=>{_0x48dbfc(),_0x1a4605(_0x377536);});if(!window[_0x78f806(0x2fc)]){const _0x3c6056=document['createElement'](_0x78f806(0x36b));_0x3c6056[_0x78f806(0x3cb)]=_0x78f806(0x26d),_0x3c6056[_0x2869df(0x22f)]=!![],_0x3c6056[_0x78f806(0x22c)]=!![],document[_0x2869df(0x245)][_0x78f806(0x227)](_0x3c6056);}const _0x4be9c2=document[_0x78f806(0x34b)](_0x78f806(0x2de));_0x4be9c2[_0x78f806(0x2b8)]=_0x78f806(0x2c9),_0x4be9c2[_0x78f806(0x1d7)][_0x2869df(0x237)]=_0x78f806(0x245),_0x2b0a70[_0x78f806(0x227)](_0x4be9c2);const _0x3e9925=_0x11e3d3('Submit',_0x78f806(0x238),!![]),_0x56b7d5=_0x11e3d3('Personal',_0x78f806(0x3a5),!![]),_0x432679=_0x11e3d3(_0x2869df(0x27b),_0x78f806(0x2ff),!![]);_0x4be9c2[_0x78f806(0x227)](_0x3e9925),_0x4be9c2[_0x2869df(0x2e4)](_0x56b7d5),_0x4be9c2[_0x2869df(0x2e4)](_0x432679),_0x3e9925[_0x78f806(0x3c2)]=async()=>{const _0x48f456=_0x2869df,_0x4c721e=_0x78f806,_0x38ce41={};_0x32375f[_0x4c721e(0x386)](_0x3841da=>{const _0x513800=_0x4c721e,_0x325ab7=_0x3841da[_0x513800(0x39f)][_0x513800(0x346)][_0x513800(0x1fe)]();if(_0x325ab7)_0x38ce41[_0x325ab7]=_0x3841da[_0x513800(0x389)][_0x513800(0x346)];});const _0x12e689=_0x5a5aba();if(!_0x12e689){_0x573911(_0x4c721e(0x38b));return;}const _0x4f4de6=_0xe40036[_0x4c721e(0x346)]['replace'](/\/$/,'')+_0x2cdb41[_0x4c721e(0x346)];try{_0x573911(_0x4c721e(0x23f));const _0x45d380=await fetch(_0x4f4de6,{'method':_0x4c721e(0x213),'headers':{'Content-Type':_0x4c721e(0x359),'Authorization':_0x4c721e(0x215)+_0x12e689},'body':JSON[_0x4c721e(0x330)](_0x38ce41)}),_0x27a9b8=await _0x45d380[_0x4c721e(0x36c)]();_0x573911(_0x27a9b8[_0x48f456(0x33e)]||_0x4c721e(0x1e0)),_0x57df5c[_0x4c721e(0x1e6)](_0x4c721e(0x3b4)+(_0x27a9b8[_0x48f456(0x33e)]||_0x4c721e(0x285)),_0x4c721e(0x207)),_0x1a4605(_0x3e9925);}catch(_0x5c5cf7){_0x573911('[ERR]\x20Error:\x20'+_0x5c5cf7[_0x4c721e(0x358)]),_0x57df5c[_0x4c721e(0x1e6)](_0x4c721e(0x2ea)+_0x5c5cf7[_0x4c721e(0x358)],_0x48f456(0x24a));}},_0x56b7d5[_0x78f806(0x3c2)]=async()=>{const _0x417e0c=_0x2869df,_0x2d43ee=_0x78f806,_0x4db1ae=_0x3b5cc6();if(!_0x4db1ae){_0x573911(_0x2d43ee(0x22e));return;}const _0xbc02e4={'full_name':_0x4db1ae[_0x417e0c(0x295)]?.[_0x2d43ee(0x37c)]||'','email_name':_0x4db1ae[_0x2d43ee(0x325)]?.[_0x2d43ee(0x35a)]||'','phone':_0x4db1ae[_0x2d43ee(0x325)]?.[_0x2d43ee(0x27a)]||'','webfile_id':_0x4db1ae[_0x2d43ee(0x246)]||'','family':{}},_0xff8de9=parseInt(_0x4db1ae[_0x2d43ee(0x312)]||'0'),_0x2bf843=_0x4db1ae[_0x2d43ee(0x387)]||[];for(let _0x175ac5=0x0;_0x175ac5<_0xff8de9&&_0x175ac5<_0x2bf843[_0x2d43ee(0x1d4)];_0x175ac5++){const _0x5091b8=_0x2bf843[_0x175ac5];_0xbc02e4[_0x417e0c(0x24b)][_0x175ac5+0x1]={'name':_0x5091b8[_0x417e0c(0x339)],'webfile_no':_0x5091b8[_0x2d43ee(0x397)],'again_webfile_no':_0x5091b8[_0x2d43ee(0x397)]};}const _0x293bd1=_0x5a5aba();if(!_0x293bd1){_0x573911(_0x417e0c(0x34f));return;}try{_0x573911(_0x2d43ee(0x210));const _0x145d01=await fetch(_0x417e0c(0x248),{'method':_0x2d43ee(0x213),'headers':{'Content-Type':'application/json','Authorization':_0x2d43ee(0x215)+_0x293bd1},'body':JSON[_0x417e0c(0x257)](_0xbc02e4)}),_0x251a54=await _0x145d01[_0x2d43ee(0x36c)]();_0x573911(_0x251a54[_0x2d43ee(0x358)]||_0x2d43ee(0x240)),_0x57df5c[_0x2d43ee(0x1e6)](_0x2d43ee(0x277),_0x2d43ee(0x207)),_0x1a4605(_0x56b7d5);}catch(_0xa3b97a){_0x573911(_0x2d43ee(0x2fe)+_0xa3b97a[_0x2d43ee(0x358)]),_0x57df5c[_0x2d43ee(0x1e6)](_0x2d43ee(0x2d1)+_0xa3b97a[_0x2d43ee(0x358)],_0x2d43ee(0x23b));}},_0x432679[_0x78f806(0x3c2)]=async()=>{const _0x3680e6=_0x2869df,_0x26ab68=_0x78f806,_0x4d7a60=_0x5a5aba();if(!_0x4d7a60){_0x573911(_0x26ab68(0x38b));return;}try{_0x573911(_0x26ab68(0x2ec));const _0x598a86=await fetch(_0x26ab68(0x36a),{'method':_0x26ab68(0x213),'headers':{'Content-Type':_0x26ab68(0x359),'Authorization':_0x3680e6(0x33f)+_0x4d7a60},'body':JSON[_0x26ab68(0x330)]({})}),_0x51030f=await _0x598a86[_0x26ab68(0x36c)]();_0x573911(_0x51030f['message']||_0x3680e6(0x2d4)),_0x57df5c[_0x26ab68(0x1e6)](_0x26ab68(0x2c2),_0x3680e6(0x280)),_0x1a4605(_0x432679);}catch(_0x3779c4){_0x573911(_0x26ab68(0x2fe)+_0x3779c4[_0x26ab68(0x358)]),_0x57df5c[_0x3680e6(0x271)](_0x26ab68(0x371)+_0x3779c4['message'],_0x26ab68(0x23b));}},_0x34bbe8[_0x78f806(0x227)](_0x2b0a70);}function _0x51c3b2(){const _0x4dbbe8=_0x2da730,_0x2cdb98=_0x1dc836;_0x34bbe8[_0x2cdb98(0x21d)]='',_0x34bbe8[_0x2cdb98(0x2b8)]=_0x4dbbe8(0x2bc);let _0x1e5189=localStorage[_0x4dbbe8(0x29b)](_0x2cdb98(0x319))||localStorage[_0x2cdb98(0x3ae)](_0x2cdb98(0x323))||sessionStorage[_0x4dbbe8(0x29b)](_0x4dbbe8(0x229))||sessionStorage[_0x2cdb98(0x3ae)](_0x2cdb98(0x323));const _0x682baa=document[_0x2cdb98(0x34b)](_0x2cdb98(0x2de));_0x682baa[_0x2cdb98(0x2b8)]=_0x2cdb98(0x338),_0x34bbe8[_0x4dbbe8(0x2e4)](_0x682baa);function _0x375542(_0x4c6ba0,_0x3634f0){const _0x336986=_0x4dbbe8,_0x282d7b=_0x2cdb98,_0x29c13f=document[_0x336986(0x254)](_0x336986(0x275));return _0x29c13f[_0x282d7b(0x1fb)]=_0x4c6ba0,_0x29c13f[_0x282d7b(0x1d7)][_0x282d7b(0x3b6)]=_0x3634f0||_0x282d7b(0x374),_0x29c13f;}function _0x2e2b9a(_0x530709,_0x553f72=_0x2cdb98(0x28e),_0xb544d5=![]){const _0xcf6620=_0x2cdb98,_0x4a68fe=document[_0xcf6620(0x34b)](_0xcf6620(0x32a));_0x4a68fe[_0xcf6620(0x281)]=_0x553f72,_0x4a68fe[_0xcf6620(0x2ce)]=_0x530709;if(_0xb544d5)_0x4a68fe[_0xcf6620(0x2b8)]=_0xcf6620(0x3ca);return _0x4a68fe;}const _0x1bf9e4=document[_0x4dbbe8(0x254)](_0x2cdb98(0x2de));_0x1bf9e4[_0x2cdb98(0x2b8)]=_0x2cdb98(0x2e7),_0x682baa[_0x4dbbe8(0x2e4)](_0x1bf9e4);function _0x4e5c0e(_0x5334a2,_0x337055=![]){const _0x39d359=_0x4dbbe8,_0x85a499=_0x2cdb98;_0x1bf9e4[_0x39d359(0x356)]=(_0x337055?_0x85a499(0x2d9):_0x85a499(0x39a))+_0x5334a2,_0x1bf9e4[_0x85a499(0x1d7)][_0x39d359(0x37d)]=_0x337055?_0x85a499(0x369):_0x85a499(0x25a),_0x57df5c[_0x39d359(0x271)](_0x5334a2,_0x337055?_0x85a499(0x23b):_0x85a499(0x207));}const _0x38adca=_0x3b5cc6(),_0x52e1d4=_0x38adca?.[_0x4dbbe8(0x295)]?.[_0x4dbbe8(0x291)]||'',_0x94314f=_0x38adca?.[_0x2cdb98(0x246)]||'';_0x52e1d4&&_0x4e5c0e(_0x2cdb98(0x32e)+_0x52e1d4);if(_0x94314f){const _0x2b9c74=document[_0x4dbbe8(0x254)](_0x2cdb98(0x29e));_0x2b9c74[_0x4dbbe8(0x356)]=_0x2cdb98(0x1f5)+_0x94314f,_0x2b9c74[_0x2cdb98(0x1d7)][_0x4dbbe8(0x19c)]=_0x2cdb98(0x23a),_0x2b9c74[_0x2cdb98(0x1d7)][_0x2cdb98(0x3a4)]=_0x2cdb98(0x254),_0x682baa[_0x2cdb98(0x2f6)](_0x2b9c74,_0x1bf9e4[_0x2cdb98(0x300)]);}const _0x20a94d=document[_0x4dbbe8(0x254)](_0x2cdb98(0x2de));_0x20a94d[_0x2cdb98(0x2b8)]=_0x2cdb98(0x357);const _0x5c3e93=_0x2e2b9a(_0x2cdb98(0x378));_0x5c3e93[_0x2cdb98(0x346)]=_0x1e5189||'';const _0x219779=_0x375542(_0x2cdb98(0x363),_0x2cdb98(0x360)),_0x19c1a0=_0x375542(_0x4dbbe8(0x1de),_0x4dbbe8(0x1e5));_0x219779[_0x2cdb98(0x1d7)][_0x2cdb98(0x20c)]=_0x2cdb98(0x2e1),_0x19c1a0[_0x4dbbe8(0x1e1)][_0x2cdb98(0x20c)]=_0x2cdb98(0x2e1),_0x20a94d[_0x4dbbe8(0x2e4)](_0x5c3e93),_0x20a94d[_0x2cdb98(0x227)](_0x219779),_0x20a94d[_0x2cdb98(0x227)](_0x19c1a0),_0x682baa[_0x2cdb98(0x227)](_0x20a94d),_0x219779['addEventListener'](_0x2cdb98(0x2c5),()=>{const _0x17d452=_0x4dbbe8,_0x28b0dd=_0x2cdb98,_0x4d3287=localStorage[_0x28b0dd(0x3ae)](_0x28b0dd(0x323))||localStorage[_0x28b0dd(0x3ae)](_0x17d452(0x229))||'';if(_0x4d3287)_0x1e5189=_0x4d3287,_0x5c3e93[_0x17d452(0x1b6)]=_0x4d3287,_0x4e5c0e(_0x17d452(0x2a2));else _0x5c3e93[_0x28b0dd(0x346)][_0x28b0dd(0x1fe)]()?(_0x1e5189=_0x5c3e93[_0x28b0dd(0x346)][_0x28b0dd(0x1fe)](),localStorage[_0x28b0dd(0x36e)](_0x17d452(0x1ff),_0x1e5189),_0x4e5c0e(_0x28b0dd(0x235))):_0x4e5c0e(_0x28b0dd(0x2e5),!![]);}),_0x19c1a0[_0x2cdb98(0x365)](_0x2cdb98(0x2c5),()=>{const _0x21e8e2=_0x4dbbe8,_0x11f779=_0x2cdb98;localStorage[_0x11f779(0x264)](_0x11f779(0x319)),localStorage[_0x21e8e2(0x1dd)](_0x11f779(0x323)),sessionStorage[_0x11f779(0x264)](_0x21e8e2(0x229)),sessionStorage[_0x21e8e2(0x1dd)](_0x11f779(0x323)),_0x5c3e93[_0x11f779(0x346)]='',_0x1e5189='',_0x4e5c0e(_0x11f779(0x32b));});const _0x357b34=document[_0x2cdb98(0x34b)](_0x2cdb98(0x2de));_0x357b34['style'][_0x2cdb98(0x3c1)]='flex',_0x357b34[_0x4dbbe8(0x1e1)][_0x4dbbe8(0x2ca)]=_0x2cdb98(0x385),_0x357b34[_0x2cdb98(0x1d7)][_0x2cdb98(0x343)]=_0x2cdb98(0x254),_0x682baa[_0x2cdb98(0x227)](_0x357b34);const _0x4322cc=document[_0x2cdb98(0x34b)](_0x2cdb98(0x2de));_0x4322cc[_0x2cdb98(0x2b8)]=_0x2cdb98(0x357);const _0x209336=_0x2e2b9a(_0x2cdb98(0x38e));_0x209336[_0x2cdb98(0x346)]=_0x2cdb98(0x2d4);const _0x5a1e86=_0x2e2b9a(_0x2cdb98(0x272));_0x5a1e86[_0x4dbbe8(0x1b6)]='/api/v2/payment/h7j3wt-now-y0k3d6',_0x4322cc[_0x2cdb98(0x227)](_0x209336),_0x4322cc[_0x2cdb98(0x227)](_0x5a1e86),_0x357b34[_0x2cdb98(0x227)](_0x4322cc);const _0x2f61c6=document[_0x2cdb98(0x34b)](_0x2cdb98(0x2de));_0x2f61c6[_0x4dbbe8(0x1c9)]=_0x2cdb98(0x357);const _0x4726b3=_0x2e2b9a(_0x2cdb98(0x302),_0x2cdb98(0x28e),!![]);_0x4726b3[_0x2cdb98(0x3a3)]=0x7;const _0x3b2bb0=_0x375542(_0x2cdb98(0x1df),_0x2cdb98(0x364)),_0x281d0f=_0x375542(_0x2cdb98(0x2a2),_0x2cdb98(0x360));_0x2f61c6[_0x2cdb98(0x227)](_0x4726b3),_0x2f61c6[_0x2cdb98(0x227)](_0x3b2bb0),_0x2f61c6[_0x2cdb98(0x227)](_0x281d0f),_0x357b34[_0x2cdb98(0x227)](_0x2f61c6);const _0x199862=document['createElement'](_0x2cdb98(0x2de));_0x199862[_0x2cdb98(0x2b8)]=_0x2cdb98(0x357);const _0x19c8c7=_0x2e2b9a(_0x2cdb98(0x219));_0x19c8c7[_0x2cdb98(0x346)]=_0x2cdb98(0x375);const _0x3b069d=_0x2e2b9a(_0x2cdb98(0x2f2),_0x4dbbe8(0x1fa));_0x199862[_0x2cdb98(0x227)](_0x19c8c7),_0x199862[_0x2cdb98(0x227)](_0x3b069d),_0x357b34[_0x2cdb98(0x227)](_0x199862);const _0x5520c1=document[_0x2cdb98(0x34b)](_0x2cdb98(0x2de));_0x5520c1[_0x2cdb98(0x2b8)]=_0x2cdb98(0x357);const _0x53f7a1=_0x2e2b9a(_0x2cdb98(0x292));_0x53f7a1[_0x4dbbe8(0x1b6)]=_0x4dbbe8(0x268);const _0x2125ed=_0x2e2b9a(_0x2cdb98(0x2c1));_0x5520c1[_0x2cdb98(0x227)](_0x53f7a1),_0x5520c1[_0x2cdb98(0x227)](_0x2125ed),_0x357b34[_0x2cdb98(0x227)](_0x5520c1);const _0x3c5c67=document[_0x4dbbe8(0x254)](_0x2cdb98(0x2de));_0x3c5c67[_0x4dbbe8(0x1c9)]=_0x2cdb98(0x357);const _0xdeb5af=_0x2e2b9a(_0x2cdb98(0x2e9));_0xdeb5af[_0x2cdb98(0x346)]=_0x2cdb98(0x38d);const _0x1799f8=_0x2e2b9a(_0x2cdb98(0x243));_0x3c5c67[_0x4dbbe8(0x2e4)](_0xdeb5af),_0x3c5c67[_0x4dbbe8(0x2e4)](_0x1799f8),_0x357b34[_0x2cdb98(0x227)](_0x3c5c67);const _0x462be0=document[_0x2cdb98(0x34b)](_0x2cdb98(0x2de));_0x462be0[_0x2cdb98(0x1d7)][_0x4dbbe8(0x19c)]=_0x2cdb98(0x34c),_0x462be0[_0x4dbbe8(0x1e1)][_0x2cdb98(0x2a9)]='column',_0x462be0[_0x2cdb98(0x1d7)][_0x2cdb98(0x343)]=_0x2cdb98(0x307);const _0x41f869=_0x2e2b9a(_0x4dbbe8(0x32f),_0x2cdb98(0x28e),!![]);_0x41f869[_0x2cdb98(0x346)]=_0x2cdb98(0x268);const _0x298928=_0x375542(_0x2cdb98(0x2e0),_0x2cdb98(0x2c3)),_0x30522d=document[_0x2cdb98(0x34b)]('div');_0x30522d[_0x2cdb98(0x1d7)][_0x2cdb98(0x20c)]=_0x2cdb98(0x35c),_0x30522d[_0x2cdb98(0x1d7)][_0x2cdb98(0x276)]=_0x4dbbe8(0x28f),_0x462be0[_0x2cdb98(0x227)](_0x41f869),_0x462be0[_0x4dbbe8(0x2e4)](_0x298928),_0x462be0[_0x2cdb98(0x227)](_0x30522d),_0x357b34[_0x2cdb98(0x227)](_0x462be0);const _0x4ed2d6=document[_0x2cdb98(0x34b)](_0x2cdb98(0x2de));_0x4ed2d6[_0x2cdb98(0x2b8)]=_0x2cdb98(0x357),_0x4ed2d6[_0x2cdb98(0x1d7)][_0x2cdb98(0x23e)]=_0x2cdb98(0x20a);const _0x1d0cdd=_0x375542(_0x2cdb98(0x33c),_0x2cdb98(0x1e8)),_0xe33ba=_0x375542(_0x4dbbe8(0x1ce),_0x4dbbe8(0x214));_0x4ed2d6[_0x2cdb98(0x227)](_0x1d0cdd),_0x4ed2d6['appendChild'](_0xe33ba),_0x357b34[_0x2cdb98(0x227)](_0x4ed2d6);const _0x23decd=document[_0x2cdb98(0x34b)](_0x2cdb98(0x2de));_0x23decd[_0x2cdb98(0x2b8)]=_0x2cdb98(0x357),_0x23decd[_0x2cdb98(0x1d7)][_0x2cdb98(0x23e)]='translateY(-10px)';const _0x34df02=_0x375542(_0x2cdb98(0x30b),_0x2cdb98(0x2b7)),_0x2633d7=_0x375542(_0x2cdb98(0x353),_0x2cdb98(0x24d));_0x2633d7[_0x2cdb98(0x2bb)]=!![],_0x2633d7[_0x2cdb98(0x1d7)][_0x2cdb98(0x384)]=_0x2cdb98(0x29b),_0x23decd[_0x2cdb98(0x227)](_0x34df02),_0x23decd[_0x2cdb98(0x227)](_0x2633d7),_0x357b34[_0x2cdb98(0x227)](_0x23decd);let _0x38db05='';const _0x3997b9=()=>{const _0x5bd62d=_0x4dbbe8,_0x231fc5=_0x2cdb98;if(!window[_0x5bd62d(0x28c)]){const _0x5547bb=document[_0x231fc5(0x34b)](_0x231fc5(0x36b));_0x5547bb[_0x231fc5(0x3cb)]=_0x5bd62d(0x297),_0x5547bb['async']=!![],_0x5547bb[_0x5bd62d(0x201)]=!![],document[_0x231fc5(0x334)][_0x5bd62d(0x2e4)](_0x5547bb),setTimeout(_0x3997b9,0x1f4);}};_0x3997b9();const _0x4539eb=()=>{const _0x512251=_0x4dbbe8,_0x4bd05d=_0x2cdb98;if(!window[_0x4bd05d(0x2fc)])return;_0x30522d['innerHTML']='',window[_0x4bd05d(0x2fc)][_0x512251(0x2f7)](_0x30522d,{'sitekey':_0x41f869[_0x4bd05d(0x346)]||_0x4bd05d(0x268),'callback':_0x51e647=>{const _0x214d95=_0x512251,_0x11ca0e=_0x4bd05d;_0x1799f8[_0x11ca0e(0x346)]=_0x51e647,_0x57df5c[_0x11ca0e(0x1e6)](_0x214d95(0x2c1),_0x11ca0e(0x207));},'theme':_0x4bd05d(0x1e7)});};_0x298928[_0x2cdb98(0x365)](_0x2cdb98(0x2c5),()=>{_0x4539eb(),_0x1a4605(_0x298928);});const _0x128a86=()=>new Promise((_0x4797a8,_0x10d87d)=>{const _0x222b63=_0x4dbbe8,_0x3564fe=_0x2cdb98;if(_0x1799f8[_0x3564fe(0x346)])return _0x4797a8(_0x1799f8[_0x3564fe(0x346)]);_0x4539eb(),_0x4e5c0e(_0x222b63(0x211),!![]),_0x10d87d(_0x3564fe(0x247));});_0x3b2bb0[_0x2cdb98(0x365)](_0x2cdb98(0x2c5),async()=>{const _0xfbe83b=_0x4dbbe8,_0xf2faf2=_0x2cdb98;try{const _0x275355=_0x209336[_0xf2faf2(0x346)][_0xf2faf2(0x1fe)]()+_0xf2faf2(0x241),_0x5184fa=await fetch(_0x275355,{'method':_0xf2faf2(0x213),'headers':{'Content-Type':_0xf2faf2(0x359),'Authorization':_0xf2faf2(0x215)+_0x1e5189},'body':JSON[_0xf2faf2(0x330)]({'resend':0x0})}),_0xe366f0=await _0x5184fa[_0xf2faf2(0x36c)]();_0x4e5c0e(_0xe366f0[_0xf2faf2(0x25e)]===_0xf2faf2(0x207)?_0xf2faf2(0x2c6):_0xf2faf2(0x35f)+_0xe366f0[_0xf2faf2(0x358)],_0xe366f0[_0xfbe83b(0x2a8)]!==_0xf2faf2(0x207)),_0x1a4605(_0x3b2bb0);}catch(_0x44c4f2){_0x4e5c0e(_0xfbe83b(0x270)+_0x44c4f2[_0xf2faf2(0x358)],!![]);}}),_0x281d0f[_0x2cdb98(0x365)](_0x2cdb98(0x2c5),async()=>{const _0x3c6e56=_0x4dbbe8,_0x55dfbf=_0x2cdb98,_0x3923c2=_0x4726b3[_0x55dfbf(0x346)][_0x55dfbf(0x1fe)]();if(!_0x3923c2||_0x3923c2[_0x55dfbf(0x1d4)]!==0x7||!/^\d{7}$/[_0x3c6e56(0x2a4)](_0x3923c2)){_0x4e5c0e(_0x55dfbf(0x248),!![]);return;}try{const _0x31c274=_0x209336[_0x3c6e56(0x1b6)][_0x55dfbf(0x1fe)]()+_0x55dfbf(0x3a2),_0x1a8892=await fetch(_0x31c274,{'method':_0x55dfbf(0x213),'headers':{'Content-Type':_0x55dfbf(0x359),'Authorization':_0x55dfbf(0x215)+_0x1e5189},'body':JSON[_0x55dfbf(0x330)]({'otp':_0x3923c2})}),_0x5b6ca8=await _0x1a8892[_0x55dfbf(0x36c)]();_0x5b6ca8[_0x55dfbf(0x25e)]===_0x55dfbf(0x207)&&_0x5b6ca8[_0x55dfbf(0x209)][_0x3c6e56(0x1e4)]&&_0x5b6ca8[_0x3c6e56(0x23b)][_0x55dfbf(0x27d)][_0x55dfbf(0x1d4)]>0x0?(_0x3b069d[_0x55dfbf(0x346)]=_0x5b6ca8[_0x55dfbf(0x209)][_0x55dfbf(0x27d)][0x0],_0x2125ed[_0x55dfbf(0x346)]='',_0x4e5c0e(_0x55dfbf(0x2b2))):_0x4e5c0e(_0x55dfbf(0x290)+_0x5b6ca8[_0x55dfbf(0x358)],!![]),_0x1a4605(_0x281d0f);}catch(_0x497fdb){_0x4e5c0e(_0x55dfbf(0x398)+_0x497fdb[_0x55dfbf(0x358)],!![]);}}),_0x1d0cdd[_0x2cdb98(0x365)](_0x2cdb98(0x2c5),async()=>{const _0x3bffa2=_0x4dbbe8,_0x938a6c=_0x2cdb98,_0x1fdd0d=_0x3b069d[_0x938a6c(0x346)][_0x938a6c(0x1fe)]();if(!_0x1fdd0d){_0x4e5c0e(_0x938a6c(0x393),!![]);return;}try{const _0x1ac686=_0x209336[_0x938a6c(0x346)][_0x938a6c(0x1fe)]()+'/api/v2/payment/pay-slot-time',_0x36a5da=await fetch(_0x1ac686,{'method':_0x938a6c(0x213),'headers':{'Content-Type':_0x938a6c(0x359),'Authorization':_0x938a6c(0x215)+_0x1e5189},'body':JSON[_0x938a6c(0x330)]({'appointment_date':_0x1fdd0d})}),_0x36ef2c=await _0x36a5da[_0x938a6c(0x36c)]();_0x36ef2c[_0x938a6c(0x209)]?.[_0x938a6c(0x310)]?.[_0x938a6c(0x1d4)]?(_0x2125ed[_0x3bffa2(0x1b6)]=_0x36ef2c['data'][_0x938a6c(0x310)][0x0]['time_display'],_0x4e5c0e(_0x938a6c(0x3b8))):(_0x2125ed[_0x938a6c(0x346)]='',_0x4e5c0e(_0x938a6c(0x348),!![])),_0x1a4605(_0x1d0cdd);}catch(_0x149466){_0x4e5c0e(_0x938a6c(0x2ba)+_0x149466[_0x938a6c(0x358)],!![]);}}),_0xe33ba[_0x2cdb98(0x365)]('click',()=>{const _0x575eae=_0x2cdb98;_0x2125ed['value']=_0x575eae(0x3bc),_0x4e5c0e(_0x575eae(0x270));}),_0x34df02[_0x4dbbe8(0x233)](_0x2cdb98(0x2c5),async()=>{const _0x1706bc=_0x4dbbe8,_0x229611=_0x2cdb98,_0x10822b=_0x34df02[_0x1706bc(0x356)];_0x34df02[_0x1706bc(0x356)]=_0x229611(0x2d3),_0x34df02[_0x1706bc(0x2a1)]=!![];try{const _0x1c2c71=await _0x128a86(),_0x2825af={};[[_0x19c8c7,_0x3b069d],[_0x53f7a1,_0x2125ed],[_0xdeb5af,_0x1799f8]][_0x229611(0x386)](([_0x2bb031,_0x47ca45])=>{const _0x1f5e8a=_0x229611,_0x2cca72=_0x2bb031[_0x1f5e8a(0x346)][_0x1f5e8a(0x1fe)](),_0x20893f=(_0x47ca45[_0x1f5e8a(0x346)]||'')[_0x1f5e8a(0x1fe)]();if(_0x2cca72&&_0x20893f)_0x2825af[_0x2cca72]=_0x20893f;}),_0x2825af[_0x229611(0x313)]={'name':_0x229611(0x35d),'slug':_0x229611(0x362),'link':_0x229611(0x3c4)};const _0x12f261=_0x19c8c7[_0x229611(0x346)][_0x229611(0x1fe)](),_0x17cd04=_0x53f7a1[_0x1706bc(0x1b6)][_0x229611(0x1fe)]();if(!_0x2825af[_0x12f261]||!_0x2825af[_0x17cd04]){_0x4e5c0e(_0x229611(0x30e),!![]);return;}const _0x1953fa=_0x209336[_0x1706bc(0x1b6)][_0x229611(0x1fe)]()+_0x5a1e86[_0x229611(0x346)][_0x229611(0x1fe)](),_0x1c83a9=await fetch(_0x1953fa,{'method':_0x229611(0x213),'headers':{'Content-Type':_0x229611(0x359),'Authorization':_0x229611(0x215)+_0x1e5189},'body':JSON[_0x229611(0x330)](_0x2825af)}),_0x4619b7=await _0x1c83a9[_0x229611(0x36c)]();_0x4619b7[_0x229611(0x25e)]===_0x229611(0x207)&&_0x4619b7[_0x229611(0x209)][_0x229611(0x1d1)]?(_0x38db05=_0x4619b7[_0x229611(0x209)][_0x229611(0x1d1)],_0x2633d7[_0x229611(0x2bb)]=![],_0x2633d7[_0x229611(0x1d7)][_0x229611(0x384)]='1',_0x2633d7[_0x229611(0x1d7)][_0x229611(0x3b6)]=_0x1706bc(0x372),_0x4e5c0e(_0x229611(0x2a6))):_0x4e5c0e(_0x229611(0x261),!![]),_0x1a4605(_0x34df02);}catch(_0x26cdd2){_0x4e5c0e(_0x229611(0x3c6)+_0x26cdd2[_0x229611(0x358)],!![]);}finally{_0x34df02[_0x229611(0x1fb)]=_0x10822b,_0x34df02[_0x229611(0x2bb)]=![];}}),_0x2633d7[_0x4dbbe8(0x233)](_0x2cdb98(0x2c5),()=>{const _0x53149e=_0x4dbbe8,_0x426631=_0x2cdb98;_0x38db05?(window[_0x426631(0x341)](_0x38db05,_0x426631(0x329)),_0x4e5c0e(_0x53149e(0x223))):_0x4e5c0e(_0x426631(0x261),!![]);});}function _0x462107(){const _0x131078=_0x2da730,_0xe853e8=_0x1dc836;_0x34bbe8[_0xe853e8(0x21d)]='',_0x34bbe8[_0x131078(0x1c9)]=_0xe853e8(0x2e8);const _0x433dc0=document[_0xe853e8(0x34b)](_0xe853e8(0x2de));_0x433dc0[_0xe853e8(0x2b8)]=_0x131078(0x2ea),_0x433dc0[_0x131078(0x1e1)][_0xe853e8(0x355)]=_0xe853e8(0x1f7);const _0x238538=document[_0xe853e8(0x34b)](_0xe853e8(0x2de));_0x238538[_0xe853e8(0x1fb)]=_0xe853e8(0x3b9),_0x238538[_0xe853e8(0x1d7)][_0xe853e8(0x355)]=_0xe853e8(0x32f);const _0x1be056=document['createElement']('p');_0x1be056[_0xe853e8(0x1fb)]=_0xe853e8(0x237),_0x1be056[_0xe853e8(0x1d7)][_0xe853e8(0x355)]=_0xe853e8(0x252);const _0x2e2a08=_0xce5434=>{const _0x465281=_0x131078,_0x124a69=_0xe853e8,_0x25833e=document[_0x124a69(0x34b)](_0x124a69(0x2de));return _0x25833e[_0x124a69(0x1fb)]=_0xce5434,_0x25833e[_0x124a69(0x1d7)][_0x465281(0x2b4)]=_0x124a69(0x26f),_0x25833e;},_0x3f2c88=_0x2e2a08(_0xe853e8(0x3c3)),_0x48877e=document[_0xe853e8(0x34b)](_0x131078(0x2f2));_0x48877e[_0xe853e8(0x1d7)][_0x131078(0x2b4)]=_0x131078(0x242),_0x48877e[_0xe853e8(0x2ce)]=_0xe853e8(0x250);const _0x1edf6a=localStorage[_0xe853e8(0x3ae)](_0x131078(0x2f5));if(_0x1edf6a)try{const _0x5a7a2c=JSON[_0xe853e8(0x2f0)](_0x1edf6a);_0x48877e[_0xe853e8(0x346)]=JSON[_0xe853e8(0x330)](_0x5a7a2c,null,0x2);}catch(_0x2ff75c){_0x57df5c[_0xe853e8(0x1e6)](_0xe853e8(0x28a)+_0x2ff75c[_0x131078(0x33e)],_0xe853e8(0x23b));}const _0x159091=document[_0x131078(0x254)](_0x131078(0x378));_0x159091[_0xe853e8(0x1d7)][_0xe853e8(0x355)]=_0xe853e8(0x37d);const _0x9c2bb0=(_0x512988,_0x3eb7ea=![])=>{const _0x598ca9=_0x131078,_0x5c7499=_0xe853e8;_0x159091[_0x5c7499(0x1fb)]=_0x512988,_0x159091[_0x5c7499(0x1d7)][_0x5c7499(0x3c1)]=_0x5c7499(0x23a),_0x159091[_0x5c7499(0x1d7)][_0x5c7499(0x1cd)]=_0x3eb7ea?_0x5c7499(0x26a):_0x598ca9(0x239),_0x159091[_0x5c7499(0x1d7)][_0x598ca9(0x37d)]=_0x3eb7ea?_0x5c7499(0x2e2):_0x5c7499(0x2ed),setTimeout(()=>_0x159091[_0x5c7499(0x1d7)][_0x5c7499(0x3c1)]=_0x5c7499(0x2d0),0xbb8);},_0x159f3e=document[_0xe853e8(0x34b)](_0xe853e8(0x2de));_0x159f3e[_0xe853e8(0x1d7)][_0x131078(0x2b4)]=_0xe853e8(0x1e9);const _0x1c63b7=(_0x21b4d9,_0x34bf03)=>{const _0x1ddaef=_0x131078,_0x4de06f=_0xe853e8,_0x3c32a7=document[_0x4de06f(0x34b)](_0x1ddaef(0x275));return _0x3c32a7[_0x4de06f(0x1fb)]=_0x21b4d9,_0x3c32a7[_0x1ddaef(0x1e1)][_0x1ddaef(0x2b4)]=_0x1ddaef(0x278)+_0x34bf03+_0x1ddaef(0x1d8),_0x3c32a7[_0x1ddaef(0x233)](_0x4de06f(0x3b3),()=>_0x3c32a7['style'][_0x1ddaef(0x36f)]=_0x4de06f(0x2bc)),_0x3c32a7[_0x4de06f(0x365)](_0x4de06f(0x1d2),()=>_0x3c32a7[_0x4de06f(0x1d7)][_0x1ddaef(0x36f)]='1'),_0x3c32a7;},_0x27c17d=_0x1c63b7(_0xe853e8(0x22b),_0xe853e8(0x24c)),_0x2b7fce=_0x1c63b7('Load\x20Config',_0xe853e8(0x1d0)),_0x1818c7=_0x1c63b7(_0xe853e8(0x3bb),_0xe853e8(0x2bf));_0x27c17d[_0xe853e8(0x365)](_0xe853e8(0x2c5),()=>{const _0x13ebd4=_0x131078,_0x583d2a=_0xe853e8,_0x1aec24=_0x48877e[_0x583d2a(0x346)][_0x583d2a(0x1fe)]();if(!_0x1aec24){_0x9c2bb0(_0x583d2a(0x3b0),!![]);return;}try{const _0x2a4d82=JSON[_0x13ebd4(0x265)](_0x1aec24),_0x3a0b75=[_0x583d2a(0x246),_0x583d2a(0x279),_0x583d2a(0x24f),_0x13ebd4(0x34d),_0x583d2a(0x312)],_0xca2335=_0x3a0b75[_0x13ebd4(0x25c)](_0x26aa4b=>!_0x2a4d82[_0x26aa4b]);if(_0xca2335[_0x583d2a(0x1d4)]>0x0){_0x9c2bb0(_0x583d2a(0x316)+_0xca2335[_0x583d2a(0x1d9)](',\x20'),!![]);return;}localStorage[_0x583d2a(0x36e)](_0x583d2a(0x337),JSON[_0x583d2a(0x330)](_0x2a4d82)),_0x9c2bb0(_0x13ebd4(0x1ad)),_0x57df5c[_0x583d2a(0x1e6)](_0x583d2a(0x262),_0x583d2a(0x207));}catch(_0x134cce){_0x9c2bb0(_0x583d2a(0x1ed)+_0x134cce[_0x583d2a(0x358)],!![]),_0x57df5c[_0x583d2a(0x1e6)](_0x583d2a(0x31d)+_0x134cce[_0x13ebd4(0x33e)],_0x583d2a(0x23b));}}),_0x2b7fce[_0xe853e8(0x365)](_0xe853e8(0x2c5),()=>{const _0x428e6e=_0x131078,_0x130daa=_0xe853e8,_0x467ef5=localStorage[_0x130daa(0x3ae)](_0x428e6e(0x2f5));if(_0x467ef5)try{const _0x19fd4c=JSON[_0x130daa(0x2f0)](_0x467ef5);_0x48877e[_0x130daa(0x346)]=JSON[_0x130daa(0x330)](_0x19fd4c,null,0x2),_0x9c2bb0(_0x130daa(0x232)),_0x57df5c[_0x130daa(0x1e6)](_0x130daa(0x305),_0x130daa(0x207));}catch(_0x1fd44a){_0x9c2bb0(_0x130daa(0x2c8)+_0x1fd44a[_0x428e6e(0x33e)],!![]);}else _0x9c2bb0(_0x130daa(0x380),!![]);}),_0x1818c7[_0xe853e8(0x365)](_0xe853e8(0x2c5),()=>{const _0x12263a=_0x131078,_0x23f163=_0xe853e8;confirm(_0x12263a(0x382))&&(localStorage[_0x12263a(0x1dd)](_0x23f163(0x337)),_0x48877e[_0x23f163(0x346)]='',_0x9c2bb0(_0x23f163(0x211)),_0x57df5c[_0x23f163(0x1e6)](_0x23f163(0x26e),_0x23f163(0x30f)));}),_0x159f3e[_0xe853e8(0x227)](_0x27c17d),_0x159f3e[_0xe853e8(0x227)](_0x2b7fce),_0x159f3e[_0xe853e8(0x227)](_0x1818c7);const _0x53ce95=document[_0x131078(0x254)](_0xe853e8(0x2de));_0x53ce95[_0xe853e8(0x1d7)][_0xe853e8(0x355)]=_0xe853e8(0x278),_0x53ce95[_0xe853e8(0x21d)]=_0xe853e8(0x293),_0x433dc0[_0x131078(0x2e4)](_0x238538),_0x433dc0[_0xe853e8(0x227)](_0x1be056),_0x433dc0[_0xe853e8(0x227)](_0x3f2c88),_0x433dc0[_0xe853e8(0x227)](_0x48877e),_0x433dc0[_0xe853e8(0x227)](_0x159091),_0x433dc0[_0xe853e8(0x227)](_0x159f3e),_0x433dc0[_0x131078(0x2e4)](_0x53ce95),_0x34bbe8[_0xe853e8(0x227)](_0x433dc0),_0x57df5c[_0xe853e8(0x1e6)]('Config\x20panel\x20opened',_0xe853e8(0x30f));}_0x449139[_0x1dc836(0x3bf)](_0x1dc836(0x308))[_0x1dc836(0x386)](_0x3f8293=>{const _0x439f72=_0x1dc836;_0x3f8293[_0x439f72(0x365)](_0x439f72(0x2c5),()=>{const _0x5bb9a7=_0x60d7,_0x18bd31=_0x439f72,_0x29edcc=_0x3f8293[_0x18bd31(0x2f8)]['panel'];if(_0x29edcc===_0x18bd31(0x1de))_0x368b60();else{if(_0x29edcc===_0x18bd31(0x1d3))_0x5ab09a();else{if(_0x29edcc===_0x18bd31(0x1fd))_0x3b39f4();else{if(_0x29edcc===_0x18bd31(0x37f))_0x51c3b2();else{if(_0x29edcc===_0x18bd31(0x30c))_0x462107();}}}}if(_0x29edcc)_0x57df5c[_0x18bd31(0x1e6)](_0x18bd31(0x1e5)+_0x29edcc,_0x5bb9a7(0x23c));});});let _0x271c64=![];const _0x3c4448=document[_0x1dc836(0x321)](_0x1dc836(0x283));_0x3c4448[_0x1dc836(0x365)](_0x1dc836(0x2c5),_0x46b18a=>{const _0x3e62fd=_0x2da730,_0x4e0e16=_0x1dc836;_0x46b18a[_0x4e0e16(0x3bd)](),_0x271c64=!_0x271c64,_0x271c64?(_0x1c6afe[_0x3e62fd(0x1e1)][_0x4e0e16(0x3c1)]=_0x3e62fd(0x213),_0x3c4448[_0x3e62fd(0x356)]='+',_0x5bfa34[_0x3e62fd(0x1e1)][_0x4e0e16(0x276)]=_0x4e0e16(0x31b)):(_0x1c6afe[_0x4e0e16(0x1d7)]['display']=_0x3e62fd(0x2b7),_0x3c4448[_0x4e0e16(0x1fb)]='−'),_0x57df5c[_0x4e0e16(0x1e6)](_0x271c64?_0x4e0e16(0x30d):_0x3e62fd(0x1c6),_0x4e0e16(0x30f));});let _0x526711=![],_0x10f7cc,_0x393eea;_0x449139[_0x1dc836(0x365)](_0x1dc836(0x2c4),_0x2da066=>{const _0x3a3da3=_0x2da730,_0x2eadfb=_0x1dc836;_0x526711=!![],_0x10f7cc=_0x2da066[_0x2eadfb(0x2ac)]-_0x5bfa34[_0x3a3da3(0x29d)],_0x393eea=_0x2da066[_0x2eadfb(0x377)]-_0x5bfa34[_0x2eadfb(0x2cb)],_0x449139[_0x3a3da3(0x1e1)][_0x2eadfb(0x212)]=_0x2eadfb(0x38f);}),document[_0x1dc836(0x365)](_0x1dc836(0x38c),_0x430972=>{const _0x2b251c=_0x2da730,_0xcdb6d0=_0x1dc836;if(!_0x526711)return;_0x5bfa34[_0x2b251c(0x1e1)][_0xcdb6d0(0x26b)]=_0x430972[_0xcdb6d0(0x2ac)]-_0x10f7cc+'px',_0x5bfa34[_0xcdb6d0(0x1d7)][_0xcdb6d0(0x1f6)]=_0x430972[_0xcdb6d0(0x377)]-_0x393eea+'px',_0x5bfa34[_0xcdb6d0(0x1d7)][_0x2b251c(0x210)]=_0xcdb6d0(0x31b);}),document[_0x2da730(0x233)](_0x1dc836(0x372),()=>{const _0x492002=_0x2da730,_0x4079ff=_0x1dc836;_0x526711&&(_0x526711=![],_0x449139[_0x4079ff(0x1d7)][_0x492002(0x36d)]=_0x4079ff(0x2aa));}),console[_0x1dc836(0x226)](_0x1dc836(0x299)),_0x57df5c[_0x1dc836(0x1e6)](_0x1dc836(0x2a0),_0x1dc836(0x207));}());}())));function _0x5cd4(_0x4ca7ae,_0x177cab){const _0x816b70=_0x318a();return _0x5cd4=function(_0x411945,_0x21e2bd){_0x411945=_0x411945-0x1cc;let _0x469e1d=_0x816b70[_0x411945];return _0x469e1d;},_0x5cd4(_0x4ca7ae,_0x177cab);}function _0x60d7(_0x3772c7,_0x17afb5){const _0x19ef14=_0x19ef();return _0x60d7=function(_0x60d7b2,_0x52c77e){_0x60d7b2=_0x60d7b2-0x19a;let _0x309a87=_0x19ef14[_0x60d7b2];return _0x309a87;},_0x60d7(_0x3772c7,_0x17afb5);}function _0x19ef(){const _0x3b0c7f=['Panel\x20restored','2229208wssLmw','no-cache','className','ivac-main-content','boxShadow','OTP\x20verification\x20failed\x20or\x20no\x20date\x20found:\x20','expires','Default\x20Slot','btn-row','4px','remove','0x4AAAAAABvQ3Mi6RktCuZ7P','kv-row','IVAC\x20—\x20Login','width:\x20100%;\x20background:\x20#6f42c1;\x20color:\x20#fff;','100%','onload',';\x20color:\x20white;\x20border:\x20none;\x20border-radius:\x204px;\x20cursor:\x20pointer;\x20font-size:\x2011px;\x20font-weight:\x20600;','dataset','payment','Status\x20messages\x20will\x20appear\x20here','999997','removeItem','Clear\x20Token','Base\x20URL','Submitting\x20personal\x20info...','style','Configuration\x20loaded!','padding','slot_dates','#dc2626','[ERROR]\x20Network:\x20','?t=','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<strong>How\x20to\x20use:</strong><br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x201.\x20Paste\x20your\x20IVAC_APP_DATA\x20JSON\x20in\x20the\x20textarea<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x202.\x20Click\x20\x22Save\x20Config\x22\x20to\x20store\x20it\x20locally<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x203.\x20Go\x20to\x20Autofill/Login/Submit\x20panels\x20-\x20fields\x20will\x20auto-populate<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x204.\x20Change\x20config\x20anytime\x20for\x20different\x20accounts\x0a\x20\x20\x20\x20\x20\x20\x20\x20','Appointment\x20Date\x20&\x20Time\x20প্রয়োজন','59939yZwgXO','display:\x20flex;\x20gap:\x208px;\x20margin-top:\x2010px;','Bearer/Access\x20Token','grab','highcom','Loading...','%c[WARNING]\x20Your\x20license\x20expires\x20in\x20','application/json','appointment_time\x20(key)','Send','appointment_date','#007bff','maxLength','OTP\x20Verified\x20&\x20Date\x20filled!','ivac_id','ivac-auth-modal','date','8756fkWVHg','250px','[OK]\x20CAPTCHA\x20loaded!\x20Solve\x20it\x20to\x20get\x20token.','[ERR]\x20Login\x20failed!','access_token','15px','defer','backgroundColor','username','#2563eb','#667eea','input[name=\x22family_count\x22],\x20select[name=\x22family_count\x22],\x20input[placeholder*=\x22Family\x22]','https://securepay.sslcommerz.com/gwprocess/v4/image/gw1/visa.png','Mobile\x20number','Open\x20Payment','mission','span','url','Update\x20Token','match','\x20members)\x20-\x20no\x20matching\x20inputs\x20found','right','Solve\x20CAPTCHA\x20first','#fff','none','#f97316','full_name','[OK]\x20OTP\x20sent','CAPTCHA\x20pending','load','font-size:\x2011px;\x20color:\x20#dc2626;\x20text-align:\x20center;\x20margin-bottom:\x2010px;\x20background:\x20#fee2e2;\x20padding:\x204px;\x20border-radius:\x204px;','sessionExpires','alignItems','#0891b2','kv-container','mouseout','#ef4444','22318IXibzJ','Autofill:\x20No\x20matching\x20fields\x20found\x20-\x20ensure\x20you\x20are\x20on\x20the\x20IVAC\x20form\x20page','src','Payment\x20page\x20opened','https://payment.ivacbd.com/api/v2/payment/overview-submit','][webfile]\x22]','128569EcRvLz','10qIuMXs','input[name=\x22family_webfile_','token','All\x20Fields','fontWeight','#006400','Config\x20saved\x20to\x20localStorage','<p\x20style=\x22font-size:\x2012px;\x20margin:\x200;\x22>IVAC\x20Automation\x20System\x20Ready</p>','async','\x20Name:\x20','body','trim','addEventListener','Overview\x20submitted','CAPTCHA\x20will\x20appear\x20here','Load\x20CAPTCHA','marginTop','Fill\x20Web\x20File\x20IDs','#d1fae5','Bearer\x20Token','data','info','family_count','background','/api/v2/payment/...','change','Autofill\x20panel\x20loaded','width:\x20100%;\x20height:\x20300px;\x20padding:\x208px;\x20border:\x201px\x20solid\x20#d1d5db;\x20border-radius:\x204px;\x20font-family:\x20\x22Courier\x20New\x22,\x20monospace;\x20font-size:\x2011px;\x20resize:\x20vertical;','VISA','Error\x20verifying\x20OTP:\x20','head','#991b1b','mouseup','https://payment.ivacbd.com/api/v2/payment/personal-info-submit','Your\x20license\x20expired\x20on\x20','error','family','25MePmFs','getBoundingClientRect','\x22>[','login','8px','field','config','justifyContent','createElement','Phone\x20number\x20auto-filled\x20from\x20config','borderRadius','stringify','Config\x20save\x20failed:\x20','#444','ivac-content','12px','filter','font-size:\x2011px;\x20color:\x20#6b7280;\x20margin:\x208px\x200\x2012px\x200;','#065f46','scrollHeight','#8b5cf6','999998','80QKPCJm','OTP\x20submission\x20failed','570wXhSxu','parse','abc','monospace','appointment_time','91809mKIcqj','Payment\x20link\x20ready!','IVAC\x20System\x20initialized','Submitting\x20overview...','\x20-\x20','Payment\x20link\x20missing','method','Error\x20sending\x20OTP:\x20','add','GET','input[name=\x22family[','[REQ]\x20','button','y6e7uk_token_t6d8n3','Fill\x20Family\x20Data','flex:\x201;\x20padding:\x208px;\x20background:\x20','Panel\x20minimized','Family\x20data:\x20','Overview','readOnly','Config\x20loaded\x20from\x20localStorage','400px','calc(50%\x20-\x20200px)','success','33%','payment-panel-main','#6f42c1','height','Wait\x20','innerHTML','insertBefore','[ERROR]\x20XHR:\x20','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2030px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20max-width:\x20400px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x2010px\x2040px\x20rgba(0,0,0,0.3);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x2060px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x2060px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#dc3545;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x200\x20auto\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2030px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22>✕</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2\x20style=\x22margin:\x200\x200\x2010px;\x20color:\x20#333;\x22>License\x20Expired</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22color:\x20#666;\x20margin:\x200\x200\x2020px;\x20line-height:\x201.5;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20User\x20<strong>','#FF9800','userExpires','turnstile','logs','move','100px','%c[IVAC]\x20Authentication\x20successful.\x20Loading\x20main\x20system...','phone','submit-panel','clientX','\x20fields\x20filled\x20successfully','personal_info','_url','https://challenges.cloudflare.com/turnstile/v0/api.js','input[placeholder*=\x22Family\x22][placeholder*=\x22Web\x22]:nth-of-type(','.header-btn','Personal\x20info\x20submitted','getItem','OTP','offsetLeft','Error\x20loading\x20saved\x20config:\x20','gap','auto','disabled','Token\x20updated\x20from\x20storage!','\x20=\x20','test','select[name=\x22mission\x22],\x20select[id*=\x22mission\x22]','Login','No\x20config\x20found.\x20Please\x20upload\x20config\x20first.','status','[OK]\x20','log','querySelectorAll','auth-login-btn','Login\x20error:\x20','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2040px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20max-width:\x20400px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x2090%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x2010px\x2040px\x20rgba(0,0,0,0.3);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','\x20\x20Family\x20','7nMkpBr','1px\x20solid\x20#ccc','type','input[placeholder*=\x22Family\x22][placeholder*=\x22Name\x22]:nth-of-type(','cssText','691338MDPZqk','open','flex','clientY','password','translateY(-10px)','OTP\x20login\x20successful','popup-panel\x20active','send','script','catch','Web\x20File\x20ID\x20filled:\x20','Payment\x20CAPTCHA\x20solved','selected_payment','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22text-align:\x20center;\x20margin-bottom:\x2030px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x2070px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x2070px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(135deg,\x20#667eea\x200%,\x20#764ba2\x20100%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x200\x20auto\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2035px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22>&#128274;</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2\x20style=\x22margin:\x200\x200\x205px;\x20color:\x20#333;\x22>IVAC\x20Automation</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22margin:\x200;\x20color:\x20#999;\x20font-size:\x2014px;\x22>Enter\x20your\x20credentials\x20to\x20continue</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22margin-bottom:\x2020px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20style=\x22display:\x20block;\x20margin-bottom:\x208px;\x20color:\x20#555;\x20font-size:\x2014px;\x20font-weight:\x20bold;\x22>Username</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22auth-username\x22\x20placeholder=\x22Enter\x20username\x22\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x202px\x20solid\x20#e0e0e0;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2014px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-sizing:\x20border-box;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20border-color\x200.3s;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22\x20/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22margin-bottom:\x2025px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20style=\x22display:\x20block;\x20margin-bottom:\x208px;\x20color:\x20#555;\x20font-size:\x2014px;\x20font-weight:\x20bold;\x22>Password</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22password\x22\x20id=\x22auth-password\x22\x20placeholder=\x22Enter\x20password\x22\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x202px\x20solid\x20#e0e0e0;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2014px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-sizing:\x20border-box;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20border-color\x200.3s;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22\x20/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22auth-error\x22\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#fee;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#fcc;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x206px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#c33;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2013px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22auth-login-btn\x22\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2014px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(135deg,\x20#667eea\x200%,\x20#764ba2\x20100%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2016px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20transform\x200.2s;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22>Login</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22margin-top:\x2020px;\x20text-align:\x20center;\x20font-size:\x2012px;\x20color:\x20#999;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Protected\x20by\x20IVAC\x20Authentication\x20System\x20v','map','40%','80px','[OK]\x20CAPTCHA\x20solved!\x20Token\x20filled.','300px','background:\x20#fff;\x20padding:\x2012px;\x20border-radius:\x208px;','flexDirection','<div\x20class=\x22log-entry\x20log-','full-width-input','Application\x20submitted:\x20','assign','includes','auth-password','OTP\x20sent\x20to\x20','find','apply','[OK]\x20Overview\x20submitted\x20successfully!','Enter','slot_times','role','Webfile\x20ID:\x20','dispatchEvent','position','764901ufedoR','https://payment.ivacbd.com/api/v2/jktwdasf-345432-afawerk','width:\x20100%;\x20background:\x20#007bff;\x20color:\x20#fff;\x20margin-bottom:\x206px;','join','contentDiv','minHeight','border','/api/v2/payment/pay-otp-sent','width:\x20100%;\x20background:\x20#28a745;\x20color:\x20#fff;\x20margin-bottom:\x206px;','appendChild','[AUTH]\x20Error:','Token\x20manually\x20set\x20and\x20saved!','borderColor','600','onclick','ivac-panel','Date\x20value','margin-top:\x208px;\x20padding:\x208px;\x20border-radius:\x204px;\x20font-size:\x2011px;\x20display:\x20none;','Key\x20/\x20Value\x20Fields\x20(Drag\x20me)','%c[IVAC]\x20System\x20already\x20loaded\x20(v','ceil','[OK]\x20API\x20detection\x20finished!\x20Copied\x20to\x20clipboard.','getTime','textarea','Token\x20not\x20found!','Enter\x20sitekey\x20here','IVAC_APP_DATA','slim-btn','render','#FF5722','timestamp','\x20Webfile:\x20','Configuration\x20JSON:','select[name=\x22ivac_center\x22],\x20select[id*=\x22ivac\x22],\x20select[placeholder*=\x22IVAC\x20Center\x22]','[ERR]\x20Error:\x20','calc(100%\x20-\x20450px)','0x4AAAAAABpNUpzYeppBoYpe','push','3271744wLQHJv','\x20\x20Filled:\x20','fixed','https://payment.ivacbd.com','Success!\x20Loading...','block','Autofill:\x20Web\x20File\x20ID\x20field\x20not\x20found','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22header-btn\x20btn-autofill\x22\x20data-panel=\x22autofill\x22>Autofill</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22header-btn\x20btn-login\x22\x20data-panel=\x22login\x22>Login</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22header-btn\x20btn-submit\x22\x20data-panel=\x22submit\x22>Submit</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22header-btn\x20btn-payment\x22\x20data-panel=\x22payment\x22>Payment</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22header-btn\x20btn-config\x22\x20data-panel=\x22config\x22>Config</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22header-btn\x22\x20id=\x22minimize-btn\x22\x20style=\x22background:\x20#6c757d;\x20flex:\x200\x200\x2035px;\x20padding:\x205px;\x22>−</button>\x0a\x20\x20\x20\x20','#16a34a','classList','%c[IVAC]\x20Authentication\x20failed.\x20System\x20not\x20loaded.','webfile','scrollTop','POST','length','keyInput','grid','innerText','top','input[name=\x22phone\x22],\x20input[type=\x22tel\x22],\x20input[placeholder*=\x22Phone\x22],\x20input[placeholder*=\x22Mobile\x22]','color:\x20#ffc107;\x20font-weight:\x20bold;','IVAC_AUTH_SESSION','Family\x20fields\x20not\x20found\x20-\x20check\x20if\x20you\x20are\x20on\x20the\x20family\x20info\x20page','#fcc','log-panel-header','resize','nextSibling','#10b981','ivac-header','Config\x20loaded:\x20','779640FWvhkZ','column','[OK]\x20Access\x20Token\x20updated!','placeholder','Save\x20Config','split','177399miWWPs','Send\x20OTP','No\x20family\x20data\x20in\x20config','toLocaleTimeString','Clear\x20Config','blur','input[name=\x22email\x22],\x20input[type=\x22email\x22],\x20input[placeholder*=\x22Email\x22]','webfile_id','#f59e0b','[ERR]\x20Copy\x20API\x20block\x20first!','CAPTCHA\x20sitekey','Submit','[ERR]\x20CAPTCHA\x20token\x20field\x20not\x20found!','log-panel-content','API\x20Overlay\x20(Drag\x20me)','\x0a\x20\x20\x20\x20\x20\x20\x20\x20#ivac-container\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20right:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20700px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#ccc;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x204px\x2012px\x20rgba(0,0,0,0.15);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20Arial,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x209999;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex-direction:\x20column;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ivac-header\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20space-between;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#f5f5f5;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-bottom:\x201px\x20solid\x20#ddd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20move;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.header-btn\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex-grow:\x201;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2010px\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x200\x203px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20all\x200.2s;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.btn-login\x20{\x20background-color:\x20#007bff;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.btn-submit\x20{\x20background-color:\x20#ffc107;\x20color:\x20#333;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.btn-payment\x20{\x20background-color:\x20#dc3545;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.btn-login:hover\x20{\x20background-color:\x20#0069d9;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.btn-submit:hover\x20{\x20background-color:\x20#e0a800;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.btn-payment:hover\x20{\x20background-color:\x20#c82333;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.header-btn:active\x20{\x20transform:\x20scale(0.98);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.header-btn:disabled\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20opacity:\x200.6;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20not-allowed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ivac-content\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#555;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2014px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.popup-panel\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-top:\x201px\x20solid\x20#ddd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#f9f9f9;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.popup-panel.active\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20block;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Login\x20Panel\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ivac-panel\x20input,\x20.ivac-panel\x20textarea\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-sizing:\x20border-box;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x206px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#d0d0d0;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ivac-panel\x20.slim-btn\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x204px\x206px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2012px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20line-height:\x201.2\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20min-height:\x2026px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ivac-panel\x20.button-row\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20gap:\x206px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ivac-panel\x20.button-row\x20input\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex:\x201;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ivac-panel\x20.button-row\x20.slim-btn\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex:\x200\x200\x2090px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ivac-panel\x20.status\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2011px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#444;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20min-height:\x2016px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Submit\x20Panel\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.submit-panel\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex-direction:\x20column;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20gap:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.submit-panel\x20input,\x20.submit-panel\x20textarea\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x204px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#ccc;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-sizing:\x20border-box;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.submit-panel\x20button\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x204px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20background-color\x200.3s;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.submit-panel\x20.btn-row\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20grid;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20grid-template-columns:\x20repeat(3,\x201fr);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20gap:\x204px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.submit-panel\x20.live-msg\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20min-height:\x2040px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#ccc;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x204px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2011px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#f8f9fa;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.submit-panel\x20.kv-container\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#eee;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20max-height:\x20150px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow-y:\x20auto;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.submit-panel\x20.kv-row\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20gap:\x203px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x202px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.submit-panel\x20.kv-row\x20input\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Payment\x20Panel\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.payment-panel-main\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex-direction:\x20column;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20gap:\x204px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#ddd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2013px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.payment-panel-main\x20.message-box\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20min-height:\x2024px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#ccc;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x206px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x204px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#111;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.payment-panel-main\x20.input-row\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20gap:\x203px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.payment-panel-main\x20input\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x204px\x206px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#ccc;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20calc(50%\x20-\x203px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20hidden;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-overflow:\x20ellipsis;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20white-space:\x20nowrap;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.payment-panel-main\x20.full-width-input\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.payment-panel-main\x20button\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x204px\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#6f42c1;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x201px\x204px\x20rgba(0,0,0,0.25);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20opacity\x200.15s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.payment-panel-main\x20button:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20opacity:\x200.85;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Body\x20Wrapper\x20-\x20Side\x20by\x20Side\x20Layout\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ivac-body-wrapper\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex-direction:\x20row;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex:\x201;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20hidden;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Log\x20Panel\x20-\x20Left\x20Side\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.log-panel\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20280px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20min-width:\x20280px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow-y:\x20auto;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#1e1e1e;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#d4d4d4;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20\x27Courier\x20New\x27,\x20monospace;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2011px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-right:\x201px\x20solid\x20#333;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex-direction:\x20column;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.log-panel-header\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#2d2d2d;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-bottom:\x201px\x20solid\x20#444;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#17a2b8;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.log-panel-content\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex:\x201;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow-y:\x20auto;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.log-entry\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x204px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x202px\x204px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-left:\x203px\x20solid\x20#555;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.log-success\x20{\x20border-left-color:\x20#28a745;\x20color:\x20#28a745;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.log-error\x20{\x20border-left-color:\x20#dc3545;\x20color:\x20#dc3545;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.log-warning\x20{\x20border-left-color:\x20#ffc107;\x20color:\x20#ffc107;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.log-info\x20{\x20border-left-color:\x20#17a2b8;\x20color:\x20#17a2b8;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Main\x20Content\x20Area\x20-\x20Right\x20Side\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ivac-main-content\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex:\x201;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex-direction:\x20column;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow-y:\x20auto;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20','70px','2px','message-box','valueInput','name','Personal\x20info\x20error:\x20','setItem','shift','/api/v2/payment/application-r5s7h3-submit-hyju6t','message','Bearer\x20','[ERR]\x20API\x20block\x20not\x20found!','input','Connection\x20error.\x20Please\x20check\x20internet\x20connection.','autofill','7kRkNcp','focus','color:\x20#dc3545;\x20font-weight:\x20bold;','CAPTCHA\x20token\x20filled','System\x20ready\x20-\x20Check\x20bottom\x20right\x20corner','6kFSxKD','Enter\x20OTP','Invalid\x20JSON\x20format:\x20','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','visa_type','overflowY','[ERR]\x20Bearer\x20Token\x20is\x20required!','font-size:\x2011px;\x20font-weight:\x20600;\x20margin-bottom:\x204px;\x20color:\x20#374151;','Time\x20value','#3b82f6','auth-error','Autofill:\x20','left','textContent','Autofill:\x20Web\x20File\x20ID\x20filled\x20-\x20','[OK]\x20Endpoint\x20&\x20keys\x20auto-filled!','Default\x20Slot\x20Time\x20filled.','json','https://payment.ivacbd.com/api/v2/login-otp','0\x200\x2090px','_method','log-panel','click','][name]\x22]','1.0.0','input[id*=\x22family\x22][id*=\x22name\x22][id*=\x22','Get\x20Slot\x20Time','keypress','\x20form\x20fields\x20filled','Pay\x20Now','24JAnAkc','forEach','#e0e0e0','11px','OTP\x20error:\x20','23996CxTSFN','cursor','[OK]\x20Access\x20Token\x20auto-filled\x20from\x20localStorage!','opacity','09:00\x20-\x2009:59','\x20\x20[','#22c55e','center','সঠিক\x207\x20অংকের\x20OTP\x20দিন।','Panel\x20switched:\x20','{\x0a\x20\x20\x22webfile_id\x22:\x20\x22BGDRV8490D25\x22,\x0a\x20\x20\x22mission\x22:\x20\x223\x22,\x0a\x20\x20\x22ivac_center\x22:\x20\x22IVACRAJ|2\x22,\x0a\x20\x20\x22visa_type\x22:\x20\x226\x22,\x0a\x20\x20\x22family_count\x22:\x20\x224\x22,\x0a\x20\x20\x22asweoi_erilfs\x22:\x20\x22Medical\x20medical\x20medical\x22,\x0a\x20\x20\x22family_data\x22:\x20[\x0a\x20\x20\x20\x20{\x22name\x22:\x22Full\x20Name\x22,\x20\x22webfile\x22:\x22BGDRV1234567\x22}\x0a\x20\x20],\x0a\x20\x20\x22personal_info\x22:\x20{\x0a\x20\x20\x20\x20\x22full_name\x22:\x20\x22Your\x20Name\x22,\x0a\x20\x20\x20\x20\x22email_name\x22:\x20\x22email@example.com\x22,\x0a\x20\x20\x20\x20\x22phone\x22:\x20\x2201234567890\x22\x0a\x20\x20}\x0a}','</strong>\x20license\x20expired\x20on<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<strong>','div','width','prototype','[ERR]\x20No\x20access_token\x20found\x20in\x20localStorage!','webfile_id_repeat','color','N/A','0.9','margin-top:\x2012px;\x20padding:\x208px;\x20background:\x20#f3f4f6;\x20border-radius:\x204px;\x20font-size:\x2010px;\x20color:\x20#4b5563;','color:\x20#28a745;','Are\x20you\x20sure\x20you\x20want\x20to\x20clear\x20the\x20saved\x20configuration?','input[name=\x22purpose\x22],\x20textarea[name=\x22purpose\x22],\x20input[placeholder*=\x22Purpose\x22],\x20textarea[placeholder*=\x22Purpose\x22]','btn','Overview\x20error:\x20','Submit\x20error:\x20','display','\x20starting...','querySelector','text','getElementById','email_name','popup-panel','</strong>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22color:\x20#999;\x20font-size:\x2014px;\x20margin:\x200\x200\x2020px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Please\x20contact\x20administrator\x20to\x20renew\x20your\x20access.\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20onclick=\x22this.parentElement.parentElement.remove()\x22\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#dc3545;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2012px\x2030px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x206px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2014px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22>Close</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','#6c757d','mousemove','color:\x20#28a745;\x20font-weight:\x20bold;','fontFamily','#fee2e2','Upload\x20or\x20edit\x20your\x20IVAC_APP_DATA\x20configuration.\x20This\x20data\x20will\x20be\x20saved\x20locally\x20and\x20auto-populate\x20all\x20forms.','ivac_center','Error\x20fetching\x20slot\x20times:\x20','Unknown\x20error','Configuration\x20saved\x20successfully!','family_data','[OK]\x20Personal\x20Info\x20submitted\x20successfully!','ivac-container','[ERR]\x20No\x20config\x20found.\x20Upload\x20config\x20first!','appointment_date\x20(key)','CAPTCHA\x20solved','IVAC_VERSION','120lVTCez','value','#28a745','_blank','clipboard','mousedown','No\x20saved\x20configuration\x20found','marginBottom','visacard','https://raw.githubusercontent.com/Hasan1817/ivacbd/refs/heads/main/users-encrypted.json','margin-bottom:\x208px;\x20padding:\x206px;\x20border-radius:\x204px;\x20font-size:\x2011px;\x20display:\x20none;','1px\x20dashed\x20#cfcfcf','No\x20config\x20found.\x20Upload\x20config\x20first.','#ff9800','3012TRpPsl','now','Mobile\x20Number:\x20'];_0x19ef=function(){return _0x3b0c7f;};return _0x19ef();}function _0x318a(){const _0x32ce81=_0x60d7,_0x39fc37=['select[name=\x22visa_type\x22],\x20select[id*=\x22visa\x22],\x20input[name=\x22visa_type\x22]',_0x32ce81(0x1bc),'IVAC_APP_DATA',_0x32ce81(0x282),_0x32ce81(0x324),'%c[AUTH]\x20Login\x20successful:\x20','OTP\x20verification\x20failed',_0x32ce81(0x363),_0x32ce81(0x1a2),_0x32ce81(0x1c4),_0x32ce81(0x300),_0x32ce81(0x1a6),_0x32ce81(0x2b6),_0x32ce81(0x303),_0x32ce81(0x29f),_0x32ce81(0x266),_0x32ce81(0x321),_0x32ce81(0x1b6),_0x32ce81(0x2bb),'Slot\x20Time\x20পাওয়া\x20যায়নি।',_0x32ce81(0x1d4),_0x32ce81(0x1c1),_0x32ce81(0x254),_0x32ce81(0x2b7),_0x32ce81(0x2a5),'init','</div>',_0x32ce81(0x27c),'IVAC\x20—\x20Autofill',_0x32ce81(0x2e7),_0x32ce81(0x209),_0x32ce81(0x342),_0x32ce81(0x2b4),_0x32ce81(0x263),'input-row',_0x32ce81(0x33e),_0x32ce81(0x1f1),_0x32ce81(0x1a1),'slim-btn',_0x32ce81(0x1d6),_0x32ce81(0x243),_0x32ce81(0x1a7),'OTP\x20sending\x20failed:\x20',_0x32ce81(0x309),'warning',_0x32ce81(0x1bd),_0x32ce81(0x20d),_0x32ce81(0x204),_0x32ce81(0x233),_0x32ce81(0x32a),_0x32ce81(0x227),_0x32ce81(0x290),'red',_0x32ce81(0x224),_0x32ce81(0x2be),_0x32ce81(0x35a),'#666',_0x32ce81(0x33b),_0x32ce81(0x1cd),'CAPTCHA\x20will\x20appear\x20here...',_0x32ce81(0x19a),_0x32ce81(0x247),'[OK]\x20Login\x20successful',_0x32ce81(0x283),_0x32ce81(0x1f4),_0x32ce81(0x2af),_0x32ce81(0x2b8),_0x32ce81(0x1ec),_0x32ce81(0x2da),_0x32ce81(0x302),_0x32ce81(0x2fc),'full_name',_0x32ce81(0x2ec),_0x32ce81(0x345),_0x32ce81(0x1da),_0x32ce81(0x1bb),_0x32ce81(0x28a),_0x32ce81(0x1b4),'\x20fields\x20filled',_0x32ce81(0x36f),_0x32ce81(0x320),_0x32ce81(0x368),_0x32ce81(0x1ae),_0x32ce81(0x1ed),_0x32ce81(0x338),'OTP\x20send\x20failed:\x20',_0x32ce81(0x34f),_0x32ce81(0x1a5),'k5t0g8_token_y4v9f6',_0x32ce81(0x1df),'grabbing',_0x32ce81(0x1d5),_0x32ce81(0x2ef),'Please\x20enter\x20both\x20username\x20and\x20password','প্রথমে\x20একটি\x20তারিখ\x20সিলেক্ট\x20করুন।',_0x32ce81(0x2d2),_0x32ce81(0x27e),_0x32ce81(0x1d7),_0x32ce81(0x30c),_0x32ce81(0x244),_0x32ce81(0x384),_0x32ce81(0x2a9),_0x32ce81(0x29c),_0x32ce81(0x353),_0x32ce81(0x2e3),_0x32ce81(0x367),_0x32ce81(0x310),_0x32ce81(0x2d5),_0x32ce81(0x24d),'/api/v2/payment/pay-otp-verify',_0x32ce81(0x1f6),_0x32ce81(0x237),'#17a2b8',_0x32ce81(0x305),_0x32ce81(0x2b0),_0x32ce81(0x332),_0x32ce81(0x21b),'Authentication\x20system\x20error.\x20Please\x20try\x20again.',_0x32ce81(0x1dc),'auth-username',_0x32ce81(0x24e),_0x32ce81(0x29b),'.\x20Please\x20contact\x20administrator.','Please\x20enter\x20configuration\x20data',_0x32ce81(0x333),_0x32ce81(0x26f),'mouseover',_0x32ce81(0x2cd),_0x32ce81(0x2ee),_0x32ce81(0x202),_0x32ce81(0x1f0),'Slot\x20Time\x20available\x20&\x20auto-filled.','Configuration\x20Management','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20rgba(0,0,0,0.85);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x20999999;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20Arial,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20',_0x32ce81(0x329),_0x32ce81(0x370),'stopPropagation',_0x32ce81(0x218),_0x32ce81(0x2ab),'#006400',_0x32ce81(0x19c),_0x32ce81(0x2e9),_0x32ce81(0x2fb),_0x32ce81(0x207),_0x32ce81(0x1bf),'Error:\x20',_0x32ce81(0x360),_0x32ce81(0x221),_0x32ce81(0x274),_0x32ce81(0x2cc),'src',_0x32ce81(0x22b),'10px',_0x32ce81(0x203),_0x32ce81(0x23e),_0x32ce81(0x28f),_0x32ce81(0x30b),_0x32ce81(0x352),_0x32ce81(0x20c),_0x32ce81(0x21e),_0x32ce81(0x24f),_0x32ce81(0x30f),_0x32ce81(0x2c0),_0x32ce81(0x2d9),'style','userExpires',_0x32ce81(0x2de),_0x32ce81(0x1c2),_0x32ce81(0x354),'Family\x20data\x20logged\x20(',_0x32ce81(0x37d),_0x32ce81(0x343),_0x32ce81(0x326),'[OK]\x20Payload\x20submitted\x20successfully!','55%',_0x32ce81(0x23a),_0x32ce81(0x267),_0x32ce81(0x205),_0x32ce81(0x375),_0x32ce81(0x271),'light',_0x32ce81(0x32d),_0x32ce81(0x1eb),'6px',_0x32ce81(0x31a),_0x32ce81(0x208),_0x32ce81(0x34b),_0x32ce81(0x331),'16px',_0x32ce81(0x37c),_0x32ce81(0x317),_0x32ce81(0x36c),_0x32ce81(0x37e),_0x32ce81(0x220),_0x32ce81(0x2d8),'top',_0x32ce81(0x2c9),'Access\x20Token\x20will\x20appear\x20here','logs',_0x32ce81(0x315),_0x32ce81(0x356),'Authenticating...','submit',_0x32ce81(0x232),_0x32ce81(0x2ae),_0x32ce81(0x2d0),'render',_0x32ce81(0x36b),_0x32ce81(0x37b),_0x32ce81(0x251),_0x32ce81(0x32b),_0x32ce81(0x20f),'success',_0x32ce81(0x27f),'data',_0x32ce81(0x2ba),_0x32ce81(0x30a),_0x32ce81(0x379),_0x32ce81(0x19d),_0x32ce81(0x21d),_0x32ce81(0x364),_0x32ce81(0x1e0),'Configuration\x20cleared!',_0x32ce81(0x36d),'POST',_0x32ce81(0x36e),_0x32ce81(0x33f),'51972XgIton','input[name=\x22full_name\x22],\x20input[placeholder*=\x22Name\x22],\x20input[id*=\x22name\x22]',_0x32ce81(0x35d),_0x32ce81(0x1b2),_0x32ce81(0x2dd),_0x32ce81(0x339),_0x32ce81(0x318),_0x32ce81(0x286),_0x32ce81(0x21a),_0x32ce81(0x1b0),'Invalid\x20username\x20or\x20password',_0x32ce81(0x2cf),_0x32ce81(0x316),_0x32ce81(0x2c7),'Invalid\x20OTP\x20format\x20(must\x20be\x206\x20digits)','Parse\x20&\x20Fill',_0x32ce81(0x2aa),'appendChild',_0x32ce81(0x206),_0x32ce81(0x1fd),_0x32ce81(0x2fa),_0x32ce81(0x323),_0x32ce81(0x201),_0x32ce81(0x34c),_0x32ce81(0x1b1),'No\x20matching\x20fields\x20found\x20on\x20page',_0x32ce81(0x259),_0x32ce81(0x2a7),_0x32ce81(0x1e2),'IVAC_AUTOMATION_LOADED',_0x32ce81(0x275),_0x32ce81(0x2e6),_0x32ce81(0x261),_0x32ce81(0x1a9),'#28a745','container',_0x32ce81(0x306),_0x32ce81(0x24a),_0x32ce81(0x2f0),'input[name=\x22web_file_no\x22],\x20input[name=\x22webfile\x22],\x20input[placeholder*=\x22Web\x20File\x22]','transform','Submitting\x20payload...',_0x32ce81(0x1af),_0x32ce81(0x2e2),'Password','CAPTCHA\x20token',_0x32ce81(0x1ac),_0x32ce81(0x250),_0x32ce81(0x32c),_0x32ce81(0x217),_0x32ce81(0x374),_0x32ce81(0x19e),_0x32ce81(0x1c0),_0x32ce81(0x2a4),_0x32ce81(0x31c),_0x32ce81(0x21c),_0x32ce81(0x228),_0x32ce81(0x1aa),_0x32ce81(0x376),'fetch',_0x32ce81(0x25d),'80736qSkNrV',_0x32ce81(0x1d0),'Access\x20Token\x20updated','calc(100%\x20-\x2024px)','https://payment.ivacbd.com/api/v2/mobile-verify',_0x32ce81(0x2db),_0x32ce81(0x262),'green',_0x32ce81(0x1fe),'writeText',_0x32ce81(0x1fc),'status',_0x32ce81(0x2d7),_0x32ce81(0x20e),_0x32ce81(0x26e),_0x32ce81(0x22d),'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20rgba(0,0,0,0.8);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x20999999;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20Arial,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20',_0x32ce81(0x1dd),_0x32ce81(0x298),_0x32ce81(0x1b3),_0x32ce81(0x2e8),_0x32ce81(0x1d2),_0x32ce81(0x219),_0x32ce81(0x1a8),'left',_0x32ce81(0x37a),_0x32ce81(0x297),'Config\x20cleared\x20from\x20localStorage',_0x32ce81(0x350),_0x32ce81(0x359),_0x32ce81(0x25b),'Endpoint\x20Path',_0x32ce81(0x276),_0x32ce81(0x1cb),_0x32ce81(0x2ff),_0x32ce81(0x284),_0x32ce81(0x29a),_0x32ce81(0x380),_0x32ce81(0x20a),_0x32ce81(0x291),_0x32ce81(0x2c3),_0x32ce81(0x319),_0x32ce81(0x1e4),_0x32ce81(0x285),_0x32ce81(0x335),_0x32ce81(0x2f9),_0x32ce81(0x2b2),'Unable\x20to\x20verify\x20credentials.\x20Please\x20try\x20again.','minimize-btn','Family\x20count:\x20','Success','assign',_0x32ce81(0x328),_0x32ce81(0x35e),_0x32ce81(0x212),_0x32ce81(0x29e),_0x32ce81(0x1f8),_0x32ce81(0x358),'exec','text','users',_0x32ce81(0x1cc),_0x32ce81(0x2fe),_0x32ce81(0x1f2),_0x32ce81(0x1e8),_0x32ce81(0x1f3),_0x32ce81(0x1ca),'%c[AUTH]\x20Session\x20valid,\x20welcome\x20back\x20',_0x32ce81(0x312),_0x32ce81(0x26d),'[OK]\x20IVAC\x20System\x20loaded\x20successfully!','input[id*=\x22family\x22][id*=\x22webfile\x22][id*=\x22','0.6',_0x32ce81(0x2ea),'120px',_0x32ce81(0x20b),'Existing\x20token\x20loaded',_0x32ce81(0x348),_0x32ce81(0x2a6),'[OK]\x20Verify\x20OTP','zIndex',_0x32ce81(0x2c5),_0x32ce81(0x2c8),_0x32ce81(0x26a),_0x32ce81(0x362),_0x32ce81(0x231),_0x32ce81(0x2ca),_0x32ce81(0x28e),_0x32ce81(0x311),_0x32ce81(0x293),_0x32ce81(0x2bd),_0x32ce81(0x307),'Login\x20failed:\x20',_0x32ce81(0x1c8),_0x32ce81(0x347),_0x32ce81(0x1f7),_0x32ce81(0x1fb),'%c[IVAC]\x20Automation\x20System\x20v',_0x32ce81(0x31d),_0x32ce81(0x1b5),_0x32ce81(0x1e5),_0x32ce81(0x1c9),_0x32ce81(0x1b9),_0x32ce81(0x1ab),_0x32ce81(0x2a1),_0x32ce81(0x37f),_0x32ce81(0x1d3),_0x32ce81(0x27a),_0x32ce81(0x21f),_0x32ce81(0x327),_0x32ce81(0x351),_0x32ce81(0x234),_0x32ce81(0x260),_0x32ce81(0x1ba),_0x32ce81(0x35f),'OTP\x20sent!',_0x32ce81(0x2c4),'Error\x20loading\x20config:\x20',_0x32ce81(0x1cf),'live-msg','offsetTop',_0x32ce81(0x240),_0x32ce81(0x253),_0x32ce81(0x322),_0x32ce81(0x1e3),_0x32ce81(0x213),_0x32ce81(0x33a),'input[name=\x22webfile_id_repeat\x22],\x20input[placeholder*=\x22Confirm\x20Web\x20File\x22]',_0x32ce81(0x1ef),'https://payment.ivacbd.com',_0x32ce81(0x256),_0x32ce81(0x373),_0x32ce81(0x314),'Web\x20File\x20ID\x20field\x20not\x20found\x20on\x20page','[ERR]\x20',_0x32ce81(0x1a4),_0x32ce81(0x288),'key','visa_type',_0x32ce81(0x378),_0x32ce81(0x1be),_0x32ce81(0x236),_0x32ce81(0x281),_0x32ce81(0x246),_0x32ce81(0x1e6),'[ERR]\x20API\x20block\x20not\x20found!',_0x32ce81(0x2f3),_0x32ce81(0x35b),_0x32ce81(0x337),_0x32ce81(0x2bc),'captcha_token\x20(key)',_0x32ce81(0x19b),_0x32ce81(0x369),_0x32ce81(0x26c),_0x32ce81(0x25e),_0x32ce81(0x32e),_0x32ce81(0x294),'parse',_0x32ce81(0x381),_0x32ce81(0x2eb),_0x32ce81(0x2bf),_0x32ce81(0x2f4),_0x32ce81(0x26b),_0x32ce81(0x287),_0x32ce81(0x2f8),_0x32ce81(0x1d9),_0x32ce81(0x2b3),'asweoi_erilfs',_0x32ce81(0x292),'turnstile',_0x32ce81(0x36a),_0x32ce81(0x2fd),'#ffc107',_0x32ce81(0x31b),'Show\x20CAPTCHA',_0x32ce81(0x34a),_0x32ce81(0x1d1),'_url',_0x32ce81(0x27d),_0x32ce81(0x277),_0x32ce81(0x336),_0x32ce81(0x299),_0x32ce81(0x225),_0x32ce81(0x22f),_0x32ce81(0x366),_0x32ce81(0x252),_0x32ce81(0x279),_0x32ce81(0x1e9),_0x32ce81(0x23c),_0x32ce81(0x2d6),_0x32ce81(0x2e0),_0x32ce81(0x23d),_0x32ce81(0x2c2),_0x32ce81(0x22a),_0x32ce81(0x1ee),'Missing\x20required\x20fields:\x20',_0x32ce81(0x272),_0x32ce81(0x241),'token',_0x32ce81(0x31f),_0x32ce81(0x2a0),_0x32ce81(0x2b9),_0x32ce81(0x258),_0x32ce81(0x1f5),'Login\x20successful:\x20',_0x32ce81(0x330),_0x32ce81(0x1a0),_0x32ce81(0x346),_0x32ce81(0x1ff),_0x32ce81(0x2e1),_0x32ce81(0x295),_0x32ce81(0x238),_0x32ce81(0x2f1),_0x32ce81(0x334),_0x32ce81(0x1b8),_0x32ce81(0x341),'Token\x20cleared!','0\x200\x2012px\x20rgba(0,0,0,0.3)',_0x32ce81(0x273),_0x32ce81(0x1c5),'font-weight:\x20bold;\x20font-size:\x2014px;\x20margin-bottom:\x2010px;\x20padding-bottom:\x208px;\x20border-bottom:\x202px\x20solid\x20#e5e7eb;',_0x32ce81(0x257),_0x32ce81(0x2df),_0x32ce81(0x2b1),'Fill\x20All\x20Form\x20Fields',_0x32ce81(0x245)];return _0x318a=function(){return _0x39fc37;},_0x318a();}
+(function() {
+    'use strict';
+
+    // ==================== VERSION & LOADING CHECK ====================
+    const SCRIPT_VERSION = '1.0.0';
+    
+    // Prevent duplicate loading
+    if (window.IVAC_AUTOMATION_LOADED) {
+        console.log('%c[IVAC] System already loaded (v' + SCRIPT_VERSION + ')', 'color: #ffc107; font-weight: bold;');
+        return;
+    }
+    
+    console.log('%c[IVAC] Automation System v' + SCRIPT_VERSION + ' starting...', 'color: #28a745; font-weight: bold;');
+    
+    // Mark as loaded
+    window.IVAC_AUTOMATION_LOADED = true;
+    window.IVAC_VERSION = SCRIPT_VERSION;
+
+    // ==================== AUTHENTICATION SYSTEM ====================
+    // User database URL - Points to your GitHub-hosted user database
+    const USER_DB_URL = 'https://raw.githubusercontent.com/Hasan1817/ivacbd/refs/heads/main/users-encrypted.json';
+    
+    // Check authentication before proceeding
+    async function checkAuthentication() {
+        // Check if already authenticated in this session
+        const session = localStorage.getItem('IVAC_AUTH_SESSION');
+        if (session) {
+            try {
+                const sessionData = JSON.parse(session);
+                const now = new Date().getTime();
+                
+                // Check if session is still valid (not expired)
+                if (sessionData.sessionExpires && sessionData.sessionExpires > now) {
+                    // Check if user license hasn't expired
+                    const licenseExpiry = new Date(sessionData.userExpires).getTime();
+                    if (licenseExpiry > now) {
+                        console.log('%c[AUTH] Session valid, welcome back ' + sessionData.username, 'color: #28a745;');
+                        showExpiryWarning(sessionData.userExpires, sessionData.username);
+                        return true;
+                    } else {
+                        localStorage.removeItem('IVAC_AUTH_SESSION');
+                        showExpiredModal(sessionData.username, sessionData.userExpires);
+                        return false;
+                    }
+                }
+            } catch (e) {
+                localStorage.removeItem('IVAC_AUTH_SESSION');
+            }
+        }
+        
+        // Need to login
+        return await showLoginModal();
+    }
+    
+    function showExpiryWarning(expiryDate, username) {
+        const now = new Date();
+        const expiry = new Date(expiryDate);
+        const daysLeft = Math.ceil((expiry - now) / (1000 * 60 * 60 * 24));
+        
+        if (daysLeft <= 7 && daysLeft > 0) {
+            console.log('%c[WARNING] Your license expires in ' + daysLeft + ' days (' + expiryDate + ')', 'color: #ffc107; font-weight: bold;');
+        }
+    }
+    
+    function showExpiredModal(username, expiryDate) {
+        const modal = document.createElement('div');
+        modal.style.cssText = `
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.8);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 999999;
+            font-family: Arial, sans-serif;
+        `;
+        
+        modal.innerHTML = `
+            <div style="
+                background: white;
+                padding: 30px;
+                border-radius: 12px;
+                max-width: 400px;
+                text-align: center;
+                box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+            ">
+                <div style="
+                    width: 60px;
+                    height: 60px;
+                    background: #dc3545;
+                    border-radius: 50%;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    margin: 0 auto 20px;
+                    font-size: 30px;
+                    color: white;
+                ">✕</div>
+                <h2 style="margin: 0 0 10px; color: #333;">License Expired</h2>
+                <p style="color: #666; margin: 0 0 20px; line-height: 1.5;">
+                    User <strong>${username}</strong> license expired on<br>
+                    <strong>${expiryDate}</strong>
+                </p>
+                <p style="color: #999; font-size: 14px; margin: 0 0 20px;">
+                    Please contact administrator to renew your access.
+                </p>
+                <button onclick="this.parentElement.parentElement.remove()" style="
+                    background: #dc3545;
+                    color: white;
+                    border: none;
+                    padding: 12px 30px;
+                    border-radius: 6px;
+                    cursor: pointer;
+                    font-size: 14px;
+                    font-weight: bold;
+                ">Close</button>
+            </div>
+        `;
+        
+        document.body.appendChild(modal);
+    }
+    
+    async function showLoginModal() {
+        return new Promise((resolve) => {
+            const modal = document.createElement('div');
+            modal.id = 'ivac-auth-modal';
+            modal.style.cssText = `
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: rgba(0,0,0,0.85);
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                z-index: 999999;
+                font-family: Arial, sans-serif;
+            `;
+            
+            const form = document.createElement('div');
+            form.style.cssText = `
+                background: white;
+                padding: 40px;
+                border-radius: 12px;
+                max-width: 400px;
+                width: 90%;
+                box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+            `;
+            
+            form.innerHTML = `
+                <div style="text-align: center; margin-bottom: 30px;">
+                    <div style="
+                        width: 70px;
+                        height: 70px;
+                        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                        border-radius: 50%;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        margin: 0 auto 15px;
+                        font-size: 35px;
+                        color: white;
+                    ">&#128274;</div>
+                    <h2 style="margin: 0 0 5px; color: #333;">IVAC Automation</h2>
+                    <p style="margin: 0; color: #999; font-size: 14px;">Enter your credentials to continue</p>
+                </div>
+                
+                <div style="margin-bottom: 20px;">
+                    <label style="display: block; margin-bottom: 8px; color: #555; font-size: 14px; font-weight: bold;">Username</label>
+                    <input type="text" id="auth-username" placeholder="Enter username" style="
+                        width: 100%;
+                        padding: 12px;
+                        border: 2px solid #e0e0e0;
+                        border-radius: 8px;
+                        font-size: 14px;
+                        box-sizing: border-box;
+                        transition: border-color 0.3s;
+                    " />
+                </div>
+                
+                <div style="margin-bottom: 25px;">
+                    <label style="display: block; margin-bottom: 8px; color: #555; font-size: 14px; font-weight: bold;">Password</label>
+                    <input type="password" id="auth-password" placeholder="Enter password" style="
+                        width: 100%;
+                        padding: 12px;
+                        border: 2px solid #e0e0e0;
+                        border-radius: 8px;
+                        font-size: 14px;
+                        box-sizing: border-box;
+                        transition: border-color 0.3s;
+                    " />
+                </div>
+                
+                <div id="auth-error" style="
+                    display: none;
+                    padding: 12px;
+                    background: #fee;
+                    border: 1px solid #fcc;
+                    border-radius: 6px;
+                    color: #c33;
+                    font-size: 13px;
+                    margin-bottom: 20px;
+                    text-align: center;
+                "></div>
+                
+                <button id="auth-login-btn" style="
+                    width: 100%;
+                    padding: 14px;
+                    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                    color: white;
+                    border: none;
+                    border-radius: 8px;
+                    font-size: 16px;
+                    font-weight: bold;
+                    cursor: pointer;
+                    transition: transform 0.2s;
+                ">Login</button>
+                
+                <div style="margin-top: 20px; text-align: center; font-size: 12px; color: #999;">
+                    Protected by IVAC Authentication System v${SCRIPT_VERSION}
+                </div>
+            `;
+            
+            modal.appendChild(form);
+            document.body.appendChild(modal);
+            
+            const usernameInput = document.getElementById('auth-username');
+            const passwordInput = document.getElementById('auth-password');
+            const loginBtn = document.getElementById('auth-login-btn');
+            const errorDiv = document.getElementById('auth-error');
+            
+            // Focus username field
+            setTimeout(() => usernameInput.focus(), 100);
+            
+            // Add input focus effects
+            [usernameInput, passwordInput].forEach(input => {
+                input.addEventListener('focus', () => {
+                    input.style.borderColor = '#667eea';
+                });
+                input.addEventListener('blur', () => {
+                    input.style.borderColor = '#e0e0e0';
+                });
+            });
+            
+            // Enter key to submit
+            passwordInput.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') loginBtn.click();
+            });
+            
+            loginBtn.addEventListener('click', async () => {
+                const username = usernameInput.value.trim();
+                const password = passwordInput.value;
+                
+                if (!username || !password) {
+                    showError('Please enter both username and password');
+                    return;
+                }
+                
+                loginBtn.disabled = true;
+                loginBtn.textContent = 'Authenticating...';
+                errorDiv.style.display = 'none';
+                
+                try {
+                    const result = await validateCredentials(username, password);
+                    
+                    if (result.success) {
+                        // Save session (valid for 24 hours)
+                        const sessionData = {
+                            username: username,
+                            userExpires: result.userExpires,
+                            sessionExpires: new Date().getTime() + (24 * 60 * 60 * 1000),
+                            role: result.role
+                        };
+                        localStorage.setItem('IVAC_AUTH_SESSION', JSON.stringify(sessionData));
+                        
+                        // Show success
+                        loginBtn.style.background = '#28a745';
+                        loginBtn.textContent = 'Success! Loading...';
+                        
+                        setTimeout(() => {
+                            modal.remove();
+                            showExpiryWarning(result.userExpires, username);
+                            resolve(true);
+                        }, 800);
+                    } else {
+                        showError(result.error);
+                        loginBtn.disabled = false;
+                        loginBtn.textContent = 'Login';
+                    }
+                } catch (err) {
+                    showError('Connection error. Please check internet connection.');
+                    loginBtn.disabled = false;
+                    loginBtn.textContent = 'Login';
+                }
+            });
+            
+            function showError(message) {
+                errorDiv.textContent = message;
+                errorDiv.style.display = 'block';
+                usernameInput.style.borderColor = '#fcc';
+                passwordInput.style.borderColor = '#fcc';
+                setTimeout(() => {
+                    usernameInput.style.borderColor = '#e0e0e0';
+                    passwordInput.style.borderColor = '#e0e0e0';
+                }, 2000);
+            }
+        });
+    }
+    
+    async function validateCredentials(username, password) {
+        try {
+            // Fetch user database
+            const response = await fetch(USER_DB_URL + '?t=' + Date.now(), {
+                cache: 'no-cache'
+            });
+            
+            if (!response.ok) {
+                return {
+                    success: false,
+                    error: 'Unable to verify credentials. Please try again.'
+                };
+            }
+            
+            const data = await response.json();
+            const user = data.users[username];
+            
+            if (!user) {
+                return {
+                    success: false,
+                    error: 'Invalid username or password'
+                };
+            }
+            
+            // Decode and check password (base64 encoded in database)
+            const decodedPassword = atob(user.password);
+            if (decodedPassword !== password) {
+                return {
+                    success: false,
+                    error: 'Invalid username or password'
+                };
+            }
+            
+            // Check expiry date
+            const expiryDate = new Date(user.expires);
+            const now = new Date();
+            
+            if (expiryDate < now) {
+                return {
+                    success: false,
+                    error: 'Your license expired on ' + user.expires + '. Please contact administrator.'
+                };
+            }
+            
+            // Success
+            console.log('%c[AUTH] Login successful: ' + username, 'color: #28a745; font-weight: bold;');
+            return {
+                success: true,
+                userExpires: user.expires,
+                role: user.role || 'basic'
+            };
+            
+        } catch (err) {
+            console.error('[AUTH] Error:', err);
+            return {
+                success: false,
+                error: 'Authentication system error. Please try again.'
+            };
+        }
+    }
+
+    // ==================== AUTHENTICATION GATE ====================
+    // Check authentication before initializing main system
+    (async function initializeSystem() {
+        const isAuthenticated = await checkAuthentication();
+        
+        if (!isAuthenticated) {
+            console.log('%c[IVAC] Authentication failed. System not loaded.', 'color: #dc3545; font-weight: bold;');
+            return;
+        }
+        
+        console.log('%c[IVAC] Authentication successful. Loading main system...', 'color: #28a745; font-weight: bold;');
+
+    // ==================== DATA ====================
+    // Configuration is now managed through the Config panel
+    // Click "Config" button to upload your IVAC_APP_DATA
+    // Data will be saved to localStorage and auto-populate all forms
+
+    // ==================== STYLES ====================
+    const style = document.createElement('style');
+    style.innerHTML = `
+        #ivac-container {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            width: 700px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            font-family: Arial, sans-serif;
+            z-index: 9999;
+            display: flex;
+            flex-direction: column;
+        }
+        .ivac-header {
+            display: flex;
+            justify-content: space-between;
+            padding: 5px;
+            background-color: #f5f5f5;
+            border-bottom: 1px solid #ddd;
+            cursor: move;
+        }
+        .header-btn {
+            flex-grow: 1;
+            padding: 10px 5px;
+            margin: 0 3px;
+            border: none;
+            cursor: pointer;
+            font-size: 12px;
+            font-weight: bold;
+            color: #fff;
+            border-radius: 5px;
+            transition: all 0.2s;
+            text-align: center;
+        }
+        .btn-login { background-color: #007bff; }
+        .btn-submit { background-color: #ffc107; color: #333; }
+        .btn-payment { background-color: #dc3545; }
+        .btn-login:hover { background-color: #0069d9; }
+        .btn-submit:hover { background-color: #e0a800; }
+        .btn-payment:hover { background-color: #c82333; }
+        .header-btn:active { transform: scale(0.98); }
+        .header-btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+        
+        .ivac-content {
+            padding: 15px;
+            color: #555;
+            font-size: 14px;
+        }
+        .popup-panel {
+            display: none;
+            padding: 15px;
+            border-top: 1px solid #ddd;
+            background-color: #f9f9f9;
+        }
+        .popup-panel.active {
+            display: block;
+        }
+        
+        /* Login Panel */
+        .ivac-panel input, .ivac-panel textarea {
+            width: 100%;
+            box-sizing: border-box;
+            padding: 8px;
+            border-radius: 6px;
+            border: 1px solid #d0d0d0;
+            font-size: 12px;
+        }
+        .ivac-panel .slim-btn {
+            padding: 4px 6px !important;
+            font-size: 12px !important;
+            line-height: 1.2 !important;
+            min-height: 26px !important;
+            border-radius: 5px !important;
+            border: none !important;
+            cursor: pointer !important;
+        }
+        .ivac-panel .button-row {
+            display: flex;
+            gap: 6px;
+        }
+        .ivac-panel .button-row input {
+            flex: 1;
+        }
+        .ivac-panel .button-row .slim-btn {
+            flex: 0 0 90px;
+        }
+        .ivac-panel .status {
+            font-size: 11px;
+            color: #444;
+            min-height: 16px;
+            text-align: center;
+        }
+        
+        /* Submit Panel */
+        .submit-panel {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            padding: 10px;
+        }
+        .submit-panel input, .submit-panel textarea {
+            padding: 8px;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+            font-size: 12px;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        .submit-panel button {
+            padding: 8px;
+            font-size: 12px;
+            border-radius: 4px;
+            border: none;
+            cursor: pointer;
+            color: #fff;
+            transition: background-color 0.3s;
+        }
+        .submit-panel .btn-row {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 4px;
+        }
+        .submit-panel .live-msg {
+            min-height: 40px;
+            border: 1px solid #ccc;
+            padding: 4px;
+            font-size: 11px;
+            background: #f8f9fa;
+        }
+        .submit-panel .kv-container {
+            border: 1px solid #eee;
+            padding: 5px;
+            max-height: 150px;
+            overflow-y: auto;
+        }
+        .submit-panel .kv-row {
+            display: flex;
+            gap: 3px;
+            margin-bottom: 2px;
+        }
+        .submit-panel .kv-row input {
+            width: 50%;
+        }
+        
+        /* Payment Panel */
+        .payment-panel-main {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            background: #fff;
+            padding: 8px;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+            font-size: 13px;
+        }
+        .payment-panel-main .message-box {
+            margin-top: 8px;
+            min-height: 24px;
+            font-size: 12px;
+            background: #fff;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            padding: 4px;
+            color: #111;
+            text-align: center;
+        }
+        .payment-panel-main .input-row {
+            display: flex;
+            gap: 3px;
+        }
+        .payment-panel-main input {
+            padding: 4px 6px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            font-size: 12px;
+            width: calc(50% - 3px);
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+        .payment-panel-main .full-width-input {
+            width: 100%;
+        }
+        .payment-panel-main button {
+            padding: 4px 0;
+            background-color: #6f42c1;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 12px;
+            width: 100%;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.25);
+            transition: opacity 0.15s ease;
+        }
+        .payment-panel-main button:hover {
+            opacity: 0.85;
+        }
+        
+        /* Body Wrapper - Side by Side Layout */
+        .ivac-body-wrapper {
+            display: flex;
+            flex-direction: row;
+            flex: 1;
+            overflow: hidden;
+        }
+        
+        /* Log Panel - Left Side */
+        .log-panel {
+            width: 280px;
+            min-width: 280px;
+            overflow-y: auto;
+            background: #1e1e1e;
+            color: #d4d4d4;
+            padding: 0;
+            font-family: 'Courier New', monospace;
+            font-size: 11px;
+            border-right: 1px solid #333;
+            display: flex;
+            flex-direction: column;
+        }
+        .log-panel-header {
+            background: #2d2d2d;
+            padding: 8px;
+            border-bottom: 1px solid #444;
+            font-weight: bold;
+            color: #17a2b8;
+            font-size: 12px;
+            text-align: center;
+        }
+        .log-panel-content {
+            flex: 1;
+            overflow-y: auto;
+            padding: 8px;
+        }
+        .log-entry {
+            margin-bottom: 4px;
+            padding: 2px 4px;
+            border-left: 3px solid #555;
+        }
+        .log-success { border-left-color: #28a745; color: #28a745; }
+        .log-error { border-left-color: #dc3545; color: #dc3545; }
+        .log-warning { border-left-color: #ffc107; color: #ffc107; }
+        .log-info { border-left-color: #17a2b8; color: #17a2b8; }
+        
+        /* Main Content Area - Right Side */
+        .ivac-main-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            overflow-y: auto;
+        }
+    `;
+    document.head.appendChild(style);
+
+    // ==================== LOG SYSTEM ====================
+    const LogManager = {
+        logs: [],
+        container: null,
+        contentDiv: null,
+        
+        init(container) {
+            this.container = container;
+            
+            // Create log panel structure
+            const header = document.createElement('div');
+            header.className = 'log-panel-header';
+            header.textContent = 'Network Logs';
+            
+            const content = document.createElement('div');
+            content.className = 'log-panel-content';
+            
+            container.appendChild(header);
+            container.appendChild(content);
+            
+            this.contentDiv = content;
+            this.render();
+        },
+        
+        add(message, type = 'info') {
+            const timestamp = new Date().toLocaleTimeString();
+            this.logs.push({ timestamp, message, type });
+            if (this.logs.length > 100) this.logs.shift();
+            this.render();
+        },
+        
+        render() {
+            if (!this.contentDiv) return;
+            this.contentDiv.innerHTML = this.logs.map(log => 
+                `<div class="log-entry log-${log.type}">[${log.timestamp}] ${log.message}</div>`
+            ).join('');
+            this.contentDiv.scrollTop = this.contentDiv.scrollHeight;
+        },
+        
+        clear() {
+            this.logs = [];
+            this.render();
+        }
+    };
+
+    // ==================== CONFIG HELPER ====================
+    function getStoredConfig() {
+        try {
+            const saved = localStorage.getItem('IVAC_APP_DATA');
+            if (saved) {
+                return JSON.parse(saved);
+            }
+        } catch (e) {
+            LogManager.add('Error loading config: ' + e.message, 'error');
+        }
+        return null;
+    }
+
+    // ==================== BUTTON COOLDOWN ====================
+    function startCooldown(button, seconds = 8) {
+        const originalText = button.textContent;
+        let remaining = seconds;
+        
+        button.disabled = true;
+        button.textContent = `Wait ${remaining}s`;
+        
+        const interval = setInterval(() => {
+            remaining--;
+            if (remaining > 0) {
+                button.textContent = `Wait ${remaining}s`;
+            } else {
+                clearInterval(interval);
+                button.disabled = false;
+                button.textContent = originalText;
+            }
+        }, 1000);
+    }
+
+    // ==================== NETWORK INTERCEPTOR ====================
+    // Patch fetch
+    const originalFetch = window.fetch;
+    window.fetch = async function(...args) {
+        const url = args[0];
+        const options = args[1] || {};
+        
+        LogManager.add(`[REQ] ${options.method || 'GET'} ${url}`, 'info');
+        
+        try {
+            const response = await originalFetch.apply(this, args);
+            const status = response.status;
+            
+            if (status >= 200 && status < 300) {
+                LogManager.add(`[${status}] ${url}`, 'success');
+            } else if (status >= 400 && status < 500) {
+                LogManager.add(`[${status}] ${url}`, 'error');
+            } else if (status >= 500) {
+                LogManager.add(`[${status}] ${url}`, 'error');
+            } else {
+                LogManager.add(`[${status}] ${url}`, 'warning');
+            }
+            
+            return response;
+        } catch (error) {
+            LogManager.add(`[ERROR] Network: ${error.message}`, 'error');
+            throw error;
+        }
+    };
+
+    // Patch XMLHttpRequest
+    const originalXHROpen = XMLHttpRequest.prototype.open;
+    const originalXHRSend = XMLHttpRequest.prototype.send;
+    
+    XMLHttpRequest.prototype.open = function(method, url, ...rest) {
+        this._method = method;
+        this._url = url;
+        return originalXHROpen.apply(this, [method, url, ...rest]);
+    };
+    
+    XMLHttpRequest.prototype.send = function(...args) {
+        LogManager.add(`[REQ] ${this._method} ${this._url}`, 'info');
+        
+        this.addEventListener('load', function() {
+            const status = this.status;
+            if (status >= 200 && status < 300) {
+                LogManager.add(`[${status}] ${this._url}`, 'success');
+            } else if (status >= 400 && status < 500) {
+                LogManager.add(`[${status}] ${this._url}`, 'error');
+            } else if (status >= 500) {
+                LogManager.add(`[${status}] ${this._url}`, 'error');
+            } else {
+                LogManager.add(`[${status}] ${this._url}`, 'warning');
+            }
+        });
+        
+        this.addEventListener('error', function() {
+            LogManager.add(`[ERROR] XHR: ${this._url}`, 'error');
+        });
+        
+        return originalXHRSend.apply(this, args);
+    };
+
+    // ==================== CONTAINER ====================
+    const container = document.createElement('div');
+    container.id = 'ivac-container';
+    
+    const header = document.createElement('div');
+    header.className = 'ivac-header';
+    header.innerHTML = `
+        <button class="header-btn btn-autofill" data-panel="autofill">Autofill</button>
+        <button class="header-btn btn-login" data-panel="login">Login</button>
+        <button class="header-btn btn-submit" data-panel="submit">Submit</button>
+        <button class="header-btn btn-payment" data-panel="payment">Payment</button>
+        <button class="header-btn btn-config" data-panel="config">Config</button>
+        <button class="header-btn" id="minimize-btn" style="background: #6c757d; flex: 0 0 35px; padding: 5px;">−</button>
+    `;
+    
+    // Body wrapper for side-by-side layout
+    const bodyWrapper = document.createElement('div');
+    bodyWrapper.className = 'ivac-body-wrapper';
+    
+    // Log panel (left side)
+    const logPanel = document.createElement('div');
+    logPanel.className = 'log-panel';
+    
+    // Main content area (right side)
+    const mainContent = document.createElement('div');
+    mainContent.className = 'ivac-main-content';
+    
+    const content = document.createElement('div');
+    content.className = 'ivac-content';
+    content.innerHTML = '<p style="font-size: 12px; margin: 0;">IVAC Automation System Ready</p>';
+    
+    const popupContainer = document.createElement('div');
+    popupContainer.className = 'popup-panel';
+    
+    // Assemble structure
+    mainContent.appendChild(content);
+    mainContent.appendChild(popupContainer);
+    
+    bodyWrapper.appendChild(logPanel);
+    bodyWrapper.appendChild(mainContent);
+    
+    container.appendChild(header);
+    container.appendChild(bodyWrapper);
+    document.body.appendChild(container);
+    
+    // Initialize log system
+    LogManager.init(logPanel);
+    LogManager.add('IVAC System initialized', 'success');
+
+    // ==================== AUTOFILL PANEL ====================
+    function createAutofillPanel() {
+        popupContainer.innerHTML = '';
+        popupContainer.className = 'popup-panel active';
+        
+        const panel = document.createElement('div');
+        panel.className = 'ivac-panel';
+        panel.style.cssText = 'background: #fff; padding: 12px; border-radius: 8px;';
+        
+        const title = document.createElement('div');
+        title.textContent = 'IVAC — Autofill';
+        title.style.cssText = 'font-size: 15px; font-weight: 700; text-align: center; margin-bottom: 10px;';
+        panel.appendChild(title);
+        
+        // Load config
+        const config = getStoredConfig();
+        
+        const info = document.createElement('div');
+        if (config) {
+            info.textContent = `Config loaded: ${config.webfile_id || 'N/A'}`;
+            info.style.cssText = 'font-size: 11px; color: #059669; text-align: center; margin-bottom: 10px; background: #d1fae5; padding: 4px; border-radius: 4px;';
+        } else {
+            info.textContent = 'No config found. Please upload config first.';
+            info.style.cssText = 'font-size: 11px; color: #dc2626; text-align: center; margin-bottom: 10px; background: #fee2e2; padding: 4px; border-radius: 4px;';
+        }
+        panel.appendChild(info);
+        
+        const messageDiv = document.createElement('div');
+        messageDiv.style.cssText = 'margin-bottom: 8px; padding: 6px; border-radius: 4px; font-size: 11px; display: none;';
+        panel.appendChild(messageDiv);
+        
+        const showMessage = (text, isError = false) => {
+            messageDiv.textContent = text;
+            messageDiv.style.display = 'block';
+            messageDiv.style.background = isError ? '#fee2e2' : '#d1fae5';
+            messageDiv.style.color = isError ? '#991b1b' : '#065f46';
+            setTimeout(() => messageDiv.style.display = 'none', 3000);
+        };
+        
+        // Fill Web File ID button
+        const fillWebFileBtn = document.createElement('button');
+        fillWebFileBtn.textContent = 'Fill Web File IDs';
+        fillWebFileBtn.className = 'slim-btn';
+        fillWebFileBtn.style.cssText = 'width: 100%; background: #007bff; color: #fff; margin-bottom: 6px;';
+        fillWebFileBtn.addEventListener('click', () => {
+            if (!config) {
+                showMessage('No config found. Upload config first.', true);
+                return;
+            }
+            
+            // Example: Fill web file ID fields on the page
+            const webfileInput = document.querySelector('input[name="web_file_no"], input[name="webfile"], input[placeholder*="Web File"]');
+            if (webfileInput) {
+                webfileInput.value = config.webfile_id;
+                showMessage(`Web File ID filled: ${config.webfile_id}`);
+                LogManager.add(`Autofill: Web File ID filled - ${config.webfile_id}`, 'success');
+            } else {
+                showMessage('Web File ID field not found on page', true);
+                LogManager.add('Autofill: Web File ID field not found', 'warning');
+            }
+            
+            startCooldown(fillWebFileBtn);
+        });
+        panel.appendChild(fillWebFileBtn);
+        
+        // Fill Form Fields button
+        const fillFormBtn = document.createElement('button');
+        fillFormBtn.textContent = 'Fill All Form Fields';
+        fillFormBtn.className = 'slim-btn';
+        fillFormBtn.style.cssText = 'width: 100%; background: #28a745; color: #fff; margin-bottom: 6px;';
+        fillFormBtn.addEventListener('click', () => {
+            if (!config) {
+                showMessage('No config found. Upload config first.', true);
+                return;
+            }
+            
+            // Comprehensive field mappings for all config properties
+            let filled = 0;
+            const fieldMappings = [
+                // Personal info
+                { selector: 'input[name="full_name"], input[placeholder*="Name"], input[id*="name"]', value: config.personal_info?.full_name },
+                { selector: 'input[name="email"], input[type="email"], input[placeholder*="Email"]', value: config.personal_info?.email_name },
+                { selector: 'input[name="phone"], input[type="tel"], input[placeholder*="Phone"], input[placeholder*="Mobile"]', value: config.personal_info?.phone },
+                
+                // IVAC specific fields
+                { selector: 'input[name="web_file_no"], input[name="webfile"], input[placeholder*="Web File"]', value: config.webfile_id },
+                { selector: 'input[name="webfile_id_repeat"], input[placeholder*="Confirm Web File"]', value: config.webfile_id_repeat || config.webfile_id },
+                { selector: 'select[name="mission"], select[id*="mission"]', value: config.mission },
+                { selector: 'select[name="ivac_center"], select[id*="ivac"], select[placeholder*="IVAC Center"]', value: config.ivac_center },
+                { selector: 'select[name="visa_type"], select[id*="visa"], input[name="visa_type"]', value: config.visa_type },
+                { selector: 'input[name="family_count"], select[name="family_count"], input[placeholder*="Family"]', value: config.family_count },
+                { selector: 'input[name="purpose"], textarea[name="purpose"], input[placeholder*="Purpose"], textarea[placeholder*="Purpose"]', value: config.asweoi_erilfs }
+            ];
+            
+            fieldMappings.forEach(({selector, value}) => {
+                if (!value) return; // Skip if no value in config
+                
+                const field = document.querySelector(selector);
+                if (field) {
+                    field.value = value;
+                    // Dispatch change event to trigger any listeners
+                    field.dispatchEvent(new Event('change', { bubbles: true }));
+                    field.dispatchEvent(new Event('input', { bubbles: true }));
+                    filled++;
+                    LogManager.add(`  Filled: ${field.name || field.id || 'field'} = ${value}`, 'success');
+                }
+            });
+            
+            if (filled > 0) {
+                showMessage(`${filled} fields filled successfully`);
+                LogManager.add(`Autofill: ${filled} form fields filled`, 'success');
+            } else {
+                showMessage('No matching fields found on page', true);
+                LogManager.add('Autofill: No matching fields found - ensure you are on the IVAC form page', 'warning');
+            }
+            
+            startCooldown(fillFormBtn);
+        });
+        panel.appendChild(fillFormBtn);
+        
+        // Fill Family Data button
+        const fillFamilyBtn = document.createElement('button');
+        fillFamilyBtn.textContent = 'Fill Family Data';
+        fillFamilyBtn.className = 'slim-btn';
+        fillFamilyBtn.style.cssText = 'width: 100%; background: #6f42c1; color: #fff;';
+        fillFamilyBtn.addEventListener('click', () => {
+            if (!config) {
+                showMessage('No config found. Upload config first.', true);
+                return;
+            }
+            
+            if (!config.family_data || config.family_data.length === 0) {
+                showMessage('No family data in config', true);
+                return;
+            }
+            
+            // Try to fill family member inputs on the page
+            let filled = 0;
+            config.family_data.forEach((member, index) => {
+                const i = index + 1; // 1-based index
+                
+                // Try multiple selector patterns for family member fields
+                const nameSelectors = [
+                    `input[name="family_name_${i}"]`,
+                    `input[name="family[${index}][name]"]`,
+                    `input[id*="family"][id*="name"][id*="${i}"]`,
+                    `input[placeholder*="Family"][placeholder*="Name"]:nth-of-type(${i})`
+                ];
+                
+                const webfileSelectors = [
+                    `input[name="family_webfile_${i}"]`,
+                    `input[name="family[${index}][webfile]"]`,
+                    `input[id*="family"][id*="webfile"][id*="${i}"]`,
+                    `input[placeholder*="Family"][placeholder*="Web"]:nth-of-type(${i})`
+                ];
+                
+                // Try to find and fill name field
+                for (const selector of nameSelectors) {
+                    const field = document.querySelector(selector);
+                    if (field) {
+                        field.value = member.name;
+                        field.dispatchEvent(new Event('change', { bubbles: true }));
+                        field.dispatchEvent(new Event('input', { bubbles: true }));
+                        filled++;
+                        LogManager.add(`  Family ${i} Name: ${member.name}`, 'success');
+                        break;
+                    }
+                }
+                
+                // Try to find and fill webfile field
+                for (const selector of webfileSelectors) {
+                    const field = document.querySelector(selector);
+                    if (field) {
+                        field.value = member.webfile;
+                        field.dispatchEvent(new Event('change', { bubbles: true }));
+                        field.dispatchEvent(new Event('input', { bubbles: true }));
+                        filled++;
+                        LogManager.add(`  Family ${i} Webfile: ${member.webfile}`, 'success');
+                        break;
+                    }
+                }
+            });
+            
+            // Also log family data for reference (useful if DOM filling fails)
+            LogManager.add(`Family count: ${config.family_count}`, 'info');
+            config.family_data.forEach((member, index) => {
+                LogManager.add(`  [${index + 1}] ${member.name} - ${member.webfile}`, 'info');
+            });
+            
+            if (filled > 0) {
+                showMessage(`Family data: ${filled} fields filled`);
+            } else {
+                showMessage(`Family data logged (${config.family_data.length} members) - no matching inputs found`, true);
+                LogManager.add('Family fields not found - check if you are on the family info page', 'warning');
+            }
+            
+            startCooldown(fillFamilyBtn);
+        });
+        panel.appendChild(fillFamilyBtn);
+        
+        popupContainer.appendChild(panel);
+        LogManager.add('Autofill panel loaded', config ? 'success' : 'warning');
+    }
+
+    // ==================== LOGIN PANEL ====================
+    function createLoginPanel() {
+        popupContainer.innerHTML = '';
+        popupContainer.className = 'popup-panel active';
+        
+        const ivacPanel = document.createElement('div');
+        ivacPanel.className = 'ivac-panel';
+        
+        function el(tag, props = {}, children = []) {
+            const e = document.createElement(tag);
+            Object.assign(e, props);
+            (children || []).forEach(c => e.appendChild(c));
+            return e;
+        }
+        function style(node, css = {}) {
+            Object.assign(node.style, css);
+            return node;
+        }
+        
+        const headerTitle = el('div', { innerText: 'IVAC — Login' });
+        style(headerTitle, {
+            fontSize: '15px',
+            fontWeight: 700,
+            textAlign: 'center',
+            marginBottom: '10px'
+        });
+        ivacPanel.appendChild(headerTitle);
+        
+        const tokenInput = el('input', { type: 'text', readOnly: true, placeholder: 'Access Token will appear here' });
+        style(tokenInput, { color: '#006400' });
+        ivacPanel.appendChild(tokenInput);
+        
+        // Check for existing token
+        const savedToken = localStorage.getItem('access_token');
+        if (savedToken) {
+            tokenInput.value = savedToken;
+            LogManager.add('Existing token loaded', 'success');
+        }
+        
+        const form = style(el('div'), { display: 'grid', gap: '6px' });
+        ivacPanel.appendChild(form);
+        
+        const sitekeyRow = style(el('div'), { display: 'flex', gap: '6px' });
+        const sitekeyInput = el('input', { type: 'text', value: '0x4AAAAAABpNUpzYeppBoYpe' });
+        style(sitekeyInput, { flex: '1' });
+        const loadCaptchaBtn = el('button', { innerText: 'Load CAPTCHA' });
+        loadCaptchaBtn.classList.add('slim-btn');
+        style(loadCaptchaBtn, { background: '#17a2b8', color: '#fff' });
+        sitekeyRow.appendChild(sitekeyInput);
+        sitekeyRow.appendChild(loadCaptchaBtn);
+        form.appendChild(sitekeyRow);
+        
+        const captchaBox = style(el('div', { innerText: 'CAPTCHA will appear here' }), {
+            height: '80px',
+            borderRadius: '6px',
+            border: '1px dashed #cfcfcf',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            color: '#666',
+            fontSize: '12px'
+        });
+        form.appendChild(captchaBox);
+        
+        function createRow(ph, type, btnText, btnColor) {
+            const row = style(el('div'), { display: 'flex', gap: '6px' });
+            const input = el('input', { type, placeholder: ph });
+            style(input, { flex: '1' });
+            const btn = el('button', { innerText: btnText });
+            btn.classList.add('slim-btn');
+            style(btn, { background: btnColor, color: '#fff', flex: '0 0 90px' });
+            row.appendChild(input);
+            row.appendChild(btn);
+            form.appendChild(row);
+            return { input, btn };
+        }
+        
+        const mobileRow = createRow('Mobile number', 'text', 'Send', '#28a745');
+        const passRow = createRow('Password', 'password', 'Login', '#6f42c1');
+        const otpRow = createRow('OTP', 'text', 'Submit', '#ff9800');
+        
+        // Auto-populate from config
+        const config = getStoredConfig();
+        if (config && config.personal_info && config.personal_info.phone) {
+            mobileRow.input.value = config.personal_info.phone;
+            LogManager.add('Phone number auto-filled from config', 'success');
+        }
+        
+        const status = style(el('div', { innerText: '' }), {
+            fontSize: '11px',
+            color: '#444',
+            minHeight: '16px'
+        });
+        form.appendChild(status);
+        
+        let captchaToken = '';
+        function renderCaptcha(sitekey) {
+            captchaBox.innerHTML = '';
+            const container = el('div');
+            captchaBox.appendChild(container);
+            if (!window.turnstile) {
+                const s = document.createElement('script');
+                s.src = 'https://challenges.cloudflare.com/turnstile/v0/api.js';
+                s.async = true;
+                s.defer = true;
+                s.onload = () => {
+                    window.turnstile.render(container, { 
+                        sitekey, 
+                        callback: t => { 
+                            captchaToken = t; 
+                            LogManager.add('CAPTCHA solved', 'success');
+                        } 
+                    });
+                };
+                document.head.appendChild(s);
+            } else {
+                window.turnstile.render(container, { 
+                    sitekey, 
+                    callback: t => { 
+                        captchaToken = t; 
+                        LogManager.add('CAPTCHA solved', 'success');
+                    } 
+                });
+            }
+        }
+        
+        loadCaptchaBtn.addEventListener('click', () => {
+            const key = sitekeyInput.value.trim();
+            if (!key) return;
+            renderCaptcha(key);
+            startCooldown(loadCaptchaBtn);
+        });
+        
+        async function postJson(url, payload) {
+            const res = await fetch(url, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(payload)
+            });
+            return res.json();
+        }
+        
+        mobileRow.btn.addEventListener('click', async () => {
+            const mobile = mobileRow.input.value.trim();
+            const payload = { answer: 1, captcha_token: captchaToken || '', mobile_no: mobile, problem: 'abc' };
+            
+            try {
+                const res = await postJson('https://payment.ivacbd.com/api/v2/mobile-verify', payload);
+                status.innerText = res.message || '[OK] OTP sent';
+                LogManager.add('OTP sent to ' + mobile, 'success');
+                startCooldown(mobileRow.btn);
+            } catch (e) {
+                status.innerText = '[ERR] Error: ' + e.message;
+                LogManager.add('OTP send failed: ' + e.message, 'error');
+            }
+        });
+        
+        passRow.btn.addEventListener('click', async () => {
+            const payload = {
+                mobile_no: mobileRow.input.value.trim(),
+                password: passRow.input.value.trim()
+            };
+            
+            try {
+                const res = await postJson('https://payment.ivacbd.com/api/v2/jktwdasf-345432-afawerk', payload);
+                
+                if (res.data && res.data.access_token) {
+                    localStorage.setItem('access_token', res.data.access_token);
+                    tokenInput.value = res.data.access_token;
+                    status.innerText = '[OK] Login successful';
+                    LogManager.add('Login successful: ' + res.data.name, 'success');
+                } else {
+                    status.innerText = '[ERR] Login failed!';
+                    LogManager.add('Login failed: ' + (res.message || 'Unknown error'), 'error');
+                }
+                startCooldown(passRow.btn);
+            } catch (e) {
+                status.innerText = '[ERR] Error: ' + e.message;
+                LogManager.add('Login error: ' + e.message, 'error');
+            }
+        });
+        
+        otpRow.btn.addEventListener('click', async () => {
+            const otpValue = otpRow.input.value.trim();
+            
+            // 6-digit validation for LOGIN OTP
+            if (!otpValue || otpValue.length !== 6 || !/^\d{6}$/.test(otpValue)) {
+                status.innerText = 'Please enter valid 6-digit OTP';
+                LogManager.add('Invalid OTP format (must be 6 digits)', 'error');
+                return;
+            }
+            
+            const payload = {
+                mobile_no: mobileRow.input.value.trim(),
+                password: passRow.input.value.trim(),
+                otp: otpValue
+            };
+            
+            try {
+                const res = await postJson('https://payment.ivacbd.com/api/v2/login-otp', payload);
+                
+                if (res.data && res.data.access_token) {
+                    localStorage.setItem('access_token', res.data.access_token);
+                    tokenInput.value = res.data.access_token;
+                    status.innerText = 'Access Token updated';
+                    LogManager.add('OTP login successful', 'success');
+                } else {
+                    status.innerText = 'OTP submission failed';
+                    LogManager.add('OTP verification failed', 'error');
+                }
+                startCooldown(otpRow.btn);
+            } catch (e) {
+                status.innerText = 'Error: ' + e.message;
+                LogManager.add('OTP error: ' + e.message, 'error');
+            }
+        });
+        
+        popupContainer.appendChild(ivacPanel);
+    }
+
+    // ==================== SUBMIT PANEL ====================
+    function createSubmitPanel() {
+        popupContainer.innerHTML = '';
+        popupContainer.className = 'popup-panel active';
+        
+        const submitPanel = document.createElement('div');
+        submitPanel.className = 'submit-panel';
+        
+        function createBtn(text, bgColor, fullWidth = false) {
+            const btn = document.createElement('button');
+            btn.textContent = text;
+            btn.style.backgroundColor = bgColor;
+            if (fullWidth) btn.style.width = '100%';
+            return btn;
+        }
+        
+        const liveMsg = document.createElement('div');
+        liveMsg.className = 'live-msg';
+        liveMsg.textContent = 'Status messages will appear here';
+        submitPanel.appendChild(liveMsg);
+        
+        function showMessage(msg) {
+            liveMsg.textContent = msg;
+            LogManager.add(msg, msg.includes('[ERR]') ? 'error' : 'success');
+        }
+        
+        // Token section
+        const tokenDiv = document.createElement('div');
+        const tokenInput = document.createElement('input');
+        tokenInput.type = 'text';
+        tokenInput.readOnly = true;
+        tokenInput.placeholder = 'Bearer Token';
+        tokenInput.style.color = '#006400';
+        tokenDiv.appendChild(tokenInput);
+        submitPanel.appendChild(tokenDiv);
+        
+        // Set token from localStorage
+        const savedToken = localStorage.getItem('access_token');
+        if (savedToken) {
+            tokenInput.value = savedToken;
+            showMessage('[OK] Access Token auto-filled from localStorage!');
+        }
+        
+        const tokenBtn = createBtn('Get Token', '#007bff', true);
+        tokenDiv.appendChild(tokenBtn);
+        
+        tokenBtn.addEventListener('click', () => {
+            const token = localStorage.getItem('access_token');
+            if (token) {
+                tokenInput.value = token;
+                showMessage('[OK] Access Token updated!');
+            } else {
+                showMessage('[ERR] No access_token found in localStorage!');
+            }
+        });
+        
+        function getBearerToken() { 
+            return tokenInput.value.trim() || localStorage.getItem('access_token'); 
+        }
+        
+        // Top button row
+        const topBtnRow = document.createElement('div');
+        topBtnRow.className = 'btn-row';
+        submitPanel.appendChild(topBtnRow);
+        
+        const copyApiBtn = createBtn('Server Update', '#FF5722', true);
+        const parseKeysBtn = createBtn('Parse & Fill', '#FF9800', true);
+        const captchaShowBtn = createBtn('Show CAPTCHA', '#17a2b8', true);
+        topBtnRow.appendChild(copyApiBtn);
+        topBtnRow.appendChild(parseKeysBtn);
+        topBtnRow.appendChild(captchaShowBtn);
+        
+        // Base URL and endpoint
+        const baseInput = document.createElement('input');
+        baseInput.type = 'text';
+        baseInput.value = 'https://payment.ivacbd.com';
+        baseInput.style.marginTop = '4px';
+        submitPanel.appendChild(baseInput);
+        
+        const endpointInput = document.createElement('input');
+        endpointInput.type = 'text';
+        endpointInput.value = '/api/v2/payment/application-r5s7h3-submit-hyju6t';
+        endpointInput.placeholder = '/api/v2/payment/...';
+        submitPanel.appendChild(endpointInput);
+        
+        const allFieldsBtn = createBtn('All Fields', '#6c757d', true);
+        submitPanel.appendChild(allFieldsBtn);
+        
+        // Key-Value Overlay
+        const kvOverlay = document.createElement('div');
+        kvOverlay.style.position = 'fixed';
+        kvOverlay.style.top = '120px';
+        kvOverlay.style.left = 'calc(50% - 200px)';
+        kvOverlay.style.width = '400px';
+        kvOverlay.style.height = '300px';
+        kvOverlay.style.background = '#fff';
+        kvOverlay.style.border = '1px solid #ccc';
+        kvOverlay.style.borderRadius = '6px';
+        kvOverlay.style.boxShadow = '0 0 12px rgba(0,0,0,0.3)';
+        kvOverlay.style.padding = '8px';
+        kvOverlay.style.zIndex = '999998';
+        kvOverlay.style.overflowY = 'auto';
+        kvOverlay.style.display = 'none';
+        document.body.appendChild(kvOverlay);
+        
+        const kvHeader = document.createElement('div');
+        kvHeader.textContent = 'Key / Value Fields (Drag me)';
+        kvHeader.style.cursor = 'grab';
+        kvHeader.style.fontWeight = '600';
+        kvHeader.style.marginBottom = '4px';
+        kvOverlay.appendChild(kvHeader);
+        
+        const kvContainer = document.createElement('div');
+        kvContainer.className = 'kv-container';
+        kvOverlay.appendChild(kvContainer);
+        
+        const rows = [];
+        const defaultKeys = ['highcom','webfile_id','webfile_id_repeat','ivac_id','visa_type','family_count','asweoi_erilfs','y6e7uk_token_t6d8n3'];
+        
+        // Get config from localStorage
+        const config = getStoredConfig();
+        const defaultValues = [
+            '3',
+            config?.webfile_id || '',
+            config?.webfile_id_repeat || config?.webfile_id || '',
+            config?.ivac_center ? config.ivac_center.split('|')[1] : '',
+            config?.visa_type || '',
+            config?.family_count || '',
+            config?.asweoi_erilfs || '',
+            ''
+        ];
+        
+        defaultKeys.forEach((k, index) => {
+            const row = document.createElement('div');
+            row.className = 'kv-row';
+            
+            const keyInput = document.createElement('input');
+            keyInput.type = 'text';
+            keyInput.value = k;
+            keyInput.style.width = '40%';
+            
+            const valueInput = document.createElement('input');
+            valueInput.type = 'text';
+            valueInput.placeholder = 'Value';
+            valueInput.style.width = '55%';
+            valueInput.value = defaultValues[index] || '';
+            
+            row.appendChild(keyInput);
+            row.appendChild(valueInput);
+            kvContainer.appendChild(row);
+            rows.push({keyInput, valueInput});
+        });
+        
+        // Make KV overlay draggable
+        let isDraggingKV = false, offsetXKV = 0, offsetYKV = 0;
+        kvHeader.addEventListener('mousedown', (e) => {
+            isDraggingKV = true;
+            offsetXKV = e.clientX - kvOverlay.getBoundingClientRect().left;
+            offsetYKV = e.clientY - kvOverlay.getBoundingClientRect().top;
+            kvHeader.style.cursor = 'grabbing';
+        });
+        document.addEventListener('mousemove', (e) => {
+            if (!isDraggingKV) return;
+            kvOverlay.style.left = (e.clientX - offsetXKV) + 'px';
+            kvOverlay.style.top = (e.clientY - offsetYKV) + 'px';
+        });
+        document.addEventListener('mouseup', () => {
+            if (isDraggingKV) {
+                isDraggingKV = false;
+                kvHeader.style.cursor = 'grab';
+            }
+        });
+        
+        allFieldsBtn.addEventListener('click', () => {
+            kvOverlay.style.display = kvOverlay.style.display === 'none' ? 'block' : 'none';
+        });
+        
+        // API Overlay
+        const apiOverlay = document.createElement('div');
+        apiOverlay.style.position = 'fixed';
+        apiOverlay.style.top = '100px';
+        apiOverlay.style.left = 'calc(100% - 450px)';
+        apiOverlay.style.width = '400px';
+        apiOverlay.style.height = '250px';
+        apiOverlay.style.background = '#fff';
+        apiOverlay.style.border = '1px solid #ccc';
+        apiOverlay.style.borderRadius = '6px';
+        apiOverlay.style.boxShadow = '0 0 12px rgba(0,0,0,0.3)';
+        apiOverlay.style.padding = '8px';
+        apiOverlay.style.zIndex = '999997';
+        apiOverlay.style.display = 'none';
+        apiOverlay.style.overflowY = 'auto';
+        document.body.appendChild(apiOverlay);
+        
+        const overlayHeader = document.createElement('div');
+        overlayHeader.textContent = 'API Overlay (Drag me)';
+        overlayHeader.style.cursor = 'grab';
+        overlayHeader.style.fontWeight = '600';
+        overlayHeader.style.marginBottom = '4px';
+        apiOverlay.appendChild(overlayHeader);
+        
+        const overlayTextarea = document.createElement('textarea');
+        overlayTextarea.style.width = '100%';
+        overlayTextarea.style.height = 'calc(100% - 24px)';
+        overlayTextarea.style.resize = 'none';
+        overlayTextarea.style.fontFamily = 'monospace';
+        overlayTextarea.readOnly = true;
+        apiOverlay.appendChild(overlayTextarea);
+        
+        // Make API overlay draggable
+        let isDraggingOverlay = false, offsetXOverlay = 0, offsetYOverlay = 0;
+        overlayHeader.addEventListener('mousedown', (e) => {
+            isDraggingOverlay = true;
+            offsetXOverlay = e.clientX - apiOverlay.getBoundingClientRect().left;
+            offsetYOverlay = e.clientY - apiOverlay.getBoundingClientRect().top;
+            overlayHeader.style.cursor = 'grabbing';
+        });
+        document.addEventListener('mousemove', (e) => {
+            if (!isDraggingOverlay) return;
+            apiOverlay.style.left = (e.clientX - offsetXOverlay) + 'px';
+            apiOverlay.style.top = (e.clientY - offsetYOverlay) + 'px';
+        });
+        document.addEventListener('mouseup', () => {
+            if (isDraggingOverlay) {
+                isDraggingOverlay = false;
+                overlayHeader.style.cursor = 'grab';
+            }
+        });
+        
+        let overlayVisible = false;
+        copyApiBtn.addEventListener('click', async () => {
+            const scripts = document.querySelectorAll('script[src], script:not([src])');
+            let detectedText = '';
+            for (const script of scripts) {
+                const processText = (txt) => {
+                    const regex = /const\s+[a-zA-Z0-9_$]+\s*=\s*localStorage\.getItem\(["']access_token["']\)[\s\S]*?await\s+[a-zA-Z0-9_$]+\([\s\S]*?\}\s*\)/g;
+                    const matches = txt.match(regex);
+                    if (matches) detectedText += matches.join('\n\n');
+                };
+                try {
+                    if (script.src) {
+                        const res = await fetch(script.src);
+                        const txt = await res.text();
+                        processText(txt);
+                    } else {
+                        processText(script.textContent || '');
+                    }
+                } catch (e) {
+                    console.log(e);
+                }
+            }
+            const textToShow = detectedText || '[ERR] API block not found!';
+            overlayTextarea.value = textToShow;
+            overlayVisible = !overlayVisible;
+            apiOverlay.style.display = overlayVisible ? 'block' : 'none';
+            if (detectedText) {
+                navigator.clipboard.writeText(detectedText).catch(() => {});
+                showMessage('[OK] API detection finished! Copied to clipboard.');
+            } else {
+                showMessage('[ERR] API block not found!');
+            }
+            startCooldown(copyApiBtn);
+        });
+        
+        parseKeysBtn.addEventListener('click', () => {
+            const text = overlayTextarea.value;
+            if (!text) {
+                showMessage('[ERR] Copy API block first!');
+                return;
+            }
+            
+            const endpointMatch = text.match(/is_edit[^?]+\?"([^"]+)":"([^"]+)"/);
+            if (endpointMatch && endpointMatch[2]) {
+                endpointInput.value = endpointMatch[2];
+            } else {
+                endpointInput.value = '/api/v2/payment/...';
+            }
+            
+            const bodyRegex = /body\s*:\s*\{([\s\S]*?)\}/g;
+            let bodyMatch, keys = [];
+            while ((bodyMatch = bodyRegex.exec(text))) {
+                const keyRegex = /(\w+)\s*:/g;
+                let km;
+                while ((km = keyRegex.exec(bodyMatch[1]))) {
+                    keys.push(km[1]);
+                }
+            }
+            
+            for (let i = 0; i < rows.length && i < keys.length; i++) {
+                rows[i].keyInput.value = keys[i];
+            }
+            showMessage('[OK] Endpoint & keys auto-filled!');
+        });
+        
+        // CAPTCHA
+        const captchaDiv = document.createElement('div');
+        captchaDiv.style.marginTop = '6px';
+        captchaDiv.style.minHeight = '70px';
+        captchaDiv.style.display = 'flex';
+        captchaDiv.style.alignItems = 'center';
+        captchaDiv.style.justifyContent = 'center';
+        captchaDiv.style.border = '1px dashed #ccc';
+        captchaDiv.style.borderRadius = '4px';
+        captchaDiv.textContent = 'CAPTCHA will appear here...';
+        submitPanel.appendChild(captchaDiv);
+        
+        const captchaInput = document.createElement('input');
+        captchaInput.type = 'text';
+        captchaInput.placeholder = 'Enter sitekey here';
+        captchaInput.value = '0x4AAAAAABvQ3Mi6RktCuZ7P';
+        captchaInput.style.marginTop = '4px';
+        submitPanel.appendChild(captchaInput);
+        
+        function onCaptchaSuccess(token) {
+            const f = rows.find(r => r.keyInput.value === 'y6e7uk_token_t6d8n3');
+            if (f) {
+                f.valueInput.value = token;
+                showMessage('[OK] CAPTCHA solved! Token filled.');
+                LogManager.add('CAPTCHA token filled', 'success');
+            } else {
+                showMessage('[ERR] CAPTCHA token field not found!');
+            }
+        }
+        
+        function renderCaptcha() {
+            if (window.turnstile) {
+                captchaDiv.textContent = '';
+                window.turnstile.render(captchaDiv, {
+                    sitekey: captchaInput.value,
+                    callback: onCaptchaSuccess,
+                    theme: 'light'
+                });
+                showMessage('[OK] CAPTCHA loaded! Solve it to get token.');
+            } else {
+                setTimeout(renderCaptcha, 500);
+            }
+        }
+        
+        captchaShowBtn.addEventListener('click', () => {
+            renderCaptcha();
+            startCooldown(captchaShowBtn);
+        });
+        
+        if (!window.turnstile) {
+            const script = document.createElement('script');
+            script.src = 'https://challenges.cloudflare.com/turnstile/v0/api.js';
+            script.async = true;
+            script.defer = true;
+            document.head.appendChild(script);
+        }
+        
+        // Bottom buttons
+        const bottomRow = document.createElement('div');
+        bottomRow.className = 'btn-row';
+        bottomRow.style.marginTop = '8px';
+        submitPanel.appendChild(bottomRow);
+        
+        const submitAppBtn = createBtn('Submit', '#28a745', true);
+        const personalBtn = createBtn('Personal', '#17a2b8', true);
+        const overviewBtn = createBtn('Overview', '#ffc107', true);
+        bottomRow.appendChild(submitAppBtn);
+        bottomRow.appendChild(personalBtn);
+        bottomRow.appendChild(overviewBtn);
+        
+        submitAppBtn.onclick = async () => {
+            const payload = {};
+            rows.forEach(r => {
+                const k = r.keyInput.value.trim();
+                if (k) payload[k] = r.valueInput.value;
+            });
+            
+            const bearerToken = getBearerToken();
+            if (!bearerToken) {
+                showMessage('[ERR] Bearer Token is required!');
+                return;
+            }
+            
+            const fullURL = baseInput.value.replace(/\/$/, '') + endpointInput.value;
+            try {
+                showMessage('Submitting payload...');
+                const res = await fetch(fullURL, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${bearerToken}`
+                    },
+                    body: JSON.stringify(payload)
+                });
+                const data = await res.json();
+                showMessage(data.message || '[OK] Payload submitted successfully!');
+                LogManager.add('Application submitted: ' + (data.message || 'Success'), 'success');
+                startCooldown(submitAppBtn);
+            } catch (e) {
+                showMessage('[ERR] Error: ' + e.message);
+                LogManager.add('Submit error: ' + e.message, 'error');
+            }
+        };
+        
+        personalBtn.onclick = async () => {
+            const config = getStoredConfig();
+            if (!config) {
+                showMessage('[ERR] No config found. Upload config first!');
+                return;
+            }
+            
+            const personalInfo = {
+                full_name: config.personal_info?.full_name || '',
+                email_name: config.personal_info?.email_name || '',
+                phone: config.personal_info?.phone || '',
+                webfile_id: config.webfile_id || '',
+                family: {}
+            };
+            
+            const familyCount = parseInt(config.family_count || '0');
+            const familyData = config.family_data || [];
+            for (let i = 0; i < familyCount && i < familyData.length; i++) {
+                const memberData = familyData[i];
+                personalInfo.family[i + 1] = {
+                    name: memberData.name,
+                    webfile_no: memberData.webfile,
+                    again_webfile_no: memberData.webfile
+                };
+            }
+            
+            const bearerToken = getBearerToken();
+            if (!bearerToken) {
+                showMessage('[ERR] Bearer Token is required!');
+                return;
+            }
+            
+            try {
+                showMessage('Submitting personal info...');
+                const res = await fetch('https://payment.ivacbd.com/api/v2/payment/personal-info-submit', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${bearerToken}`
+                    },
+                    body: JSON.stringify(personalInfo)
+                });
+                const data = await res.json();
+                showMessage(data.message || '[OK] Personal Info submitted successfully!');
+                LogManager.add('Personal info submitted', 'success');
+                startCooldown(personalBtn);
+            } catch (e) {
+                showMessage('[ERR] Error: ' + e.message);
+                LogManager.add('Personal info error: ' + e.message, 'error');
+            }
+        };
+        
+        overviewBtn.onclick = async () => {
+            const bearerToken = getBearerToken();
+            if (!bearerToken) {
+                showMessage('[ERR] Bearer Token is required!');
+                return;
+            }
+            
+            try {
+                showMessage('Submitting overview...');
+                const res = await fetch('https://payment.ivacbd.com/api/v2/payment/overview-submit', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${bearerToken}`
+                    },
+                    body: JSON.stringify({})
+                });
+                const data = await res.json();
+                showMessage(data.message || '[OK] Overview submitted successfully!');
+                LogManager.add('Overview submitted', 'success');
+                startCooldown(overviewBtn);
+            } catch (e) {
+                showMessage('[ERR] Error: ' + e.message);
+                LogManager.add('Overview error: ' + e.message, 'error');
+            }
+        };
+        
+        popupContainer.appendChild(submitPanel);
+    }
+
+    // ==================== PAYMENT PANEL ====================
+    function createPaymentPanel() {
+        popupContainer.innerHTML = '';
+        popupContainer.className = 'popup-panel active';
+        
+        let BEARER_TOKEN = localStorage.getItem('token') || localStorage.getItem('access_token') ||
+            sessionStorage.getItem('token') || sessionStorage.getItem('access_token');
+        
+        const paymentPanel = document.createElement('div');
+        paymentPanel.className = 'payment-panel-main';
+        popupContainer.appendChild(paymentPanel);
+        
+        function createBtn(text, bgColor) {
+            const btn = document.createElement('button');
+            btn.textContent = text;
+            btn.style.backgroundColor = bgColor || '#6f42c1';
+            return btn;
+        }
+        
+        function createInput(placeholder, type = "text", fullWidth = false) {
+            const input = document.createElement('input');
+            input.type = type;
+            input.placeholder = placeholder;
+            if (fullWidth) input.className = 'full-width-input';
+            return input;
+        }
+        
+        const messageBox = document.createElement('div');
+        messageBox.className = 'message-box';
+        paymentPanel.appendChild(messageBox);
+        
+        function showMessage(msg, isError = false) {
+            messageBox.textContent = (isError ? '[ERR] ' : '[OK] ') + msg;
+            messageBox.style.color = isError ? 'red' : 'green';
+            LogManager.add(msg, isError ? 'error' : 'success');
+        }
+        
+        // Get config from localStorage
+        const config = getStoredConfig();
+        const mobileNo = config?.personal_info?.phone || '';
+        const webfileId = config?.webfile_id || '';
+        
+        if (mobileNo) {
+            showMessage(`Mobile Number: ${mobileNo}`);
+        }
+        
+        if (webfileId) {
+            const webfileSpan = document.createElement('span');
+            webfileSpan.textContent = `Webfile ID: ${webfileId}`;
+            webfileSpan.style.display = 'block';
+            webfileSpan.style.marginTop = '4px';
+            paymentPanel.insertBefore(webfileSpan, messageBox.nextSibling);
+        }
+        
+        // Token row
+        const tokenRow = document.createElement('div');
+        tokenRow.className = 'input-row';
+        const tokenInput = createInput('Bearer/Access Token');
+        tokenInput.value = BEARER_TOKEN || '';
+        const tokenBtn = createBtn('Update Token', '#16a34a');
+        const clearTokenBtn = createBtn('Clear Token', '#dc2626');
+        tokenBtn.style.width = '33%';
+        clearTokenBtn.style.width = '33%';
+        tokenRow.appendChild(tokenInput);
+        tokenRow.appendChild(tokenBtn);
+        tokenRow.appendChild(clearTokenBtn);
+        paymentPanel.appendChild(tokenRow);
+        
+        tokenBtn.addEventListener('click', () => {
+            const newToken = localStorage.getItem('access_token') || localStorage.getItem('token') || '';
+            if (newToken) {
+                BEARER_TOKEN = newToken;
+                tokenInput.value = newToken;
+                showMessage('Token updated from storage!');
+            } else if (tokenInput.value.trim()) {
+                BEARER_TOKEN = tokenInput.value.trim();
+                localStorage.setItem('access_token', BEARER_TOKEN);
+                showMessage('Token manually set and saved!');
+            } else {
+                showMessage('Token not found!', true);
+            }
+        });
+        
+        clearTokenBtn.addEventListener('click', () => {
+            localStorage.removeItem('token');
+            localStorage.removeItem('access_token');
+            sessionStorage.removeItem('token');
+            sessionStorage.removeItem('access_token');
+            tokenInput.value = '';
+            BEARER_TOKEN = '';
+            showMessage('Token cleared!');
+        });
+        
+        // Top section
+        const topSection = document.createElement('div');
+        topSection.style.display = 'flex';
+        topSection.style.flexDirection = 'column';
+        topSection.style.gap = '4px';
+        paymentPanel.appendChild(topSection);
+        
+        const endpointRow = document.createElement('div');
+        endpointRow.className = 'input-row';
+        const baseURLInput = createInput('Base URL');
+        baseURLInput.value = 'https://payment.ivacbd.com';
+        const endpointInput = createInput('Endpoint Path');
+        endpointInput.value = '/api/v2/payment/h7j3wt-now-y0k3d6';
+        endpointRow.appendChild(baseURLInput);
+        endpointRow.appendChild(endpointInput);
+        topSection.appendChild(endpointRow);
+        
+        const otpRow = document.createElement('div');
+        otpRow.className = 'input-row';
+        const otpInput = createInput('Enter OTP', 'text', true);
+        otpInput.maxLength = 7; // 7 digit OTP
+        const otpSendBtn = createBtn('Send OTP', '#2563eb');
+        const verifyBtn = createBtn('[OK] Verify OTP', '#16a34a');
+        otpRow.appendChild(otpInput);
+        otpRow.appendChild(otpSendBtn);
+        otpRow.appendChild(verifyBtn);
+        topSection.appendChild(otpRow);
+        
+        const appointmentRow = document.createElement('div');
+        appointmentRow.className = 'input-row';
+        const dateKeyInput = createInput('appointment_date (key)');
+        dateKeyInput.value = 'appointment_date';
+        const dateValInput = createInput('Date value', 'date');
+        appointmentRow.appendChild(dateKeyInput);
+        appointmentRow.appendChild(dateValInput);
+        topSection.appendChild(appointmentRow);
+        
+        const timeRow = document.createElement('div');
+        timeRow.className = 'input-row';
+        const timeKeyInput = createInput('appointment_time (key)');
+        timeKeyInput.value = 'appointment_time';
+        const timeValInput = createInput('Time value');
+        timeRow.appendChild(timeKeyInput);
+        timeRow.appendChild(timeValInput);
+        topSection.appendChild(timeRow);
+        
+        const captchaRow = document.createElement('div');
+        captchaRow.className = 'input-row';
+        const captchaKeyInput = createInput('captcha_token (key)');
+        captchaKeyInput.value = 'k5t0g8_token_y4v9f6';
+        const captchaValInput = createInput('CAPTCHA token');
+        captchaRow.appendChild(captchaKeyInput);
+        captchaRow.appendChild(captchaValInput);
+        topSection.appendChild(captchaRow);
+        
+        const captchaRow2 = document.createElement('div');
+        captchaRow2.style.display = 'flex';
+        captchaRow2.style.flexDirection = 'column';
+        captchaRow2.style.gap = '2px';
+        const sitekeyInput = createInput('CAPTCHA sitekey', 'text', true);
+        sitekeyInput.value = '0x4AAAAAABvQ3Mi6RktCuZ7P';
+        const loadCaptchaBtn = createBtn('Load CAPTCHA', '#8b5cf6');
+        const captchaContainer = document.createElement('div');
+        captchaContainer.style.width = '100%';
+        captchaContainer.style.height = '100px';
+        captchaRow2.appendChild(sitekeyInput);
+        captchaRow2.appendChild(loadCaptchaBtn);
+        captchaRow2.appendChild(captchaContainer);
+        topSection.appendChild(captchaRow2);
+        
+        const slotRow = document.createElement('div');
+        slotRow.className = 'input-row';
+        slotRow.style.transform = 'translateY(-10px)';
+        const slotBtn = createBtn('Get Slot Time', '#f59e0b');
+        const fallbackBtn = createBtn('Default Slot', '#f97316');
+        slotRow.appendChild(slotBtn);
+        slotRow.appendChild(fallbackBtn);
+        topSection.appendChild(slotRow);
+        
+        const payRow = document.createElement('div');
+        payRow.className = 'input-row';
+        payRow.style.transform = 'translateY(-10px)';
+        const payNowBtn = createBtn('Pay Now', '#dc2626');
+        const paymentBtn = createBtn('Open Payment', '#0891b2');
+        paymentBtn.disabled = true;
+        paymentBtn.style.opacity = "0.6";
+        payRow.appendChild(payNowBtn);
+        payRow.appendChild(paymentBtn);
+        topSection.appendChild(payRow);
+        
+        let paymentLink = "";
+        
+        // CAPTCHA script
+        const loadCaptchaScript = () => {
+            if (!window.turnstile) {
+                const script = document.createElement('script');
+                script.src = 'https://challenges.cloudflare.com/turnstile/v0/api.js';
+                script.async = true;
+                script.defer = true;
+                document.head.appendChild(script);
+                setTimeout(loadCaptchaScript, 500);
+            }
+        };
+        loadCaptchaScript();
+        
+        const renderCaptcha = () => {
+            if (!window.turnstile) return;
+            captchaContainer.innerHTML = '';
+            window.turnstile.render(captchaContainer, {
+                sitekey: sitekeyInput.value || '0x4AAAAAABvQ3Mi6RktCuZ7P',
+                callback: token => {
+                    captchaValInput.value = token;
+                    LogManager.add('Payment CAPTCHA solved', 'success');
+                },
+                theme: 'light'
+            });
+        };
+        loadCaptchaBtn.addEventListener('click', () => {
+            renderCaptcha();
+            startCooldown(loadCaptchaBtn);
+        });
+        
+        const getCaptchaToken = () => new Promise((resolve, reject) => {
+            if (captchaValInput.value) return resolve(captchaValInput.value);
+            renderCaptcha();
+            showMessage('Solve CAPTCHA first', true);
+            reject('CAPTCHA pending');
+        });
+        
+        // OTP send
+        otpSendBtn.addEventListener('click', async () => {
+            try {
+                const url = baseURLInput.value.trim() + '/api/v2/payment/pay-otp-sent';
+                const res = await fetch(url, {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json', 'Authorization': `Bearer ${BEARER_TOKEN}`},
+                    body: JSON.stringify({resend: 0})
+                });
+                const data = await res.json();
+                showMessage(data.status === 'success' ? 'OTP sent!' : 'OTP sending failed: ' + data.message, data.status !== 'success');
+                startCooldown(otpSendBtn);
+            } catch (e) {
+                showMessage('Error sending OTP: ' + e.message, true);
+            }
+        });
+        
+        // OTP verify
+        verifyBtn.addEventListener('click', async () => {
+            const otpValue = otpInput.value.trim();
+            if (!otpValue || otpValue.length !== 7 || !/^\d{7}$/.test(otpValue)) {
+                showMessage('সঠিক 7 অংকের OTP দিন।', true);
+                return;
+            }
+            try {
+                const url = baseURLInput.value.trim() + '/api/v2/payment/pay-otp-verify';
+                const res = await fetch(url, {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json', 'Authorization': `Bearer ${BEARER_TOKEN}`},
+                    body: JSON.stringify({otp: otpValue})
+                });
+                const data = await res.json();
+                if (data.status === 'success' && data.data.slot_dates && data.data.slot_dates.length > 0) {
+                    dateValInput.value = data.data.slot_dates[0];
+                    timeValInput.value = "";
+                    showMessage('OTP Verified & Date filled!');
+                } else {
+                    showMessage('OTP verification failed or no date found: ' + data.message, true);
+                }
+                startCooldown(verifyBtn);
+            } catch (e) {
+                showMessage('Error verifying OTP: ' + e.message, true);
+            }
+        });
+        
+        // Slot time
+        slotBtn.addEventListener('click', async () => {
+            const appointment_date = dateValInput.value.trim();
+            if (!appointment_date) {
+                showMessage('প্রথমে একটি তারিখ সিলেক্ট করুন।', true);
+                return;
+            }
+            try {
+                const url = baseURLInput.value.trim() + '/api/v2/payment/pay-slot-time';
+                const res = await fetch(url, {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json', 'Authorization': `Bearer ${BEARER_TOKEN}`},
+                    body: JSON.stringify({appointment_date})
+                });
+                const data = await res.json();
+                if (data.data?.slot_times?.length) {
+                    timeValInput.value = data.data.slot_times[0].time_display;
+                    showMessage('Slot Time available & auto-filled.');
+                } else {
+                    timeValInput.value = "";
+                    showMessage('Slot Time পাওয়া যায়নি।', true);
+                }
+                startCooldown(slotBtn);
+            } catch (e) {
+                showMessage('Error fetching slot times: ' + e.message, true);
+            }
+        });
+        
+        fallbackBtn.addEventListener('click', () => {
+            timeValInput.value = '09:00 - 09:59';
+            showMessage('Default Slot Time filled.');
+        });
+        
+        // Pay now
+        payNowBtn.addEventListener('click', async () => {
+            const originalBtnText = payNowBtn.textContent;
+            payNowBtn.textContent = 'Loading...';
+            payNowBtn.disabled = true;
+            
+            try {
+                const token = await getCaptchaToken();
+                const payload = {};
+                [[dateKeyInput, dateValInput], [timeKeyInput, timeValInput], [captchaKeyInput, captchaValInput]]
+                    .forEach(([k, v]) => {
+                        const key = k.value.trim();
+                        const val = (v.value || '').trim();
+                        if (key && val) payload[key] = val;
+                    });
+                payload.selected_payment = {
+                    name: "VISA",
+                    slug: "visacard",
+                    link: "https://securepay.sslcommerz.com/gwprocess/v4/image/gw1/visa.png"
+                };
+                
+                const dateKey = dateKeyInput.value.trim();
+                const timeKey = timeKeyInput.value.trim();
+                
+                if (!payload[dateKey] || !payload[timeKey]) {
+                    showMessage('Appointment Date & Time প্রয়োজন', true);
+                    return;
+                }
+                
+                const url = baseURLInput.value.trim() + endpointInput.value.trim();
+                const res = await fetch(url, {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json', 'Authorization': `Bearer ${BEARER_TOKEN}`},
+                    body: JSON.stringify(payload)
+                });
+                const data = await res.json();
+                if (data.status === 'success' && data.data.url) {
+                    paymentLink = data.data.url;
+                    paymentBtn.disabled = false;
+                    paymentBtn.style.opacity = '1';
+                    paymentBtn.style.backgroundColor = '#22c55e';
+                    showMessage('Payment link ready!');
+                } else {
+                    showMessage('Payment link missing', true);
+                }
+                startCooldown(payNowBtn);
+            } catch (e) {
+                showMessage('Error: ' + e.message, true);
+            } finally {
+                payNowBtn.textContent = originalBtnText;
+                payNowBtn.disabled = false;
+            }
+        });
+        
+        paymentBtn.addEventListener('click', () => {
+            if (paymentLink) {
+                window.open(paymentLink, '_blank');
+                showMessage('Payment page opened');
+            } else {
+                showMessage('Payment link missing', true);
+            }
+        });
+    }
+
+    // ==================== CONFIG PANEL ====================
+    function createConfigPanel() {
+        popupContainer.innerHTML = '';
+        popupContainer.className = 'popup-panel active';
+        
+        const panel = document.createElement('div');
+        panel.className = 'ivac-panel';
+        panel.style.cssText = 'background: #fff; padding: 12px; border-radius: 8px;';
+        
+        const title = document.createElement('div');
+        title.textContent = 'Configuration Management';
+        title.style.cssText = 'font-weight: bold; font-size: 14px; margin-bottom: 10px; padding-bottom: 8px; border-bottom: 2px solid #e5e7eb;';
+        
+        const description = document.createElement('p');
+        description.textContent = 'Upload or edit your IVAC_APP_DATA configuration. This data will be saved locally and auto-populate all forms.';
+        description.style.cssText = 'font-size: 11px; color: #6b7280; margin: 8px 0 12px 0;';
+        
+        const createLabel = (text) => {
+            const label = document.createElement('div');
+            label.textContent = text;
+            label.style.cssText = 'font-size: 11px; font-weight: 600; margin-bottom: 4px; color: #374151;';
+            return label;
+        };
+        
+        const textareaLabel = createLabel('Configuration JSON:');
+        
+        const configTextarea = document.createElement('textarea');
+        configTextarea.style.cssText = 'width: 100%; height: 300px; padding: 8px; border: 1px solid #d1d5db; border-radius: 4px; font-family: "Courier New", monospace; font-size: 11px; resize: vertical;';
+        configTextarea.placeholder = `{
+  "webfile_id": "BGDRV8490D25",
+  "mission": "3",
+  "ivac_center": "IVACRAJ|2",
+  "visa_type": "6",
+  "family_count": "4",
+  "asweoi_erilfs": "Medical medical medical",
+  "family_data": [
+    {"name":"Full Name", "webfile":"BGDRV1234567"}
+  ],
+  "personal_info": {
+    "full_name": "Your Name",
+    "email_name": "email@example.com",
+    "phone": "01234567890"
+  }
+}`;
+        
+        // Load existing config from localStorage
+        const savedConfig = localStorage.getItem('IVAC_APP_DATA');
+        if (savedConfig) {
+            try {
+                const parsed = JSON.parse(savedConfig);
+                configTextarea.value = JSON.stringify(parsed, null, 2);
+            } catch (e) {
+                LogManager.add('Error loading saved config: ' + e.message, 'error');
+            }
+        }
+        
+        const messageDiv = document.createElement('div');
+        messageDiv.style.cssText = 'margin-top: 8px; padding: 8px; border-radius: 4px; font-size: 11px; display: none;';
+        
+        const showMessage = (text, isError = false) => {
+            messageDiv.textContent = text;
+            messageDiv.style.display = 'block';
+            messageDiv.style.background = isError ? '#fee2e2' : '#d1fae5';
+            messageDiv.style.color = isError ? '#991b1b' : '#065f46';
+            setTimeout(() => messageDiv.style.display = 'none', 3000);
+        };
+        
+        const buttonRow = document.createElement('div');
+        buttonRow.style.cssText = 'display: flex; gap: 8px; margin-top: 10px;';
+        
+        const createBtn = (text, bg) => {
+            const btn = document.createElement('button');
+            btn.textContent = text;
+            btn.style.cssText = `flex: 1; padding: 8px; background: ${bg}; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 11px; font-weight: 600;`;
+            btn.addEventListener('mouseover', () => btn.style.opacity = '0.9');
+            btn.addEventListener('mouseout', () => btn.style.opacity = '1');
+            return btn;
+        };
+        
+        const saveBtn = createBtn('Save Config', '#10b981');
+        const loadBtn = createBtn('Load Config', '#3b82f6');
+        const clearBtn = createBtn('Clear Config', '#ef4444');
+        
+        // Save config to localStorage
+        saveBtn.addEventListener('click', () => {
+            const configText = configTextarea.value.trim();
+            if (!configText) {
+                showMessage('Please enter configuration data', true);
+                return;
+            }
+            
+            try {
+                const parsed = JSON.parse(configText);
+                
+                // Validate required fields
+                const requiredFields = ['webfile_id', 'mission', 'ivac_center', 'visa_type', 'family_count'];
+                const missing = requiredFields.filter(field => !parsed[field]);
+                
+                if (missing.length > 0) {
+                    showMessage('Missing required fields: ' + missing.join(', '), true);
+                    return;
+                }
+                
+                localStorage.setItem('IVAC_APP_DATA', JSON.stringify(parsed));
+                showMessage('Configuration saved successfully!');
+                LogManager.add('Config saved to localStorage', 'success');
+            } catch (e) {
+                showMessage('Invalid JSON format: ' + e.message, true);
+                LogManager.add('Config save failed: ' + e.message, 'error');
+            }
+        });
+        
+        // Load config from localStorage
+        loadBtn.addEventListener('click', () => {
+            const saved = localStorage.getItem('IVAC_APP_DATA');
+            if (saved) {
+                try {
+                    const parsed = JSON.parse(saved);
+                    configTextarea.value = JSON.stringify(parsed, null, 2);
+                    showMessage('Configuration loaded!');
+                    LogManager.add('Config loaded from localStorage', 'success');
+                } catch (e) {
+                    showMessage('Error loading config: ' + e.message, true);
+                }
+            } else {
+                showMessage('No saved configuration found', true);
+            }
+        });
+        
+        // Clear config
+        clearBtn.addEventListener('click', () => {
+            if (confirm('Are you sure you want to clear the saved configuration?')) {
+                localStorage.removeItem('IVAC_APP_DATA');
+                configTextarea.value = '';
+                showMessage('Configuration cleared!');
+                LogManager.add('Config cleared from localStorage', 'info');
+            }
+        });
+        
+        buttonRow.appendChild(saveBtn);
+        buttonRow.appendChild(loadBtn);
+        buttonRow.appendChild(clearBtn);
+        
+        const infoBox = document.createElement('div');
+        infoBox.style.cssText = 'margin-top: 12px; padding: 8px; background: #f3f4f6; border-radius: 4px; font-size: 10px; color: #4b5563;';
+        infoBox.innerHTML = `
+            <strong>How to use:</strong><br>
+            1. Paste your IVAC_APP_DATA JSON in the textarea<br>
+            2. Click "Save Config" to store it locally<br>
+            3. Go to Autofill/Login/Submit panels - fields will auto-populate<br>
+            4. Change config anytime for different accounts
+        `;
+        
+        panel.appendChild(title);
+        panel.appendChild(description);
+        panel.appendChild(textareaLabel);
+        panel.appendChild(configTextarea);
+        panel.appendChild(messageDiv);
+        panel.appendChild(buttonRow);
+        panel.appendChild(infoBox);
+        
+        popupContainer.appendChild(panel);
+        LogManager.add('Config panel opened', 'info');
+    }
+
+    // ==================== BUTTON HANDLERS ====================
+    header.querySelectorAll('.header-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            const panel = btn.dataset.panel;
+            
+            if (panel === 'autofill') createAutofillPanel();
+            else if (panel === 'login') createLoginPanel();
+            else if (panel === 'submit') createSubmitPanel();
+            else if (panel === 'payment') createPaymentPanel();
+            else if (panel === 'config') createConfigPanel();
+            
+            if (panel) LogManager.add(`Panel switched: ${panel}`, 'info');
+        });
+    });
+
+    // Minimize button handler
+    let isMinimized = false;
+    const minimizeBtn = document.getElementById('minimize-btn');
+    minimizeBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        isMinimized = !isMinimized;
+        
+        if (isMinimized) {
+            bodyWrapper.style.display = 'none';
+            minimizeBtn.textContent = '+';
+            container.style.height = 'auto';
+        } else {
+            bodyWrapper.style.display = 'flex';
+            minimizeBtn.textContent = '−';
+        }
+        
+        LogManager.add(isMinimized ? 'Panel minimized' : 'Panel restored', 'info');
+    });
+
+    // ==================== DRAGGING ====================
+    let isDragging = false;
+    let offsetX, offsetY;
+    
+    header.addEventListener('mousedown', (e) => {
+        isDragging = true;
+        offsetX = e.clientX - container.offsetLeft;
+        offsetY = e.clientY - container.offsetTop;
+        header.style.cursor = 'grabbing';
+    });
+    
+    document.addEventListener('mousemove', (e) => {
+        if (!isDragging) return;
+        container.style.left = (e.clientX - offsetX) + 'px';
+        container.style.top = (e.clientY - offsetY) + 'px';
+        container.style.right = 'auto';
+    });
+    
+    document.addEventListener('mouseup', () => {
+        if (isDragging) {
+            isDragging = false;
+            header.style.cursor = 'move';
+        }
+    });
+
+    // ==================== INIT ====================
+    console.log('[OK] IVAC System loaded successfully!');
+    LogManager.add('System ready - Check bottom right corner', 'success');
+
+    })(); // End of initializeSystem async IIFE
+
+})(); // End of main IIFE

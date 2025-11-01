@@ -17,8 +17,8 @@
     window.IVAC_VERSION = SCRIPT_VERSION;
 
     // ==================== AUTHENTICATION SYSTEM ====================
-    // User database URL (update this with your actual GitHub URL)
-    const USER_DB_URL = 'https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/users-encrypted.json';
+    // User database URL - Points to your GitHub-hosted user database
+    const USER_DB_URL = 'https://raw.githubusercontent.com/Hasan1817/ivacbd/refs/heads/main/users-encrypted.json';
     
     // Check authentication before proceeding
     async function checkAuthentication() {

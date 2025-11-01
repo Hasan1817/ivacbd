@@ -5,7 +5,7 @@
       "password": "cGFzczEyMzQ1Ng==",
       "expires": "2025-12-31",
       "role": "premium",
-      "name": "Demo User 1"
+      "name": "User1"
     },
     "demo_user2": {
       "password": "bXlzZWN1cmVwYXNz",
@@ -20,5 +20,4 @@
       "name": "Demo User 3"
     }
   },
-  "note": "Passwords are base64 encoded. Actual passwords: pass123456, mysecurepass, test123456"
 }

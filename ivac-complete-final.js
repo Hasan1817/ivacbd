@@ -313,20 +313,42 @@
     
     async function validateCredentials(username, password) {
         try {
+            console.log('[AUTH] Fetching user database from:', USER_DB_URL);
+            
             // Fetch user database
             const response = await fetch(USER_DB_URL + '?t=' + Date.now(), {
                 cache: 'no-cache'
             });
             
+            console.log('[AUTH] Response status:', response.status);
+            
             if (!response.ok) {
+                console.error('[AUTH] Failed to fetch user database. Status:', response.status);
                 return {
                     success: false,
                     error: 'Unable to verify credentials. Please try again.'
                 };
             }
             
-            const data = await response.json();
-            const user = data.users[username];
+            // Get response text first for debugging
+            const responseText = await response.text();
+            console.log('[AUTH] Response received, length:', responseText.length);
+            
+            // Try to parse JSON
+            let data;
+            try {
+                data = JSON.parse(responseText);
+                console.log('[AUTH] JSON parsed successfully');
+            } catch (parseErr) {
+                console.error('[AUTH] JSON Parse Error:', parseErr.message);
+                console.error('[AUTH] Response text:', responseText.substring(0, 200));
+                return {
+                    success: false,
+                    error: 'Database format error. Please contact administrator.'
+                };
+            }
+            
+            const user = data.users ? data.users[username] : null;
             
             if (!user) {
                 return {

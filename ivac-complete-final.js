@@ -2,7 +2,7 @@
     'use strict';
 
     // ==================== VERSION & LOADING CHECK ====================
-    const SCRIPT_VERSION = '1.0.2-DOM-STEALTH';
+    const SCRIPT_VERSION = '1.0.3-DEBUG';
     
     // Silent console wrapper (STEALTH MODE - no browser console output)
     const SilentConsole = {
@@ -1568,10 +1568,58 @@
                 // Try to find and use the actual IVAC login form on the page
                 LogManager.add('Attempting DOM-based login...', 'info');
                 
-                // Check if we're on the login page
-                const nativeLoginForm = document.querySelector('form[action*="login"], form.login-form, #login-form');
+                // DEBUG: Check if DOM module loaded
+                if (!window.IVACFormAutomation) {
+                    LogManager.add('[DEBUG] IVACFormAutomation module NOT loaded!', 'error');
+                } else {
+                    LogManager.add('[DEBUG] IVACFormAutomation module loaded OK', 'success');
+                }
                 
-                if (nativeLoginForm && window.IVACFormAutomation) {
+                // Check if we're on the login page with comprehensive selectors
+                const nativeLoginForm = document.querySelector(
+                    'form[action*="login"], ' +
+                    'form.login-form, ' +
+                    '#login-form, ' +
+                    'form[name="login"], ' +
+                    'form[id*="login"], ' +
+                    'form[class*="login"], ' +
+                    'form:has(input[name="mobile_no"]), ' +
+                    'form:has(input[name="mobile"]), ' +
+                    'form:has(input[type="tel"])'
+                );
+                
+                // If form not found, check if we have mobile/password fields (might not be in a form)
+                const hasMobileField = document.querySelector(
+                    'input[name="mobile_no"], ' +
+                    'input[name="mobile"], ' +
+                    'input[name="phone"], ' +
+                    'input[type="tel"]'
+                );
+                const hasPasswordField = document.querySelector(
+                    'input[name="password"], ' +
+                    'input[type="password"]'
+                );
+                
+                // DEBUG: Log what we found
+                if (nativeLoginForm) {
+                    LogManager.add('[DEBUG] Found login form: ' + (nativeLoginForm.tagName || 'unknown'), 'success');
+                } else {
+                    LogManager.add('[DEBUG] Login form NOT found', 'warning');
+                }
+                
+                if (hasMobileField) {
+                    LogManager.add('[DEBUG] Found mobile field: ' + (hasMobileField.name || hasMobileField.type), 'success');
+                } else {
+                    LogManager.add('[DEBUG] Mobile field NOT found', 'warning');
+                }
+                
+                if (hasPasswordField) {
+                    LogManager.add('[DEBUG] Found password field', 'success');
+                } else {
+                    LogManager.add('[DEBUG] Password field NOT found', 'warning');
+                }
+                
+                if ((nativeLoginForm || (hasMobileField && hasPasswordField)) && window.IVACFormAutomation) {
                     // Use DOM automation to fill and submit the real form
                     status.innerText = 'Using native form (anti-detection mode)...';
                     

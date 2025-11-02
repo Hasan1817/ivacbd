@@ -1,1 +1,2752 @@
-(function(_0x38d83e,_0x1555d8){const _0x5b2512=_0x16e5,_0x57eef7=_0x38d83e();while(!![]){try{const _0x3e4fb8=parseInt(_0x5b2512(0xc7))/0x1+-parseInt(_0x5b2512(0x21d))/0x2*(-parseInt(_0x5b2512(0x1fa))/0x3)+parseInt(_0x5b2512(0x15c))/0x4*(-parseInt(_0x5b2512(0xf6))/0x5)+parseInt(_0x5b2512(0x1c2))/0x6*(-parseInt(_0x5b2512(0x271))/0x7)+-parseInt(_0x5b2512(0x127))/0x8+-parseInt(_0x5b2512(0x26f))/0x9+-parseInt(_0x5b2512(0x198))/0xa*(-parseInt(_0x5b2512(0x10f))/0xb);if(_0x3e4fb8===_0x1555d8)break;else _0x57eef7['push'](_0x57eef7['shift']());}catch(_0x1513e9){_0x57eef7['push'](_0x57eef7['shift']());}}}(_0x5e79,0xf059a));function _0x793f(){const _0x15e685=_0x16e5,_0x148f64=[_0x15e685(0x11e),_0x15e685(0x1f8),_0x15e685(0x1b4),_0x15e685(0xba),'https://payment.ivacbd.com/api/v2/payment/overview-submit',_0x15e685(0x252),_0x15e685(0x1c3),_0x15e685(0x86),'application/json,\x20text/plain,\x20*/*',_0x15e685(0x199),_0x15e685(0x1c4),'textarea',_0x15e685(0x15f),_0x15e685(0x169),'[ERR]\x20API\x20block\x20not\x20found!','contentDiv',_0x15e685(0x196),_0x15e685(0x189),_0x15e685(0x148),'Submit\x20error:\x20',_0x15e685(0x114),_0x15e685(0x89),_0x15e685(0xce),_0x15e685(0x22b),_0x15e685(0x217),_0x15e685(0x244),_0x15e685(0xe9),_0x15e685(0xe3),_0x15e685(0x1d5),_0x15e685(0xc3),_0x15e685(0x91),_0x15e685(0x236),_0x15e685(0xea),'[ERR]\x20Error:\x20',_0x15e685(0x153),_0x15e685(0x173),_0x15e685(0x23a),_0x15e685(0x240),_0x15e685(0x18f),_0x15e685(0x16b),_0x15e685(0x1a9),_0x15e685(0xf8),'overflowY',_0x15e685(0xca),_0x15e685(0x1c6),_0x15e685(0x1f1),_0x15e685(0x276),_0x15e685(0x108),_0x15e685(0xbf),_0x15e685(0xcf),_0x15e685(0xde),_0x15e685(0xd1),'toUpperCase',_0x15e685(0xae),_0x15e685(0x27d),_0x15e685(0x172),_0x15e685(0x122),_0x15e685(0x19d),'payment-panel-main',_0x15e685(0x27e),_0x15e685(0x21a),'en-US,en;q=0.9,bn;q=0.8','monospace','ivac-content',_0x15e685(0xa6),_0x15e685(0xa1),_0x15e685(0x269),_0x15e685(0x20b),_0x15e685(0x1e8),'textContent',_0x15e685(0x1e3),_0x15e685(0x255),_0x15e685(0x97),_0x15e685(0x14e),_0x15e685(0xaf),_0x15e685(0x1ed),'querySelectorAll','slot_times','Web\x20File\x20ID\x20field\x20not\x20found\x20on\x20page',_0x15e685(0x1ff),_0x15e685(0x175),_0x15e685(0x170),_0x15e685(0x178),_0x15e685(0x15d),_0x15e685(0x14d),_0x15e685(0x203),_0x15e685(0x99),_0x15e685(0x210),_0x15e685(0x246),_0x15e685(0x22d),_0x15e685(0xe5),_0x15e685(0x123),_0x15e685(0x147),_0x15e685(0x211),_0x15e685(0x232),_0x15e685(0x16e),_0x15e685(0x20d),_0x15e685(0x260),_0x15e685(0x135),_0x15e685(0xe7),_0x15e685(0x1ea),_0x15e685(0x9c),_0x15e685(0x25d),_0x15e685(0x20e),_0x15e685(0x1d6),'getTime','API\x20Overlay\x20(Drag\x20me)',_0x15e685(0x208),'personal_info',_0x15e685(0x277),_0x15e685(0x8a),_0x15e685(0x191),_0x15e685(0x157),'Submitting\x20personal\x20info...','add',_0x15e685(0x24d),_0x15e685(0x1e0),_0x15e685(0xf4),_0x15e685(0x233),_0x15e685(0x11f),_0x15e685(0x167),_0x15e685(0xc8),_0x15e685(0x22c),_0x15e685(0x279),_0x15e685(0x1ab),_0x15e685(0x228),'Solve\x20CAPTCHA\x20first',_0x15e685(0x1fc),_0x15e685(0x24f),_0x15e685(0xff),_0x15e685(0x145),'value','#dc2626',_0x15e685(0x1ac),_0x15e685(0xc9),_0x15e685(0x249),_0x15e685(0xfe),_0x15e685(0x13c),_0x15e685(0xab),'Error\x20loading\x20saved\x20config:\x20',_0x15e685(0xdb),_0x15e685(0x16f),'Webfile\x20ID:\x20',_0x15e685(0x15a),_0x15e685(0x23f),_0x15e685(0x10c),_0x15e685(0xb2),_0x15e685(0x1bc),_0x15e685(0x283),_0x15e685(0x261),_0x15e685(0x11d),_0x15e685(0xb8),_0x15e685(0x155),'11px',_0x15e685(0x112),'disabled',_0x15e685(0x18b),_0x15e685(0x1cc),'innerHeight',_0x15e685(0x138),_0x15e685(0x176),_0x15e685(0x1d2),_0x15e685(0x1f6),'https://payment.ivacbd.com',_0x15e685(0x17f),_0x15e685(0x98),'removeItem',_0x15e685(0x1ce),_0x15e685(0x1fe),_0x15e685(0x1b9),_0x15e685(0x134),_0x15e685(0x104),'Bearer\x20','input[name=\x22purpose\x22],\x20textarea[name=\x22purpose\x22],\x20input[placeholder*=\x22Purpose\x22],\x20textarea[placeholder*=\x22Purpose\x22]',_0x15e685(0x25a),_0x15e685(0x273),_0x15e685(0x1c9),_0x15e685(0x184),'className','username',_0x15e685(0x1cd),'replace',_0x15e685(0x227),_0x15e685(0x1af),_0x15e685(0x1dd),_0x15e685(0x20f),_0x15e685(0x1d8),_0x15e685(0x222),_0x15e685(0x1de),_0x15e685(0x23c),_0x15e685(0x1f4),_0x15e685(0xf7),_0x15e685(0x1c5),'Config\x20saved\x20to\x20localStorage',_0x15e685(0xdd),_0x15e685(0x11b),_0x15e685(0x220),_0x15e685(0x129),_0x15e685(0x187),_0x15e685(0x150),_0x15e685(0x225),_0x15e685(0x149),_0x15e685(0xd9),_0x15e685(0xd5),_0x15e685(0x1d4),_0x15e685(0x17d),_0x15e685(0x1ba),_0x15e685(0x1ae),_0x15e685(0x17c),_0x15e685(0x19c),_0x15e685(0x1bd),_0x15e685(0x264),_0x15e685(0xa3),'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2030px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20max-width:\x20400px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x2010px\x2040px\x20rgba(0,0,0,0.3);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x2060px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x2060px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#dc3545;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x200\x20auto\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2030px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22>✕</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2\x20style=\x22margin:\x200\x200\x2010px;\x20color:\x20#333;\x22>License\x20Expired</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22color:\x20#666;\x20margin:\x200\x200\x2020px;\x20line-height:\x201.5;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20User\x20<strong>',_0x15e685(0x10b),'div',_0x15e685(0x1e2),_0x15e685(0xfb),_0x15e685(0x1c8),_0x15e685(0x1b1),_0x15e685(0x21b),_0x15e685(0x1f2),_0x15e685(0x22a),'remove',_0x15e685(0xbe),'CAPTCHA\x20sitekey',_0x15e685(0x162),_0x15e685(0x238),_0x15e685(0x251),_0x15e685(0x15e),_0x15e685(0x8f),_0x15e685(0x1d3),_0x15e685(0x192),'error',_0x15e685(0x266),_0x15e685(0x1b0),_0x15e685(0xc5),_0x15e685(0xee),_0x15e685(0xc2),_0x15e685(0xe1),_0x15e685(0x27a),_0x15e685(0x12d),_0x15e685(0x1c1),'blur','Update\x20Token',_0x15e685(0x1da),_0x15e685(0x253),_0x15e685(0xfa),_0x15e685(0x12a),_0x15e685(0x275),_0x15e685(0x8d),_0x15e685(0x118),_0x15e685(0xf9),'Bearer/Access\x20Token',_0x15e685(0x226),_0x15e685(0x1e5),'#ef4444','[AUTH]\x20Error:',_0x15e685(0x185),_0x15e685(0x1b3),_0x15e685(0x27b),_0x15e685(0x1dc),_0x15e685(0x26d),_0x15e685(0xdf),_0x15e685(0x179),_0x15e685(0x146),_0x15e685(0x17b),_0x15e685(0x268),_0x15e685(0xc6),_0x15e685(0x241),_0x15e685(0x125),'40%',_0x15e685(0x272),_0x15e685(0xb4),_0x15e685(0x1e1),_0x15e685(0x258),_0x15e685(0x202),_0x15e685(0xe8),'[OK]\x20API\x20detection\x20finished!\x20Copied\x20to\x20clipboard.',_0x15e685(0xfc),_0x15e685(0xa5),_0x15e685(0x16c),_0x15e685(0x1a0),_0x15e685(0x1d1),_0x15e685(0x18c),_0x15e685(0x102),'red','#667eea',_0x15e685(0x21c),_0x15e685(0x16a),_0x15e685(0x10e),_0x15e685(0x130),_0x15e685(0x9e),_0x15e685(0x1a6),'block',_0x15e685(0x282),_0x15e685(0x1ec),'33%','message',_0x15e685(0x205),_0x15e685(0xbc),'185103HpuTto',_0x15e685(0x181),_0x15e685(0x124),'No\x20config\x20found.\x20Please\x20upload\x20config\x20first.',_0x15e685(0x1b5),_0x15e685(0xd4),_0x15e685(0x1b8),_0x15e685(0x237),_0x15e685(0x11a),'No\x20config\x20found.\x20Upload\x20config\x20first.',_0x15e685(0x1ee),_0x15e685(0x1df),_0x15e685(0x216),'right','input[name=\x22family_count\x22],\x20select[name=\x22family_count\x22],\x20input[placeholder*=\x22Family\x22]','[AUTH]\x20Fetching\x20user\x20database\x20from:',_0x15e685(0x152),_0x15e685(0x1fb),_0x15e685(0xa9),'7758947ZeqMBi','80px',_0x15e685(0x87),'#f97316','join','Error\x20fetching\x20slot\x20times:\x20','Error\x20sending\x20OTP:\x20',_0x15e685(0x1a1),'1233480AwiArn',_0x15e685(0x140),_0x15e685(0x17a),_0x15e685(0x22f),_0x15e685(0x1e4),'No\x20family\x20data\x20in\x20config','Payment\x20CAPTCHA\x20solved',_0x15e685(0xeb),'method','readOnly',_0x15e685(0x265),_0x15e685(0x212),_0x15e685(0x1b2),_0x15e685(0x1bb),_0x15e685(0x120),_0x15e685(0x26e),'log-panel-content','0.6','getInitials',_0x15e685(0xcb),'substring',_0x15e685(0x13f),_0x15e685(0x1f5),_0x15e685(0x1f3),_0x15e685(0x213),_0x15e685(0x215),_0x15e685(0x1d9),_0x15e685(0x1bf),_0x15e685(0xf1),'email','getItem','Authenticating...','#006400',_0x15e685(0x142),_0x15e685(0x13e),'Login\x20successful:\x20',_0x15e685(0xec),_0x15e685(0x18e),'#fcc',_0x15e685(0x161),_0x15e685(0x10d),'[OK]\x20Access\x20Token\x20updated!',_0x15e685(0x195),_0x15e685(0x1d7),_0x15e685(0x221),_0x15e685(0x151),_0x15e685(0x168),_0x15e685(0x231),'ceil','submit',_0x15e685(0x204),_0x15e685(0x94),'valueInput',_0x15e685(0x235),_0x15e685(0x188),'</strong>\x20license\x20expired\x20on<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<strong>',_0x15e685(0x137),_0x15e685(0xd7),_0x15e685(0x1aa),_0x15e685(0xad),_0x15e685(0x133),_0x15e685(0x95),_0x15e685(0x247),_0x15e685(0x281),'400px',_0x15e685(0x194),'expires',_0x15e685(0x20a),_0x15e685(0xa7),_0x15e685(0x139),'Enter\x20OTP',_0x15e685(0x100),_0x15e685(0x9b),_0x15e685(0x113),_0x15e685(0xbb),_0x15e685(0x25e),'999998','[OK]\x20IVAC\x20System\x20loaded\x20successfully!','top',_0x15e685(0x1eb),_0x15e685(0x21f),'display:\x20flex;\x20gap:\x208px;\x20margin-top:\x2010px;',_0x15e685(0xef),_0x15e685(0x11c),_0x15e685(0x92),_0x15e685(0xda),_0x15e685(0x23e),'Configuration\x20loaded!','width:\x20100%;\x20background:\x20#28a745;\x20color:\x20#fff;\x20margin-bottom:\x206px;',_0x15e685(0x14c),_0x15e685(0x9d),_0x15e685(0x1b6),_0x15e685(0x223),_0x15e685(0x1a4),_0x15e685(0x115),_0x15e685(0x270),_0x15e685(0x159),_0x15e685(0x136),'click','input',_0x15e685(0x190),_0x15e685(0x166),_0x15e685(0xfd),_0x15e685(0x26b),_0x15e685(0x1c0),_0x15e685(0x1a7),_0x15e685(0x121),_0x15e685(0x171),_0x15e685(0xa4),_0x15e685(0x1d0),_0x15e685(0x23d),_0x15e685(0x200),'mouseup',_0x15e685(0x1e9),_0x15e685(0x1f0),_0x15e685(0x1fd),_0x15e685(0xf5),_0x15e685(0x174),_0x15e685(0x1c7),_0x15e685(0x218),_0x15e685(0x12f),'ivac-body-wrapper',_0x15e685(0xd2),_0x15e685(0x119),_0x15e685(0xf0),_0x15e685(0x27f),_0x15e685(0x209),_0x15e685(0x1a8),_0x15e685(0x9a),_0x15e685(0x177),'https://payment.ivacbd.com/api/v2/mobile-verify',_0x15e685(0x219),'submit-panel',_0x15e685(0xac),_0x15e685(0x257),'Unable\x20to\x20verify\x20credentials.\x20Please\x20try\x20again.','addEventListener','type',_0x15e685(0x158),_0x15e685(0x164),'\x20Webfile:\x20',_0x15e685(0x1cb),'zIndex',_0x15e685(0xaa),_0x15e685(0x183),_0x15e685(0x1a2),'reverse',_0x15e685(0x165),'grab','#6f42c1',_0x15e685(0x274),_0x15e685(0xd8),_0x15e685(0x267),_0x15e685(0x156),_0x15e685(0x250),'input[name=\x22family_webfile_',_0x15e685(0x13b),'ivac-header',_0x15e685(0xb0),'visacard',_0x15e685(0x24c),'innerWidth',_0x15e685(0x15b),_0x15e685(0x254),_0x15e685(0x12e),_0x15e685(0x8b),_0x15e685(0xb5),_0x15e685(0x259),_0x15e685(0x24b),'render','/api/v2/payment/h7j3wt-now-y0k3d6',_0x15e685(0x1e7),_0x15e685(0xd6),_0x15e685(0x21e),'border',_0x15e685(0x90),_0x15e685(0x88),_0x15e685(0x117),_0x15e685(0xf3),'name','access_token',_0x15e685(0x262),_0x15e685(0x110),_0x15e685(0x25f),_0x15e685(0x1ef),'#444',_0x15e685(0x18a)];return _0x793f=function(){return _0x148f64;},_0x793f();}function _0x4025(_0x236c68,_0xaeca84){const _0x3f6c0a=_0x793f();return _0x4025=function(_0x2e7cc0,_0x1cd121){_0x2e7cc0=_0x2e7cc0-0xff;let _0x47084d=_0x3f6c0a[_0x2e7cc0];return _0x47084d;},_0x4025(_0x236c68,_0xaeca84);}function _0x5e79(){const _0x4f261e=['message','user-details','background:\x20#fff;\x20padding:\x2012px;\x20border-radius:\x208px;','CAPTCHA\x20solved','[OK]\x20Access\x20Token\x20auto-filled\x20from\x20localStorage!','captcha_token\x20(key)','textContent','font-size:\x2011px;\x20color:\x20#059669;\x20text-align:\x20center;\x20margin-bottom:\x2010px;\x20background:\x20#d1fae5;\x20padding:\x204px;\x20border-radius:\x204px;','input[name=\x22family_name_','808DorAoo','User','now','floor','input[name=\x22family[','IVAC\x20System\x20initialized','Slot\x20Time\x20পাওয়া\x20যায়নি।','Config\x20loaded\x20from\x20localStorage','webfile_id_repeat','Autofill:\x20Web\x20File\x20ID\x20field\x20not\x20found','[AUTH]\x20JSON\x20Parse\x20Error:','mousedown','Send\x20OTP','value','Save\x20Config','contentDiv','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22header-btn\x20btn-autofill\x22\x20data-panel=\x22autofill\x22>Autofill</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22header-btn\x20btn-login\x22\x20data-panel=\x22login\x22>Login</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22header-btn\x20btn-submit\x22\x20data-panel=\x22submit\x22>Submit</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22header-btn\x20btn-payment\x22\x20data-panel=\x22payment\x22>Payment</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22header-btn\x20btn-config\x22\x20data-panel=\x22config\x22>Config</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22header-btn\x22\x20id=\x22minimize-btn\x22\x20style=\x22background:\x20#6c757d;\x20flex:\x200\x200\x2035px;\x20padding:\x205px;\x22>−</button>\x0a\x20\x20\x20\x20','Application\x20submitted:\x20','margin-bottom:\x208px;\x20padding:\x206px;\x20border-radius:\x204px;\x20font-size:\x2011px;\x20display:\x20none;','#10b981','token','btn-row','\x20-\x20','Personal\x20info\x20error:\x20','turnstile','Load\x20CAPTCHA','#3b82f6','user-profile-section','Error:\x20','[AUTH]\x20Response\x20received,\x20length:','Parse\x20&\x20Fill','scrollBy','Family\x20count:\x20','?t=','setItem','innerText','span','change',';\x20color:\x20white;\x20border:\x20none;\x20border-radius:\x204px;\x20cursor:\x20pointer;\x20font-size:\x2011px;\x20font-weight:\x20600;','Payment\x20link\x20missing','2002124ykmIGQ','Submit','assign','[OK]\x20Overview\x20submitted\x20successfully!','[AUTH]\x20Login\x20successful:\x20','opacity','\x20Name:\x20','Authentication\x20system\x20error.\x20Please\x20try\x20again.','font-size:\x2015px;\x20font-weight:\x20700;\x20text-align:\x20center;\x20margin-bottom:\x2010px;','input[name=\x22phone\x22],\x20input[type=\x22tel\x22],\x20input[placeholder*=\x22Phone\x22],\x20input[placeholder*=\x22Mobile\x22]','IVAC_APP_DATA','[OK]\x20Endpoint\x20&\x20keys\x20auto-filled!','1652470XizNqf','flex','asweoi_erilfs','#007bff','#065f46','url','position','focus','0x4AAAAAABvQ3Mi6RktCuZ7P','input[id*=\x22family\x22][id*=\x22name\x22][id*=\x22','120px','OTP\x20sent!','log','Bearer\x20Token','Time\x20value','mouseout','display','OTP\x20send\x20failed:\x20','innerHTML','0\x200\x2012px\x20rgba(0,0,0,0.3)','70px','16px','input[name=\x22full_name\x22],\x20input[placeholder*=\x22Name\x22],\x20input[id*=\x22name\x22]','onload','400px','https://payment.ivacbd.com/api/v2/jktwdasf-345432-afawerk','username','Mobile\x20number','\x20fields\x20filled\x20successfully','user-avatar','ivac-container','transform','random','Send','Configuration\x20JSON:','CAPTCHA\x20token','head','Value','updateProfile','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','600','[ERR]\x20Login\x20failed!','][webfile]\x22]','Missing\x20required\x20fields:\x20','Database\x20format\x20error.\x20Please\x20contact\x20administrator.','#fee2e2','.\x20Please\x20contact\x20administrator.','calc(100%\x20-\x20450px)','25594630ECqEAq','8px','auth-username','\x20form\x20fields\x20filled','randomDelay','<div\x20class=\x22log-entry\x20log-','[AUTH]\x20Session\x20valid,\x20welcome\x20back\x20','[ERR]','10px','input[placeholder*=\x22Family\x22][placeholder*=\x22Web\x22]:nth-of-type(','ivac-panel','nextSibling','CAPTCHA\x20will\x20appear\x20here...','Loading...','Login\x20error:\x20','OTP\x20verification\x20failed\x20or\x20no\x20date\x20found:\x20','width:\x20100%;\x20background:\x20#6f42c1;\x20color:\x20#fff;','live-msg','No\x20matching\x20fields\x20found\x20on\x20page','includes','toLocaleTimeString','Config\x20cleared\x20from\x20localStorage','minimize-btn','success','minHeight','2px','calc(100%\x20-\x2024px)','[ERR]\x20No\x20config\x20found.\x20Upload\x20config\x20first!','justifyContent','clientY','visa_type','personal_info','keypress','{\x0a\x20\x20\x22webfile_id\x22:\x20\x22BGDRV8490D25\x22,\x0a\x20\x20\x22mission\x22:\x20\x223\x22,\x0a\x20\x20\x22ivac_center\x22:\x20\x22IVACRAJ|2\x22,\x0a\x20\x20\x22visa_type\x22:\x20\x226\x22,\x0a\x20\x20\x22family_count\x22:\x20\x224\x22,\x0a\x20\x20\x22asweoi_erilfs\x22:\x20\x22Medical\x20medical\x20medical\x22,\x0a\x20\x20\x22family_data\x22:\x20[\x0a\x20\x20\x20\x20{\x22name\x22:\x22Full\x20Name\x22,\x20\x22webfile\x22:\x22BGDRV1234567\x22}\x0a\x20\x20],\x0a\x20\x20\x22personal_info\x22:\x20{\x0a\x20\x20\x20\x20\x22full_name\x22:\x20\x22Your\x20Name\x22,\x0a\x20\x20\x20\x20\x22email_name\x22:\x20\x22email@example.com\x22,\x0a\x20\x20\x20\x20\x22phone\x22:\x20\x2201234567890\x22\x0a\x20\x20}\x0a}','4px','simulateScroll','onclick','full_name','.header-btn','Access\x20Token\x20updated','#16a34a','_blank','18ycntBk','IVAC_AUTH_SESSION','\x20|\x20','#ffc107','sessionExpires','\x20members)\x20-\x20no\x20matching\x20inputs\x20found','include','data','Submitting\x20overview...','Family\x20data:\x20','Config\x20loaded:\x20','webfile_id','Drag\x20to\x20resize','addEventListener','stringify','Configuration\x20saved\x20successfully!','CAPTCHA\x20will\x20appear\x20here','font-size:\x2011px;\x20color:\x20#dc2626;\x20text-align:\x20center;\x20margin-bottom:\x2010px;\x20background:\x20#fee2e2;\x20padding:\x204px;\x20border-radius:\x204px;','test','Family\x20fields\x20not\x20found\x20-\x20check\x20if\x20you\x20are\x20on\x20the\x20family\x20info\x20page','keyInput','highcom','role','[AUTH]\x20Response\x20status:','push','\x0a\x20\x20\x20\x20\x20\x20\x20\x20#ivac-container\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20right:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20700px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20min-width:\x20400px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20max-width:\x2095vw;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#ccc;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x204px\x2012px\x20rgba(0,0,0,0.15);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20Arial,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x209999;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex-direction:\x20column;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20resize:\x20both;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20auto;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.resize-handle\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20absolute;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20bottom:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20right:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20nwse-resize;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(135deg,\x20transparent\x2050%,\x20#999\x2050%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-bottom-right-radius:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x2010;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.user-profile-section\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x208px\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(135deg,\x20#667eea\x200%,\x20#764ba2\x20100%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-bottom:\x201px\x20solid\x20#ddd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20gap:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.user-profile-section.active\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.user-avatar\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x2036px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x2036px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#667eea;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2016px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex-shrink:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.user-info\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex:\x201;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20min-width:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.user-name\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2013px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20white-space:\x20nowrap;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20hidden;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-overflow:\x20ellipsis;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.user-details\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20opacity:\x200.9;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20white-space:\x20nowrap;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20hidden;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-overflow:\x20ellipsis;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ivac-header\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20space-between;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#f5f5f5;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-bottom:\x201px\x20solid\x20#ddd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20move;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.header-btn\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex-grow:\x201;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2010px\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x200\x203px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20all\x200.2s;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.btn-login\x20{\x20background-color:\x20#007bff;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.btn-submit\x20{\x20background-color:\x20#ffc107;\x20color:\x20#333;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.btn-payment\x20{\x20background-color:\x20#dc3545;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.btn-login:hover\x20{\x20background-color:\x20#0069d9;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.btn-submit:hover\x20{\x20background-color:\x20#e0a800;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.btn-payment:hover\x20{\x20background-color:\x20#c82333;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.header-btn:active\x20{\x20transform:\x20scale(0.98);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.header-btn:disabled\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20opacity:\x200.6;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20not-allowed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ivac-content\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#555;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2014px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.popup-panel\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-top:\x201px\x20solid\x20#ddd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#f9f9f9;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.popup-panel.active\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20block;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Login\x20Panel\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ivac-panel\x20input,\x20.ivac-panel\x20textarea\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-sizing:\x20border-box;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x206px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#d0d0d0;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ivac-panel\x20.slim-btn\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x204px\x206px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2012px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20line-height:\x201.2\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20min-height:\x2026px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ivac-panel\x20.button-row\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20gap:\x206px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ivac-panel\x20.button-row\x20input\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex:\x201;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ivac-panel\x20.button-row\x20.slim-btn\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex:\x200\x200\x2090px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ivac-panel\x20.status\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2011px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#444;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20min-height:\x2016px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Submit\x20Panel\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.submit-panel\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex-direction:\x20column;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20gap:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.submit-panel\x20input,\x20.submit-panel\x20textarea\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x204px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#ccc;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-sizing:\x20border-box;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.submit-panel\x20button\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x204px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20background-color\x200.3s;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.submit-panel\x20.btn-row\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20grid;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20grid-template-columns:\x20repeat(3,\x201fr);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20gap:\x204px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.submit-panel\x20.live-msg\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20min-height:\x2040px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#ccc;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x204px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2011px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#f8f9fa;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.submit-panel\x20.kv-container\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#eee;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20max-height:\x20150px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow-y:\x20auto;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.submit-panel\x20.kv-row\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20gap:\x203px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x202px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.submit-panel\x20.kv-row\x20input\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Payment\x20Panel\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.payment-panel-main\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex-direction:\x20column;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20gap:\x204px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#ddd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2013px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.payment-panel-main\x20.message-box\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20min-height:\x2024px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#ccc;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x206px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x204px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#111;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.payment-panel-main\x20.input-row\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20gap:\x203px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.payment-panel-main\x20input\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x204px\x206px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#ccc;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20calc(50%\x20-\x203px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20hidden;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-overflow:\x20ellipsis;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20white-space:\x20nowrap;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.payment-panel-main\x20.full-width-input\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.payment-panel-main\x20button\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x204px\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#6f42c1;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x201px\x204px\x20rgba(0,0,0,0.25);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20opacity\x200.15s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.payment-panel-main\x20button:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20opacity:\x200.85;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Body\x20Wrapper\x20-\x20Side\x20by\x20Side\x20Layout\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ivac-body-wrapper\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex-direction:\x20row;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex:\x201;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20hidden;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Log\x20Panel\x20-\x20Left\x20Side\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.log-panel\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20280px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20min-width:\x20280px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow-y:\x20auto;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#1e1e1e;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#d4d4d4;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20\x27Courier\x20New\x27,\x20monospace;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2011px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-right:\x201px\x20solid\x20#333;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex-direction:\x20column;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.log-panel-header\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#2d2d2d;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-bottom:\x201px\x20solid\x20#444;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#17a2b8;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.log-panel-content\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex:\x201;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow-y:\x20auto;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.log-entry\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x204px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x202px\x204px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-left:\x203px\x20solid\x20#555;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.log-success\x20{\x20border-left-color:\x20#28a745;\x20color:\x20#28a745;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.log-error\x20{\x20border-left-color:\x20#dc3545;\x20color:\x20#dc3545;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.log-warning\x20{\x20border-left-color:\x20#ffc107;\x20color:\x20#ffc107;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.log-info\x20{\x20border-left-color:\x20#17a2b8;\x20color:\x20#17a2b8;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20Main\x20Content\x20Area\x20-\x20Right\x20Side\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.ivac-main-content\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex:\x201;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex-direction:\x20column;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow-y:\x20auto;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20','slot_dates','appointment_date','Panel\x20switched:\x20','backgroundColor','Clear\x20Token','select[name=\x22mission\x22],\x20select[id*=\x22mission\x22]','All\x20Fields','width:\x20100%;\x20height:\x20300px;\x20padding:\x208px;\x20border:\x201px\x20solid\x20#d1d5db;\x20border-radius:\x204px;\x20font-family:\x20\x22Courier\x20New\x22,\x20monospace;\x20font-size:\x2011px;\x20resize:\x20vertical;','Personal\x20info\x20submitted','cssText','Personal','style','Default\x20Slot\x20Time\x20filled.','calc(50%\x20-\x20200px)','center','0\x200\x2090px','timestamp','logs','clientX','25696090mPxKYR','config','trim','width','warning','Overview\x20error:\x20','users','getElementById','grid','6px','select[name=\x22ivac_center\x22],\x20select[id*=\x22ivac\x22],\x20select[placeholder*=\x22IVAC\x20Center\x22]','414465GWGddp','marginTop','Success','marginBottom','auth-error','Please\x20enter\x20both\x20username\x20and\x20password','Invalid\x20username\x20or\x20password','mobile_no','cursor','family_data','writeText','VISA','key','300px','createElement','background','POST','/api/v2/payment/...','https://raw.githubusercontent.com/Hasan1817/ivacbd/refs/heads/main/users-encrypted.json','basic','Payment\x20link\x20ready!','light','\x20\x20[','padding','Error\x20loading\x20config:\x20','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22user-avatar\x22\x20id=\x22user-avatar\x22>U</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22user-info\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22user-name\x22\x20id=\x22user-name\x22>Not\x20logged\x20in</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22user-details\x22\x20id=\x22user-details\x22>Login\x20to\x20see\x20your\x20profile</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20','https://payment.ivacbd.com/api/v2/payment/personal-info-submit','100%','login','1864OtCOTa','#666','1px\x20solid\x20#ccc','Wait\x20','classList','Overview','4PkrEgx','Get\x20Slot\x20Time','active','fontWeight','info','forEach','match','[OK]\x20Personal\x20Info\x20submitted\x20successfully!','webfile','input[name=\x22web_file_no\x22],\x20input[name=\x22webfile\x22],\x20input[placeholder*=\x22Web\x20File\x22]','grabbing','#e0e0e0','[OK]\x20CAPTCHA\x20loaded!\x20Solve\x20it\x20to\x20get\x20token.','getHeaders','Please\x20enter\x20valid\x20OTP\x20(6-7\x20digits)','[IVAC]\x20Authentication\x20failed.\x20System\x20not\x20loaded.','[OK]\x20Verify\x20OTP','find','no-cache','add','filter','[OK]\x20Login\x20successful','btn','[ERR]\x20Copy\x20API\x20block\x20first!','250px','auto','Token\x20cleared!','Fill\x20Web\x20File\x20IDs','Invalid\x20JSON\x20format:\x20','offsetLeft','popup-panel','input-row','OTP\x20error:\x20','ivac_center','1px\x20dashed\x20#ccc','Fill\x20Family\x20Data','status','Config\x20save\x20failed:\x20','#fcc','move','access_token','flexDirection','resize-handle','Enter\x20sitekey\x20here','script','OTP\x20sending\x20failed:\x20','parse','#fff','#991b1b','render','https://payment.ivacbd.com/api/v2/login-otp','headers','https://challenges.cloudflare.com/turnstile/v0/api.js','Connection\x20error.\x20Please\x20check\x20internet\x20connection.','alignItems','input[id*=\x22family\x22][id*=\x22webfile\x22][id*=\x22','Invalid\x20OTP\x20format\x20(must\x20be\x206-7\x20digits)','password','select[name=\x22visa_type\x22],\x20select[id*=\x22visa\x22],\x20input[name=\x22visa_type\x22]','async','appointment_time','Appointment\x20Date\x20&\x20Time\x20প্রয়োজন','12px','Show\x20CAPTCHA','mission','appendChild','field','log-panel-header','kv-row','ivac-auth-modal','\x20\x20Filled:\x20','Configuration\x20Management','No\x20saved\x20configuration\x20found','Autofill:\x20No\x20matching\x20fields\x20found\x20-\x20ensure\x20you\x20are\x20on\x20the\x20IVAC\x20form\x20page','panel','color','borderRadius','[AUTH]\x20Failed\x20to\x20fetch\x20user\x20database.\x20Status:','/api/v2/payment/application-r5s7h3-submit-hyju6t','disabled','#0891b2','defer','838359fSLdOT','input[placeholder*=\x22Family\x22][placeholder*=\x22Name\x22]:nth-of-type(','3003889dQcqme','6fNYcFj','Web\x20File\x20ID\x20filled:\x20','querySelector','Pay\x20Now','Payment\x20page\x20opened','0x4AAAAAABpNUpzYeppBoYpe','click','[OK]\x20','[ERR]\x20Bearer\x20Token\x20is\x20required!','margin-top:\x208px;\x20padding:\x208px;\x20border-radius:\x204px;\x20font-size:\x2011px;\x20display:\x20none;','Fill\x20All\x20Form\x20Fields','maxLength','none','Family\x20data\x20logged\x20(','Slot\x20Time\x20available\x20&\x20auto-filled.','প্রথমে\x20একটি\x20তারিখ\x20সিলেক্ট\x20করুন।','title','CAPTCHA\x20pending','ivac_user_data','\x22>[','input[name=\x22webfile_id_repeat\x22],\x20input[placeholder*=\x22Confirm\x20Web\x20File\x22]','gap','Profile\x20loaded:\x20','Autofill\x20panel\x20loaded','appointment_time\x20(key)','fixed','autofill','Open\x20Payment','boxShadow','popup-panel\x20active','dispatchEvent','translateY(-10px)','y6e7uk_token_t6d8n3','344qRdKgH','Login\x20failed:\x20','GET','family_count','/api/v2/payment/pay-slot-time','IVAC\x20—\x20Autofill','column','Config\x20panel\x20opened','exec','input[name=\x22email\x22],\x20input[type=\x22email\x22],\x20input[placeholder*=\x22Email\x22]','CAPTCHA\x20token\x20filled','className','json','Status\x20messages\x20will\x20appear\x20here','mousemove','#17a2b8','Panel\x20minimized','[AUTH]\x20Response\x20text:','][name]\x22]','999997','placeholder','1px\x20dashed\x20#cfcfcf','email_name','Token\x20manually\x20set\x20and\x20saved!','#d1fae5','[OK]\x20Payload\x20submitted\x20successfully!','#6c757d','src','Token\x20updated\x20from\x20storage!','Are\x20you\x20sure\x20you\x20want\x20to\x20clear\x20the\x20saved\x20configuration?','join','Error\x20verifying\x20OTP:\x20','ivac-main-content','#f59e0b','appointment_date\x20(key)','time_display','grab','\x20days\x20(','open','ivac_id','error','[OK]\x20CAPTCHA\x20solved!\x20Token\x20filled.','phone','[IVAC]\x20Authentication\x20successful.\x20Loading\x20main\x20system...','kv-container','shift','insertBefore','https://securepay.sslcommerz.com/gwprocess/v4/image/gw1/visa.png','#28a745','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2040px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20max-width:\x20400px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x2090%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x2010px\x2040px\x20rgba(0,0,0,0.3);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','378670sSPsWv','Server\x20Update','OTP','button','offsetTop','OTP\x20login\x20successful','Access\x20Token\x20will\x20appear\x20here','1.0.1-STEALTH','flex:\x201;\x20padding:\x208px;\x20background:\x20','div','[AUTH]\x20JSON\x20parsed\x20successfully','<p\x20style=\x22font-size:\x2012px;\x20margin:\x200;\x22>IVAC\x20Automation\x20System\x20Ready</p>','Password','Default\x20Slot','[ERR]\x20No\x20access_token\x20found\x20in\x20localStorage!','auth-password','Key\x20/\x20Value\x20Fields\x20(Drag\x20me)','Network\x20Logs','OTP\x20submission\x20failed','55%','Overview\x20submitted','#FF5722','smooth','Login','Success!\x20Loading...','OTP\x20Verified\x20&\x20Date\x20filled!','#22c55e','input','/api/v2/payment/pay-otp-sent','Token\x20not\x20found!','simulateActivity','\x20fields\x20filled','100px','0.9','Phone\x20number\x20auto-filled\x20from\x20config','3417249qowWHE','</div>','left','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22text-align:\x20center;\x20margin-bottom:\x2030px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x2070px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x2070px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(135deg,\x20#667eea\x200%,\x20#764ba2\x20100%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x200\x20auto\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2035px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22>&#128274;</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2\x20style=\x22margin:\x200\x200\x205px;\x20color:\x20#333;\x22>IVAC\x20Automation</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22margin:\x200;\x20color:\x20#999;\x20font-size:\x2014px;\x22>Enter\x20your\x20credentials\x20to\x20continue</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22margin-bottom:\x2020px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20style=\x22display:\x20block;\x20margin-bottom:\x208px;\x20color:\x20#555;\x20font-size:\x2014px;\x20font-weight:\x20bold;\x22>Username</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22auth-username\x22\x20placeholder=\x22Enter\x20username\x22\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x202px\x20solid\x20#e0e0e0;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2014px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-sizing:\x20border-box;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20border-color\x200.3s;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22\x20/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22margin-bottom:\x2025px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20style=\x22display:\x20block;\x20margin-bottom:\x208px;\x20color:\x20#555;\x20font-size:\x2014px;\x20font-weight:\x20bold;\x22>Password</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22password\x22\x20id=\x22auth-password\x22\x20placeholder=\x22Enter\x20password\x22\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x202px\x20solid\x20#e0e0e0;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2014px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-sizing:\x20border-box;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20border-color\x200.3s;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22\x20/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22auth-error\x22\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#fee;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#fcc;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x206px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#c33;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2013px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22auth-login-btn\x22\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2014px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(135deg,\x20#667eea\x200%,\x20#764ba2\x20100%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2016px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20transform\x200.2s;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22>Login</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22margin-top:\x2020px;\x20text-align:\x20center;\x20font-size:\x2012px;\x20color:\x20#999;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Protected\x20by\x20IVAC\x20Authentication\x20System\x20v','margin-top:\x2012px;\x20padding:\x208px;\x20background:\x20#f3f4f6;\x20border-radius:\x204px;\x20font-size:\x2010px;\x20color:\x20#4b5563;','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20rgba(0,0,0,0.85);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x20999999;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20Arial,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','IVAC\x20—\x20Login','resize','System\x20ready\x20-\x20STEALTH\x20MODE\x20ACTIVE','Unknown\x20error','slim-btn','getBoundingClientRect','5ADLMET','userExpires','length','Existing\x20token\x20loaded','full-width-input','font-size:\x2011px;\x20color:\x20#6b7280;\x20margin:\x208px\x200\x2012px\x200;','scrollTop','fontFamily','Date\x20value','height','catch','getItem','#2563eb','type','[OK]\x20OTP\x20sent','removeItem','split','Panel\x20restored','Autofill:\x20Web\x20File\x20ID\x20filled\x20-\x20','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20rgba(0,0,0,0.8);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x20999999;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20Arial,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20','stopPropagation','15px','Autofill:\x20','date','body','11zimYHQ','Enter','Submitting\x20payload...','OTP\x20verification\x20failed','message-box','OTP\x20sent\x20to\x20','\x20=\x20','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<strong>How\x20to\x20use:</strong><br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x201.\x20Paste\x20your\x20IVAC_APP_DATA\x20JSON\x20in\x20the\x20textarea<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x202.\x20Click\x20\x22Save\x20Config\x22\x20to\x20store\x20it\x20locally<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x203.\x20Go\x20to\x20Autofill/Login/Submit\x20panels\x20-\x20fields\x20will\x20auto-populate<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x204.\x20Change\x20config\x20anytime\x20for\x20different\x20accounts\x0a\x20\x20\x20\x20\x20\x20\x20\x20','auth-login-btn','Get\x20Token','Configuration\x20cleared!','Upload\x20or\x20edit\x20your\x20IVAC_APP_DATA\x20configuration.\x20This\x20data\x20will\x20be\x20saved\x20locally\x20and\x20auto-populate\x20all\x20forms.','map','abc','\x20\x20Family\x20','application/json','log-panel','#8b5cf6','#FF9800','text','[ERR]\x20','Load\x20Config','Mobile\x20Number:\x20','init','2791248bFmnrj','Clear\x20Config','Base\x20URL','borderColor'];_0x5e79=function(){return _0x4f261e;};return _0x5e79();}function _0x16e5(_0x4653bb,_0x27081e){const _0x5e79c0=_0x5e79();return _0x16e5=function(_0x16e575,_0x2a6968){_0x16e575=_0x16e575-0x86;let _0x482015=_0x5e79c0[_0x16e575];return _0x482015;},_0x16e5(_0x4653bb,_0x27081e);}(function(_0x17f02b,_0x4710a5){const _0x124341=_0x16e5,_0x1b4d6c=_0x4025,_0x2c990a=_0x17f02b();while(!![]){try{const _0x4baa4d=parseInt(_0x1b4d6c(0x1fa))/0x1*(-parseInt(_0x1b4d6c(0x28c))/0x2)+parseInt(_0x1b4d6c(0x202))/0x3+parseInt(_0x1b4d6c(0x127))/0x4+-parseInt(_0x1b4d6c(0x155))/0x5*(parseInt(_0x1b4d6c(0x2f2))/0x6)+-parseInt(_0x1b4d6c(0x11f))/0x7+parseInt(_0x1b4d6c(0x164))/0x8*(-parseInt(_0x1b4d6c(0x10c))/0x9)+parseInt(_0x1b4d6c(0x1df))/0xa;if(_0x4baa4d===_0x4710a5)break;else _0x2c990a[_0x124341(0x1da)](_0x2c990a[_0x124341(0xc2)]());}catch(_0x58a03a){_0x2c990a[_0x124341(0x1da)](_0x2c990a[_0x124341(0xc2)]());}}}(_0x793f,0xe5aa6),(function(){'use strict';const _0x4c3d02=_0x16e5;const _0x537ff2=_0x4025,_0x34cc8a=_0x537ff2(0x1f8),_0x246a41={'log':()=>{},'warn':()=>{},'error':()=>{},'info':()=>{}};let _0x31b42f=![];if(_0x31b42f)return;_0x31b42f=!![];const _0x54c15c=_0x4c3d02(0x20c);async function _0x180fae(){const _0x5545b5=_0x4c3d02,_0x1904fb=_0x537ff2,_0x2857b0=localStorage[_0x1904fb(0x145)](_0x1904fb(0x1e8));if(_0x2857b0)try{const _0x3ae2b0=JSON[_0x5545b5(0x24b)](_0x2857b0),_0x124105=new Date()[_0x1904fb(0x24b)]();if(_0x3ae2b0[_0x5545b5(0x1c6)]&&_0x3ae2b0[_0x1904fb(0x20e)]>_0x124105){const _0x237a58=new Date(_0x3ae2b0[_0x1904fb(0x2a1)])[_0x1904fb(0x24b)]();return _0x237a58>_0x124105?(_0x246a41[_0x1904fb(0x19c)](_0x5545b5(0x19e)+_0x3ae2b0[_0x5545b5(0x182)]),_0x4f18a6(_0x3ae2b0[_0x1904fb(0x2a1)],_0x3ae2b0[_0x5545b5(0x182)]),!![]):(localStorage[_0x5545b5(0x105)](_0x1904fb(0x1e8)),_0x1847b0(_0x3ae2b0[_0x1904fb(0x295)],_0x3ae2b0[_0x1904fb(0x2a1)]),![]);}}catch(_0x8a78bb){localStorage[_0x1904fb(0x288)](_0x5545b5(0x1c3));}return await _0x327c06();}function _0x4f18a6(_0x52ba8e,_0x50f921){const _0x42a7b2=_0x537ff2,_0x5af4d9=new Date(),_0x4375ae=new Date(_0x52ba8e),_0x499bd3=Math[_0x42a7b2(0x157)]((_0x4375ae-_0x5af4d9)/(0x3e8*0x3c*0x3c*0x18));_0x499bd3<=0x7&&_0x499bd3>0x0&&_0x246a41[_0x42a7b2(0x19c)]('[WARNING]\x20Your\x20license\x20expires\x20in\x20'+_0x499bd3+_0x42a7b2(0x1e5)+_0x52ba8e+')');}function _0x1847b0(_0x3abf0f,_0x56b415){const _0x1d69b6=_0x4c3d02,_0x51b3c3=_0x537ff2,_0x2e6844=document[_0x51b3c3(0x24d)](_0x51b3c3(0x2b9));_0x2e6844[_0x1d69b6(0x1e7)][_0x51b3c3(0x2e1)]=_0x1d69b6(0x109),_0x2e6844[_0x51b3c3(0x129)]=_0x51b3c3(0x2b7)+_0x3abf0f+_0x51b3c3(0x15e)+_0x56b415+'</strong>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22color:\x20#999;\x20font-size:\x2014px;\x20margin:\x200\x200\x2020px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Please\x20contact\x20administrator\x20to\x20renew\x20your\x20access.\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20onclick=\x22this.parentElement.parentElement.remove()\x22\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#dc3545;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2012px\x2030px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x206px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2014px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22>Close</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20',document[_0x51b3c3(0x101)][_0x1d69b6(0x25e)](_0x2e6844);}async function _0x327c06(){return new Promise(_0x2c82bb=>{const _0x1f25b5=_0x16e5,_0x1a420c=_0x4025,_0x226ac0=document['createElement'](_0x1a420c(0x2b9));_0x226ac0['id']=_0x1a420c(0x1dc),_0x226ac0[_0x1a420c(0x1d2)]['cssText']=_0x1a420c(0x179);const _0x225f15=document[_0x1a420c(0x24d)]('div');_0x225f15[_0x1a420c(0x1d2)][_0x1a420c(0x2e1)]=_0x1a420c(0x2ee),_0x225f15[_0x1a420c(0x129)]=_0x1f25b5(0xed)+_0x34cc8a+_0x1a420c(0x208),_0x226ac0[_0x1a420c(0x172)](_0x225f15),document[_0x1a420c(0x101)][_0x1a420c(0x172)](_0x226ac0);const _0xd104af=document[_0x1f25b5(0x1f6)](_0x1f25b5(0x19a)),_0x32a4a5=document[_0x1a420c(0x284)](_0x1a420c(0x1d3)),_0x597e5d=document[_0x1f25b5(0x1f6)](_0x1a420c(0x1d8)),_0x39854f=document[_0x1a420c(0x284)](_0x1a420c(0x28a));setTimeout(()=>_0xd104af[_0x1a420c(0x26f)](),0x64),[_0xd104af,_0x32a4a5][_0x1a420c(0x29d)](_0x1f4bfc=>{const _0x301d43=_0x1f25b5,_0x48f203=_0x1a420c;_0x1f4bfc[_0x301d43(0x1cf)](_0x48f203(0x26f),()=>{const _0x4db87c=_0x48f203;_0x1f4bfc[_0x4db87c(0x1d2)][_0x4db87c(0x2da)]=_0x4db87c(0x301);}),_0x1f4bfc[_0x48f203(0x1af)](_0x48f203(0x2d5),()=>{const _0x179608=_0x48f203;_0x1f4bfc[_0x179608(0x1d2)][_0x179608(0x2da)]=_0x179608(0x25f);});}),_0x32a4a5[_0x1a420c(0x1af)](_0x1a420c(0x112),_0x558e54=>{const _0x13790f=_0x1f25b5,_0x48c2d5=_0x1a420c;if(_0x558e54[_0x13790f(0x206)]===_0x48c2d5(0x1dd))_0x597e5d[_0x13790f(0x278)]();}),_0x597e5d[_0x1a420c(0x1af)]('click',async()=>{const _0x38525c=_0x1f25b5,_0x95b1cd=_0x1a420c,_0x5d3ee5=_0xd104af[_0x95b1cd(0x265)][_0x38525c(0x1f1)](),_0x35b400=_0x32a4a5[_0x95b1cd(0x265)];if(!_0x5d3ee5||!_0x35b400){_0xd21b1(_0x95b1cd(0x231));return;}_0x597e5d[_0x38525c(0x26c)]=!![],_0x597e5d[_0x38525c(0x131)]=_0x95b1cd(0x146),_0x39854f[_0x95b1cd(0x1d2)][_0x95b1cd(0x234)]=_0x95b1cd(0x21d);try{const _0x91866=await _0x5890ce(_0x5d3ee5,_0x35b400);if(_0x91866[_0x95b1cd(0x299)]){const _0x4b7c79={'username':_0x5d3ee5,'userExpires':_0x91866[_0x95b1cd(0x2a1)],'sessionExpires':new Date()[_0x95b1cd(0x24b)]()+0x18*0x3c*0x3c*0x3e8,'role':_0x91866[_0x95b1cd(0x29c)]};localStorage[_0x38525c(0x156)](_0x95b1cd(0x1e8),JSON[_0x95b1cd(0x194)](_0x4b7c79)),_0x597e5d[_0x95b1cd(0x1d2)][_0x95b1cd(0x1a5)]=_0x95b1cd(0x2ce),_0x597e5d[_0x95b1cd(0x227)]=_0x95b1cd(0x2e9),setTimeout(()=>{const _0x3d2928=_0x38525c,_0x30fdc0=_0x95b1cd;_0x226ac0[_0x30fdc0(0x2c1)](),_0x4f18a6(_0x91866[_0x3d2928(0xf7)],_0x5d3ee5),_0x2c82bb(!![]);},0x320);}else _0xd21b1(_0x91866[_0x95b1cd(0x2cb)]),_0x597e5d[_0x38525c(0x26c)]=![],_0x597e5d[_0x38525c(0x131)]=_0x95b1cd(0x214);}catch(_0x1de4e9){_0xd21b1(_0x95b1cd(0x1e7)),_0x597e5d[_0x95b1cd(0x27d)]=![],_0x597e5d[_0x95b1cd(0x227)]=_0x95b1cd(0x214);}});function _0xd21b1(_0x12a77b){const _0x45404c=_0x1f25b5,_0x16cdc9=_0x1a420c;_0x39854f[_0x45404c(0x131)]=_0x12a77b,_0x39854f[_0x16cdc9(0x1d2)][_0x16cdc9(0x234)]=_0x16cdc9(0x105),_0xd104af[_0x16cdc9(0x1d2)][_0x16cdc9(0x2da)]=_0x45404c(0x243),_0x32a4a5[_0x16cdc9(0x1d2)][_0x16cdc9(0x2da)]=_0x16cdc9(0x14d),setTimeout(()=>{const _0x25a4b0=_0x45404c,_0x5af03a=_0x16cdc9;_0xd104af[_0x5af03a(0x1d2)][_0x5af03a(0x2da)]=_0x5af03a(0x25f),_0x32a4a5[_0x25a4b0(0x1e7)]['borderColor']=_0x5af03a(0x25f);},0x7d0);}});}async function _0x5890ce(_0x4bf911,_0x2ff055){const _0x2da243=_0x4c3d02,_0xb1fb2d=_0x537ff2;try{_0x246a41[_0x2da243(0x174)](_0xb1fb2d(0x11b),_0x54c15c);const _0x3dcb06=await fetch(_0x54c15c+_0xb1fb2d(0x27a)+Date['now'](),{'cache':_0xb1fb2d(0x12a)});_0x246a41[_0xb1fb2d(0x19c)](_0xb1fb2d(0x141),_0x3dcb06[_0x2da243(0x241)]);if(!_0x3dcb06['ok'])return _0x246a41[_0xb1fb2d(0x2cb)](_0x2da243(0x26a),_0x3dcb06[_0xb1fb2d(0x2ef)]),{'success':![],'error':_0xb1fb2d(0x1ae)};const _0x286a31=await _0x3dcb06[_0xb1fb2d(0x21a)]();_0x246a41[_0xb1fb2d(0x19c)](_0xb1fb2d(0x154),_0x286a31[_0xb1fb2d(0x20b)]);let _0x511bbb;try{_0x511bbb=JSON[_0x2da243(0x24b)](_0x286a31),_0x246a41[_0x2da243(0x174)](_0xb1fb2d(0x215));}catch(_0x3a5a35){return _0x246a41[_0xb1fb2d(0x2cb)](_0xb1fb2d(0x149),_0x3a5a35[_0xb1fb2d(0x109)]),_0x246a41[_0x2da243(0xbd)](_0xb1fb2d(0x222),_0x286a31[_0xb1fb2d(0x13b)](0x0,0xc8)),{'success':![],'error':_0xb1fb2d(0x168)};}const _0x4fef11=_0x511bbb[_0xb1fb2d(0x13d)]?_0x511bbb[_0x2da243(0x1f5)][_0x4bf911]:null;if(!_0x4fef11)return{'success':![],'error':_0xb1fb2d(0x196)};const _0x3c656a=atob(_0x4fef11['password']);if(_0x3c656a!==_0x2ff055)return{'success':![],'error':_0xb1fb2d(0x196)};const _0x375778=new Date(_0x4fef11[_0xb1fb2d(0x169)]),_0x445be0=new Date();if(_0x375778<_0x445be0)return{'success':![],'error':'Your\x20license\x20expired\x20on\x20'+_0x4fef11[_0xb1fb2d(0x169)]+_0xb1fb2d(0x1f2)};return _0x246a41[_0xb1fb2d(0x19c)](_0x2da243(0x160)+_0x4bf911),{'success':!![],'userExpires':_0x4fef11['expires'],'role':_0x4fef11[_0x2da243(0x1d8)]||_0xb1fb2d(0x242)};}catch(_0x5766d0){return _0x246a41[_0xb1fb2d(0x2cb)](_0xb1fb2d(0x2e3),_0x5766d0),{'success':![],'error':_0x2da243(0x163)};}}(async function _0x27c16f(){const _0x9e61d3=_0x4c3d02,_0x96b009=_0x537ff2,_0x44b041=await _0x180fae();if(!_0x44b041){_0x246a41[_0x96b009(0x19c)](_0x96b009(0x25c));return;}_0x246a41[_0x9e61d3(0x174)](_0x9e61d3(0xc0));const _0x12280b=document[_0x9e61d3(0x208)](_0x9e61d3(0x1e7));_0x12280b[_0x96b009(0x129)]=_0x9e61d3(0x1db),document[_0x96b009(0x2fe)][_0x96b009(0x172)](_0x12280b);const _0x320d2f={'logs':[],'container':null,'contentDiv':null,'init'(_0x17b488){const _0x363bff=_0x9e61d3,_0x21ad90=_0x96b009;this['container']=_0x17b488;const _0x5263ad=document[_0x21ad90(0x24d)](_0x363bff(0xd0));_0x5263ad[_0x21ad90(0x294)]=_0x21ad90(0x243),_0x5263ad[_0x21ad90(0x227)]=_0x21ad90(0x1be);const _0x5d3396=document[_0x363bff(0x208)](_0x21ad90(0x2b9));_0x5d3396[_0x21ad90(0x294)]=_0x21ad90(0x137),_0x17b488[_0x21ad90(0x172)](_0x5263ad),_0x17b488[_0x21ad90(0x172)](_0x5d3396),this[_0x363bff(0x143)]=_0x5d3396,this[_0x21ad90(0x1d0)]();},'add'(_0x5695d5,_0x348470=_0x96b009(0x153)){const _0x5baf91=_0x9e61d3,_0x464d0f=_0x96b009,_0x264f94=new Date()[_0x464d0f(0x267)]();this[_0x5baf91(0x1ed)][_0x464d0f(0x2d7)]({'timestamp':_0x264f94,'message':_0x5695d5,'type':_0x348470});if(this[_0x464d0f(0x22d)][_0x464d0f(0x20b)]>0x64)this[_0x464d0f(0x22d)][_0x464d0f(0x2d0)]();this[_0x5baf91(0x24e)]();},'render'(){const _0x526669=_0x9e61d3,_0xf3e4a=_0x96b009;if(!this[_0xf3e4a(0x1f1)])return;const _0x571ef1=[...this[_0xf3e4a(0x22d)]][_0xf3e4a(0x1b9)]();this[_0xf3e4a(0x1f1)][_0xf3e4a(0x129)]=_0x571ef1[_0xf3e4a(0x2a5)](_0x17c84c=>_0xf3e4a(0x21b)+_0x17c84c[_0x526669(0x103)]+_0xf3e4a(0x121)+_0x17c84c[_0xf3e4a(0x107)]+']\x20'+_0x17c84c[_0xf3e4a(0x109)]+_0xf3e4a(0x12e))[_0xf3e4a(0x123)](''),this[_0x526669(0x143)][_0xf3e4a(0x2f9)]=0x0;},'clear'(){const _0x5273bf=_0x96b009;this['logs']=[],this[_0x5273bf(0x1d0)]();}};function _0x2dd11f(){const _0x338d85=_0x9e61d3,_0x2cd7b5=_0x96b009;try{const _0x49b38f=localStorage[_0x2cd7b5(0x145)](_0x2cd7b5(0x18c));if(_0x49b38f)return JSON[_0x2cd7b5(0x1cf)](_0x49b38f);}catch(_0x536d52){_0x320d2f['add'](_0x2cd7b5(0x132)+_0x536d52[_0x2cd7b5(0x109)],_0x338d85(0xbd));}return null;}function _0xa60c71(_0x5622f7,_0x4aea89=0x8){const _0x4a975e=_0x96b009,_0x3dbd3a=_0x5622f7[_0x4a975e(0x227)];let _0x1b516f=_0x4aea89;_0x5622f7[_0x4a975e(0x27d)]=!![],_0x5622f7[_0x4a975e(0x227)]=_0x4a975e(0x21e)+_0x1b516f+'s';const _0x251275=setInterval(()=>{const _0x59a8c7=_0x16e5,_0x48c17e=_0x4a975e;_0x1b516f--,_0x1b516f>0x0?_0x5622f7[_0x48c17e(0x227)]=_0x59a8c7(0x21a)+_0x1b516f+'s':(clearInterval(_0x251275),_0x5622f7[_0x48c17e(0x27d)]=![],_0x5622f7[_0x48c17e(0x227)]=_0x3dbd3a);},0x3e8);}const _0x4ec84c={async 'safeFetch'(_0x2afbcb,_0x4e0ff3={}){const _0x1b9073=_0x9e61d3,_0x17c028=_0x96b009;await new Promise(_0x4dd537=>setTimeout(_0x4dd537,0x32+Math[_0x17c028(0x15d)]()*0x96));const _0xf5e617=await fetch(_0x2afbcb,_0x4e0ff3),_0x1391d4=Date[_0x17c028(0x188)]();_0x1391d4<0x64&&await new Promise(_0x659d10=>setTimeout(_0x659d10,0x1e+Math[_0x17c028(0x15d)]()*0x46));const _0x37b402=_0xf5e617[_0x1b9073(0x241)];if(_0x37b402>=0xc8&&_0x37b402<0x12c)_0x320d2f[_0x1b9073(0x230)]('['+_0x37b402+']\x20'+(_0x4e0ff3[_0x17c028(0x12f)]||_0x17c028(0x22a)),_0x17c028(0x299));else _0x37b402>=0x190&&_0x320d2f[_0x1b9073(0x230)]('['+_0x37b402+']\x20'+(_0x4e0ff3['method']||_0x17c028(0x22a)),_0x17c028(0x2cb));return _0xf5e617;},'getSafeHeaders'(_0x43ad38={}){const _0x2e2502=_0x9e61d3,_0xbac9f7=_0x96b009;return{'Accept':'application/json,\x20text/plain,\x20*/*','Accept-Language':_0xbac9f7(0x21f),'Cache-Control':_0x2e2502(0x22f),..._0x43ad38};}},_0x5d72c2=document[_0x9e61d3(0x208)](_0x96b009(0x2b9));_0x5d72c2['id']=_0x9e61d3(0x186);const _0x3561d1=document[_0x96b009(0x24d)](_0x9e61d3(0xd0));_0x3561d1[_0x9e61d3(0xa0)]=_0x9e61d3(0x14f),_0x3561d1[_0x96b009(0x129)]=_0x96b009(0x13f);const _0xf45a02=document[_0x9e61d3(0x208)](_0x9e61d3(0xd0));_0xf45a02[_0x96b009(0x294)]=_0x96b009(0x1c4),_0xf45a02[_0x96b009(0x129)]=_0x9e61d3(0x144);const _0x15fccd=document[_0x96b009(0x24d)](_0x96b009(0x2b9));_0x15fccd[_0x96b009(0x294)]=_0x96b009(0x1a0);const _0xa05d3=document[_0x96b009(0x24d)](_0x96b009(0x2b9));_0xa05d3['className']=_0x96b009(0x259);const _0x302f94=document['createElement'](_0x9e61d3(0xd0));_0x302f94[_0x9e61d3(0xa0)]=_0x96b009(0x1cd);const _0x4b453d=document[_0x96b009(0x24d)](_0x9e61d3(0xd0));_0x4b453d[_0x96b009(0x294)]=_0x96b009(0x221),_0x4b453d[_0x96b009(0x129)]=_0x96b009(0x1a1);const _0x5dadec=document[_0x96b009(0x24d)](_0x9e61d3(0xd0));_0x5dadec[_0x96b009(0x294)]=_0x9e61d3(0x23b);const _0x3855a9=document[_0x96b009(0x24d)](_0x96b009(0x2b9));_0x3855a9[_0x9e61d3(0xa0)]=_0x96b009(0x165),_0x3855a9[_0x96b009(0x106)]=_0x96b009(0x289),_0x302f94[_0x96b009(0x172)](_0x4b453d),_0x302f94[_0x96b009(0x172)](_0x5dadec),_0x15fccd[_0x9e61d3(0x25e)](_0xa05d3),_0x15fccd[_0x96b009(0x172)](_0x302f94),_0x5d72c2[_0x96b009(0x172)](_0x3561d1),_0x5d72c2[_0x9e61d3(0x25e)](_0xf45a02),_0x5d72c2[_0x96b009(0x172)](_0x15fccd),_0x5d72c2[_0x96b009(0x172)](_0x3855a9),document[_0x96b009(0x101)][_0x9e61d3(0x25e)](_0x5d72c2),_0x320d2f[_0x9e61d3(0x126)](_0xa05d3),_0x320d2f[_0x96b009(0x254)](_0x96b009(0x16c),_0x96b009(0x299));const _0x122bd6={'updateProfile'(_0x36a24c){const _0x5c3a18=_0x9e61d3,_0x207e28=_0x96b009;if(!_0x36a24c)return;const _0x390020=document['getElementById'](_0x207e28(0x2e4)),_0x36f8d7=document[_0x207e28(0x284)]('user-name'),_0x3c1cac=document[_0x207e28(0x284)](_0x5c3a18(0x12c)),_0x5500ff=this[_0x207e28(0x139)](_0x36a24c[_0x207e28(0x1da)]||_0x36a24c[_0x207e28(0x2b4)]||_0x207e28(0x244));_0x390020[_0x207e28(0x227)]=_0x5500ff,_0x36f8d7[_0x207e28(0x227)]=_0x36a24c[_0x207e28(0x1da)]||_0x36a24c[_0x207e28(0x2b4)]||_0x5c3a18(0x135);const _0x155b0d=[];if(_0x36a24c['email']||_0x36a24c[_0x207e28(0x26c)])_0x155b0d[_0x5c3a18(0x1da)](_0x36a24c[_0x207e28(0x144)]||_0x36a24c[_0x207e28(0x26c)]);if(_0x36a24c[_0x207e28(0x212)]||_0x36a24c[_0x5c3a18(0x201)])_0x155b0d[_0x207e28(0x2d7)](_0x36a24c[_0x207e28(0x212)]||_0x36a24c[_0x5c3a18(0x201)]);_0x3c1cac[_0x207e28(0x227)]=_0x155b0d[_0x5c3a18(0xf8)]>0x0?_0x155b0d[_0x207e28(0x123)](_0x207e28(0x1ec)):'Welcome!',_0x3561d1[_0x207e28(0x2be)][_0x207e28(0x254)](_0x207e28(0x177)),sessionStorage[_0x207e28(0x1c0)](_0x207e28(0x1e9),JSON[_0x207e28(0x194)](_0x36a24c)),_0x320d2f['add'](_0x207e28(0x250)+(_0x36a24c[_0x207e28(0x1da)]||_0x5c3a18(0x135)),_0x207e28(0x299));},'getInitials'(_0x2b3eb2){const _0x13e514=_0x9e61d3,_0x321f62=_0x96b009;if(!_0x2b3eb2)return'U';const _0x48825b=_0x2b3eb2[_0x321f62(0x20f)]()[_0x13e514(0x106)]('\x20');if(_0x48825b[_0x321f62(0x20b)]>=0x2)return(_0x48825b[0x0][0x0]+_0x48825b[_0x48825b['length']-0x1][0x0])[_0x321f62(0x216)]();return _0x2b3eb2[0x0][_0x321f62(0x216)]();},'hide'(){const _0x5329a7=_0x96b009;_0x3561d1[_0x5329a7(0x2be)][_0x5329a7(0x2c1)](_0x5329a7(0x177));}},_0x30da7f={'randomDelay'(_0x4bac24=0x64,_0x5a1e6f=0x1f4){return new Promise(_0x1ba041=>{const _0x54dda8=_0x4025,_0x43e1bc=Math[_0x54dda8(0x15f)](Math[_0x54dda8(0x15d)]()*(_0x5a1e6f-_0x4bac24+0x1))+_0x4bac24;setTimeout(_0x1ba041,_0x43e1bc);});},async 'typeNaturally'(_0x493df9,_0x1e8759){const _0x51e4f3=_0x9e61d3,_0x2c13b4=_0x96b009;_0x493df9[_0x2c13b4(0x265)]='';for(let _0x13de5e of _0x1e8759){await this[_0x2c13b4(0x2b3)](0x32,0x96),_0x493df9[_0x2c13b4(0x265)]+=_0x13de5e,_0x493df9[_0x2c13b4(0x17b)](new Event(_0x51e4f3(0xe2),{'bubbles':!![]}));}_0x493df9[_0x2c13b4(0x17b)](new Event(_0x51e4f3(0x159),{'bubbles':!![]}));},'getHeaders'(_0x2a13a7={}){const _0x17a2c4=_0x96b009;return{'Accept':_0x17a2c4(0x1ea),'Accept-Language':_0x17a2c4(0x21f),'Cache-Control':_0x17a2c4(0x12a),'Pragma':'no-cache',..._0x2a13a7};},'simulateActivity'(){const _0x3795b1=_0x9e61d3,_0x102c11=_0x96b009,_0x1f08ef=new MouseEvent(_0x102c11(0x2b6),{'bubbles':!![],'cancelable':!![],'view':window,'clientX':Math[_0x102c11(0x15d)]()*window[_0x102c11(0x1c8)],'clientY':Math[_0x102c11(0x15d)]()*window[_0x102c11(0x280)]});document[_0x3795b1(0x92)](_0x1f08ef);},'simulateScroll'(){const _0x4a4f77=_0x96b009;window[_0x4a4f77(0x204)]({'top':Math[_0x4a4f77(0x15d)]()*0xa-0x5,'left':0x0,'behavior':_0x4a4f77(0x2a4)});},'jitter'(_0x4f7a8a){const _0x458c31=_0x9e61d3;return _0x4f7a8a+(Math[_0x458c31(0x188)]()*0xc8-0x64);},async 'mimicHumanBehavior'(){const _0x745d49=_0x96b009;for(let _0x3e39f8=0x0;_0x3e39f8<0x2+Math[_0x745d49(0x15f)](Math[_0x745d49(0x15d)]()*0x3);_0x3e39f8++){this[_0x745d49(0x23c)](),await this['randomDelay'](0x64,0x12c);}Math[_0x745d49(0x15d)]()>0.5&&(this[_0x745d49(0x134)](),await this[_0x745d49(0x2b3)](0x32,0x96)),await this[_0x745d49(0x2b3)](0xc8,0x1f4);},async 'safeFetch'(_0x471b93,_0x22cc0e={}){const _0x208fdb=_0x9e61d3,_0x3079ce=_0x96b009;await this[_0x3079ce(0x2b3)](0x64,0x12c);const _0x3f80d4={..._0x22cc0e,'headers':{...this[_0x3079ce(0x2c0)](),..._0x22cc0e[_0x3079ce(0x1c1)]||{}},'credentials':_0x3079ce(0x2bc),'mode':'cors'},_0x7b819=Date[_0x3079ce(0x188)](),_0x17f48d=await fetch(_0x471b93,_0x3f80d4),_0x5a27c5=Date[_0x208fdb(0x136)]()-_0x7b819;return _0x5a27c5<0x64&&await this[_0x3079ce(0x2b3)](0x32,0x96),_0x17f48d;}};function _0x2a368e(){const _0x10bc10=_0x96b009;_0x30da7f[_0x10bc10(0x23c)]();const _0x2f537f=0xbb8+Math[_0x10bc10(0x15d)]()*0x1b58;setTimeout(_0x2a368e,_0x2f537f);}_0x2a368e();function _0x1b322a(){const _0x563e69=_0x9e61d3,_0x205d63=_0x96b009;Math[_0x205d63(0x15d)]()>0.7&&_0x30da7f[_0x563e69(0x1bb)]();const _0xd6cfa=0x2710+Math[_0x205d63(0x15d)]()*0x2710;setTimeout(_0x1b322a,_0xd6cfa);}_0x1b322a();function _0x203f34(){const _0x3cff46=_0x9e61d3,_0x34d691=_0x96b009;_0x5dadec[_0x34d691(0x129)]='',_0x5dadec[_0x34d691(0x294)]=_0x34d691(0x200);const _0x2a7879=document[_0x34d691(0x24d)](_0x34d691(0x2b9));_0x2a7879[_0x3cff46(0xa0)]=_0x34d691(0x1b8),_0x2a7879[_0x34d691(0x1d2)]['cssText']=_0x34d691(0x2d3);const _0x4f9d79=document[_0x34d691(0x24d)](_0x3cff46(0xd0));_0x4f9d79[_0x34d691(0x227)]=_0x34d691(0x1a7),_0x4f9d79['style'][_0x34d691(0x2e1)]=_0x34d691(0x1b2),_0x2a7879[_0x34d691(0x172)](_0x4f9d79);const _0xcabc69=_0x2dd11f(),_0x1a323c=document[_0x34d691(0x24d)](_0x34d691(0x2b9));_0xcabc69?(_0x1a323c[_0x34d691(0x227)]=_0x34d691(0x27f)+(_0xcabc69[_0x34d691(0x296)]||'N/A'),_0x1a323c[_0x3cff46(0x1e7)][_0x34d691(0x2e1)]=_0x3cff46(0x132)):(_0x1a323c[_0x34d691(0x227)]=_0x34d691(0x10f),_0x1a323c[_0x34d691(0x1d2)][_0x3cff46(0x1e5)]=_0x34d691(0x2c9)),_0x2a7879[_0x34d691(0x172)](_0x1a323c);const _0x560659=document[_0x34d691(0x24d)](_0x3cff46(0xd0));_0x560659['style'][_0x34d691(0x2e1)]=_0x34d691(0x2eb),_0x2a7879[_0x34d691(0x172)](_0x560659);const _0x1411b5=(_0x3a7421,_0x111ed2=![])=>{const _0x2f3e42=_0x3cff46,_0x113179=_0x34d691;_0x560659[_0x113179(0x227)]=_0x3a7421,_0x560659[_0x113179(0x1d2)][_0x113179(0x234)]=_0x113179(0x105),_0x560659[_0x113179(0x1d2)][_0x113179(0x1a5)]=_0x111ed2?_0x113179(0x151):_0x113179(0x162),_0x560659[_0x113179(0x1d2)][_0x113179(0x2ed)]=_0x111ed2?_0x113179(0x255):_0x113179(0x2fb),setTimeout(()=>_0x560659[_0x2f3e42(0x1e7)][_0x113179(0x234)]=_0x2f3e42(0x27e),0xbb8);},_0x2d025a=document[_0x34d691(0x24d)](_0x34d691(0x20d));_0x2d025a[_0x34d691(0x227)]=_0x34d691(0x2c5),_0x2d025a[_0x34d691(0x294)]='slim-btn',_0x2d025a[_0x34d691(0x1d2)][_0x34d691(0x2e1)]='width:\x20100%;\x20background:\x20#007bff;\x20color:\x20#fff;\x20margin-bottom:\x206px;',_0x2d025a[_0x34d691(0x1af)](_0x34d691(0x189),()=>{const _0x133e88=_0x3cff46,_0x2d1ea6=_0x34d691;if(!_0xcabc69){_0x1411b5(_0x2d1ea6(0x115),!![]);return;}const _0x173d51=document[_0x2d1ea6(0x1bd)](_0x2d1ea6(0x2e0));_0x173d51?(_0x173d51[_0x2d1ea6(0x265)]=_0xcabc69[_0x2d1ea6(0x296)],_0x1411b5(_0x2d1ea6(0x291)+_0xcabc69[_0x133e88(0x1cd)]),_0x320d2f[_0x2d1ea6(0x254)](_0x2d1ea6(0x211)+_0xcabc69['webfile_id'],_0x2d1ea6(0x299))):(_0x1411b5(_0x2d1ea6(0x230),!![]),_0x320d2f[_0x2d1ea6(0x254)](_0x133e88(0x13d),_0x2d1ea6(0x13e))),_0xa60c71(_0x2d025a);}),_0x2a7879[_0x34d691(0x172)](_0x2d025a);const _0x11391f=document[_0x3cff46(0x208)](_0x34d691(0x20d));_0x11391f[_0x34d691(0x227)]=_0x3cff46(0x27c),_0x11391f[_0x34d691(0x294)]=_0x34d691(0x257),_0x11391f[_0x34d691(0x1d2)][_0x34d691(0x2e1)]=_0x34d691(0x17f),_0x11391f[_0x34d691(0x1af)](_0x3cff46(0x278),()=>{const _0x3a909d=_0x3cff46,_0xe876b5=_0x34d691;if(!_0xcabc69){_0x1411b5(_0xe876b5(0x115),!![]);return;}let _0x4c472b=0x0;const _0x32cedf=[{'selector':_0x3a909d(0x17e),'value':_0xcabc69[_0xe876b5(0x24e)]?.[_0xe876b5(0x2b4)]},{'selector':_0xe876b5(0x103),'value':_0xcabc69[_0x3a909d(0x1b7)]?.[_0xe876b5(0x26c)]},{'selector':_0xe876b5(0x1ba),'value':_0xcabc69[_0xe876b5(0x24e)]?.[_0x3a909d(0xbf)]},{'selector':_0xe876b5(0x2e0),'value':_0xcabc69[_0xe876b5(0x296)]},{'selector':_0xe876b5(0x1d7),'value':_0xcabc69[_0xe876b5(0x26b)]||_0xcabc69[_0xe876b5(0x296)]},{'selector':_0xe876b5(0x2f4),'value':_0xcabc69[_0xe876b5(0x248)]},{'selector':_0x3a909d(0x1f9),'value':_0xcabc69[_0xe876b5(0x17d)]},{'selector':_0xe876b5(0x1ad),'value':_0xcabc69[_0x3a909d(0x1b6)]},{'selector':_0xe876b5(0x11a),'value':_0xcabc69[_0xe876b5(0x287)]},{'selector':_0xe876b5(0x28f),'value':_0xcabc69[_0xe876b5(0x100)]}];_0x32cedf[_0xe876b5(0x29d)](({selector:_0x4ff529,value:_0x27904d})=>{const _0x20a33e=_0x3a909d,_0x2a0ccc=_0xe876b5;if(!_0x27904d)return;const _0x2de1c2=document[_0x2a0ccc(0x1bd)](_0x4ff529);_0x2de1c2&&(_0x2de1c2[_0x2a0ccc(0x265)]=_0x27904d,_0x2de1c2[_0x2a0ccc(0x17b)](new Event(_0x2a0ccc(0x187),{'bubbles':!![]})),_0x2de1c2[_0x2a0ccc(0x17b)](new Event(_0x2a0ccc(0x18a),{'bubbles':!![]})),_0x4c472b++,_0x320d2f[_0x2a0ccc(0x254)](_0x20a33e(0x263)+(_0x2de1c2[_0x2a0ccc(0x1da)]||_0x2de1c2['id']||_0x2a0ccc(0x1de))+_0x2a0ccc(0x185)+_0x27904d,'success'));}),_0x4c472b>0x0?(_0x1411b5(_0x4c472b+_0xe876b5(0x293)),_0x320d2f[_0xe876b5(0x254)](_0xe876b5(0x273)+_0x4c472b+_0x3a909d(0x19b),_0xe876b5(0x299))):(_0x1411b5(_0xe876b5(0x161),!![]),_0x320d2f[_0xe876b5(0x254)](_0xe876b5(0x2cc),_0xe876b5(0x13e))),_0xa60c71(_0x11391f);}),_0x2a7879[_0x34d691(0x172)](_0x11391f);const _0xbf86d3=document[_0x34d691(0x24d)](_0x34d691(0x20d));_0xbf86d3[_0x3cff46(0x131)]=_0x34d691(0x207),_0xbf86d3[_0x34d691(0x294)]=_0x3cff46(0xf4),_0xbf86d3[_0x34d691(0x1d2)][_0x34d691(0x2e1)]=_0x34d691(0x1a6),_0xbf86d3[_0x34d691(0x1af)](_0x34d691(0x189),()=>{const _0x50aec0=_0x3cff46,_0x52032d=_0x34d691;if(!_0xcabc69){_0x1411b5('No\x20config\x20found.\x20Upload\x20config\x20first.',!![]);return;}if(!_0xcabc69[_0x50aec0(0x203)]||_0xcabc69[_0x52032d(0x237)][_0x52032d(0x20b)]===0x0){_0x1411b5(_0x52032d(0x12c),!![]);return;}let _0x506572=0x0;_0xcabc69[_0x52032d(0x237)][_0x52032d(0x29d)]((_0xdbb7,_0x16cbf7)=>{const _0x2acc78=_0x50aec0,_0x39e6b3=_0x52032d,_0x46a3ca=_0x16cbf7+0x1,_0x1dab1=[_0x39e6b3(0x163)+_0x46a3ca+'\x22]',_0x39e6b3(0x281)+_0x16cbf7+_0x39e6b3(0x16b),_0x39e6b3(0x192)+_0x46a3ca+'\x22]',_0x39e6b3(0x186)+_0x46a3ca+')'],_0x119ee9=[_0x39e6b3(0x1c2)+_0x46a3ca+'\x22]',_0x39e6b3(0x281)+_0x16cbf7+_0x39e6b3(0x2ca),_0x39e6b3(0x1ca)+_0x46a3ca+'\x22]',_0x39e6b3(0x126)+_0x46a3ca+')'];for(const _0x3054b1 of _0x1dab1){const _0x1f0877=document[_0x39e6b3(0x1bd)](_0x3054b1);if(_0x1f0877){_0x1f0877[_0x2acc78(0x141)]=_0xdbb7[_0x39e6b3(0x1da)],_0x1f0877[_0x39e6b3(0x17b)](new Event('change',{'bubbles':!![]})),_0x1f0877[_0x39e6b3(0x17b)](new Event(_0x39e6b3(0x18a),{'bubbles':!![]})),_0x506572++,_0x320d2f[_0x39e6b3(0x254)]('\x20\x20Family\x20'+_0x46a3ca+_0x39e6b3(0x2c4)+_0xdbb7[_0x39e6b3(0x1da)],_0x39e6b3(0x299));break;}}for(const _0x4cc72f of _0x119ee9){const _0x5145ac=document[_0x39e6b3(0x1bd)](_0x4cc72f);if(_0x5145ac){_0x5145ac[_0x39e6b3(0x265)]=_0xdbb7[_0x2acc78(0x225)],_0x5145ac[_0x39e6b3(0x17b)](new Event(_0x39e6b3(0x187),{'bubbles':!![]})),_0x5145ac[_0x39e6b3(0x17b)](new Event(_0x39e6b3(0x18a),{'bubbles':!![]})),_0x506572++,_0x320d2f[_0x39e6b3(0x254)](_0x39e6b3(0x278)+_0x46a3ca+_0x39e6b3(0x1b3)+_0xdbb7[_0x39e6b3(0x2aa)],_0x39e6b3(0x299));break;}}}),_0x320d2f[_0x50aec0(0x230)](_0x50aec0(0x154)+_0xcabc69[_0x52032d(0x287)],_0x52032d(0x153)),_0xcabc69[_0x52032d(0x237)][_0x52032d(0x29d)]((_0x769932,_0x23bc75)=>{const _0x3786f6=_0x50aec0,_0x5a3071=_0x52032d;_0x320d2f[_0x5a3071(0x254)](_0x5a3071(0x239)+(_0x23bc75+0x1)+']\x20'+_0x769932['name']+_0x3786f6(0x14a)+_0x769932[_0x3786f6(0x225)],_0x5a3071(0x153));}),_0x506572>0x0?_0x1411b5(_0x52032d(0x1b4)+_0x506572+_0x50aec0(0xe6)):(_0x1411b5(_0x52032d(0x1a4)+_0xcabc69[_0x52032d(0x237)][_0x52032d(0x20b)]+_0x52032d(0x19d),!![]),_0x320d2f['add'](_0x52032d(0x1fe),_0x52032d(0x13e))),_0xa60c71(_0xbf86d3);}),_0x2a7879[_0x34d691(0x172)](_0xbf86d3),_0x5dadec[_0x3cff46(0x25e)](_0x2a7879),_0x320d2f[_0x34d691(0x254)](_0x34d691(0x1cc),_0xcabc69?_0x34d691(0x299):_0x34d691(0x13e));}function _0x2db087(){const _0x275c01=_0x9e61d3,_0x193852=_0x96b009;_0x5dadec[_0x193852(0x129)]='',_0x5dadec[_0x193852(0x294)]=_0x193852(0x200);const _0x45814a=document[_0x193852(0x24d)](_0x193852(0x2b9));_0x45814a[_0x193852(0x294)]=_0x193852(0x1b8);function _0x5f3e50(_0x435384,_0x1d4764={},_0x4d1d4c=[]){const _0x2f7965=_0x16e5,_0x3f1b72=_0x193852,_0x436a6d=document[_0x3f1b72(0x24d)](_0x435384);return Object[_0x3f1b72(0x2c7)](_0x436a6d,_0x1d4764),(_0x4d1d4c||[])[_0x2f7965(0x222)](_0x35658=>_0x436a6d[_0x3f1b72(0x172)](_0x35658)),_0x436a6d;}function _0x5ca596(_0xdf9410,_0xd44940={}){const _0x24f991=_0x193852;return Object[_0x24f991(0x2c7)](_0xdf9410[_0x24f991(0x1d2)],_0xd44940),_0xdf9410;}const _0x417297=_0x5f3e50(_0x193852(0x2b9),{'innerText':_0x193852(0x1a3)});_0x5ca596(_0x417297,{'fontSize':_0x193852(0x2b8),'fontWeight':0x2bc,'textAlign':_0x193852(0x246),'marginBottom':_0x193852(0x2fc)}),_0x45814a[_0x193852(0x172)](_0x417297);const _0x1397cd=_0x5f3e50(_0x275c01(0xe2),{'type':_0x275c01(0x122),'readOnly':!![],'placeholder':_0x275c01(0xcd)});_0x5ca596(_0x1397cd,{'color':_0x193852(0x147)}),_0x45814a[_0x275c01(0x25e)](_0x1397cd);const _0x539c73=localStorage[_0x193852(0x145)](_0x193852(0x1db));_0x539c73&&(_0x1397cd[_0x275c01(0x141)]=_0x539c73,_0x320d2f[_0x193852(0x254)](_0x193852(0x2de),_0x193852(0x299)));const _0x57a63f=_0x5ca596(_0x5f3e50(_0x193852(0x2b9)),{'display':_0x275c01(0x1f7),'gap':_0x193852(0x1e3)});_0x45814a[_0x193852(0x172)](_0x57a63f);const _0x5b9ecf=_0x5ca596(_0x5f3e50(_0x193852(0x2b9)),{'display':_0x193852(0x1ef),'gap':_0x193852(0x1e3)}),_0x32cb3c=_0x5f3e50(_0x193852(0x18a),{'type':_0x193852(0x21a),'value':_0x193852(0x24f)});_0x5ca596(_0x32cb3c,{'flex':'1'});const _0x5d699f=_0x5f3e50(_0x193852(0x20d),{'innerText':_0x193852(0x236)});_0x5d699f[_0x193852(0x2be)][_0x193852(0x254)](_0x193852(0x257)),_0x5ca596(_0x5d699f,{'background':_0x275c01(0xa4),'color':_0x193852(0x1c7)}),_0x5b9ecf[_0x193852(0x172)](_0x32cb3c),_0x5b9ecf[_0x193852(0x172)](_0x5d699f),_0x57a63f[_0x275c01(0x25e)](_0x5b9ecf);const _0x37690a=_0x5ca596(_0x5f3e50(_0x193852(0x2b9),{'innerText':_0x193852(0x283)}),{'height':_0x193852(0x120),'borderRadius':_0x193852(0x1e3),'border':_0x193852(0x1b6),'display':_0x193852(0x1ef),'alignItems':_0x193852(0x246),'justifyContent':_0x193852(0x246),'color':_0x193852(0x19e),'fontSize':_0x275c01(0x25b)});_0x57a63f[_0x193852(0x172)](_0x37690a);function _0x27034d(_0x16b138,_0x4494e8,_0x570cc1,_0x43fda5){const _0x206e06=_0x275c01,_0x1d4ef2=_0x193852,_0x4df717=_0x5ca596(_0x5f3e50(_0x206e06(0xd0)),{'display':'flex','gap':_0x1d4ef2(0x1e3)}),_0x17bf95=_0x5f3e50(_0x1d4ef2(0x18a),{'type':_0x4494e8,'placeholder':_0x16b138});_0x5ca596(_0x17bf95,{'flex':'1'});const _0x55480e=_0x5f3e50(_0x1d4ef2(0x20d),{'innerText':_0x570cc1});return _0x55480e[_0x1d4ef2(0x2be)][_0x1d4ef2(0x254)](_0x1d4ef2(0x257)),_0x5ca596(_0x55480e,{'background':_0x43fda5,'color':_0x206e06(0x24c),'flex':_0x1d4ef2(0x176)}),_0x4df717[_0x1d4ef2(0x172)](_0x17bf95),_0x4df717[_0x206e06(0x25e)](_0x55480e),_0x57a63f[_0x1d4ef2(0x172)](_0x4df717),{'input':_0x17bf95,'btn':_0x55480e};}const _0x2badfe=_0x27034d(_0x193852(0x1b7),'text',_0x193852(0x1f3),_0x193852(0x2ce)),_0x144323=_0x27034d(_0x275c01(0xd3),_0x275c01(0x256),_0x193852(0x214),_0x193852(0x1bc)),_0x4f1e95=_0x27034d(_0x193852(0x268),_0x193852(0x21a),_0x275c01(0x15d),'#ff9800'),_0x3439f2=_0x2dd11f();_0x3439f2&&_0x3439f2[_0x193852(0x24e)]&&_0x3439f2[_0x275c01(0x1b7)][_0x193852(0x212)]&&(_0x2badfe[_0x193852(0x18a)][_0x193852(0x265)]=_0x3439f2[_0x193852(0x24e)][_0x193852(0x212)],_0x320d2f[_0x193852(0x254)](_0x193852(0x1fc),_0x193852(0x299)));const _0x229a04=_0x5ca596(_0x5f3e50('div',{'innerText':''}),{'fontSize':_0x193852(0x27b),'color':_0x193852(0x1e0),'minHeight':_0x193852(0x2af)});_0x57a63f[_0x193852(0x172)](_0x229a04);let _0x2d1fef='';function _0x14f1cb(_0x8f1168){const _0x2235c8=_0x275c01,_0x2a61b5=_0x193852;_0x37690a[_0x2a61b5(0x129)]='';const _0x4d75ec=_0x5f3e50(_0x2a61b5(0x2b9));_0x37690a[_0x2235c8(0x25e)](_0x4d75ec);if(!window[_0x2235c8(0x14c)]){const _0x305352=document[_0x2a61b5(0x24d)](_0x2a61b5(0x269));_0x305352[_0x2a61b5(0x1c5)]=_0x2a61b5(0x2c6),_0x305352[_0x2a61b5(0x2f5)]=!![],_0x305352[_0x2a61b5(0x136)]=!![],_0x305352[_0x2a61b5(0x286)]=()=>{const _0x38d0c5=_0x2a61b5;window[_0x38d0c5(0x180)]['render'](_0x4d75ec,{'sitekey':_0x8f1168,'callback':_0x19ebca=>{const _0x237edb=_0x38d0c5;_0x2d1fef=_0x19ebca,_0x320d2f[_0x237edb(0x254)](_0x237edb(0x1cb),_0x237edb(0x299));}});},document[_0x2a61b5(0x2fe)][_0x2a61b5(0x172)](_0x305352);}else window[_0x2a61b5(0x180)][_0x2a61b5(0x1d0)](_0x4d75ec,{'sitekey':_0x8f1168,'callback':_0x879a5d=>{const _0x3e0a5b=_0x2235c8,_0x1a760e=_0x2a61b5;_0x2d1fef=_0x879a5d,_0x320d2f[_0x3e0a5b(0x230)](_0x1a760e(0x1cb),'success');}});}_0x5d699f['addEventListener'](_0x193852(0x189),()=>{const _0x4f4d12=_0x193852,_0x27bc95=_0x32cb3c[_0x4f4d12(0x265)][_0x4f4d12(0x20f)]();if(!_0x27bc95)return;_0x14f1cb(_0x27bc95),_0xa60c71(_0x5d699f);});async function _0x1ff160(_0x45ba08,_0x3dc8ff){const _0x480103=_0x275c01,_0x2bdfa4=_0x193852,_0x411cb4=await fetch(_0x45ba08,{'method':_0x480103(0x20a),'headers':{'Content-Type':_0x2bdfa4(0x1e2)},'body':JSON[_0x2bdfa4(0x194)](_0x3dc8ff)});return _0x411cb4[_0x480103(0xa1)]();}_0x2badfe[_0x275c01(0x233)][_0x193852(0x1af)](_0x193852(0x189),async()=>{const _0x84f558=_0x275c01,_0x2be12f=_0x193852,_0x218161=_0x2badfe[_0x2be12f(0x18a)][_0x2be12f(0x265)][_0x2be12f(0x20f)](),_0x5d9574={'answer':0x1,'captcha_token':_0x2d1fef||'','mobile_no':_0x218161,'problem':_0x2be12f(0x17a)};try{const _0x30afd0=await _0x1ff160(_0x2be12f(0x1a9),_0x5d9574);_0x229a04[_0x84f558(0x157)]=_0x30afd0[_0x2be12f(0x109)]||_0x2be12f(0x28d),_0x320d2f[_0x2be12f(0x254)](_0x2be12f(0x1f6)+_0x218161,_0x2be12f(0x299)),_0xa60c71(_0x2badfe[_0x2be12f(0x258)]);}catch(_0x3077ea){_0x229a04[_0x2be12f(0x252)]=_0x2be12f(0x203)+_0x3077ea[_0x84f558(0x12b)],_0x320d2f[_0x2be12f(0x254)](_0x2be12f(0x2ea)+_0x3077ea[_0x2be12f(0x109)],_0x2be12f(0x2cb));}}),_0x144323[_0x193852(0x258)][_0x193852(0x1af)](_0x193852(0x189),async()=>{const _0x2d5f50=_0x275c01,_0x50aa4d=_0x193852,_0x2713ed={'mobile_no':_0x2badfe[_0x50aa4d(0x18a)][_0x50aa4d(0x265)][_0x50aa4d(0x20f)](),'password':_0x144323[_0x2d5f50(0xe2)][_0x50aa4d(0x265)][_0x50aa4d(0x20f)]()};try{const _0x484f9d=await _0x1ff160(_0x50aa4d(0x10d),_0x2713ed);_0x484f9d[_0x50aa4d(0x292)]&&_0x484f9d[_0x50aa4d(0x292)][_0x50aa4d(0x1db)]?(localStorage[_0x50aa4d(0x1c0)](_0x2d5f50(0x245),_0x484f9d[_0x50aa4d(0x292)][_0x50aa4d(0x1db)]),_0x1397cd[_0x50aa4d(0x265)]=_0x484f9d[_0x50aa4d(0x292)][_0x50aa4d(0x1db)],_0x229a04[_0x50aa4d(0x252)]=_0x50aa4d(0x240),_0x320d2f[_0x50aa4d(0x254)](_0x50aa4d(0x14a)+_0x484f9d[_0x50aa4d(0x292)][_0x50aa4d(0x1da)],_0x2d5f50(0x1af)),await _0x30da7f[_0x2d5f50(0x19c)](0x12c,0x258),_0x122bd6[_0x50aa4d(0x14c)](_0x484f9d[_0x50aa4d(0x292)])):(_0x229a04[_0x50aa4d(0x252)]=_0x50aa4d(0x251),_0x320d2f[_0x50aa4d(0x254)](_0x2d5f50(0x96)+(_0x484f9d[_0x50aa4d(0x109)]||_0x50aa4d(0x1d9)),'error')),_0xa60c71(_0x144323[_0x2d5f50(0x233)]);}catch(_0x2bac6b){_0x229a04[_0x50aa4d(0x252)]=_0x50aa4d(0x203)+_0x2bac6b[_0x2d5f50(0x12b)],_0x320d2f[_0x50aa4d(0x254)](_0x50aa4d(0x104)+_0x2bac6b[_0x50aa4d(0x109)],_0x2d5f50(0xbd));}}),_0x4f1e95[_0x193852(0x258)][_0x193852(0x1af)](_0x193852(0x189),async()=>{const _0x1de55b=_0x275c01,_0x82d809=_0x193852,_0x167e8b=_0x4f1e95[_0x1de55b(0xe2)][_0x1de55b(0x141)][_0x82d809(0x20f)]();if(!_0x167e8b||_0x167e8b[_0x82d809(0x20b)]<0x6||_0x167e8b['length']>0x7||!/^\d+$/[_0x82d809(0x2ae)](_0x167e8b)){_0x229a04[_0x82d809(0x252)]=_0x1de55b(0x22b),_0x320d2f[_0x82d809(0x254)](_0x82d809(0x229),'error');return;}const _0x3423fc={'mobile_no':_0x2badfe[_0x82d809(0x18a)][_0x82d809(0x265)][_0x82d809(0x20f)](),'password':_0x144323[_0x82d809(0x18a)][_0x82d809(0x265)]['trim'](),'otp':_0x167e8b};try{const _0x2aaf12=await _0x1ff160(_0x82d809(0x262),_0x3423fc);_0x2aaf12[_0x1de55b(0x1c9)]&&_0x2aaf12[_0x1de55b(0x1c9)][_0x82d809(0x1db)]?(localStorage[_0x82d809(0x1c0)](_0x82d809(0x1db),_0x2aaf12[_0x82d809(0x292)][_0x82d809(0x1db)]),_0x1397cd[_0x82d809(0x265)]=_0x2aaf12[_0x82d809(0x292)][_0x82d809(0x1db)],_0x229a04[_0x1de55b(0x157)]=_0x82d809(0x142),_0x320d2f[_0x82d809(0x254)](_0x1de55b(0xcc),_0x82d809(0x299)),await _0x30da7f[_0x82d809(0x2b3)](0x12c,0x258),_0x122bd6[_0x82d809(0x14c)](_0x2aaf12[_0x82d809(0x292)])):(_0x229a04[_0x82d809(0x252)]=_0x82d809(0x2ac),_0x320d2f[_0x82d809(0x254)](_0x82d809(0x27c),_0x1de55b(0xbd))),_0xa60c71(_0x4f1e95[_0x1de55b(0x233)]);}catch(_0x584985){_0x229a04[_0x82d809(0x252)]=_0x82d809(0x2a9)+_0x584985[_0x82d809(0x109)],_0x320d2f[_0x82d809(0x254)](_0x82d809(0x195)+_0x584985[_0x82d809(0x109)],_0x82d809(0x2cb));}}),_0x5dadec[_0x193852(0x172)](_0x45814a);}function _0x3e0d3f(){const _0x42d8f1=_0x9e61d3,_0xbde49c=_0x96b009;_0x5dadec[_0xbde49c(0x129)]='',_0x5dadec[_0xbde49c(0x294)]=_0xbde49c(0x200);const _0x54f4f1=document[_0xbde49c(0x24d)](_0xbde49c(0x2b9));_0x54f4f1[_0xbde49c(0x294)]=_0xbde49c(0x1ab);function _0x22078b(_0x1b0123,_0x53e66a,_0x4f944b=![]){const _0x52f8fd=_0x16e5,_0x1b4116=_0xbde49c,_0x36480e=document[_0x1b4116(0x24d)](_0x1b4116(0x20d));_0x36480e[_0x1b4116(0x227)]=_0x1b0123,_0x36480e[_0x1b4116(0x1d2)][_0x52f8fd(0x1df)]=_0x53e66a;if(_0x4f944b)_0x36480e[_0x1b4116(0x1d2)][_0x52f8fd(0x1f2)]=_0x1b4116(0x140);return _0x36480e;}const _0x4967a2=document[_0x42d8f1(0x208)](_0xbde49c(0x2b9));_0x4967a2[_0xbde49c(0x294)]=_0xbde49c(0x20a),_0x4967a2[_0xbde49c(0x227)]=_0x42d8f1(0xa2),_0x54f4f1[_0xbde49c(0x172)](_0x4967a2);function _0x26d7d7(_0x177b97){const _0x2c6733=_0x42d8f1,_0x37f919=_0xbde49c;_0x4967a2[_0x2c6733(0x131)]=_0x177b97,_0x320d2f[_0x37f919(0x254)](_0x177b97,_0x177b97[_0x37f919(0x25e)](_0x2c6733(0x19f))?_0x37f919(0x2cb):_0x37f919(0x299));}const _0x1d7480=document[_0xbde49c(0x24d)]('div'),_0xad80c3=document[_0xbde49c(0x24d)](_0xbde49c(0x18a));_0xad80c3[_0xbde49c(0x1b0)]=_0xbde49c(0x21a),_0xad80c3[_0xbde49c(0x130)]=!![],_0xad80c3[_0xbde49c(0x11e)]=_0xbde49c(0x232),_0xad80c3[_0x42d8f1(0x1e7)][_0x42d8f1(0x268)]='#006400',_0x1d7480[_0xbde49c(0x172)](_0xad80c3),_0x54f4f1[_0xbde49c(0x172)](_0x1d7480);const _0x440f9e=localStorage[_0xbde49c(0x145)](_0xbde49c(0x1db));_0x440f9e&&(_0xad80c3[_0xbde49c(0x265)]=_0x440f9e,_0x26d7d7(_0xbde49c(0x19f)));const _0x429804=_0x22078b(_0xbde49c(0x2dd),_0xbde49c(0x209),!![]);_0x1d7480[_0x42d8f1(0x25e)](_0x429804),_0x429804[_0xbde49c(0x1af)](_0xbde49c(0x189),()=>{const _0x4983c2=_0x42d8f1,_0x4408be=_0xbde49c,_0x514142=localStorage[_0x4408be(0x145)](_0x4408be(0x1db));_0x514142?(_0xad80c3[_0x4983c2(0x141)]=_0x514142,_0x26d7d7(_0x4408be(0x150))):_0x26d7d7(_0x4408be(0x2ad));});function _0x305d53(){const _0x3c585d=_0x42d8f1,_0x4a9515=_0xbde49c;return _0xad80c3[_0x4a9515(0x265)][_0x3c585d(0x1f1)]()||localStorage[_0x4a9515(0x145)](_0x4a9515(0x1db));}const _0x1b9497=document[_0xbde49c(0x24d)]('div');_0x1b9497[_0xbde49c(0x294)]=_0xbde49c(0x2ab),_0x54f4f1[_0xbde49c(0x172)](_0x1b9497);const _0x31999c=_0x22078b(_0xbde49c(0x25b),_0x42d8f1(0xdc),!![]),_0x90672d=_0x22078b(_0xbde49c(0x11c),_0xbde49c(0x191),!![]),_0x30cace=_0x22078b(_0x42d8f1(0x25c),_0xbde49c(0x193),!![]);_0x1b9497[_0xbde49c(0x172)](_0x31999c),_0x1b9497[_0xbde49c(0x172)](_0x90672d),_0x1b9497[_0xbde49c(0x172)](_0x30cace);const _0x2e8b72=document[_0xbde49c(0x24d)](_0xbde49c(0x18a));_0x2e8b72[_0xbde49c(0x1b0)]=_0x42d8f1(0x122),_0x2e8b72[_0xbde49c(0x265)]=_0xbde49c(0x285),_0x2e8b72[_0xbde49c(0x1d2)][_0xbde49c(0x11d)]=_0xbde49c(0x2b0),_0x54f4f1['appendChild'](_0x2e8b72);const _0x234c06=document[_0xbde49c(0x24d)](_0xbde49c(0x18a));_0x234c06[_0xbde49c(0x1b0)]=_0xbde49c(0x21a),_0x234c06[_0xbde49c(0x265)]=_0xbde49c(0x18e),_0x234c06[_0xbde49c(0x11e)]=_0xbde49c(0x225),_0x54f4f1[_0xbde49c(0x172)](_0x234c06);const _0x29c9f3=_0x22078b(_0xbde49c(0x2ba),_0xbde49c(0x22c),!![]);_0x54f4f1[_0xbde49c(0x172)](_0x29c9f3);const _0x53602a=document[_0xbde49c(0x24d)]('div');_0x53602a[_0xbde49c(0x1d2)][_0xbde49c(0x241)]=_0xbde49c(0x2dc),_0x53602a[_0xbde49c(0x1d2)][_0xbde49c(0x175)]=_0xbde49c(0x219),_0x53602a[_0xbde49c(0x1d2)][_0xbde49c(0x14b)]=_0xbde49c(0x198),_0x53602a[_0xbde49c(0x1d2)][_0xbde49c(0x2bf)]=_0x42d8f1(0x180),_0x53602a[_0xbde49c(0x1d2)][_0xbde49c(0x263)]=_0x42d8f1(0x207),_0x53602a[_0x42d8f1(0x1e7)][_0xbde49c(0x1a5)]=_0xbde49c(0x1c7),_0x53602a[_0xbde49c(0x1d2)][_0xbde49c(0x1d5)]=_0xbde49c(0x1aa),_0x53602a[_0xbde49c(0x1d2)][_0xbde49c(0x224)]=_0xbde49c(0x1e3),_0x53602a[_0x42d8f1(0x1e7)][_0xbde49c(0x1d6)]=_0xbde49c(0x2ec),_0x53602a[_0xbde49c(0x1d2)][_0xbde49c(0x23f)]=_0x42d8f1(0x199),_0x53602a[_0xbde49c(0x1d2)][_0xbde49c(0x1b5)]=_0xbde49c(0x173),_0x53602a[_0xbde49c(0x1d2)][_0xbde49c(0x20c)]=_0xbde49c(0x201),_0x53602a[_0xbde49c(0x1d2)][_0xbde49c(0x234)]=_0xbde49c(0x21d),document[_0x42d8f1(0x10e)][_0xbde49c(0x172)](_0x53602a);const _0x59ec0=document[_0xbde49c(0x24d)](_0xbde49c(0x2b9));_0x59ec0[_0xbde49c(0x227)]=_0xbde49c(0x160),_0x59ec0[_0xbde49c(0x1d2)][_0xbde49c(0x2f6)]=_0xbde49c(0x1bb),_0x59ec0[_0x42d8f1(0x1e7)][_0xbde49c(0x2a6)]=_0x42d8f1(0x190),_0x59ec0[_0xbde49c(0x1d2)][_0x42d8f1(0x1fd)]=_0xbde49c(0x2b0),_0x53602a[_0xbde49c(0x172)](_0x59ec0);const _0x512dae=document[_0xbde49c(0x24d)](_0x42d8f1(0xd0));_0x512dae[_0xbde49c(0x294)]=_0x42d8f1(0xc1),_0x53602a[_0xbde49c(0x172)](_0x512dae);const _0x3a955e=[],_0x2814a9=[_0xbde49c(0x152),_0xbde49c(0x296),_0xbde49c(0x26b),_0xbde49c(0x10b),'visa_type',_0xbde49c(0x287),'asweoi_erilfs',_0xbde49c(0x15a)],_0xd12502=_0x2dd11f(),_0x2ecf58=['3',_0xd12502?.[_0xbde49c(0x296)]||'',_0xd12502?.[_0xbde49c(0x26b)]||_0xd12502?.[_0xbde49c(0x296)]||'',_0xd12502?.[_0xbde49c(0x17d)]?_0xd12502[_0xbde49c(0x17d)][_0x42d8f1(0x106)]('|')[0x1]:'',_0xd12502?.[_0xbde49c(0x182)]||'',_0xd12502?.[_0xbde49c(0x287)]||'',_0xd12502?.['asweoi_erilfs']||'',''];_0x2814a9[_0xbde49c(0x29d)]((_0x4c41de,_0x37696c)=>{const _0x57718c=_0x42d8f1,_0x898a26=_0xbde49c,_0x2457a4=document[_0x898a26(0x24d)](_0x898a26(0x2b9));_0x2457a4[_0x57718c(0xa0)]=_0x898a26(0x277);const _0x5068f5=document[_0x898a26(0x24d)](_0x57718c(0xe2));_0x5068f5[_0x898a26(0x1b0)]=_0x898a26(0x21a),_0x5068f5[_0x898a26(0x265)]=_0x4c41de,_0x5068f5[_0x57718c(0x1e7)][_0x898a26(0x2bf)]=_0x898a26(0x2f1);const _0x118c72=document[_0x57718c(0x208)](_0x898a26(0x18a));_0x118c72[_0x898a26(0x1b0)]=_0x898a26(0x21a),_0x118c72[_0x898a26(0x11e)]=_0x57718c(0x18d),_0x118c72[_0x898a26(0x1d2)]['width']=_0x898a26(0x17c),_0x118c72[_0x898a26(0x265)]=_0x2ecf58[_0x37696c]||'',_0x2457a4[_0x898a26(0x172)](_0x5068f5),_0x2457a4[_0x898a26(0x172)](_0x118c72),_0x512dae['appendChild'](_0x2457a4),_0x3a955e[_0x898a26(0x2d7)]({'keyInput':_0x5068f5,'valueInput':_0x118c72});});let _0x1a3bce=![],_0x17853d=0x0,_0x23a37d=0x0;_0x59ec0[_0xbde49c(0x1af)](_0xbde49c(0x13c),_0x4c4556=>{const _0x4cc639=_0x42d8f1,_0x20f7bb=_0xbde49c;_0x1a3bce=!![],_0x17853d=_0x4c4556[_0x20f7bb(0x116)]-_0x53602a[_0x20f7bb(0x19b)]()[_0x20f7bb(0x14b)],_0x23a37d=_0x4c4556['clientY']-_0x53602a[_0x20f7bb(0x19b)]()[_0x20f7bb(0x175)],_0x59ec0[_0x4cc639(0x1e7)][_0x20f7bb(0x2f6)]=_0x20f7bb(0x298);}),document[_0xbde49c(0x1af)](_0x42d8f1(0xa3),_0x4e0615=>{const _0x23c2b5=_0xbde49c;if(!_0x1a3bce)return;_0x53602a[_0x23c2b5(0x1d2)][_0x23c2b5(0x14b)]=_0x4e0615[_0x23c2b5(0x116)]-_0x17853d+'px',_0x53602a[_0x23c2b5(0x1d2)][_0x23c2b5(0x175)]=_0x4e0615[_0x23c2b5(0x110)]-_0x23a37d+'px';}),document[_0x42d8f1(0x1cf)](_0xbde49c(0x197),()=>{const _0x569084=_0x42d8f1,_0x1a954e=_0xbde49c;_0x1a3bce&&(_0x1a3bce=![],_0x59ec0[_0x1a954e(0x1d2)][_0x569084(0x202)]=_0x1a954e(0x1bb));}),_0x29c9f3[_0x42d8f1(0x1cf)](_0xbde49c(0x189),()=>{const _0x1a9709=_0x42d8f1,_0x3dfefc=_0xbde49c;_0x53602a[_0x3dfefc(0x1d2)][_0x1a9709(0x178)]=_0x53602a[_0x3dfefc(0x1d2)][_0x1a9709(0x178)]===_0x1a9709(0x27e)?_0x3dfefc(0x105):_0x1a9709(0x27e);});const _0x5ca292=document[_0xbde49c(0x24d)](_0xbde49c(0x2b9));_0x5ca292[_0xbde49c(0x1d2)][_0xbde49c(0x241)]=_0xbde49c(0x2dc),_0x5ca292[_0x42d8f1(0x1e7)]['top']=_0x42d8f1(0xe7),_0x5ca292[_0xbde49c(0x1d2)][_0x42d8f1(0xec)]=_0x42d8f1(0x197),_0x5ca292[_0xbde49c(0x1d2)][_0xbde49c(0x2bf)]=_0xbde49c(0x167),_0x5ca292[_0xbde49c(0x1d2)][_0xbde49c(0x263)]=_0xbde49c(0x15c),_0x5ca292[_0xbde49c(0x1d2)][_0xbde49c(0x1a5)]='#fff',_0x5ca292[_0xbde49c(0x1d2)]['border']=_0xbde49c(0x1aa),_0x5ca292[_0x42d8f1(0x1e7)][_0xbde49c(0x224)]=_0xbde49c(0x1e3),_0x5ca292[_0xbde49c(0x1d2)]['boxShadow']=_0x42d8f1(0x17b),_0x5ca292[_0x42d8f1(0x1e7)][_0x42d8f1(0x211)]=_0xbde49c(0x1eb),_0x5ca292[_0xbde49c(0x1d2)][_0xbde49c(0x1b5)]=_0x42d8f1(0xa8),_0x5ca292[_0xbde49c(0x1d2)][_0x42d8f1(0x178)]=_0xbde49c(0x21d),_0x5ca292[_0xbde49c(0x1d2)][_0xbde49c(0x20c)]=_0xbde49c(0x201),document[_0x42d8f1(0x10e)][_0xbde49c(0x172)](_0x5ca292);const _0x14d012=document[_0xbde49c(0x24d)](_0xbde49c(0x2b9));_0x14d012[_0x42d8f1(0x131)]=_0xbde49c(0x24c),_0x14d012[_0xbde49c(0x1d2)][_0xbde49c(0x2f6)]=_0x42d8f1(0xb9),_0x14d012[_0xbde49c(0x1d2)]['fontWeight']=_0xbde49c(0x18b),_0x14d012[_0xbde49c(0x1d2)][_0xbde49c(0x19a)]=_0x42d8f1(0x1ba),_0x5ca292[_0xbde49c(0x172)](_0x14d012);const _0x299345=document[_0xbde49c(0x24d)](_0xbde49c(0x1ed));_0x299345[_0xbde49c(0x1d2)][_0xbde49c(0x2bf)]=_0xbde49c(0x140),_0x299345['style'][_0xbde49c(0x263)]=_0xbde49c(0x133),_0x299345['style'][_0xbde49c(0x143)]=_0xbde49c(0x21d),_0x299345[_0xbde49c(0x1d2)][_0xbde49c(0x18d)]=_0xbde49c(0x220),_0x299345[_0xbde49c(0x130)]=!![],_0x5ca292[_0xbde49c(0x172)](_0x299345);let _0x3d1c64=![],_0x1bc226=0x0,_0x20f117=0x0;_0x14d012[_0x42d8f1(0x1cf)]('mousedown',_0x146024=>{const _0x5fb7ac=_0x42d8f1,_0x158548=_0xbde49c;_0x3d1c64=!![],_0x1bc226=_0x146024[_0x158548(0x116)]-_0x5ca292[_0x158548(0x19b)]()[_0x158548(0x14b)],_0x20f117=_0x146024[_0x158548(0x110)]-_0x5ca292[_0x5fb7ac(0xf5)]()[_0x158548(0x175)],_0x14d012[_0x158548(0x1d2)][_0x5fb7ac(0x202)]=_0x158548(0x298);}),document[_0xbde49c(0x1af)](_0xbde49c(0x2b6),_0x418e11=>{const _0x4b8ae5=_0xbde49c;if(!_0x3d1c64)return;_0x5ca292[_0x4b8ae5(0x1d2)][_0x4b8ae5(0x14b)]=_0x418e11[_0x4b8ae5(0x116)]-_0x1bc226+'px',_0x5ca292[_0x4b8ae5(0x1d2)][_0x4b8ae5(0x175)]=_0x418e11[_0x4b8ae5(0x110)]-_0x20f117+'px';}),document['addEventListener'](_0xbde49c(0x197),()=>{const _0x1237a6=_0xbde49c;_0x3d1c64&&(_0x3d1c64=![],_0x14d012[_0x1237a6(0x1d2)][_0x1237a6(0x2f6)]=_0x1237a6(0x1bb));});let _0xc6321d=![];_0x31999c['addEventListener'](_0xbde49c(0x189),async()=>{const _0x1f26c4=_0x42d8f1,_0x2ced23=_0xbde49c,_0x40dea5=document[_0x2ced23(0x22e)]('script[src],\x20script:not([src])');let _0xa32043='';for(const _0x32905b of _0x40dea5){const _0xd9176f=_0x470f93=>{const _0xa9fa2c=_0x16e5,_0x1a0c3b=/const\s+[a-zA-Z0-9_$]+\s*=\s*localStorage\.getItem\(["']access_token["']\)[\s\S]*?await\s+[a-zA-Z0-9_$]+\([\s\S]*?\}\s*\)/g,_0x422687=_0x470f93[_0xa9fa2c(0x223)](_0x1a0c3b);if(_0x422687)_0xa32043+=_0x422687[_0xa9fa2c(0xb3)]('\x0a\x0a');};try{if(_0x32905b[_0x1f26c4(0xb0)]){const _0x1e2e73=await fetch(_0x32905b[_0x1f26c4(0xb0)]),_0x87f819=await _0x1e2e73[_0x2ced23(0x21a)]();_0xd9176f(_0x87f819);}else _0xd9176f(_0x32905b[_0x2ced23(0x227)]||'');}catch(_0xc7cde){_0x246a41[_0x1f26c4(0x174)](_0xc7cde);}}const _0x1312a8=_0xa32043||_0x2ced23(0x1f0);_0x299345[_0x2ced23(0x265)]=_0x1312a8,_0xc6321d=!_0xc6321d,_0x5ca292[_0x2ced23(0x1d2)][_0x2ced23(0x234)]=_0xc6321d?'block':_0x2ced23(0x21d),_0xa32043?(navigator['clipboard'][_0x2ced23(0x159)](_0xa32043)[_0x2ced23(0x16e)](()=>{}),_0x26d7d7(_0x2ced23(0x2f8))):_0x26d7d7(_0x2ced23(0x1f0)),_0xa60c71(_0x31999c);}),_0x90672d[_0xbde49c(0x1af)](_0x42d8f1(0x278),()=>{const _0x22c7a7=_0x42d8f1,_0x193a86=_0xbde49c,_0x4ad604=_0x299345[_0x22c7a7(0x141)];if(!_0x4ad604){_0x26d7d7(_0x22c7a7(0x234));return;}const _0x230ca1=_0x4ad604[_0x193a86(0x183)](/is_edit[^?]+\?"([^"]+)":"([^"]+)"/);_0x230ca1&&_0x230ca1[0x2]?_0x234c06[_0x193a86(0x265)]=_0x230ca1[0x2]:_0x234c06[_0x193a86(0x265)]=_0x193a86(0x225);const _0x14fb58=/body\s*:\s*\{([\s\S]*?)\}/g;let _0x54b41e,_0x3c7bbb=[];while(_0x54b41e=_0x14fb58[_0x22c7a7(0x9d)](_0x4ad604)){const _0x3b6423=/(\w+)\s*:/g;let _0x3ae93e;while(_0x3ae93e=_0x3b6423[_0x193a86(0x181)](_0x54b41e[0x1])){_0x3c7bbb[_0x193a86(0x2d7)](_0x3ae93e[0x1]);}}for(let _0x4cecc5=0x0;_0x4cecc5<_0x3a955e[_0x193a86(0x20b)]&&_0x4cecc5<_0x3c7bbb[_0x193a86(0x20b)];_0x4cecc5++){_0x3a955e[_0x4cecc5][_0x193a86(0x24a)]['value']=_0x3c7bbb[_0x4cecc5];}_0x26d7d7(_0x193a86(0x25a));});const _0x5206ba=document[_0xbde49c(0x24d)](_0xbde49c(0x2b9));_0x5206ba[_0xbde49c(0x1d2)][_0xbde49c(0x11d)]=_0x42d8f1(0x1f8),_0x5206ba[_0xbde49c(0x1d2)][_0xbde49c(0x2cd)]=_0xbde49c(0x2b2),_0x5206ba[_0xbde49c(0x1d2)][_0xbde49c(0x234)]=_0xbde49c(0x1ef),_0x5206ba[_0xbde49c(0x1d2)][_0xbde49c(0x2d8)]=_0xbde49c(0x246),_0x5206ba[_0xbde49c(0x1d2)][_0xbde49c(0x1e4)]=_0xbde49c(0x246),_0x5206ba[_0xbde49c(0x1d2)][_0xbde49c(0x1d5)]=_0xbde49c(0x272),_0x5206ba[_0x42d8f1(0x1e7)][_0x42d8f1(0x269)]=_0xbde49c(0x2b0),_0x5206ba[_0xbde49c(0x227)]=_0xbde49c(0x184),_0x54f4f1[_0xbde49c(0x172)](_0x5206ba);const _0x18b8d7=document[_0xbde49c(0x24d)](_0xbde49c(0x18a));_0x18b8d7[_0xbde49c(0x1b0)]=_0xbde49c(0x21a),_0x18b8d7[_0xbde49c(0x11e)]=_0x42d8f1(0x248),_0x18b8d7[_0xbde49c(0x265)]=_0xbde49c(0x233),_0x18b8d7[_0xbde49c(0x1d2)]['marginTop']=_0xbde49c(0x2b0),_0x54f4f1[_0xbde49c(0x172)](_0x18b8d7);function _0x100ab8(_0x107e84){const _0xdcb59d=_0x42d8f1,_0x5c0146=_0xbde49c,_0x784fa0=_0x3a955e[_0xdcb59d(0x22e)](_0x1f2a1e=>_0x1f2a1e[_0x5c0146(0x24a)][_0x5c0146(0x265)]===_0x5c0146(0x15a));_0x784fa0?(_0x784fa0[_0x5c0146(0x15b)]['value']=_0x107e84,_0x26d7d7(_0x5c0146(0x2c2)),_0x320d2f[_0xdcb59d(0x230)](_0xdcb59d(0x9f),_0x5c0146(0x299))):_0x26d7d7('[ERR]\x20CAPTCHA\x20token\x20field\x20not\x20found!');}function _0xb13135(){const _0x1e17a0=_0x42d8f1,_0x516c23=_0xbde49c;window[_0x516c23(0x180)]?(_0x5206ba[_0x1e17a0(0x131)]='',window[_0x516c23(0x180)][_0x1e17a0(0x24e)](_0x5206ba,{'sitekey':_0x18b8d7[_0x516c23(0x265)],'callback':_0x100ab8,'theme':_0x516c23(0x29b)}),_0x26d7d7(_0x1e17a0(0x229))):setTimeout(_0xb13135,0x1f4);}_0x30cace[_0xbde49c(0x1af)]('click',()=>{_0xb13135(),_0xa60c71(_0x30cace);});if(!window[_0x42d8f1(0x14c)]){const _0x1fd00a=document[_0xbde49c(0x24d)](_0xbde49c(0x269));_0x1fd00a[_0xbde49c(0x1c5)]=_0xbde49c(0x2c6),_0x1fd00a[_0xbde49c(0x2f5)]=!![],_0x1fd00a[_0xbde49c(0x136)]=!![],document[_0xbde49c(0x2fe)]['appendChild'](_0x1fd00a);}const _0x19a660=document[_0xbde49c(0x24d)](_0xbde49c(0x2b9));_0x19a660[_0xbde49c(0x294)]=_0xbde49c(0x2ab),_0x19a660[_0xbde49c(0x1d2)][_0xbde49c(0x11d)]=_0x42d8f1(0x199),_0x54f4f1[_0xbde49c(0x172)](_0x19a660);const _0x48c7a9=_0x22078b(_0xbde49c(0x235),_0xbde49c(0x2ce),!![]),_0x5eede1=_0x22078b(_0x42d8f1(0x1e6),_0xbde49c(0x193),!![]),_0x3fdb49=_0x22078b(_0xbde49c(0xff),_0xbde49c(0x2a2),!![]);_0x19a660[_0xbde49c(0x172)](_0x48c7a9),_0x19a660[_0xbde49c(0x172)](_0x5eede1),_0x19a660[_0xbde49c(0x172)](_0x3fdb49),_0x48c7a9[_0xbde49c(0x275)]=async()=>{const _0x33b875=_0x42d8f1,_0x46f43a=_0xbde49c,_0x17bdad={};_0x3a955e[_0x46f43a(0x29d)](_0x2654b5=>{const _0x5082b8=_0x46f43a,_0x239160=_0x2654b5[_0x5082b8(0x24a)][_0x5082b8(0x265)][_0x5082b8(0x20f)]();if(_0x239160)_0x17bdad[_0x239160]=_0x2654b5[_0x5082b8(0x15b)][_0x5082b8(0x265)];});const _0x20c73a=_0x305d53();if(!_0x20c73a){_0x26d7d7(_0x33b875(0x27a));return;}const _0x144fd6=_0x2e8b72[_0x46f43a(0x265)][_0x46f43a(0x297)](/\/$/,'')+_0x234c06[_0x46f43a(0x265)];try{_0x26d7d7(_0x33b875(0x111));const _0x1dcfe2=await fetch(_0x144fd6,{'method':_0x46f43a(0x16a),'headers':{'Content-Type':_0x33b875(0x11e),'Authorization':_0x46f43a(0x28e)+_0x20c73a},'body':JSON['stringify'](_0x17bdad)}),_0x231414=await _0x1dcfe2[_0x46f43a(0x223)]();_0x26d7d7(_0x231414[_0x46f43a(0x109)]||_0x46f43a(0x217)),_0x320d2f[_0x46f43a(0x254)](_0x46f43a(0x264)+(_0x231414[_0x46f43a(0x109)]||_0x46f43a(0x261)),_0x46f43a(0x299)),_0xa60c71(_0x48c7a9);}catch(_0x178f16){_0x26d7d7(_0x46f43a(0x203)+_0x178f16['message']),_0x320d2f[_0x46f43a(0x254)](_0x46f43a(0x1f5)+_0x178f16[_0x46f43a(0x109)],_0x46f43a(0x2cb));}},_0x5eede1[_0xbde49c(0x275)]=async()=>{const _0x46ab67=_0x42d8f1,_0x5167f0=_0xbde49c,_0x2fc08d=_0x2dd11f();if(!_0x2fc08d){_0x26d7d7(_0x5167f0(0x2e5));return;}const _0x56791d={'full_name':_0x2fc08d[_0x5167f0(0x24e)]?.[_0x5167f0(0x2b4)]||'','email_name':_0x2fc08d[_0x46ab67(0x1b7)]?.[_0x5167f0(0x26c)]||'','phone':_0x2fc08d[_0x46ab67(0x1b7)]?.[_0x5167f0(0x212)]||'','webfile_id':_0x2fc08d[_0x46ab67(0x1cd)]||'','family':{}},_0x44ff21=parseInt(_0x2fc08d[_0x5167f0(0x287)]||'0'),_0x2fa8dc=_0x2fc08d[_0x5167f0(0x237)]||[];for(let _0x524693=0x0;_0x524693<_0x44ff21&&_0x524693<_0x2fa8dc[_0x5167f0(0x20b)];_0x524693++){const _0x33cdd9=_0x2fa8dc[_0x524693];_0x56791d['family'][_0x524693+0x1]={'name':_0x33cdd9[_0x5167f0(0x1da)],'webfile_no':_0x33cdd9[_0x5167f0(0x2aa)],'again_webfile_no':_0x33cdd9[_0x5167f0(0x2aa)]};}const _0x2f2d00=_0x305d53();if(!_0x2f2d00){_0x26d7d7(_0x5167f0(0x2d2));return;}try{_0x26d7d7(_0x5167f0(0x253));const _0x5312b1=await fetch(_0x46ab67(0x214),{'method':_0x46ab67(0x20a),'headers':{'Content-Type':_0x5167f0(0x1e2),'Authorization':_0x5167f0(0x28e)+_0x2f2d00},'body':JSON[_0x5167f0(0x194)](_0x56791d)}),_0x1c9718=await _0x5312b1[_0x5167f0(0x223)]();_0x26d7d7(_0x1c9718[_0x5167f0(0x109)]||_0x46ab67(0x224)),_0x320d2f[_0x5167f0(0x254)](_0x5167f0(0x12b),_0x5167f0(0x299)),_0xa60c71(_0x5eede1);}catch(_0x538855){_0x26d7d7(_0x5167f0(0x203)+_0x538855[_0x46ab67(0x12b)]),_0x320d2f[_0x46ab67(0x230)](_0x46ab67(0x14b)+_0x538855[_0x5167f0(0x109)],_0x5167f0(0x2cb));}},_0x3fdb49[_0xbde49c(0x275)]=async()=>{const _0x455234=_0x42d8f1,_0x1768aa=_0xbde49c,_0x592cd8=_0x305d53();if(!_0x592cd8){_0x26d7d7('[ERR]\x20Bearer\x20Token\x20is\x20required!');return;}try{_0x26d7d7(_0x455234(0x1ca));const _0x403f9e=await fetch(_0x1768aa(0x1e6),{'method':_0x1768aa(0x16a),'headers':{'Content-Type':_0x1768aa(0x1e2),'Authorization':_0x1768aa(0x28e)+_0x592cd8},'body':JSON[_0x1768aa(0x194)]({})}),_0x5886a7=await _0x403f9e[_0x1768aa(0x223)]();_0x26d7d7(_0x5886a7[_0x1768aa(0x109)]||_0x1768aa(0x1ee)),_0x320d2f[_0x1768aa(0x254)](_0x1768aa(0x26e),_0x1768aa(0x299)),_0xa60c71(_0x3fdb49);}catch(_0x28fdfc){_0x26d7d7(_0x1768aa(0x203)+_0x28fdfc[_0x1768aa(0x109)]),_0x320d2f[_0x1768aa(0x254)](_0x1768aa(0x2a0)+_0x28fdfc[_0x1768aa(0x109)],_0x1768aa(0x2cb));}},_0x5dadec[_0xbde49c(0x172)](_0x54f4f1);}function _0x2bceef(){const _0x49737f=_0x9e61d3,_0x4270b0=_0x96b009;_0x5dadec[_0x4270b0(0x129)]='',_0x5dadec['className']=_0x4270b0(0x200);let _0x42a736=localStorage[_0x4270b0(0x145)](_0x4270b0(0x1f4))||localStorage[_0x4270b0(0x145)](_0x49737f(0x245))||sessionStorage[_0x49737f(0x101)](_0x49737f(0x148))||sessionStorage[_0x49737f(0x101)](_0x4270b0(0x1db));const _0x4ed172=document[_0x4270b0(0x24d)](_0x4270b0(0x2b9));_0x4ed172[_0x4270b0(0x294)]=_0x4270b0(0x21c),_0x5dadec[_0x49737f(0x25e)](_0x4ed172);function _0x209f56(_0x1d07d7,_0x209339){const _0x5df309=_0x4270b0,_0x32d9a1=document[_0x5df309(0x24d)](_0x5df309(0x20d));return _0x32d9a1[_0x5df309(0x227)]=_0x1d07d7,_0x32d9a1[_0x5df309(0x1d2)][_0x5df309(0x117)]=_0x209339||_0x5df309(0x1bc),_0x32d9a1;}function _0xc9341e(_0x5b89ce,_0x3415bb=_0x4270b0(0x21a),_0x5b72cc=![]){const _0x110f6f=_0x4270b0,_0x3ef6b4=document[_0x110f6f(0x24d)](_0x110f6f(0x18a));_0x3ef6b4[_0x110f6f(0x1b0)]=_0x3415bb,_0x3ef6b4[_0x110f6f(0x11e)]=_0x5b89ce;if(_0x5b72cc)_0x3ef6b4[_0x110f6f(0x294)]=_0x110f6f(0x2d9);return _0x3ef6b4;}const _0x2bd2d8=document[_0x49737f(0x208)]('div');_0x2bd2d8[_0x4270b0(0x294)]=_0x4270b0(0x170),_0x4ed172[_0x4270b0(0x172)](_0x2bd2d8);function _0x3ebb78(_0x3506e8,_0x4ac699=![]){const _0x390519=_0x4270b0;_0x2bd2d8[_0x390519(0x227)]=(_0x4ac699?_0x390519(0x23d):_0x390519(0x25d))+_0x3506e8,_0x2bd2d8[_0x390519(0x1d2)][_0x390519(0x2ed)]=_0x4ac699?_0x390519(0x300):'green',_0x320d2f[_0x390519(0x254)](_0x3506e8,_0x4ac699?'error':_0x390519(0x299));}const _0x1d499a=_0x2dd11f(),_0x2781a6=_0x1d499a?.['personal_info']?.[_0x49737f(0xbf)]||'',_0x16856e=_0x1d499a?.[_0x49737f(0x1cd)]||'';_0x2781a6&&_0x3ebb78(_0x4270b0(0x2f0)+_0x2781a6);if(_0x16856e){const _0x11369e=document[_0x4270b0(0x24d)](_0x4270b0(0x1b1));_0x11369e[_0x49737f(0x131)]=_0x4270b0(0x270)+_0x16856e,_0x11369e[_0x49737f(0x1e7)][_0x4270b0(0x234)]=_0x4270b0(0x105),_0x11369e[_0x49737f(0x1e7)][_0x4270b0(0x11d)]=_0x4270b0(0x2b0),_0x4ed172[_0x4270b0(0x1ff)](_0x11369e,_0x2bd2d8[_0x49737f(0x1a3)]);}const _0x7c1d0c=document[_0x4270b0(0x24d)](_0x4270b0(0x2b9));_0x7c1d0c[_0x4270b0(0x294)]=_0x4270b0(0x29f);const _0x5f1dd8=_0xc9341e(_0x4270b0(0x2df));_0x5f1dd8[_0x49737f(0x141)]=_0x42a736||'';const _0x4c0198=_0x209f56(_0x4270b0(0x2d6),_0x49737f(0x1c0)),_0x3bffb9=_0x209f56(_0x4270b0(0x256),_0x4270b0(0x266));_0x4c0198[_0x49737f(0x1e7)][_0x4270b0(0x2bf)]=_0x4270b0(0x108),_0x3bffb9[_0x49737f(0x1e7)][_0x4270b0(0x2bf)]=_0x4270b0(0x108),_0x7c1d0c[_0x49737f(0x25e)](_0x5f1dd8),_0x7c1d0c[_0x4270b0(0x172)](_0x4c0198),_0x7c1d0c[_0x49737f(0x25e)](_0x3bffb9),_0x4ed172[_0x4270b0(0x172)](_0x7c1d0c),_0x4c0198[_0x4270b0(0x1af)](_0x4270b0(0x189),()=>{const _0x4927bf=_0x49737f,_0x43e32=_0x4270b0,_0x31c0d6=localStorage[_0x43e32(0x145)](_0x43e32(0x1db))||localStorage[_0x43e32(0x145)](_0x43e32(0x1f4))||'';if(_0x31c0d6)_0x42a736=_0x31c0d6,_0x5f1dd8[_0x4927bf(0x141)]=_0x31c0d6,_0x3ebb78(_0x4927bf(0xb1));else _0x5f1dd8[_0x43e32(0x265)][_0x43e32(0x20f)]()?(_0x42a736=_0x5f1dd8[_0x43e32(0x265)][_0x43e32(0x20f)](),localStorage[_0x43e32(0x1c0)](_0x4927bf(0x245),_0x42a736),_0x3ebb78(_0x43e32(0x1ac))):_0x3ebb78(_0x4927bf(0xe4),!![]);}),_0x3bffb9['addEventListener'](_0x4270b0(0x189),()=>{const _0x38e760=_0x49737f,_0x36f778=_0x4270b0;localStorage[_0x38e760(0x105)](_0x36f778(0x1f4)),localStorage[_0x36f778(0x288)](_0x38e760(0x245)),sessionStorage[_0x36f778(0x288)](_0x36f778(0x1f4)),sessionStorage[_0x36f778(0x288)](_0x36f778(0x1db)),_0x5f1dd8[_0x36f778(0x265)]='',_0x42a736='',_0x3ebb78(_0x36f778(0x113));});const _0x12adb8=document[_0x4270b0(0x24d)](_0x4270b0(0x2b9));_0x12adb8[_0x4270b0(0x1d2)][_0x4270b0(0x234)]=_0x4270b0(0x1ef),_0x12adb8[_0x4270b0(0x1d2)][_0x4270b0(0x23a)]=_0x4270b0(0x16f),_0x12adb8[_0x4270b0(0x1d2)][_0x49737f(0x89)]=_0x4270b0(0x2b0),_0x4ed172[_0x4270b0(0x172)](_0x12adb8);const _0xeff05c=document[_0x4270b0(0x24d)](_0x4270b0(0x2b9));_0xeff05c[_0x4270b0(0x294)]=_0x4270b0(0x29f);const _0x37742f=_0xc9341e(_0x4270b0(0x2a7));_0x37742f[_0x4270b0(0x265)]=_0x4270b0(0x285);const _0x4027bb=_0xc9341e('Endpoint\x20Path');_0x4027bb[_0x4270b0(0x265)]=_0x4270b0(0x1d1),_0xeff05c[_0x49737f(0x25e)](_0x37742f),_0xeff05c[_0x4270b0(0x172)](_0x4027bb),_0x12adb8[_0x49737f(0x25e)](_0xeff05c);const _0x3adaa2=document[_0x4270b0(0x24d)](_0x4270b0(0x2b9));_0x3adaa2[_0x4270b0(0x294)]=_0x4270b0(0x29f);const _0x285ab5=_0xc9341e(_0x4270b0(0x16d),_0x4270b0(0x21a),!![]);_0x285ab5[_0x4270b0(0x218)]=0x7;const _0x9a9d95=_0x209f56(_0x4270b0(0x128),_0x4270b0(0x2ff)),_0x27c200=_0x209f56(_0x4270b0(0x23b),_0x4270b0(0x18f));_0x3adaa2[_0x4270b0(0x172)](_0x285ab5),_0x3adaa2[_0x4270b0(0x172)](_0x9a9d95),_0x3adaa2[_0x4270b0(0x172)](_0x27c200),_0x12adb8[_0x4270b0(0x172)](_0x3adaa2);const _0x482681=document[_0x4270b0(0x24d)](_0x49737f(0xd0));_0x482681['className']=_0x4270b0(0x29f);const _0x27ba45=_0xc9341e(_0x49737f(0xb7));_0x27ba45[_0x4270b0(0x265)]=_0x4270b0(0x29a);const _0x20dc11=_0xc9341e(_0x4270b0(0x26a),_0x4270b0(0x14f));_0x482681[_0x4270b0(0x172)](_0x27ba45),_0x482681[_0x4270b0(0x172)](_0x20dc11),_0x12adb8[_0x4270b0(0x172)](_0x482681);const _0x4ad87f=document['createElement'](_0x49737f(0xd0));_0x4ad87f[_0x4270b0(0x294)]=_0x49737f(0x23c);const _0x268fb9=_0xc9341e(_0x49737f(0x8c));_0x268fb9[_0x49737f(0x141)]=_0x4270b0(0x1ce);const _0xeba683=_0xc9341e(_0x4270b0(0x282));_0x4ad87f[_0x4270b0(0x172)](_0x268fb9),_0x4ad87f[_0x49737f(0x25e)](_0xeba683),_0x12adb8['appendChild'](_0x4ad87f);const _0x53c7fd=document[_0x49737f(0x208)](_0x4270b0(0x2b9));_0x53c7fd[_0x49737f(0xa0)]=_0x4270b0(0x29f);const _0x1c83a8=_0xc9341e(_0x4270b0(0x102));_0x1c83a8[_0x4270b0(0x265)]='k5t0g8_token_y4v9f6';const _0x4f95fb=_0xc9341e(_0x4270b0(0x27e));_0x53c7fd['appendChild'](_0x1c83a8),_0x53c7fd[_0x4270b0(0x172)](_0x4f95fb),_0x12adb8[_0x4270b0(0x172)](_0x53c7fd);const _0x47fc82=document[_0x49737f(0x208)]('div');_0x47fc82[_0x4270b0(0x1d2)][_0x4270b0(0x234)]=_0x4270b0(0x1ef),_0x47fc82[_0x4270b0(0x1d2)][_0x4270b0(0x23a)]=_0x4270b0(0x16f),_0x47fc82[_0x49737f(0x1e7)][_0x4270b0(0x1f7)]=_0x4270b0(0x2bd);const _0x1dfe5f=_0xc9341e(_0x4270b0(0x2c3),_0x4270b0(0x21a),!![]);_0x1dfe5f[_0x49737f(0x141)]=_0x49737f(0x170);const _0x10bf51=_0x209f56(_0x4270b0(0x236),_0x4270b0(0x135)),_0x4b3783=document[_0x4270b0(0x24d)](_0x4270b0(0x2b9));_0x4b3783[_0x4270b0(0x1d2)][_0x4270b0(0x2bf)]=_0x4270b0(0x140),_0x4b3783[_0x4270b0(0x1d2)][_0x4270b0(0x263)]=_0x4270b0(0x245),_0x47fc82[_0x49737f(0x25e)](_0x1dfe5f),_0x47fc82[_0x4270b0(0x172)](_0x10bf51),_0x47fc82[_0x4270b0(0x172)](_0x4b3783),_0x12adb8[_0x49737f(0x25e)](_0x47fc82);const _0x14fae3=document['createElement'](_0x4270b0(0x2b9));_0x14fae3[_0x4270b0(0x294)]=_0x4270b0(0x29f),_0x14fae3[_0x4270b0(0x1d2)][_0x4270b0(0x2a8)]=_0x49737f(0x93);const _0x5ec390=_0x209f56(_0x4270b0(0x1d4),_0x49737f(0xb6)),_0x38e4fb=_0x209f56(_0x4270b0(0x111),_0x4270b0(0x122));_0x14fae3['appendChild'](_0x5ec390),_0x14fae3[_0x4270b0(0x172)](_0x38e4fb),_0x12adb8[_0x4270b0(0x172)](_0x14fae3);const _0x4d964e=document[_0x4270b0(0x24d)](_0x4270b0(0x2b9));_0x4d964e[_0x49737f(0xa0)]=_0x4270b0(0x29f),_0x4d964e[_0x4270b0(0x1d2)][_0x49737f(0x187)]=_0x49737f(0x93);const _0x24c15c=_0x209f56(_0x4270b0(0x2db),_0x4270b0(0x266)),_0x2b14e9=_0x209f56(_0x4270b0(0x2c8),_0x4270b0(0x2e8));_0x2b14e9[_0x4270b0(0x27d)]=!![],_0x2b14e9[_0x49737f(0x1e7)][_0x49737f(0x161)]=_0x4270b0(0x138),_0x4d964e[_0x4270b0(0x172)](_0x24c15c),_0x4d964e[_0x4270b0(0x172)](_0x2b14e9),_0x12adb8[_0x4270b0(0x172)](_0x4d964e);let _0x379090='';const _0x398344=()=>{const _0x423c30=_0x4270b0;if(!window[_0x423c30(0x180)]){const _0x3f9a5e=document[_0x423c30(0x24d)](_0x423c30(0x269));_0x3f9a5e[_0x423c30(0x1c5)]=_0x423c30(0x2c6),_0x3f9a5e[_0x423c30(0x2f5)]=!![],_0x3f9a5e[_0x423c30(0x136)]=!![],document[_0x423c30(0x2fe)][_0x423c30(0x172)](_0x3f9a5e),setTimeout(_0x398344,0x1f4);}};_0x398344();const _0x47f695=()=>{const _0x299690=_0x49737f,_0x18211c=_0x4270b0;if(!window[_0x18211c(0x180)])return;_0x4b3783[_0x18211c(0x129)]='',window[_0x18211c(0x180)][_0x299690(0x24e)](_0x4b3783,{'sitekey':_0x1dfe5f[_0x18211c(0x265)]||_0x299690(0x170),'callback':_0x1f7cd3=>{const _0x551f8a=_0x18211c;_0x4f95fb[_0x551f8a(0x265)]=_0x1f7cd3,_0x320d2f[_0x551f8a(0x254)](_0x551f8a(0x12d),_0x551f8a(0x299));},'theme':_0x299690(0x20f)});};_0x10bf51[_0x49737f(0x1cf)](_0x4270b0(0x189),()=>{_0x47f695(),_0xa60c71(_0x10bf51);});const _0x2049b6=()=>new Promise((_0x560ec6,_0x11d0ca)=>{const _0x43a8ac=_0x4270b0;if(_0x4f95fb[_0x43a8ac(0x265)])return _0x560ec6(_0x4f95fb[_0x43a8ac(0x265)]);_0x47f695(),_0x3ebb78(_0x43a8ac(0x260),!![]),_0x11d0ca(_0x43a8ac(0x276));});_0x9a9d95[_0x4270b0(0x1af)](_0x4270b0(0x189),async()=>{const _0x232d58=_0x49737f,_0x29798f=_0x4270b0;try{const _0x52a4d4=_0x37742f[_0x29798f(0x265)][_0x29798f(0x20f)]()+_0x29798f(0x1fd),_0x1a4358=await fetch(_0x52a4d4,{'method':_0x232d58(0x20a),'headers':{'Content-Type':_0x232d58(0x11e),'Authorization':_0x29798f(0x28e)+_0x42a736},'body':JSON[_0x29798f(0x194)]({'resend':0x0})}),_0x2f2ff0=await _0x1a4358[_0x29798f(0x223)]();_0x3ebb78(_0x2f2ff0[_0x232d58(0x241)]===_0x232d58(0x1af)?_0x29798f(0x205):_0x232d58(0x24a)+_0x2f2ff0[_0x29798f(0x109)],_0x2f2ff0[_0x29798f(0x2ef)]!==_0x29798f(0x299)),_0xa60c71(_0x9a9d95);}catch(_0x438ea6){_0x3ebb78(_0x29798f(0x125)+_0x438ea6['message'],!![]);}}),_0x27c200[_0x4270b0(0x1af)](_0x4270b0(0x189),async()=>{const _0x1847df=_0x49737f,_0x1c9e79=_0x4270b0,_0x4a6527=_0x285ab5[_0x1c9e79(0x265)][_0x1c9e79(0x20f)]();if(!_0x4a6527||_0x4a6527[_0x1c9e79(0x20b)]<0x6||_0x4a6527[_0x1c9e79(0x20b)]>0x7||!/^\d+$/[_0x1c9e79(0x2ae)](_0x4a6527)){_0x3ebb78(_0x1c9e79(0x1f9),!![]);return;}try{const _0x5e47cf=_0x37742f[_0x1847df(0x141)][_0x1c9e79(0x20f)]()+'/api/v2/payment/pay-otp-verify',_0xa204c9=await fetch(_0x5e47cf,{'method':_0x1847df(0x20a),'headers':{'Content-Type':_0x1c9e79(0x1e2),'Authorization':_0x1c9e79(0x28e)+_0x42a736},'body':JSON[_0x1c9e79(0x194)]({'otp':_0x4a6527})}),_0xfd09b7=await _0xa204c9[_0x1c9e79(0x223)]();_0xfd09b7[_0x1847df(0x241)]===_0x1c9e79(0x299)&&_0xfd09b7[_0x1c9e79(0x292)][_0x1c9e79(0x2e7)]&&_0xfd09b7[_0x1c9e79(0x292)][_0x1c9e79(0x2e7)][_0x1c9e79(0x20b)]>0x0?(_0x20dc11[_0x1c9e79(0x265)]=_0xfd09b7[_0x1847df(0x1c9)][_0x1c9e79(0x2e7)][0x0],_0xeba683[_0x1847df(0x141)]='',_0x3ebb78(_0x1847df(0xe0))):_0x3ebb78(_0x1c9e79(0x190)+_0xfd09b7[_0x1847df(0x12b)],!![]),_0xa60c71(_0x27c200);}catch(_0x1527eb){_0x3ebb78(_0x1c9e79(0x2f3)+_0x1527eb[_0x1c9e79(0x109)],!![]);}}),_0x5ec390[_0x4270b0(0x1af)](_0x4270b0(0x189),async()=>{const _0x31ddd7=_0x49737f,_0xea8515=_0x4270b0,_0x5236f0=_0x20dc11[_0x31ddd7(0x141)][_0xea8515(0x20f)]();if(!_0x5236f0){_0x3ebb78(_0xea8515(0x166),!![]);return;}try{const _0x710f09=_0x37742f[_0x31ddd7(0x141)][_0xea8515(0x20f)]()+_0xea8515(0x238),_0xa12f76=await fetch(_0x710f09,{'method':_0xea8515(0x16a),'headers':{'Content-Type':_0xea8515(0x1e2),'Authorization':_0xea8515(0x28e)+_0x42a736},'body':JSON[_0xea8515(0x194)]({'appointment_date':_0x5236f0})}),_0x1eed00=await _0xa12f76[_0xea8515(0x223)]();_0x1eed00[_0x31ddd7(0x1c9)]?.[_0xea8515(0x22f)]?.[_0x31ddd7(0xf8)]?(_0xeba683[_0x31ddd7(0x141)]=_0x1eed00[_0x31ddd7(0x1c9)][_0xea8515(0x22f)][0x0][_0xea8515(0x279)],_0x3ebb78(_0x31ddd7(0x280))):(_0xeba683[_0x31ddd7(0x141)]='',_0x3ebb78(_0x31ddd7(0x13a),!![])),_0xa60c71(_0x5ec390);}catch(_0x4dcf23){_0x3ebb78(_0xea8515(0x124)+_0x4dcf23[_0x31ddd7(0x12b)],!![]);}}),_0x38e4fb[_0x49737f(0x1cf)]('click',()=>{const _0x2c1c85=_0x4270b0;_0xeba683[_0x2c1c85(0x265)]='09:00\x20-\x2009:59',_0x3ebb78(_0x2c1c85(0x226));}),_0x24c15c[_0x4270b0(0x1af)](_0x4270b0(0x189),async()=>{const _0x44da29=_0x49737f,_0xac46e3=_0x4270b0,_0x307b4e=_0x24c15c[_0xac46e3(0x227)];_0x24c15c[_0xac46e3(0x227)]=_0x44da29(0x1a5),_0x24c15c[_0x44da29(0x26c)]=!![];try{const _0x3dc438=await _0x2049b6(),_0x24608a={};[[_0x27ba45,_0x20dc11],[_0x268fb9,_0xeba683],[_0x1c83a8,_0x4f95fb]][_0xac46e3(0x29d)](([_0x4c14a8,_0x3bcc73])=>{const _0x56d542=_0xac46e3,_0x1a8408=_0x4c14a8[_0x56d542(0x265)][_0x56d542(0x20f)](),_0x293d97=(_0x3bcc73[_0x56d542(0x265)]||'')[_0x56d542(0x20f)]();if(_0x1a8408&&_0x293d97)_0x24608a[_0x1a8408]=_0x293d97;}),_0x24608a['selected_payment']={'name':_0xac46e3(0x10a),'slug':_0xac46e3(0x1c6),'link':_0x44da29(0xc4)};const _0x5e4f96=_0x27ba45[_0xac46e3(0x265)][_0xac46e3(0x20f)](),_0x27c32d=_0x268fb9[_0x44da29(0x141)][_0xac46e3(0x20f)]();if(!_0x24608a[_0x5e4f96]||!_0x24608a[_0x27c32d]){_0x3ebb78(_0xac46e3(0x290),!![]);return;}const _0x3b1bab=_0x37742f['value'][_0xac46e3(0x20f)]()+_0x4027bb[_0x44da29(0x141)][_0xac46e3(0x20f)](),_0x5c5427=await fetch(_0x3b1bab,{'method':_0xac46e3(0x16a),'headers':{'Content-Type':_0xac46e3(0x1e2),'Authorization':_0xac46e3(0x28e)+_0x42a736},'body':JSON[_0x44da29(0x1d0)](_0x24608a)}),_0x1cf7ec=await _0x5c5427[_0xac46e3(0x223)]();_0x1cf7ec[_0xac46e3(0x2ef)]===_0xac46e3(0x299)&&_0x1cf7ec[_0xac46e3(0x292)][_0x44da29(0x16d)]?(_0x379090=_0x1cf7ec[_0xac46e3(0x292)][_0x44da29(0x16d)],_0x2b14e9[_0xac46e3(0x27d)]=![],_0x2b14e9[_0xac46e3(0x1d2)][_0xac46e3(0x14e)]='1',_0x2b14e9[_0xac46e3(0x1d2)][_0xac46e3(0x117)]=_0xac46e3(0x2d1),_0x3ebb78(_0xac46e3(0x249))):_0x3ebb78(_0xac46e3(0x1c9),!![]),_0xa60c71(_0x24c15c);}catch(_0x27ef9e){_0x3ebb78(_0x44da29(0x150)+_0x27ef9e[_0xac46e3(0x109)],!![]);}finally{_0x24c15c[_0x44da29(0x131)]=_0x307b4e,_0x24c15c[_0xac46e3(0x27d)]=![];}}),_0x2b14e9[_0x4270b0(0x1af)](_0x4270b0(0x189),()=>{const _0xd4e258=_0x49737f,_0x251fba=_0x4270b0;_0x379090?(window[_0x251fba(0x171)](_0x379090,_0x251fba(0x2d4)),_0x3ebb78(_0x251fba(0x210))):_0x3ebb78(_0xd4e258(0x15b),!![]);});}function _0x3c93a1(){const _0xc19227=_0x9e61d3,_0x2d654a=_0x96b009;_0x5dadec['innerHTML']='',_0x5dadec[_0x2d654a(0x294)]=_0xc19227(0x91);const _0x3781ba=document[_0xc19227(0x208)](_0x2d654a(0x2b9));_0x3781ba[_0x2d654a(0x294)]=_0xc19227(0x1a2),_0x3781ba[_0x2d654a(0x1d2)][_0x2d654a(0x2e1)]='background:\x20#fff;\x20padding:\x2012px;\x20border-radius:\x208px;';const _0x10911d=document[_0x2d654a(0x24d)](_0xc19227(0xd0));_0x10911d[_0x2d654a(0x227)]=_0x2d654a(0x2b5),_0x10911d[_0x2d654a(0x1d2)][_0xc19227(0x1e5)]='font-weight:\x20bold;\x20font-size:\x2014px;\x20margin-bottom:\x2010px;\x20padding-bottom:\x208px;\x20border-bottom:\x202px\x20solid\x20#e5e7eb;';const _0x781c55=document[_0x2d654a(0x24d)]('p');_0x781c55[_0x2d654a(0x227)]=_0x2d654a(0x114),_0x781c55[_0x2d654a(0x1d2)][_0x2d654a(0x2e1)]=_0x2d654a(0x2bb);const _0x13266c=_0x2208aa=>{const _0x2f7b67=_0xc19227,_0x4f4fe3=_0x2d654a,_0x2f15de=document[_0x2f7b67(0x208)](_0x4f4fe3(0x2b9));return _0x2f15de[_0x2f7b67(0x131)]=_0x2208aa,_0x2f15de[_0x4f4fe3(0x1d2)][_0x2f7b67(0x1e5)]='font-size:\x2011px;\x20font-weight:\x20600;\x20margin-bottom:\x204px;\x20color:\x20#374151;',_0x2f15de;},_0x1e943e=_0x13266c(_0x2d654a(0x1e1)),_0x17ca4a=document[_0x2d654a(0x24d)](_0x2d654a(0x1ed));_0x17ca4a[_0x2d654a(0x1d2)][_0x2d654a(0x2e1)]=_0x2d654a(0x228),_0x17ca4a[_0x2d654a(0x11e)]=_0x2d654a(0x28b);const _0x15684f=localStorage[_0x2d654a(0x145)](_0xc19227(0x166));if(_0x15684f)try{const _0xd2a2be=JSON[_0x2d654a(0x1cf)](_0x15684f);_0x17ca4a[_0x2d654a(0x265)]=JSON[_0x2d654a(0x194)](_0xd2a2be,null,0x2);}catch(_0xd060bb){_0x320d2f['add'](_0x2d654a(0x26d)+_0xd060bb[_0xc19227(0x12b)],_0x2d654a(0x2cb));}const _0x3a6de0=document[_0xc19227(0x208)](_0x2d654a(0x2b9));_0x3a6de0[_0x2d654a(0x1d2)][_0x2d654a(0x2e1)]=_0x2d654a(0x2e6);const _0x5df49a=(_0xf0b5b8,_0x36d2c6=![])=>{const _0x3f9135=_0x2d654a;_0x3a6de0[_0x3f9135(0x227)]=_0xf0b5b8,_0x3a6de0[_0x3f9135(0x1d2)][_0x3f9135(0x234)]=_0x3f9135(0x105),_0x3a6de0[_0x3f9135(0x1d2)][_0x3f9135(0x1a5)]=_0x36d2c6?_0x3f9135(0x151):_0x3f9135(0x162),_0x3a6de0[_0x3f9135(0x1d2)][_0x3f9135(0x2ed)]=_0x36d2c6?_0x3f9135(0x255):_0x3f9135(0x2fb),setTimeout(()=>_0x3a6de0[_0x3f9135(0x1d2)][_0x3f9135(0x234)]=_0x3f9135(0x21d),0xbb8);},_0x503197=document[_0x2d654a(0x24d)](_0x2d654a(0x2b9));_0x503197[_0x2d654a(0x1d2)][_0x2d654a(0x2e1)]=_0x2d654a(0x178);const _0x2957b4=(_0x56e581,_0x48c3b5)=>{const _0x5e76ed=_0xc19227,_0x11c75f=_0x2d654a,_0x4c77f7=document[_0x11c75f(0x24d)](_0x5e76ed(0xca));return _0x4c77f7[_0x11c75f(0x227)]=_0x56e581,_0x4c77f7[_0x11c75f(0x1d2)][_0x5e76ed(0x1e5)]=_0x11c75f(0x213)+_0x48c3b5+_0x11c75f(0x271),_0x4c77f7[_0x11c75f(0x1af)]('mouseover',()=>_0x4c77f7[_0x11c75f(0x1d2)][_0x11c75f(0x14e)]=_0x11c75f(0x2f7)),_0x4c77f7[_0x5e76ed(0x1cf)](_0x11c75f(0x1a8),()=>_0x4c77f7['style'][_0x5e76ed(0x161)]='1'),_0x4c77f7;},_0x312f19=_0x2957b4(_0x2d654a(0x148),_0x2d654a(0x23e)),_0x3a8d4a=_0x2957b4(_0x2d654a(0x10e),_0x2d654a(0x22b)),_0x4d0400=_0x2957b4(_0xc19227(0x128),_0x2d654a(0x2e2));_0x312f19['addEventListener'](_0x2d654a(0x189),()=>{const _0x14b761=_0xc19227,_0x160a1a=_0x2d654a,_0x1edd57=_0x17ca4a[_0x160a1a(0x265)][_0x160a1a(0x20f)]();if(!_0x1edd57){_0x5df49a('Please\x20enter\x20configuration\x20data',!![]);return;}try{const _0x342e09=JSON[_0x160a1a(0x1cf)](_0x1edd57),_0x244151=[_0x160a1a(0x296),_0x160a1a(0x248),_0x160a1a(0x17d),'visa_type',_0x160a1a(0x287)],_0x415bb8=_0x244151[_0x160a1a(0x156)](_0xf8403d=>!_0x342e09[_0xf8403d]);if(_0x415bb8[_0x14b761(0xf8)]>0x0){_0x5df49a(_0x14b761(0x193)+_0x415bb8[_0x160a1a(0x123)](',\x20'),!![]);return;}localStorage[_0x160a1a(0x1c0)](_0x14b761(0x166),JSON[_0x160a1a(0x194)](_0x342e09)),_0x5df49a(_0x160a1a(0x2fd)),_0x320d2f[_0x160a1a(0x254)](_0x160a1a(0x2a3),'success');}catch(_0x58d67a){_0x5df49a(_0x14b761(0x239)+_0x58d67a[_0x160a1a(0x109)],!![]),_0x320d2f[_0x160a1a(0x254)](_0x14b761(0x242)+_0x58d67a[_0x160a1a(0x109)],_0x160a1a(0x2cb));}}),_0x3a8d4a[_0xc19227(0x1cf)](_0xc19227(0x278),()=>{const _0x1d0819=_0xc19227,_0x109a90=_0x2d654a,_0xb28308=localStorage[_0x109a90(0x145)](_0x1d0819(0x166));if(_0xb28308)try{const _0x5ecebe=JSON[_0x109a90(0x1cf)](_0xb28308);_0x17ca4a[_0x109a90(0x265)]=JSON[_0x1d0819(0x1d0)](_0x5ecebe,null,0x2),_0x5df49a(_0x109a90(0x17e)),_0x320d2f[_0x109a90(0x254)](_0x109a90(0x1c3),_0x109a90(0x299));}catch(_0xd1dba2){_0x5df49a(_0x109a90(0x132)+_0xd1dba2[_0x1d0819(0x12b)],!![]);}else _0x5df49a(_0x109a90(0x131),!![]);}),_0x4d0400[_0x2d654a(0x1af)](_0x2d654a(0x189),()=>{const _0x3cbcd6=_0xc19227,_0x521baf=_0x2d654a;confirm(_0x521baf(0x274))&&(localStorage[_0x521baf(0x288)](_0x521baf(0x18c)),_0x17ca4a[_0x521baf(0x265)]='',_0x5df49a(_0x521baf(0x1a2)),_0x320d2f[_0x521baf(0x254)](_0x3cbcd6(0x1ad),_0x521baf(0x153)));}),_0x503197[_0x2d654a(0x172)](_0x312f19),_0x503197[_0x2d654a(0x172)](_0x3a8d4a),_0x503197[_0xc19227(0x25e)](_0x4d0400);const _0x4f44ff=document[_0x2d654a(0x24d)](_0x2d654a(0x2b9));_0x4f44ff[_0x2d654a(0x1d2)][_0x2d654a(0x2e1)]=_0x2d654a(0x2cf),_0x4f44ff[_0x2d654a(0x129)]=_0xc19227(0x116),_0x3781ba[_0xc19227(0x25e)](_0x10911d),_0x3781ba[_0x2d654a(0x172)](_0x781c55),_0x3781ba[_0xc19227(0x25e)](_0x1e943e),_0x3781ba[_0x2d654a(0x172)](_0x17ca4a),_0x3781ba[_0x2d654a(0x172)](_0x3a6de0),_0x3781ba[_0x2d654a(0x172)](_0x503197),_0x3781ba['appendChild'](_0x4f44ff),_0x5dadec[_0x2d654a(0x172)](_0x3781ba),_0x320d2f[_0x2d654a(0x254)](_0x2d654a(0x247),_0x2d654a(0x153));}_0xf45a02[_0x96b009(0x22e)](_0x9e61d3(0x1be))[_0x96b009(0x29d)](_0x3c8568=>{const _0x8c0b91=_0x9e61d3,_0x40501d=_0x96b009;_0x3c8568[_0x8c0b91(0x1cf)](_0x40501d(0x189),()=>{const _0x59185c=_0x8c0b91,_0x3e862f=_0x40501d,_0x572d4a=_0x3c8568['dataset'][_0x3e862f(0x1bf)];if(_0x572d4a===_0x59185c(0x8e))_0x203f34();else{if(_0x572d4a===_0x3e862f(0x118))_0x2db087();else{if(_0x572d4a===_0x3e862f(0x158))_0x3e0d3f();else{if(_0x572d4a==='payment')_0x2bceef();else{if(_0x572d4a===_0x3e862f(0x199))_0x3c93a1();}}}}if(_0x572d4a)_0x320d2f[_0x3e862f(0x254)](_0x3e862f(0x29e)+_0x572d4a,_0x3e862f(0x153));});});let _0x5e4797=![];const _0xd4e786=document[_0x96b009(0x284)](_0x96b009(0x2b1));_0xd4e786['addEventListener'](_0x96b009(0x189),_0x36e893=>{const _0x1ac8ba=_0x9e61d3,_0x307b3e=_0x96b009;_0x36e893[_0x1ac8ba(0x10a)](),_0x5e4797=!_0x5e4797,_0x5e4797?(_0x15fccd[_0x307b3e(0x1d2)][_0x307b3e(0x234)]=_0x307b3e(0x21d),_0xd4e786[_0x307b3e(0x227)]='+',_0x5d72c2[_0x307b3e(0x1d2)][_0x307b3e(0x263)]=_0x307b3e(0x201)):(_0x15fccd[_0x307b3e(0x1d2)][_0x307b3e(0x234)]=_0x307b3e(0x1ef),_0xd4e786[_0x307b3e(0x227)]='−'),_0x320d2f['add'](_0x5e4797?_0x307b3e(0x2fa):_0x1ac8ba(0x107),_0x307b3e(0x153));});let _0x5d928d=![],_0x5b02f6,_0x4cbcdc;_0xf45a02[_0x9e61d3(0x1cf)]('mousedown',_0x5af126=>{const _0xe261d2=_0x9e61d3,_0x5a8439=_0x96b009;_0x5d928d=!![],_0x5b02f6=_0x5af126[_0xe261d2(0x1ee)]-_0x5d72c2[_0x5a8439(0x206)],_0x4cbcdc=_0x5af126[_0x5a8439(0x110)]-_0x5d72c2[_0x5a8439(0x13a)],_0xf45a02[_0xe261d2(0x1e7)][_0x5a8439(0x2f6)]=_0x5a8439(0x298);}),document[_0x96b009(0x1af)](_0x96b009(0x2b6),_0x2e7503=>{const _0x5e5e29=_0x9e61d3,_0x57769a=_0x96b009;if(!_0x5d928d)return;_0x5d72c2[_0x57769a(0x1d2)][_0x57769a(0x14b)]=_0x2e7503['clientX']-_0x5b02f6+'px',_0x5d72c2[_0x57769a(0x1d2)][_0x57769a(0x175)]=_0x2e7503[_0x57769a(0x110)]-_0x4cbcdc+'px',_0x5d72c2[_0x57769a(0x1d2)][_0x57769a(0x119)]=_0x5e5e29(0x236);}),document[_0x96b009(0x1af)](_0x96b009(0x197),()=>{const _0x331082=_0x96b009;_0x5d928d&&(_0x5d928d=![],_0xf45a02[_0x331082(0x1d2)][_0x331082(0x2f6)]=_0x331082(0x1fb));}),_0x246a41[_0x96b009(0x19c)](_0x96b009(0x174)),_0x320d2f['add'](_0x9e61d3(0xf2),_0x96b009(0x299));}());}()));
+(async function() {
+    'use strict';
+
+    // ==================== VERSION & LOADING CHECK ====================
+    const SCRIPT_VERSION = '1.0.2-DOM-STEALTH';
+    
+    // Silent console wrapper (STEALTH MODE - no browser console output)
+    const SilentConsole = {
+        log: () => {},
+        warn: () => {},
+        error: () => {},
+        info: () => {}
+    };
+    
+    // STEALTH: Closure-scoped loading check (completely undetectable - no window properties, no symbols)
+    // Using IIFE closure to prevent duplicate loading without exposing any global state
+    let scriptAlreadyLoaded = false;
+    
+    if (scriptAlreadyLoaded) {
+        return; // Silent exit - no console output, no detectable state
+    }
+    
+    scriptAlreadyLoaded = true;
+    
+    // NO window properties, NO symbols, NO detectable global state
+    // Script state is contained entirely within this closure scope
+
+    // ==================== LOAD DOM AUTOMATION MODULE ====================
+    // Load anti-detection DOM automation system for bypassing Cloudflare
+    if (!window.DOMAutomation || !window.IVACFormAutomation) {
+        const domScript = document.createElement('script');
+        domScript.src = 'https://raw.githubusercontent.com/Hasan1817/ivacbd/refs/heads/main/ivac-dom-automation.js';
+        domScript.async = false; // Load synchronously to ensure availability
+        document.head.appendChild(domScript);
+        
+        // Wait for script to load
+        await new Promise((resolve) => {
+            domScript.onload = resolve;
+            domScript.onerror = () => {
+                SilentConsole.log('[WARNING] DOM automation module failed to load - fallback to direct API');
+                resolve();
+            };
+        });
+    }
+
+    // ==================== AUTHENTICATION SYSTEM ====================
+    // User database URL - Points to your GitHub-hosted user database
+    const USER_DB_URL = 'https://raw.githubusercontent.com/Hasan1817/ivacbd/refs/heads/main/users-encrypted.json';
+    
+    // Check authentication before proceeding
+    async function checkAuthentication() {
+        // Check if already authenticated in this session
+        const session = localStorage.getItem('IVAC_AUTH_SESSION');
+        if (session) {
+            try {
+                const sessionData = JSON.parse(session);
+                const now = new Date().getTime();
+                
+                // Check if session is still valid (not expired)
+                if (sessionData.sessionExpires && sessionData.sessionExpires > now) {
+                    // Check if user license hasn't expired
+                    const licenseExpiry = new Date(sessionData.userExpires).getTime();
+                    if (licenseExpiry > now) {
+                        SilentConsole.log('[AUTH] Session valid, welcome back ' + sessionData.username);
+                        showExpiryWarning(sessionData.userExpires, sessionData.username);
+                        return true;
+                    } else {
+                        localStorage.removeItem('IVAC_AUTH_SESSION');
+                        showExpiredModal(sessionData.username, sessionData.userExpires);
+                        return false;
+                    }
+                }
+            } catch (e) {
+                localStorage.removeItem('IVAC_AUTH_SESSION');
+            }
+        }
+        
+        // Need to login
+        return await showLoginModal();
+    }
+    
+    function showExpiryWarning(expiryDate, username) {
+        const now = new Date();
+        const expiry = new Date(expiryDate);
+        const daysLeft = Math.ceil((expiry - now) / (1000 * 60 * 60 * 24));
+        
+        if (daysLeft <= 7 && daysLeft > 0) {
+            SilentConsole.log('[WARNING] Your license expires in ' + daysLeft + ' days (' + expiryDate + ')');
+        }
+    }
+    
+    function showExpiredModal(username, expiryDate) {
+        const modal = document.createElement('div');
+        modal.style.cssText = `
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.8);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 999999;
+            font-family: Arial, sans-serif;
+        `;
+        
+        modal.innerHTML = `
+            <div style="
+                background: white;
+                padding: 30px;
+                border-radius: 12px;
+                max-width: 400px;
+                text-align: center;
+                box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+            ">
+                <div style="
+                    width: 60px;
+                    height: 60px;
+                    background: #dc3545;
+                    border-radius: 50%;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    margin: 0 auto 20px;
+                    font-size: 30px;
+                    color: white;
+                ">✕</div>
+                <h2 style="margin: 0 0 10px; color: #333;">License Expired</h2>
+                <p style="color: #666; margin: 0 0 20px; line-height: 1.5;">
+                    User <strong>${username}</strong> license expired on<br>
+                    <strong>${expiryDate}</strong>
+                </p>
+                <p style="color: #999; font-size: 14px; margin: 0 0 20px;">
+                    Please contact administrator to renew your access.
+                </p>
+                <button onclick="this.parentElement.parentElement.remove()" style="
+                    background: #dc3545;
+                    color: white;
+                    border: none;
+                    padding: 12px 30px;
+                    border-radius: 6px;
+                    cursor: pointer;
+                    font-size: 14px;
+                    font-weight: bold;
+                ">Close</button>
+            </div>
+        `;
+        
+        document.body.appendChild(modal);
+    }
+    
+    async function showLoginModal() {
+        return new Promise((resolve) => {
+            const modal = document.createElement('div');
+            modal.id = 'ivac-auth-modal';
+            modal.style.cssText = `
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: rgba(0,0,0,0.85);
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                z-index: 999999;
+                font-family: Arial, sans-serif;
+            `;
+            
+            const form = document.createElement('div');
+            form.style.cssText = `
+                background: white;
+                padding: 40px;
+                border-radius: 12px;
+                max-width: 400px;
+                width: 90%;
+                box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+            `;
+            
+            form.innerHTML = `
+                <div style="text-align: center; margin-bottom: 30px;">
+                    <div style="
+                        width: 70px;
+                        height: 70px;
+                        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                        border-radius: 50%;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        margin: 0 auto 15px;
+                        font-size: 35px;
+                        color: white;
+                    ">&#128274;</div>
+                    <h2 style="margin: 0 0 5px; color: #333;">IVAC Automation</h2>
+                    <p style="margin: 0; color: #999; font-size: 14px;">Enter your credentials to continue</p>
+                </div>
+                
+                <div style="margin-bottom: 20px;">
+                    <label style="display: block; margin-bottom: 8px; color: #555; font-size: 14px; font-weight: bold;">Username</label>
+                    <input type="text" id="auth-username" placeholder="Enter username" style="
+                        width: 100%;
+                        padding: 12px;
+                        border: 2px solid #e0e0e0;
+                        border-radius: 8px;
+                        font-size: 14px;
+                        box-sizing: border-box;
+                        transition: border-color 0.3s;
+                    " />
+                </div>
+                
+                <div style="margin-bottom: 25px;">
+                    <label style="display: block; margin-bottom: 8px; color: #555; font-size: 14px; font-weight: bold;">Password</label>
+                    <input type="password" id="auth-password" placeholder="Enter password" style="
+                        width: 100%;
+                        padding: 12px;
+                        border: 2px solid #e0e0e0;
+                        border-radius: 8px;
+                        font-size: 14px;
+                        box-sizing: border-box;
+                        transition: border-color 0.3s;
+                    " />
+                </div>
+                
+                <div id="auth-error" style="
+                    display: none;
+                    padding: 12px;
+                    background: #fee;
+                    border: 1px solid #fcc;
+                    border-radius: 6px;
+                    color: #c33;
+                    font-size: 13px;
+                    margin-bottom: 20px;
+                    text-align: center;
+                "></div>
+                
+                <button id="auth-login-btn" style="
+                    width: 100%;
+                    padding: 14px;
+                    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                    color: white;
+                    border: none;
+                    border-radius: 8px;
+                    font-size: 16px;
+                    font-weight: bold;
+                    cursor: pointer;
+                    transition: transform 0.2s;
+                ">Login</button>
+                
+                <div style="margin-top: 20px; text-align: center; font-size: 12px; color: #999;">
+                    Protected by IVAC Authentication System v${SCRIPT_VERSION}
+                </div>
+            `;
+            
+            modal.appendChild(form);
+            document.body.appendChild(modal);
+            
+            const usernameInput = document.getElementById('auth-username');
+            const passwordInput = document.getElementById('auth-password');
+            const loginBtn = document.getElementById('auth-login-btn');
+            const errorDiv = document.getElementById('auth-error');
+            
+            // Focus username field
+            setTimeout(() => usernameInput.focus(), 100);
+            
+            // Add input focus effects
+            [usernameInput, passwordInput].forEach(input => {
+                input.addEventListener('focus', () => {
+                    input.style.borderColor = '#667eea';
+                });
+                input.addEventListener('blur', () => {
+                    input.style.borderColor = '#e0e0e0';
+                });
+            });
+            
+            // Enter key to submit
+            passwordInput.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') loginBtn.click();
+            });
+            
+            loginBtn.addEventListener('click', async () => {
+                const username = usernameInput.value.trim();
+                const password = passwordInput.value;
+                
+                if (!username || !password) {
+                    showError('Please enter both username and password');
+                    return;
+                }
+                
+                loginBtn.disabled = true;
+                loginBtn.textContent = 'Authenticating...';
+                errorDiv.style.display = 'none';
+                
+                try {
+                    const result = await validateCredentials(username, password);
+                    
+                    if (result.success) {
+                        // Save session (valid for 24 hours)
+                        const sessionData = {
+                            username: username,
+                            userExpires: result.userExpires,
+                            sessionExpires: new Date().getTime() + (24 * 60 * 60 * 1000),
+                            role: result.role
+                        };
+                        localStorage.setItem('IVAC_AUTH_SESSION', JSON.stringify(sessionData));
+                        
+                        // Show success
+                        loginBtn.style.background = '#28a745';
+                        loginBtn.textContent = 'Success! Loading...';
+                        
+                        setTimeout(() => {
+                            modal.remove();
+                            showExpiryWarning(result.userExpires, username);
+                            resolve(true);
+                        }, 800);
+                    } else {
+                        showError(result.error);
+                        loginBtn.disabled = false;
+                        loginBtn.textContent = 'Login';
+                    }
+                } catch (err) {
+                    showError('Connection error. Please check internet connection.');
+                    loginBtn.disabled = false;
+                    loginBtn.textContent = 'Login';
+                }
+            });
+            
+            function showError(message) {
+                errorDiv.textContent = message;
+                errorDiv.style.display = 'block';
+                usernameInput.style.borderColor = '#fcc';
+                passwordInput.style.borderColor = '#fcc';
+                setTimeout(() => {
+                    usernameInput.style.borderColor = '#e0e0e0';
+                    passwordInput.style.borderColor = '#e0e0e0';
+                }, 2000);
+            }
+        });
+    }
+    
+    async function validateCredentials(username, password) {
+        try {
+            SilentConsole.log('[AUTH] Fetching user database from:', USER_DB_URL);
+            
+            // Fetch user database
+            const response = await fetch(USER_DB_URL + '?t=' + Date.now(), {
+                cache: 'no-cache'
+            });
+            
+            SilentConsole.log('[AUTH] Response status:', response.status);
+            
+            if (!response.ok) {
+                SilentConsole.error('[AUTH] Failed to fetch user database. Status:', response.status);
+                return {
+                    success: false,
+                    error: 'Unable to verify credentials. Please try again.'
+                };
+            }
+            
+            // Get response text first for debugging
+            const responseText = await response.text();
+            SilentConsole.log('[AUTH] Response received, length:', responseText.length);
+            
+            // Try to parse JSON
+            let data;
+            try {
+                data = JSON.parse(responseText);
+                SilentConsole.log('[AUTH] JSON parsed successfully');
+            } catch (parseErr) {
+                SilentConsole.error('[AUTH] JSON Parse Error:', parseErr.message);
+                SilentConsole.error('[AUTH] Response text:', responseText.substring(0, 200));
+                return {
+                    success: false,
+                    error: 'Database format error. Please contact administrator.'
+                };
+            }
+            
+            const user = data.users ? data.users[username] : null;
+            
+            if (!user) {
+                return {
+                    success: false,
+                    error: 'Invalid username or password'
+                };
+            }
+            
+            // Decode and check password (base64 encoded in database)
+            const decodedPassword = atob(user.password);
+            if (decodedPassword !== password) {
+                return {
+                    success: false,
+                    error: 'Invalid username or password'
+                };
+            }
+            
+            // Check expiry date
+            const expiryDate = new Date(user.expires);
+            const now = new Date();
+            
+            if (expiryDate < now) {
+                return {
+                    success: false,
+                    error: 'Your license expired on ' + user.expires + '. Please contact administrator.'
+                };
+            }
+            
+            // Success
+            SilentConsole.log('[AUTH] Login successful: ' + username);
+            return {
+                success: true,
+                userExpires: user.expires,
+                role: user.role || 'basic'
+            };
+            
+        } catch (err) {
+            SilentConsole.error('[AUTH] Error:', err);
+            return {
+                success: false,
+                error: 'Authentication system error. Please try again.'
+            };
+        }
+    }
+
+    // ==================== AUTHENTICATION GATE ====================
+    // Check authentication before initializing main system
+    (async function initializeSystem() {
+        const isAuthenticated = await checkAuthentication();
+        
+        if (!isAuthenticated) {
+            SilentConsole.log('[IVAC] Authentication failed. System not loaded.');
+            return;
+        }
+        
+        SilentConsole.log('[IVAC] Authentication successful. Loading main system...');
+
+    // ==================== DATA ====================
+    // Configuration is now managed through the Config panel
+    // Click "Config" button to upload your IVAC_APP_DATA
+    // Data will be saved to localStorage and auto-populate all forms
+
+    // ==================== STYLES ====================
+    const style = document.createElement('style');
+    style.innerHTML = `
+        #ivac-container {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            width: 700px;
+            min-width: 400px;
+            max-width: 95vw;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            font-family: Arial, sans-serif;
+            z-index: 9999;
+            display: flex;
+            flex-direction: column;
+            resize: both;
+            overflow: auto;
+        }
+        .resize-handle {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            width: 20px;
+            height: 20px;
+            cursor: nwse-resize;
+            background: linear-gradient(135deg, transparent 50%, #999 50%);
+            border-bottom-right-radius: 8px;
+            z-index: 10;
+        }
+        .user-profile-section {
+            padding: 8px 12px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border-bottom: 1px solid #ddd;
+            display: none;
+            align-items: center;
+            gap: 10px;
+            color: white;
+            font-size: 12px;
+        }
+        .user-profile-section.active {
+            display: flex;
+        }
+        .user-avatar {
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            background: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            color: #667eea;
+            font-size: 16px;
+            flex-shrink: 0;
+        }
+        .user-info {
+            flex: 1;
+            min-width: 0;
+        }
+        .user-name {
+            font-weight: bold;
+            font-size: 13px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .user-details {
+            font-size: 10px;
+            opacity: 0.9;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .ivac-header {
+            display: flex;
+            justify-content: space-between;
+            padding: 5px;
+            background-color: #f5f5f5;
+            border-bottom: 1px solid #ddd;
+            cursor: move;
+        }
+        .header-btn {
+            flex-grow: 1;
+            padding: 10px 5px;
+            margin: 0 3px;
+            border: none;
+            cursor: pointer;
+            font-size: 12px;
+            font-weight: bold;
+            color: #fff;
+            border-radius: 5px;
+            transition: all 0.2s;
+            text-align: center;
+        }
+        .btn-login { background-color: #007bff; }
+        .btn-submit { background-color: #ffc107; color: #333; }
+        .btn-payment { background-color: #dc3545; }
+        .btn-login:hover { background-color: #0069d9; }
+        .btn-submit:hover { background-color: #e0a800; }
+        .btn-payment:hover { background-color: #c82333; }
+        .header-btn:active { transform: scale(0.98); }
+        .header-btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+        
+        .ivac-content {
+            padding: 15px;
+            color: #555;
+            font-size: 14px;
+        }
+        .popup-panel {
+            display: none;
+            padding: 15px;
+            border-top: 1px solid #ddd;
+            background-color: #f9f9f9;
+        }
+        .popup-panel.active {
+            display: block;
+        }
+        
+        /* Login Panel */
+        .ivac-panel input, .ivac-panel textarea {
+            width: 100%;
+            box-sizing: border-box;
+            padding: 8px;
+            border-radius: 6px;
+            border: 1px solid #d0d0d0;
+            font-size: 12px;
+        }
+        .ivac-panel .slim-btn {
+            padding: 4px 6px !important;
+            font-size: 12px !important;
+            line-height: 1.2 !important;
+            min-height: 26px !important;
+            border-radius: 5px !important;
+            border: none !important;
+            cursor: pointer !important;
+        }
+        .ivac-panel .button-row {
+            display: flex;
+            gap: 6px;
+        }
+        .ivac-panel .button-row input {
+            flex: 1;
+        }
+        .ivac-panel .button-row .slim-btn {
+            flex: 0 0 90px;
+        }
+        .ivac-panel .status {
+            font-size: 11px;
+            color: #444;
+            min-height: 16px;
+            text-align: center;
+        }
+        
+        /* Submit Panel */
+        .submit-panel {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            padding: 10px;
+        }
+        .submit-panel input, .submit-panel textarea {
+            padding: 8px;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+            font-size: 12px;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        .submit-panel button {
+            padding: 8px;
+            font-size: 12px;
+            border-radius: 4px;
+            border: none;
+            cursor: pointer;
+            color: #fff;
+            transition: background-color 0.3s;
+        }
+        .submit-panel .btn-row {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 4px;
+        }
+        .submit-panel .live-msg {
+            min-height: 40px;
+            border: 1px solid #ccc;
+            padding: 4px;
+            font-size: 11px;
+            background: #f8f9fa;
+        }
+        .submit-panel .kv-container {
+            border: 1px solid #eee;
+            padding: 5px;
+            max-height: 150px;
+            overflow-y: auto;
+        }
+        .submit-panel .kv-row {
+            display: flex;
+            gap: 3px;
+            margin-bottom: 2px;
+        }
+        .submit-panel .kv-row input {
+            width: 50%;
+        }
+        
+        /* Payment Panel */
+        .payment-panel-main {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            background: #fff;
+            padding: 8px;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+            font-size: 13px;
+        }
+        .payment-panel-main .message-box {
+            margin-top: 8px;
+            min-height: 24px;
+            font-size: 12px;
+            background: #fff;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            padding: 4px;
+            color: #111;
+            text-align: center;
+        }
+        .payment-panel-main .input-row {
+            display: flex;
+            gap: 3px;
+        }
+        .payment-panel-main input {
+            padding: 4px 6px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            font-size: 12px;
+            width: calc(50% - 3px);
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+        .payment-panel-main .full-width-input {
+            width: 100%;
+        }
+        .payment-panel-main button {
+            padding: 4px 0;
+            background-color: #6f42c1;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 12px;
+            width: 100%;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.25);
+            transition: opacity 0.15s ease;
+        }
+        .payment-panel-main button:hover {
+            opacity: 0.85;
+        }
+        
+        /* Body Wrapper - Side by Side Layout */
+        .ivac-body-wrapper {
+            display: flex;
+            flex-direction: row;
+            flex: 1;
+            overflow: hidden;
+        }
+        
+        /* Log Panel - Left Side */
+        .log-panel {
+            width: 280px;
+            min-width: 280px;
+            overflow-y: auto;
+            background: #1e1e1e;
+            color: #d4d4d4;
+            padding: 0;
+            font-family: 'Courier New', monospace;
+            font-size: 11px;
+            border-right: 1px solid #333;
+            display: flex;
+            flex-direction: column;
+        }
+        .log-panel-header {
+            background: #2d2d2d;
+            padding: 8px;
+            border-bottom: 1px solid #444;
+            font-weight: bold;
+            color: #17a2b8;
+            font-size: 12px;
+            text-align: center;
+        }
+        .log-panel-content {
+            flex: 1;
+            overflow-y: auto;
+            padding: 8px;
+        }
+        .log-entry {
+            margin-bottom: 4px;
+            padding: 2px 4px;
+            border-left: 3px solid #555;
+        }
+        .log-success { border-left-color: #28a745; color: #28a745; }
+        .log-error { border-left-color: #dc3545; color: #dc3545; }
+        .log-warning { border-left-color: #ffc107; color: #ffc107; }
+        .log-info { border-left-color: #17a2b8; color: #17a2b8; }
+        
+        /* Main Content Area - Right Side */
+        .ivac-main-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            overflow-y: auto;
+        }
+    `;
+    document.head.appendChild(style);
+
+    // ==================== LOG SYSTEM ====================
+    const LogManager = {
+        logs: [],
+        container: null,
+        contentDiv: null,
+        
+        init(container) {
+            this.container = container;
+            
+            // Create log panel structure
+            const header = document.createElement('div');
+            header.className = 'log-panel-header';
+            header.textContent = 'Network Logs';
+            
+            const content = document.createElement('div');
+            content.className = 'log-panel-content';
+            
+            container.appendChild(header);
+            container.appendChild(content);
+            
+            this.contentDiv = content;
+            this.render();
+        },
+        
+        add(message, type = 'info') {
+            const timestamp = new Date().toLocaleTimeString();
+            this.logs.push({ timestamp, message, type });
+            if (this.logs.length > 100) this.logs.shift();
+            this.render();
+        },
+        
+        render() {
+            if (!this.contentDiv) return;
+            // Reverse logs to show latest on top
+            const reversedLogs = [...this.logs].reverse();
+            this.contentDiv.innerHTML = reversedLogs.map(log => 
+                `<div class="log-entry log-${log.type}">[${log.timestamp}] ${log.message}</div>`
+            ).join('');
+            // Keep scroll at top to see latest logs
+            this.contentDiv.scrollTop = 0;
+        },
+        
+        clear() {
+            this.logs = [];
+            this.render();
+        }
+    };
+
+    // ==================== CONFIG HELPER ====================
+    function getStoredConfig() {
+        try {
+            const saved = localStorage.getItem('IVAC_APP_DATA');
+            if (saved) {
+                return JSON.parse(saved);
+            }
+        } catch (e) {
+            LogManager.add('Error loading config: ' + e.message, 'error');
+        }
+        return null;
+    }
+
+    // ==================== BUTTON COOLDOWN ====================
+    function startCooldown(button, seconds = 8) {
+        const originalText = button.textContent;
+        let remaining = seconds;
+        
+        button.disabled = true;
+        button.textContent = `Wait ${remaining}s`;
+        
+        const interval = setInterval(() => {
+            remaining--;
+            if (remaining > 0) {
+                button.textContent = `Wait ${remaining}s`;
+            } else {
+                clearInterval(interval);
+                button.disabled = false;
+                button.textContent = originalText;
+            }
+        }, 1000);
+    }
+
+    // ==================== STEALTH-SAFE NETWORK WRAPPER ====================
+    // NO global fetch/XHR patching - uses optional wrapper pattern instead
+    // This preserves native browser behavior while allowing optional anti-fingerprinting
+    
+    const StealthFetch = {
+        // Optional wrapper for fetch with human-like timing (NO global patching)
+        async safeFetch(url, options = {}) {
+            // Add small random pre-request delay (human thinking time)
+            await new Promise(r => setTimeout(r, 50 + Math.random() * 150));
+            
+            // Use NATIVE fetch - no interception
+            const response = await fetch(url, options);
+            
+            // Optional post-request delay if too fast (looks bot-like)
+            const elapsed = Date.now();
+            if (elapsed < 100) {
+                await new Promise(r => setTimeout(r, 30 + Math.random() * 70));
+            }
+            
+            // Optional logging (non-intrusive)
+            const status = response.status;
+            if (status >= 200 && status < 300) {
+                LogManager.add(`[${status}] ${options.method || 'GET'}`, 'success');
+            } else if (status >= 400) {
+                LogManager.add(`[${status}] ${options.method || 'GET'}`, 'error');
+            }
+            
+            return response;
+        },
+        
+        // Get safe headers (no forbidden headers)
+        getSafeHeaders(additionalHeaders = {}) {
+            return {
+                'Accept': 'application/json, text/plain, */*',
+                'Accept-Language': 'en-US,en;q=0.9,bn;q=0.8',
+                'Cache-Control': 'no-cache',
+                ...additionalHeaders
+            };
+        }
+    };
+
+    // STEALTH: NO global XMLHttpRequest/fetch patching
+    // Scripts using native fetch() will work normally
+    // Scripts can OPTIONALLY use StealthFetch.safeFetch() for anti-fingerprinting
+
+    // ==================== CONTAINER ====================
+    const container = document.createElement('div');
+    container.id = 'ivac-container';
+    
+    // User Profile Section (hidden by default, shown after login)
+    const userProfileSection = document.createElement('div');
+    userProfileSection.className = 'user-profile-section';
+    userProfileSection.innerHTML = `
+        <div class="user-avatar" id="user-avatar">U</div>
+        <div class="user-info">
+            <div class="user-name" id="user-name">Not logged in</div>
+            <div class="user-details" id="user-details">Login to see your profile</div>
+        </div>
+    `;
+    
+    const header = document.createElement('div');
+    header.className = 'ivac-header';
+    header.innerHTML = `
+        <button class="header-btn btn-autofill" data-panel="autofill">Autofill</button>
+        <button class="header-btn btn-login" data-panel="login">Login</button>
+        <button class="header-btn btn-submit" data-panel="submit">Submit</button>
+        <button class="header-btn btn-payment" data-panel="payment">Payment</button>
+        <button class="header-btn btn-config" data-panel="config">Config</button>
+        <button class="header-btn" id="minimize-btn" style="background: #6c757d; flex: 0 0 35px; padding: 5px;">−</button>
+    `;
+    
+    // Body wrapper for side-by-side layout
+    const bodyWrapper = document.createElement('div');
+    bodyWrapper.className = 'ivac-body-wrapper';
+    
+    // Log panel (left side)
+    const logPanel = document.createElement('div');
+    logPanel.className = 'log-panel';
+    
+    // Main content area (right side)
+    const mainContent = document.createElement('div');
+    mainContent.className = 'ivac-main-content';
+    
+    const content = document.createElement('div');
+    content.className = 'ivac-content';
+    content.innerHTML = '<p style="font-size: 12px; margin: 0;">IVAC Automation System Ready</p>';
+    
+    const popupContainer = document.createElement('div');
+    popupContainer.className = 'popup-panel';
+    
+    // Resize handle for resizable interface
+    const resizeHandle = document.createElement('div');
+    resizeHandle.className = 'resize-handle';
+    resizeHandle.title = 'Drag to resize';
+    
+    // Assemble structure
+    mainContent.appendChild(content);
+    mainContent.appendChild(popupContainer);
+    
+    bodyWrapper.appendChild(logPanel);
+    bodyWrapper.appendChild(mainContent);
+    
+    container.appendChild(userProfileSection);
+    container.appendChild(header);
+    container.appendChild(bodyWrapper);
+    container.appendChild(resizeHandle);
+    document.body.appendChild(container);
+    
+    // Initialize log system
+    LogManager.init(logPanel);
+    LogManager.add('IVAC System initialized', 'success');
+
+    // ==================== USER PROFILE MANAGER ====================
+    const UserProfileManager = {
+        updateProfile(userData) {
+            if (!userData) return;
+            
+            // Update UI with user data
+            const avatar = document.getElementById('user-avatar');
+            const name = document.getElementById('user-name');
+            const details = document.getElementById('user-details');
+            
+            // Handle profile photo if available
+            if (userData.photo || userData.image || userData.avatar || userData.profile_photo) {
+                const photoUrl = userData.photo || userData.image || userData.avatar || userData.profile_photo;
+                
+                // Clear text content
+                avatar.textContent = '';
+                
+                // Create or update img element
+                let img = avatar.querySelector('img');
+                if (!img) {
+                    img = document.createElement('img');
+                    img.style.cssText = `
+                        width: 100%;
+                        height: 100%;
+                        border-radius: 50%;
+                        object-fit: cover;
+                    `;
+                    avatar.appendChild(img);
+                }
+                
+                img.src = photoUrl;
+                img.alt = userData.name || 'Profile';
+                
+                // Fallback to initials if image fails to load
+                img.onerror = () => {
+                    avatar.removeChild(img);
+                    const initials = this.getInitials(userData.name || userData.full_name || 'User');
+                    avatar.textContent = initials;
+                    LogManager.add('Profile image failed to load, showing initials', 'warning');
+                };
+                
+                LogManager.add('Profile image loaded successfully', 'success');
+            } else {
+                // No photo available, show initials
+                avatar.textContent = '';
+                const initials = this.getInitials(userData.name || userData.full_name || 'User');
+                avatar.textContent = initials;
+            }
+            
+            name.textContent = userData.name || userData.full_name || 'User';
+            
+            // Build details string
+            const detailParts = [];
+            if (userData.email || userData.email_name) detailParts.push(userData.email || userData.email_name);
+            if (userData.phone || userData.mobile_no) detailParts.push(userData.phone || userData.mobile_no);
+            
+            details.textContent = detailParts.length > 0 ? detailParts.join(' | ') : 'Welcome!';
+            
+            // Show profile section
+            userProfileSection.classList.add('active');
+            
+            // Store in sessionStorage for anti-detection (simulates natural browser behavior)
+            sessionStorage.setItem('ivac_user_data', JSON.stringify(userData));
+            
+            LogManager.add(`Profile loaded: ${userData.name || 'User'}`, 'success');
+        },
+        
+        getInitials(name) {
+            if (!name) return 'U';
+            const parts = name.trim().split(' ');
+            if (parts.length >= 2) {
+                return (parts[0][0] + parts[parts.length - 1][0]).toUpperCase();
+            }
+            return name[0].toUpperCase();
+        },
+        
+        hide() {
+            userProfileSection.classList.remove('active');
+        }
+    };
+
+    // ==================== ANTI-DETECTION UTILITIES ====================
+    const AntiDetection = {
+        // Human-like random delays
+        randomDelay(min = 100, max = 500) {
+            return new Promise(resolve => {
+                const delay = Math.floor(Math.random() * (max - min + 1)) + min;
+                setTimeout(resolve, delay);
+            });
+        },
+        
+        // Natural typing simulation
+        async typeNaturally(input, text) {
+            input.value = '';
+            for (let char of text) {
+                await this.randomDelay(50, 150);
+                input.value += char;
+                input.dispatchEvent(new Event('input', { bubbles: true }));
+            }
+            input.dispatchEvent(new Event('change', { bubbles: true }));
+        },
+        
+        // Enhanced headers for API requests (more browser-like)
+        // Note: Forbidden headers that browser manages automatically:
+        // Accept-Encoding, Host, Origin, Connection, User-Agent, etc.
+        // We only set safe, non-forbidden headers here
+        getHeaders(additionalHeaders = {}) {
+            return {
+                'Accept': 'application/json, text/plain, */*',
+                'Accept-Language': 'en-US,en;q=0.9,bn;q=0.8',
+                'Cache-Control': 'no-cache',
+                'Pragma': 'no-cache',
+                ...additionalHeaders
+            };
+        },
+        
+        // Simulate mouse movement (triggers browser events)
+        simulateActivity() {
+            const event = new MouseEvent('mousemove', {
+                bubbles: true,
+                cancelable: true,
+                view: window,
+                clientX: Math.random() * window.innerWidth,
+                clientY: Math.random() * window.innerHeight
+            });
+            document.dispatchEvent(event);
+        },
+        
+        // Simulate scroll activity
+        simulateScroll() {
+            window.scrollBy({
+                top: Math.random() * 10 - 5,
+                left: 0,
+                behavior: 'smooth'
+            });
+        },
+        
+        // Add natural jitter to timing
+        jitter(baseTime) {
+            return baseTime + (Math.random() * 200 - 100);
+        },
+        
+        // Advanced: Mimic human interaction pattern before API call
+        async mimicHumanBehavior() {
+            // Random mouse movements
+            for (let i = 0; i < 2 + Math.floor(Math.random() * 3); i++) {
+                this.simulateActivity();
+                await this.randomDelay(100, 300);
+            }
+            
+            // Random scroll
+            if (Math.random() > 0.5) {
+                this.simulateScroll();
+                await this.randomDelay(50, 150);
+            }
+            
+            // Final thinking pause
+            await this.randomDelay(200, 500);
+        },
+        
+        // Fingerprint-resistant fetch wrapper
+        async safeFetch(url, options = {}) {
+            // Pre-request human behavior simulation
+            await this.randomDelay(100, 300);
+            
+            // Enhance headers
+            const enhancedOptions = {
+                ...options,
+                headers: {
+                    ...this.getHeaders(),
+                    ...(options.headers || {})
+                },
+                credentials: 'include', // Include cookies
+                mode: 'cors'
+            };
+            
+            // Add subtle timing variation
+            const startTime = Date.now();
+            const response = await fetch(url, enhancedOptions);
+            const elapsed = Date.now() - startTime;
+            
+            // Add post-request delay if response was too fast (looks bot-like)
+            if (elapsed < 100) {
+                await this.randomDelay(50, 150);
+            }
+            
+            return response;
+        }
+    };
+
+    // Periodically simulate activity to avoid detection (with random intervals)
+    function scheduleActivitySimulation() {
+        AntiDetection.simulateActivity();
+        const nextDelay = 3000 + Math.random() * 7000; // 3-10 seconds
+        setTimeout(scheduleActivitySimulation, nextDelay);
+    }
+    scheduleActivitySimulation();
+    
+    // Occasional scroll simulation
+    function scheduleScrollSimulation() {
+        if (Math.random() > 0.7) {
+            AntiDetection.simulateScroll();
+        }
+        const nextDelay = 10000 + Math.random() * 10000; // 10-20 seconds
+        setTimeout(scheduleScrollSimulation, nextDelay);
+    }
+    scheduleScrollSimulation();
+
+    // ==================== AUTOFILL PANEL ====================
+    function createAutofillPanel() {
+        popupContainer.innerHTML = '';
+        popupContainer.className = 'popup-panel active';
+        
+        const panel = document.createElement('div');
+        panel.className = 'ivac-panel';
+        panel.style.cssText = 'background: #fff; padding: 12px; border-radius: 8px;';
+        
+        const title = document.createElement('div');
+        title.textContent = 'IVAC — Autofill';
+        title.style.cssText = 'font-size: 15px; font-weight: 700; text-align: center; margin-bottom: 10px;';
+        panel.appendChild(title);
+        
+        // Load config
+        const config = getStoredConfig();
+        
+        const info = document.createElement('div');
+        if (config) {
+            info.textContent = `Config loaded: ${config.webfile_id || 'N/A'}`;
+            info.style.cssText = 'font-size: 11px; color: #059669; text-align: center; margin-bottom: 10px; background: #d1fae5; padding: 4px; border-radius: 4px;';
+        } else {
+            info.textContent = 'No config found. Please upload config first.';
+            info.style.cssText = 'font-size: 11px; color: #dc2626; text-align: center; margin-bottom: 10px; background: #fee2e2; padding: 4px; border-radius: 4px;';
+        }
+        panel.appendChild(info);
+        
+        const messageDiv = document.createElement('div');
+        messageDiv.style.cssText = 'margin-bottom: 8px; padding: 6px; border-radius: 4px; font-size: 11px; display: none;';
+        panel.appendChild(messageDiv);
+        
+        const showMessage = (text, isError = false) => {
+            messageDiv.textContent = text;
+            messageDiv.style.display = 'block';
+            messageDiv.style.background = isError ? '#fee2e2' : '#d1fae5';
+            messageDiv.style.color = isError ? '#991b1b' : '#065f46';
+            setTimeout(() => messageDiv.style.display = 'none', 3000);
+        };
+        
+        // Fill Web File ID button
+        const fillWebFileBtn = document.createElement('button');
+        fillWebFileBtn.textContent = 'Fill Web File IDs';
+        fillWebFileBtn.className = 'slim-btn';
+        fillWebFileBtn.style.cssText = 'width: 100%; background: #007bff; color: #fff; margin-bottom: 6px;';
+        fillWebFileBtn.addEventListener('click', () => {
+            if (!config) {
+                showMessage('No config found. Upload config first.', true);
+                return;
+            }
+            
+            // Example: Fill web file ID fields on the page
+            const webfileInput = document.querySelector('input[name="web_file_no"], input[name="webfile"], input[placeholder*="Web File"]');
+            if (webfileInput) {
+                webfileInput.value = config.webfile_id;
+                showMessage(`Web File ID filled: ${config.webfile_id}`);
+                LogManager.add(`Autofill: Web File ID filled - ${config.webfile_id}`, 'success');
+            } else {
+                showMessage('Web File ID field not found on page', true);
+                LogManager.add('Autofill: Web File ID field not found', 'warning');
+            }
+            
+            startCooldown(fillWebFileBtn);
+        });
+        panel.appendChild(fillWebFileBtn);
+        
+        // Fill Form Fields button
+        const fillFormBtn = document.createElement('button');
+        fillFormBtn.textContent = 'Fill All Form Fields';
+        fillFormBtn.className = 'slim-btn';
+        fillFormBtn.style.cssText = 'width: 100%; background: #28a745; color: #fff; margin-bottom: 6px;';
+        fillFormBtn.addEventListener('click', () => {
+            if (!config) {
+                showMessage('No config found. Upload config first.', true);
+                return;
+            }
+            
+            // Comprehensive field mappings for all config properties
+            let filled = 0;
+            const fieldMappings = [
+                // Personal info
+                { selector: 'input[name="full_name"], input[placeholder*="Name"], input[id*="name"]', value: config.personal_info?.full_name },
+                { selector: 'input[name="email"], input[type="email"], input[placeholder*="Email"]', value: config.personal_info?.email_name },
+                { selector: 'input[name="phone"], input[type="tel"], input[placeholder*="Phone"], input[placeholder*="Mobile"]', value: config.personal_info?.phone },
+                
+                // IVAC specific fields
+                { selector: 'input[name="web_file_no"], input[name="webfile"], input[placeholder*="Web File"]', value: config.webfile_id },
+                { selector: 'input[name="webfile_id_repeat"], input[placeholder*="Confirm Web File"]', value: config.webfile_id_repeat || config.webfile_id },
+                { selector: 'select[name="mission"], select[id*="mission"]', value: config.mission },
+                { selector: 'select[name="ivac_center"], select[id*="ivac"], select[placeholder*="IVAC Center"]', value: config.ivac_center },
+                { selector: 'select[name="visa_type"], select[id*="visa"], input[name="visa_type"]', value: config.visa_type },
+                { selector: 'input[name="family_count"], select[name="family_count"], input[placeholder*="Family"]', value: config.family_count },
+                { selector: 'input[name="purpose"], textarea[name="purpose"], input[placeholder*="Purpose"], textarea[placeholder*="Purpose"]', value: config.asweoi_erilfs }
+            ];
+            
+            fieldMappings.forEach(({selector, value}) => {
+                if (!value) return; // Skip if no value in config
+                
+                const field = document.querySelector(selector);
+                if (field) {
+                    field.value = value;
+                    // Dispatch change event to trigger any listeners
+                    field.dispatchEvent(new Event('change', { bubbles: true }));
+                    field.dispatchEvent(new Event('input', { bubbles: true }));
+                    filled++;
+                    LogManager.add(`  Filled: ${field.name || field.id || 'field'} = ${value}`, 'success');
+                }
+            });
+            
+            if (filled > 0) {
+                showMessage(`${filled} fields filled successfully`);
+                LogManager.add(`Autofill: ${filled} form fields filled`, 'success');
+            } else {
+                showMessage('No matching fields found on page', true);
+                LogManager.add('Autofill: No matching fields found - ensure you are on the IVAC form page', 'warning');
+            }
+            
+            startCooldown(fillFormBtn);
+        });
+        panel.appendChild(fillFormBtn);
+        
+        // Fill Family Data button
+        const fillFamilyBtn = document.createElement('button');
+        fillFamilyBtn.textContent = 'Fill Family Data';
+        fillFamilyBtn.className = 'slim-btn';
+        fillFamilyBtn.style.cssText = 'width: 100%; background: #6f42c1; color: #fff;';
+        fillFamilyBtn.addEventListener('click', () => {
+            if (!config) {
+                showMessage('No config found. Upload config first.', true);
+                return;
+            }
+            
+            if (!config.family_data || config.family_data.length === 0) {
+                showMessage('No family data in config', true);
+                return;
+            }
+            
+            // Try to fill family member inputs on the page
+            let filled = 0;
+            config.family_data.forEach((member, index) => {
+                const i = index + 1; // 1-based index
+                
+                // Try multiple selector patterns for family member fields
+                const nameSelectors = [
+                    `input[name="family_name_${i}"]`,
+                    `input[name="family[${index}][name]"]`,
+                    `input[id*="family"][id*="name"][id*="${i}"]`,
+                    `input[placeholder*="Family"][placeholder*="Name"]:nth-of-type(${i})`
+                ];
+                
+                const webfileSelectors = [
+                    `input[name="family_webfile_${i}"]`,
+                    `input[name="family[${index}][webfile]"]`,
+                    `input[id*="family"][id*="webfile"][id*="${i}"]`,
+                    `input[placeholder*="Family"][placeholder*="Web"]:nth-of-type(${i})`
+                ];
+                
+                // Try to find and fill name field
+                for (const selector of nameSelectors) {
+                    const field = document.querySelector(selector);
+                    if (field) {
+                        field.value = member.name;
+                        field.dispatchEvent(new Event('change', { bubbles: true }));
+                        field.dispatchEvent(new Event('input', { bubbles: true }));
+                        filled++;
+                        LogManager.add(`  Family ${i} Name: ${member.name}`, 'success');
+                        break;
+                    }
+                }
+                
+                // Try to find and fill webfile field
+                for (const selector of webfileSelectors) {
+                    const field = document.querySelector(selector);
+                    if (field) {
+                        field.value = member.webfile;
+                        field.dispatchEvent(new Event('change', { bubbles: true }));
+                        field.dispatchEvent(new Event('input', { bubbles: true }));
+                        filled++;
+                        LogManager.add(`  Family ${i} Webfile: ${member.webfile}`, 'success');
+                        break;
+                    }
+                }
+            });
+            
+            // Also log family data for reference (useful if DOM filling fails)
+            LogManager.add(`Family count: ${config.family_count}`, 'info');
+            config.family_data.forEach((member, index) => {
+                LogManager.add(`  [${index + 1}] ${member.name} - ${member.webfile}`, 'info');
+            });
+            
+            if (filled > 0) {
+                showMessage(`Family data: ${filled} fields filled`);
+            } else {
+                showMessage(`Family data logged (${config.family_data.length} members) - no matching inputs found`, true);
+                LogManager.add('Family fields not found - check if you are on the family info page', 'warning');
+            }
+            
+            startCooldown(fillFamilyBtn);
+        });
+        panel.appendChild(fillFamilyBtn);
+        
+        popupContainer.appendChild(panel);
+        LogManager.add('Autofill panel loaded', config ? 'success' : 'warning');
+    }
+
+    // ==================== LOGIN PANEL ====================
+    function createLoginPanel() {
+        popupContainer.innerHTML = '';
+        popupContainer.className = 'popup-panel active';
+        
+        const ivacPanel = document.createElement('div');
+        ivacPanel.className = 'ivac-panel';
+        
+        function el(tag, props = {}, children = []) {
+            const e = document.createElement(tag);
+            Object.assign(e, props);
+            (children || []).forEach(c => e.appendChild(c));
+            return e;
+        }
+        function style(node, css = {}) {
+            Object.assign(node.style, css);
+            return node;
+        }
+        
+        const headerTitle = el('div', { innerText: 'IVAC — Login' });
+        style(headerTitle, {
+            fontSize: '15px',
+            fontWeight: 700,
+            textAlign: 'center',
+            marginBottom: '10px'
+        });
+        ivacPanel.appendChild(headerTitle);
+        
+        const tokenInput = el('input', { type: 'text', readOnly: true, placeholder: 'Access Token will appear here' });
+        style(tokenInput, { color: '#006400' });
+        ivacPanel.appendChild(tokenInput);
+        
+        // Check for existing token
+        const savedToken = localStorage.getItem('access_token');
+        if (savedToken) {
+            tokenInput.value = savedToken;
+            LogManager.add('Existing token loaded', 'success');
+        }
+        
+        const form = style(el('div'), { display: 'grid', gap: '6px' });
+        ivacPanel.appendChild(form);
+        
+        const sitekeyRow = style(el('div'), { display: 'flex', gap: '6px' });
+        const sitekeyInput = el('input', { type: 'text', value: '0x4AAAAAABpNUpzYeppBoYpe' });
+        style(sitekeyInput, { flex: '1' });
+        const loadCaptchaBtn = el('button', { innerText: 'Load CAPTCHA' });
+        loadCaptchaBtn.classList.add('slim-btn');
+        style(loadCaptchaBtn, { background: '#17a2b8', color: '#fff' });
+        sitekeyRow.appendChild(sitekeyInput);
+        sitekeyRow.appendChild(loadCaptchaBtn);
+        form.appendChild(sitekeyRow);
+        
+        const captchaBox = style(el('div', { innerText: 'CAPTCHA will appear here' }), {
+            height: '80px',
+            borderRadius: '6px',
+            border: '1px dashed #cfcfcf',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            color: '#666',
+            fontSize: '12px'
+        });
+        form.appendChild(captchaBox);
+        
+        function createRow(ph, type, btnText, btnColor) {
+            const row = style(el('div'), { display: 'flex', gap: '6px' });
+            const input = el('input', { type, placeholder: ph });
+            style(input, { flex: '1' });
+            const btn = el('button', { innerText: btnText });
+            btn.classList.add('slim-btn');
+            style(btn, { background: btnColor, color: '#fff', flex: '0 0 90px' });
+            row.appendChild(input);
+            row.appendChild(btn);
+            form.appendChild(row);
+            return { input, btn };
+        }
+        
+        const mobileRow = createRow('Mobile number', 'text', 'Send', '#28a745');
+        const passRow = createRow('Password', 'password', 'Login', '#6f42c1');
+        const otpRow = createRow('OTP', 'text', 'Submit', '#ff9800');
+        
+        // Auto-populate from config
+        const config = getStoredConfig();
+        if (config && config.personal_info && config.personal_info.phone) {
+            mobileRow.input.value = config.personal_info.phone;
+            LogManager.add('Phone number auto-filled from config', 'success');
+        }
+        
+        const status = style(el('div', { innerText: '' }), {
+            fontSize: '11px',
+            color: '#444',
+            minHeight: '16px'
+        });
+        form.appendChild(status);
+        
+        let captchaToken = '';
+        function renderCaptcha(sitekey) {
+            captchaBox.innerHTML = '';
+            const container = el('div');
+            captchaBox.appendChild(container);
+            if (!window.turnstile) {
+                const s = document.createElement('script');
+                s.src = 'https://challenges.cloudflare.com/turnstile/v0/api.js';
+                s.async = true;
+                s.defer = true;
+                s.onload = () => {
+                    window.turnstile.render(container, { 
+                        sitekey, 
+                        callback: t => { 
+                            captchaToken = t; 
+                            LogManager.add('CAPTCHA solved', 'success');
+                        } 
+                    });
+                };
+                document.head.appendChild(s);
+            } else {
+                window.turnstile.render(container, { 
+                    sitekey, 
+                    callback: t => { 
+                        captchaToken = t; 
+                        LogManager.add('CAPTCHA solved', 'success');
+                    } 
+                });
+            }
+        }
+        
+        loadCaptchaBtn.addEventListener('click', () => {
+            const key = sitekeyInput.value.trim();
+            if (!key) return;
+            renderCaptcha(key);
+            startCooldown(loadCaptchaBtn);
+        });
+        
+        async function postJson(url, payload) {
+            const res = await fetch(url, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(payload)
+            });
+            return res.json();
+        }
+        
+        // Wait for profile data to be available after DOM-based login
+        async function waitForProfileData(timeout = 10000) {
+            const startTime = Date.now();
+            
+            while (Date.now() - startTime < timeout) {
+                // Check if the page has updated with user data
+                const userNameElement = document.querySelector('[class*="user-name"], [class*="profile-name"], .user-info');
+                const profileImageElement = document.querySelector('[class*="profile-image"], [class*="user-avatar"], img[alt*="profile" i]');
+                
+                if (userNameElement || profileImageElement) {
+                    // Extract user data from DOM
+                    const userData = {
+                        name: userNameElement?.textContent?.trim() || 'User',
+                        photo: profileImageElement?.src || null
+                    };
+                    
+                    LogManager.add('Profile data extracted from page', 'success');
+                    UserProfileManager.updateProfile(userData);
+                    return;
+                }
+                
+                await DOMAutomation.randomDelay(500, 1000);
+            }
+            
+            LogManager.add('Profile data not found on page (may load later)', 'warning');
+        }
+        
+        mobileRow.btn.addEventListener('click', async () => {
+            const mobile = mobileRow.input.value.trim();
+            const payload = { answer: 1, captcha_token: captchaToken || '', mobile_no: mobile, problem: 'abc' };
+            
+            try {
+                const res = await postJson('https://payment.ivacbd.com/api/v2/mobile-verify', payload);
+                status.innerText = res.message || '[OK] OTP sent';
+                LogManager.add('OTP sent to ' + mobile, 'success');
+                startCooldown(mobileRow.btn);
+            } catch (e) {
+                status.innerText = '[ERR] Error: ' + e.message;
+                LogManager.add('OTP send failed: ' + e.message, 'error');
+            }
+        });
+        
+        passRow.btn.addEventListener('click', async () => {
+            const mobile = mobileRow.input.value.trim();
+            const password = passRow.input.value.trim();
+            
+            if (!mobile || !password) {
+                status.innerText = 'Please enter mobile and password';
+                LogManager.add('Mobile and password required', 'warning');
+                return;
+            }
+            
+            // Disable button during processing
+            passRow.btn.disabled = true;
+            const originalText = passRow.btn.innerText;
+            passRow.btn.innerText = 'Working...';
+            
+            try {
+                // DOM-BASED AUTHENTICATION (bypasses Cloudflare detection)
+                // Try to find and use the actual IVAC login form on the page
+                LogManager.add('Attempting DOM-based login...', 'info');
+                
+                // Check if we're on the login page
+                const nativeLoginForm = document.querySelector('form[action*="login"], form.login-form, #login-form');
+                
+                if (nativeLoginForm && window.IVACFormAutomation) {
+                    // Use DOM automation to fill and submit the real form
+                    status.innerText = 'Using native form (anti-detection mode)...';
+                    
+                    const result = await IVACFormAutomation.loginWithPassword(
+                        mobile, 
+                        password,
+                        (msg) => {
+                            status.innerText = msg;
+                            LogManager.add(msg, 'info');
+                        }
+                    );
+                    
+                    if (result.success) {
+                        const token = localStorage.getItem('access_token');
+                        if (token) {
+                            tokenInput.value = token;
+                            status.innerText = '[OK] Login successful (DOM mode)';
+                            LogManager.add('Login successful via DOM automation', 'success');
+                            
+                            // Wait for profile data to be available
+                            await waitForProfileData();
+                        }
+                    } else {
+                        throw new Error(result.error || 'DOM login failed');
+                    }
+                } else {
+                    // Fallback to direct API (less stealthy, may be blocked)
+                    status.innerText = 'Using direct API (may be blocked)...';
+                    LogManager.add('Native form not found, using direct API', 'warning');
+                    
+                    const payload = {
+                        mobile_no: mobile,
+                        password: password
+                    };
+                    
+                    const res = await postJson('https://payment.ivacbd.com/api/v2/jktwdasf-345432-afawerk', payload);
+                    
+                    if (res.data && res.data.access_token) {
+                        localStorage.setItem('access_token', res.data.access_token);
+                        tokenInput.value = res.data.access_token;
+                        status.innerText = '[OK] Login successful';
+                        LogManager.add('Login successful: ' + res.data.name, 'success');
+                        
+                        // Update profile immediately (we have the data)
+                        UserProfileManager.updateProfile(res.data);
+                    } else {
+                        status.innerText = '[ERR] Login failed!';
+                        LogManager.add('Login failed: ' + (res.message || 'Unknown error'), 'error');
+                    }
+                }
+                
+                startCooldown(passRow.btn);
+            } catch (e) {
+                status.innerText = '[ERR] Error: ' + e.message;
+                LogManager.add('Login error: ' + e.message, 'error');
+            } finally {
+                passRow.btn.disabled = false;
+                passRow.btn.innerText = originalText;
+            }
+        });
+        
+        otpRow.btn.addEventListener('click', async () => {
+            const otpValue = otpRow.input.value.trim();
+            
+            // Variable-length OTP validation (6-7 digits)
+            if (!otpValue || otpValue.length < 6 || otpValue.length > 7 || !/^\d+$/.test(otpValue)) {
+                status.innerText = 'Please enter valid OTP (6-7 digits)';
+                LogManager.add('Invalid OTP format (must be 6-7 digits)', 'error');
+                return;
+            }
+            
+            const payload = {
+                mobile_no: mobileRow.input.value.trim(),
+                password: passRow.input.value.trim(),
+                otp: otpValue
+            };
+            
+            try {
+                const res = await postJson('https://payment.ivacbd.com/api/v2/login-otp', payload);
+                
+                if (res.data && res.data.access_token) {
+                    localStorage.setItem('access_token', res.data.access_token);
+                    tokenInput.value = res.data.access_token;
+                    status.innerText = 'Access Token updated';
+                    LogManager.add('OTP login successful', 'success');
+                    
+                    // Update user profile with anti-detection delay
+                    await AntiDetection.randomDelay(300, 600);
+                    UserProfileManager.updateProfile(res.data);
+                } else {
+                    status.innerText = 'OTP submission failed';
+                    LogManager.add('OTP verification failed', 'error');
+                }
+                startCooldown(otpRow.btn);
+            } catch (e) {
+                status.innerText = 'Error: ' + e.message;
+                LogManager.add('OTP error: ' + e.message, 'error');
+            }
+        });
+        
+        popupContainer.appendChild(ivacPanel);
+    }
+
+    // ==================== SUBMIT PANEL ====================
+    function createSubmitPanel() {
+        popupContainer.innerHTML = '';
+        popupContainer.className = 'popup-panel active';
+        
+        const submitPanel = document.createElement('div');
+        submitPanel.className = 'submit-panel';
+        
+        function createBtn(text, bgColor, fullWidth = false) {
+            const btn = document.createElement('button');
+            btn.textContent = text;
+            btn.style.backgroundColor = bgColor;
+            if (fullWidth) btn.style.width = '100%';
+            return btn;
+        }
+        
+        const liveMsg = document.createElement('div');
+        liveMsg.className = 'live-msg';
+        liveMsg.textContent = 'Status messages will appear here';
+        submitPanel.appendChild(liveMsg);
+        
+        function showMessage(msg) {
+            liveMsg.textContent = msg;
+            LogManager.add(msg, msg.includes('[ERR]') ? 'error' : 'success');
+        }
+        
+        // Token section
+        const tokenDiv = document.createElement('div');
+        const tokenInput = document.createElement('input');
+        tokenInput.type = 'text';
+        tokenInput.readOnly = true;
+        tokenInput.placeholder = 'Bearer Token';
+        tokenInput.style.color = '#006400';
+        tokenDiv.appendChild(tokenInput);
+        submitPanel.appendChild(tokenDiv);
+        
+        // Set token from localStorage
+        const savedToken = localStorage.getItem('access_token');
+        if (savedToken) {
+            tokenInput.value = savedToken;
+            showMessage('[OK] Access Token auto-filled from localStorage!');
+        }
+        
+        const tokenBtn = createBtn('Get Token', '#007bff', true);
+        tokenDiv.appendChild(tokenBtn);
+        
+        tokenBtn.addEventListener('click', () => {
+            const token = localStorage.getItem('access_token');
+            if (token) {
+                tokenInput.value = token;
+                showMessage('[OK] Access Token updated!');
+            } else {
+                showMessage('[ERR] No access_token found in localStorage!');
+            }
+        });
+        
+        function getBearerToken() { 
+            return tokenInput.value.trim() || localStorage.getItem('access_token'); 
+        }
+        
+        // Top button row
+        const topBtnRow = document.createElement('div');
+        topBtnRow.className = 'btn-row';
+        submitPanel.appendChild(topBtnRow);
+        
+        const copyApiBtn = createBtn('Server Update', '#FF5722', true);
+        const parseKeysBtn = createBtn('Parse & Fill', '#FF9800', true);
+        const captchaShowBtn = createBtn('Show CAPTCHA', '#17a2b8', true);
+        topBtnRow.appendChild(copyApiBtn);
+        topBtnRow.appendChild(parseKeysBtn);
+        topBtnRow.appendChild(captchaShowBtn);
+        
+        // Base URL and endpoint
+        const baseInput = document.createElement('input');
+        baseInput.type = 'text';
+        baseInput.value = 'https://payment.ivacbd.com';
+        baseInput.style.marginTop = '4px';
+        submitPanel.appendChild(baseInput);
+        
+        const endpointInput = document.createElement('input');
+        endpointInput.type = 'text';
+        endpointInput.value = '/api/v2/payment/application-r5s7h3-submit-hyju6t';
+        endpointInput.placeholder = '/api/v2/payment/...';
+        submitPanel.appendChild(endpointInput);
+        
+        const allFieldsBtn = createBtn('All Fields', '#6c757d', true);
+        submitPanel.appendChild(allFieldsBtn);
+        
+        // Key-Value Overlay
+        const kvOverlay = document.createElement('div');
+        kvOverlay.style.position = 'fixed';
+        kvOverlay.style.top = '120px';
+        kvOverlay.style.left = 'calc(50% - 200px)';
+        kvOverlay.style.width = '400px';
+        kvOverlay.style.height = '300px';
+        kvOverlay.style.background = '#fff';
+        kvOverlay.style.border = '1px solid #ccc';
+        kvOverlay.style.borderRadius = '6px';
+        kvOverlay.style.boxShadow = '0 0 12px rgba(0,0,0,0.3)';
+        kvOverlay.style.padding = '8px';
+        kvOverlay.style.zIndex = '999998';
+        kvOverlay.style.overflowY = 'auto';
+        kvOverlay.style.display = 'none';
+        document.body.appendChild(kvOverlay);
+        
+        const kvHeader = document.createElement('div');
+        kvHeader.textContent = 'Key / Value Fields (Drag me)';
+        kvHeader.style.cursor = 'grab';
+        kvHeader.style.fontWeight = '600';
+        kvHeader.style.marginBottom = '4px';
+        kvOverlay.appendChild(kvHeader);
+        
+        const kvContainer = document.createElement('div');
+        kvContainer.className = 'kv-container';
+        kvOverlay.appendChild(kvContainer);
+        
+        const rows = [];
+        const defaultKeys = ['highcom','webfile_id','webfile_id_repeat','ivac_id','visa_type','family_count','asweoi_erilfs','y6e7uk_token_t6d8n3'];
+        
+        // Get config from localStorage
+        const config = getStoredConfig();
+        const defaultValues = [
+            '3',
+            config?.webfile_id || '',
+            config?.webfile_id_repeat || config?.webfile_id || '',
+            config?.ivac_center ? config.ivac_center.split('|')[1] : '',
+            config?.visa_type || '',
+            config?.family_count || '',
+            config?.asweoi_erilfs || '',
+            ''
+        ];
+        
+        defaultKeys.forEach((k, index) => {
+            const row = document.createElement('div');
+            row.className = 'kv-row';
+            
+            const keyInput = document.createElement('input');
+            keyInput.type = 'text';
+            keyInput.value = k;
+            keyInput.style.width = '40%';
+            
+            const valueInput = document.createElement('input');
+            valueInput.type = 'text';
+            valueInput.placeholder = 'Value';
+            valueInput.style.width = '55%';
+            valueInput.value = defaultValues[index] || '';
+            
+            row.appendChild(keyInput);
+            row.appendChild(valueInput);
+            kvContainer.appendChild(row);
+            rows.push({keyInput, valueInput});
+        });
+        
+        // Make KV overlay draggable
+        let isDraggingKV = false, offsetXKV = 0, offsetYKV = 0;
+        kvHeader.addEventListener('mousedown', (e) => {
+            isDraggingKV = true;
+            offsetXKV = e.clientX - kvOverlay.getBoundingClientRect().left;
+            offsetYKV = e.clientY - kvOverlay.getBoundingClientRect().top;
+            kvHeader.style.cursor = 'grabbing';
+        });
+        document.addEventListener('mousemove', (e) => {
+            if (!isDraggingKV) return;
+            kvOverlay.style.left = (e.clientX - offsetXKV) + 'px';
+            kvOverlay.style.top = (e.clientY - offsetYKV) + 'px';
+        });
+        document.addEventListener('mouseup', () => {
+            if (isDraggingKV) {
+                isDraggingKV = false;
+                kvHeader.style.cursor = 'grab';
+            }
+        });
+        
+        allFieldsBtn.addEventListener('click', () => {
+            kvOverlay.style.display = kvOverlay.style.display === 'none' ? 'block' : 'none';
+        });
+        
+        // API Overlay
+        const apiOverlay = document.createElement('div');
+        apiOverlay.style.position = 'fixed';
+        apiOverlay.style.top = '100px';
+        apiOverlay.style.left = 'calc(100% - 450px)';
+        apiOverlay.style.width = '400px';
+        apiOverlay.style.height = '250px';
+        apiOverlay.style.background = '#fff';
+        apiOverlay.style.border = '1px solid #ccc';
+        apiOverlay.style.borderRadius = '6px';
+        apiOverlay.style.boxShadow = '0 0 12px rgba(0,0,0,0.3)';
+        apiOverlay.style.padding = '8px';
+        apiOverlay.style.zIndex = '999997';
+        apiOverlay.style.display = 'none';
+        apiOverlay.style.overflowY = 'auto';
+        document.body.appendChild(apiOverlay);
+        
+        const overlayHeader = document.createElement('div');
+        overlayHeader.textContent = 'API Overlay (Drag me)';
+        overlayHeader.style.cursor = 'grab';
+        overlayHeader.style.fontWeight = '600';
+        overlayHeader.style.marginBottom = '4px';
+        apiOverlay.appendChild(overlayHeader);
+        
+        const overlayTextarea = document.createElement('textarea');
+        overlayTextarea.style.width = '100%';
+        overlayTextarea.style.height = 'calc(100% - 24px)';
+        overlayTextarea.style.resize = 'none';
+        overlayTextarea.style.fontFamily = 'monospace';
+        overlayTextarea.readOnly = true;
+        apiOverlay.appendChild(overlayTextarea);
+        
+        // Make API overlay draggable
+        let isDraggingOverlay = false, offsetXOverlay = 0, offsetYOverlay = 0;
+        overlayHeader.addEventListener('mousedown', (e) => {
+            isDraggingOverlay = true;
+            offsetXOverlay = e.clientX - apiOverlay.getBoundingClientRect().left;
+            offsetYOverlay = e.clientY - apiOverlay.getBoundingClientRect().top;
+            overlayHeader.style.cursor = 'grabbing';
+        });
+        document.addEventListener('mousemove', (e) => {
+            if (!isDraggingOverlay) return;
+            apiOverlay.style.left = (e.clientX - offsetXOverlay) + 'px';
+            apiOverlay.style.top = (e.clientY - offsetYOverlay) + 'px';
+        });
+        document.addEventListener('mouseup', () => {
+            if (isDraggingOverlay) {
+                isDraggingOverlay = false;
+                overlayHeader.style.cursor = 'grab';
+            }
+        });
+        
+        let overlayVisible = false;
+        copyApiBtn.addEventListener('click', async () => {
+            const scripts = document.querySelectorAll('script[src], script:not([src])');
+            let detectedText = '';
+            for (const script of scripts) {
+                const processText = (txt) => {
+                    const regex = /const\s+[a-zA-Z0-9_$]+\s*=\s*localStorage\.getItem\(["']access_token["']\)[\s\S]*?await\s+[a-zA-Z0-9_$]+\([\s\S]*?\}\s*\)/g;
+                    const matches = txt.match(regex);
+                    if (matches) detectedText += matches.join('\n\n');
+                };
+                try {
+                    if (script.src) {
+                        const res = await fetch(script.src);
+                        const txt = await res.text();
+                        processText(txt);
+                    } else {
+                        processText(script.textContent || '');
+                    }
+                } catch (e) {
+                    SilentConsole.log(e);
+                }
+            }
+            const textToShow = detectedText || '[ERR] API block not found!';
+            overlayTextarea.value = textToShow;
+            overlayVisible = !overlayVisible;
+            apiOverlay.style.display = overlayVisible ? 'block' : 'none';
+            if (detectedText) {
+                navigator.clipboard.writeText(detectedText).catch(() => {});
+                showMessage('[OK] API detection finished! Copied to clipboard.');
+            } else {
+                showMessage('[ERR] API block not found!');
+            }
+            startCooldown(copyApiBtn);
+        });
+        
+        parseKeysBtn.addEventListener('click', () => {
+            const text = overlayTextarea.value;
+            if (!text) {
+                showMessage('[ERR] Copy API block first!');
+                return;
+            }
+            
+            const endpointMatch = text.match(/is_edit[^?]+\?"([^"]+)":"([^"]+)"/);
+            if (endpointMatch && endpointMatch[2]) {
+                endpointInput.value = endpointMatch[2];
+            } else {
+                endpointInput.value = '/api/v2/payment/...';
+            }
+            
+            const bodyRegex = /body\s*:\s*\{([\s\S]*?)\}/g;
+            let bodyMatch, keys = [];
+            while ((bodyMatch = bodyRegex.exec(text))) {
+                const keyRegex = /(\w+)\s*:/g;
+                let km;
+                while ((km = keyRegex.exec(bodyMatch[1]))) {
+                    keys.push(km[1]);
+                }
+            }
+            
+            for (let i = 0; i < rows.length && i < keys.length; i++) {
+                rows[i].keyInput.value = keys[i];
+            }
+            showMessage('[OK] Endpoint & keys auto-filled!');
+        });
+        
+        // CAPTCHA
+        const captchaDiv = document.createElement('div');
+        captchaDiv.style.marginTop = '6px';
+        captchaDiv.style.minHeight = '70px';
+        captchaDiv.style.display = 'flex';
+        captchaDiv.style.alignItems = 'center';
+        captchaDiv.style.justifyContent = 'center';
+        captchaDiv.style.border = '1px dashed #ccc';
+        captchaDiv.style.borderRadius = '4px';
+        captchaDiv.textContent = 'CAPTCHA will appear here...';
+        submitPanel.appendChild(captchaDiv);
+        
+        const captchaInput = document.createElement('input');
+        captchaInput.type = 'text';
+        captchaInput.placeholder = 'Enter sitekey here';
+        captchaInput.value = '0x4AAAAAABvQ3Mi6RktCuZ7P';
+        captchaInput.style.marginTop = '4px';
+        submitPanel.appendChild(captchaInput);
+        
+        function onCaptchaSuccess(token) {
+            const f = rows.find(r => r.keyInput.value === 'y6e7uk_token_t6d8n3');
+            if (f) {
+                f.valueInput.value = token;
+                showMessage('[OK] CAPTCHA solved! Token filled.');
+                LogManager.add('CAPTCHA token filled', 'success');
+            } else {
+                showMessage('[ERR] CAPTCHA token field not found!');
+            }
+        }
+        
+        function renderCaptcha() {
+            if (window.turnstile) {
+                captchaDiv.textContent = '';
+                window.turnstile.render(captchaDiv, {
+                    sitekey: captchaInput.value,
+                    callback: onCaptchaSuccess,
+                    theme: 'light'
+                });
+                showMessage('[OK] CAPTCHA loaded! Solve it to get token.');
+            } else {
+                setTimeout(renderCaptcha, 500);
+            }
+        }
+        
+        captchaShowBtn.addEventListener('click', () => {
+            renderCaptcha();
+            startCooldown(captchaShowBtn);
+        });
+        
+        if (!window.turnstile) {
+            const script = document.createElement('script');
+            script.src = 'https://challenges.cloudflare.com/turnstile/v0/api.js';
+            script.async = true;
+            script.defer = true;
+            document.head.appendChild(script);
+        }
+        
+        // Bottom buttons
+        const bottomRow = document.createElement('div');
+        bottomRow.className = 'btn-row';
+        bottomRow.style.marginTop = '8px';
+        submitPanel.appendChild(bottomRow);
+        
+        const submitAppBtn = createBtn('Submit', '#28a745', true);
+        const personalBtn = createBtn('Personal', '#17a2b8', true);
+        const overviewBtn = createBtn('Overview', '#ffc107', true);
+        bottomRow.appendChild(submitAppBtn);
+        bottomRow.appendChild(personalBtn);
+        bottomRow.appendChild(overviewBtn);
+        
+        submitAppBtn.onclick = async () => {
+            const payload = {};
+            rows.forEach(r => {
+                const k = r.keyInput.value.trim();
+                if (k) payload[k] = r.valueInput.value;
+            });
+            
+            const bearerToken = getBearerToken();
+            if (!bearerToken) {
+                showMessage('[ERR] Bearer Token is required!');
+                return;
+            }
+            
+            const fullURL = baseInput.value.replace(/\/$/, '') + endpointInput.value;
+            try {
+                showMessage('Submitting payload...');
+                const res = await fetch(fullURL, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${bearerToken}`
+                    },
+                    body: JSON.stringify(payload)
+                });
+                const data = await res.json();
+                showMessage(data.message || '[OK] Payload submitted successfully!');
+                LogManager.add('Application submitted: ' + (data.message || 'Success'), 'success');
+                startCooldown(submitAppBtn);
+            } catch (e) {
+                showMessage('[ERR] Error: ' + e.message);
+                LogManager.add('Submit error: ' + e.message, 'error');
+            }
+        };
+        
+        personalBtn.onclick = async () => {
+            const config = getStoredConfig();
+            if (!config) {
+                showMessage('[ERR] No config found. Upload config first!');
+                return;
+            }
+            
+            const personalInfo = {
+                full_name: config.personal_info?.full_name || '',
+                email_name: config.personal_info?.email_name || '',
+                phone: config.personal_info?.phone || '',
+                webfile_id: config.webfile_id || '',
+                family: {}
+            };
+            
+            const familyCount = parseInt(config.family_count || '0');
+            const familyData = config.family_data || [];
+            for (let i = 0; i < familyCount && i < familyData.length; i++) {
+                const memberData = familyData[i];
+                personalInfo.family[i + 1] = {
+                    name: memberData.name,
+                    webfile_no: memberData.webfile,
+                    again_webfile_no: memberData.webfile
+                };
+            }
+            
+            const bearerToken = getBearerToken();
+            if (!bearerToken) {
+                showMessage('[ERR] Bearer Token is required!');
+                return;
+            }
+            
+            try {
+                showMessage('Submitting personal info...');
+                const res = await fetch('https://payment.ivacbd.com/api/v2/payment/personal-info-submit', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${bearerToken}`
+                    },
+                    body: JSON.stringify(personalInfo)
+                });
+                const data = await res.json();
+                showMessage(data.message || '[OK] Personal Info submitted successfully!');
+                LogManager.add('Personal info submitted', 'success');
+                startCooldown(personalBtn);
+            } catch (e) {
+                showMessage('[ERR] Error: ' + e.message);
+                LogManager.add('Personal info error: ' + e.message, 'error');
+            }
+        };
+        
+        overviewBtn.onclick = async () => {
+            const bearerToken = getBearerToken();
+            if (!bearerToken) {
+                showMessage('[ERR] Bearer Token is required!');
+                return;
+            }
+            
+            try {
+                showMessage('Submitting overview...');
+                const res = await fetch('https://payment.ivacbd.com/api/v2/payment/overview-submit', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${bearerToken}`
+                    },
+                    body: JSON.stringify({})
+                });
+                const data = await res.json();
+                showMessage(data.message || '[OK] Overview submitted successfully!');
+                LogManager.add('Overview submitted', 'success');
+                startCooldown(overviewBtn);
+            } catch (e) {
+                showMessage('[ERR] Error: ' + e.message);
+                LogManager.add('Overview error: ' + e.message, 'error');
+            }
+        };
+        
+        popupContainer.appendChild(submitPanel);
+    }
+
+    // ==================== PAYMENT PANEL ====================
+    function createPaymentPanel() {
+        popupContainer.innerHTML = '';
+        popupContainer.className = 'popup-panel active';
+        
+        let BEARER_TOKEN = localStorage.getItem('token') || localStorage.getItem('access_token') ||
+            sessionStorage.getItem('token') || sessionStorage.getItem('access_token');
+        
+        const paymentPanel = document.createElement('div');
+        paymentPanel.className = 'payment-panel-main';
+        popupContainer.appendChild(paymentPanel);
+        
+        function createBtn(text, bgColor) {
+            const btn = document.createElement('button');
+            btn.textContent = text;
+            btn.style.backgroundColor = bgColor || '#6f42c1';
+            return btn;
+        }
+        
+        function createInput(placeholder, type = "text", fullWidth = false) {
+            const input = document.createElement('input');
+            input.type = type;
+            input.placeholder = placeholder;
+            if (fullWidth) input.className = 'full-width-input';
+            return input;
+        }
+        
+        const messageBox = document.createElement('div');
+        messageBox.className = 'message-box';
+        paymentPanel.appendChild(messageBox);
+        
+        function showMessage(msg, isError = false) {
+            messageBox.textContent = (isError ? '[ERR] ' : '[OK] ') + msg;
+            messageBox.style.color = isError ? 'red' : 'green';
+            LogManager.add(msg, isError ? 'error' : 'success');
+        }
+        
+        // Get config from localStorage
+        const config = getStoredConfig();
+        const mobileNo = config?.personal_info?.phone || '';
+        const webfileId = config?.webfile_id || '';
+        
+        if (mobileNo) {
+            showMessage(`Mobile Number: ${mobileNo}`);
+        }
+        
+        if (webfileId) {
+            const webfileSpan = document.createElement('span');
+            webfileSpan.textContent = `Webfile ID: ${webfileId}`;
+            webfileSpan.style.display = 'block';
+            webfileSpan.style.marginTop = '4px';
+            paymentPanel.insertBefore(webfileSpan, messageBox.nextSibling);
+        }
+        
+        // Token row
+        const tokenRow = document.createElement('div');
+        tokenRow.className = 'input-row';
+        const tokenInput = createInput('Bearer/Access Token');
+        tokenInput.value = BEARER_TOKEN || '';
+        const tokenBtn = createBtn('Update Token', '#16a34a');
+        const clearTokenBtn = createBtn('Clear Token', '#dc2626');
+        tokenBtn.style.width = '33%';
+        clearTokenBtn.style.width = '33%';
+        tokenRow.appendChild(tokenInput);
+        tokenRow.appendChild(tokenBtn);
+        tokenRow.appendChild(clearTokenBtn);
+        paymentPanel.appendChild(tokenRow);
+        
+        tokenBtn.addEventListener('click', () => {
+            const newToken = localStorage.getItem('access_token') || localStorage.getItem('token') || '';
+            if (newToken) {
+                BEARER_TOKEN = newToken;
+                tokenInput.value = newToken;
+                showMessage('Token updated from storage!');
+            } else if (tokenInput.value.trim()) {
+                BEARER_TOKEN = tokenInput.value.trim();
+                localStorage.setItem('access_token', BEARER_TOKEN);
+                showMessage('Token manually set and saved!');
+            } else {
+                showMessage('Token not found!', true);
+            }
+        });
+        
+        clearTokenBtn.addEventListener('click', () => {
+            localStorage.removeItem('token');
+            localStorage.removeItem('access_token');
+            sessionStorage.removeItem('token');
+            sessionStorage.removeItem('access_token');
+            tokenInput.value = '';
+            BEARER_TOKEN = '';
+            showMessage('Token cleared!');
+        });
+        
+        // Top section
+        const topSection = document.createElement('div');
+        topSection.style.display = 'flex';
+        topSection.style.flexDirection = 'column';
+        topSection.style.gap = '4px';
+        paymentPanel.appendChild(topSection);
+        
+        const endpointRow = document.createElement('div');
+        endpointRow.className = 'input-row';
+        const baseURLInput = createInput('Base URL');
+        baseURLInput.value = 'https://payment.ivacbd.com';
+        const endpointInput = createInput('Endpoint Path');
+        endpointInput.value = '/api/v2/payment/h7j3wt-now-y0k3d6';
+        endpointRow.appendChild(baseURLInput);
+        endpointRow.appendChild(endpointInput);
+        topSection.appendChild(endpointRow);
+        
+        const otpRow = document.createElement('div');
+        otpRow.className = 'input-row';
+        const otpInput = createInput('Enter OTP', 'text', true);
+        otpInput.maxLength = 7; // 7 digit OTP
+        const otpSendBtn = createBtn('Send OTP', '#2563eb');
+        const verifyBtn = createBtn('[OK] Verify OTP', '#16a34a');
+        otpRow.appendChild(otpInput);
+        otpRow.appendChild(otpSendBtn);
+        otpRow.appendChild(verifyBtn);
+        topSection.appendChild(otpRow);
+        
+        const appointmentRow = document.createElement('div');
+        appointmentRow.className = 'input-row';
+        const dateKeyInput = createInput('appointment_date (key)');
+        dateKeyInput.value = 'appointment_date';
+        const dateValInput = createInput('Date value', 'date');
+        appointmentRow.appendChild(dateKeyInput);
+        appointmentRow.appendChild(dateValInput);
+        topSection.appendChild(appointmentRow);
+        
+        const timeRow = document.createElement('div');
+        timeRow.className = 'input-row';
+        const timeKeyInput = createInput('appointment_time (key)');
+        timeKeyInput.value = 'appointment_time';
+        const timeValInput = createInput('Time value');
+        timeRow.appendChild(timeKeyInput);
+        timeRow.appendChild(timeValInput);
+        topSection.appendChild(timeRow);
+        
+        const captchaRow = document.createElement('div');
+        captchaRow.className = 'input-row';
+        const captchaKeyInput = createInput('captcha_token (key)');
+        captchaKeyInput.value = 'k5t0g8_token_y4v9f6';
+        const captchaValInput = createInput('CAPTCHA token');
+        captchaRow.appendChild(captchaKeyInput);
+        captchaRow.appendChild(captchaValInput);
+        topSection.appendChild(captchaRow);
+        
+        const captchaRow2 = document.createElement('div');
+        captchaRow2.style.display = 'flex';
+        captchaRow2.style.flexDirection = 'column';
+        captchaRow2.style.gap = '2px';
+        const sitekeyInput = createInput('CAPTCHA sitekey', 'text', true);
+        sitekeyInput.value = '0x4AAAAAABvQ3Mi6RktCuZ7P';
+        const loadCaptchaBtn = createBtn('Load CAPTCHA', '#8b5cf6');
+        const captchaContainer = document.createElement('div');
+        captchaContainer.style.width = '100%';
+        captchaContainer.style.height = '100px';
+        captchaRow2.appendChild(sitekeyInput);
+        captchaRow2.appendChild(loadCaptchaBtn);
+        captchaRow2.appendChild(captchaContainer);
+        topSection.appendChild(captchaRow2);
+        
+        const slotRow = document.createElement('div');
+        slotRow.className = 'input-row';
+        slotRow.style.transform = 'translateY(-10px)';
+        const slotBtn = createBtn('Get Slot Time', '#f59e0b');
+        const fallbackBtn = createBtn('Default Slot', '#f97316');
+        slotRow.appendChild(slotBtn);
+        slotRow.appendChild(fallbackBtn);
+        topSection.appendChild(slotRow);
+        
+        const payRow = document.createElement('div');
+        payRow.className = 'input-row';
+        payRow.style.transform = 'translateY(-10px)';
+        const payNowBtn = createBtn('Pay Now', '#dc2626');
+        const paymentBtn = createBtn('Open Payment', '#0891b2');
+        paymentBtn.disabled = true;
+        paymentBtn.style.opacity = "0.6";
+        payRow.appendChild(payNowBtn);
+        payRow.appendChild(paymentBtn);
+        topSection.appendChild(payRow);
+        
+        let paymentLink = "";
+        
+        // CAPTCHA script
+        const loadCaptchaScript = () => {
+            if (!window.turnstile) {
+                const script = document.createElement('script');
+                script.src = 'https://challenges.cloudflare.com/turnstile/v0/api.js';
+                script.async = true;
+                script.defer = true;
+                document.head.appendChild(script);
+                setTimeout(loadCaptchaScript, 500);
+            }
+        };
+        loadCaptchaScript();
+        
+        const renderCaptcha = () => {
+            if (!window.turnstile) return;
+            captchaContainer.innerHTML = '';
+            window.turnstile.render(captchaContainer, {
+                sitekey: sitekeyInput.value || '0x4AAAAAABvQ3Mi6RktCuZ7P',
+                callback: token => {
+                    captchaValInput.value = token;
+                    LogManager.add('Payment CAPTCHA solved', 'success');
+                },
+                theme: 'light'
+            });
+        };
+        loadCaptchaBtn.addEventListener('click', () => {
+            renderCaptcha();
+            startCooldown(loadCaptchaBtn);
+        });
+        
+        const getCaptchaToken = () => new Promise((resolve, reject) => {
+            if (captchaValInput.value) return resolve(captchaValInput.value);
+            renderCaptcha();
+            showMessage('Solve CAPTCHA first', true);
+            reject('CAPTCHA pending');
+        });
+        
+        // OTP send
+        otpSendBtn.addEventListener('click', async () => {
+            try {
+                const url = baseURLInput.value.trim() + '/api/v2/payment/pay-otp-sent';
+                const res = await fetch(url, {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json', 'Authorization': `Bearer ${BEARER_TOKEN}`},
+                    body: JSON.stringify({resend: 0})
+                });
+                const data = await res.json();
+                showMessage(data.status === 'success' ? 'OTP sent!' : 'OTP sending failed: ' + data.message, data.status !== 'success');
+                startCooldown(otpSendBtn);
+            } catch (e) {
+                showMessage('Error sending OTP: ' + e.message, true);
+            }
+        });
+        
+        // OTP verify
+        verifyBtn.addEventListener('click', async () => {
+            const otpValue = otpInput.value.trim();
+            if (!otpValue || otpValue.length < 6 || otpValue.length > 7 || !/^\d+$/.test(otpValue)) {
+                showMessage('Please enter valid OTP (6-7 digits)', true);
+                return;
+            }
+            try {
+                const url = baseURLInput.value.trim() + '/api/v2/payment/pay-otp-verify';
+                const res = await fetch(url, {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json', 'Authorization': `Bearer ${BEARER_TOKEN}`},
+                    body: JSON.stringify({otp: otpValue})
+                });
+                const data = await res.json();
+                if (data.status === 'success' && data.data.slot_dates && data.data.slot_dates.length > 0) {
+                    dateValInput.value = data.data.slot_dates[0];
+                    timeValInput.value = "";
+                    showMessage('OTP Verified & Date filled!');
+                } else {
+                    showMessage('OTP verification failed or no date found: ' + data.message, true);
+                }
+                startCooldown(verifyBtn);
+            } catch (e) {
+                showMessage('Error verifying OTP: ' + e.message, true);
+            }
+        });
+        
+        // Slot time
+        slotBtn.addEventListener('click', async () => {
+            const appointment_date = dateValInput.value.trim();
+            if (!appointment_date) {
+                showMessage('প্রথমে একটি তারিখ সিলেক্ট করুন।', true);
+                return;
+            }
+            try {
+                const url = baseURLInput.value.trim() + '/api/v2/payment/pay-slot-time';
+                const res = await fetch(url, {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json', 'Authorization': `Bearer ${BEARER_TOKEN}`},
+                    body: JSON.stringify({appointment_date})
+                });
+                const data = await res.json();
+                if (data.data?.slot_times?.length) {
+                    timeValInput.value = data.data.slot_times[0].time_display;
+                    showMessage('Slot Time available & auto-filled.');
+                } else {
+                    timeValInput.value = "";
+                    showMessage('Slot Time পাওয়া যায়নি।', true);
+                }
+                startCooldown(slotBtn);
+            } catch (e) {
+                showMessage('Error fetching slot times: ' + e.message, true);
+            }
+        });
+        
+        fallbackBtn.addEventListener('click', () => {
+            timeValInput.value = '09:00 - 09:59';
+            showMessage('Default Slot Time filled.');
+        });
+        
+        // Pay now
+        payNowBtn.addEventListener('click', async () => {
+            const originalBtnText = payNowBtn.textContent;
+            payNowBtn.textContent = 'Loading...';
+            payNowBtn.disabled = true;
+            
+            try {
+                const token = await getCaptchaToken();
+                const payload = {};
+                [[dateKeyInput, dateValInput], [timeKeyInput, timeValInput], [captchaKeyInput, captchaValInput]]
+                    .forEach(([k, v]) => {
+                        const key = k.value.trim();
+                        const val = (v.value || '').trim();
+                        if (key && val) payload[key] = val;
+                    });
+                payload.selected_payment = {
+                    name: "VISA",
+                    slug: "visacard",
+                    link: "https://securepay.sslcommerz.com/gwprocess/v4/image/gw1/visa.png"
+                };
+                
+                const dateKey = dateKeyInput.value.trim();
+                const timeKey = timeKeyInput.value.trim();
+                
+                if (!payload[dateKey] || !payload[timeKey]) {
+                    showMessage('Appointment Date & Time প্রয়োজন', true);
+                    return;
+                }
+                
+                const url = baseURLInput.value.trim() + endpointInput.value.trim();
+                const res = await fetch(url, {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json', 'Authorization': `Bearer ${BEARER_TOKEN}`},
+                    body: JSON.stringify(payload)
+                });
+                const data = await res.json();
+                if (data.status === 'success' && data.data.url) {
+                    paymentLink = data.data.url;
+                    paymentBtn.disabled = false;
+                    paymentBtn.style.opacity = '1';
+                    paymentBtn.style.backgroundColor = '#22c55e';
+                    showMessage('Payment link ready!');
+                } else {
+                    showMessage('Payment link missing', true);
+                }
+                startCooldown(payNowBtn);
+            } catch (e) {
+                showMessage('Error: ' + e.message, true);
+            } finally {
+                payNowBtn.textContent = originalBtnText;
+                payNowBtn.disabled = false;
+            }
+        });
+        
+        paymentBtn.addEventListener('click', () => {
+            if (paymentLink) {
+                window.open(paymentLink, '_blank');
+                showMessage('Payment page opened');
+            } else {
+                showMessage('Payment link missing', true);
+            }
+        });
+    }
+
+    // ==================== CONFIG PANEL ====================
+    function createConfigPanel() {
+        popupContainer.innerHTML = '';
+        popupContainer.className = 'popup-panel active';
+        
+        const panel = document.createElement('div');
+        panel.className = 'ivac-panel';
+        panel.style.cssText = 'background: #fff; padding: 12px; border-radius: 8px;';
+        
+        const title = document.createElement('div');
+        title.textContent = 'Configuration Management';
+        title.style.cssText = 'font-weight: bold; font-size: 14px; margin-bottom: 10px; padding-bottom: 8px; border-bottom: 2px solid #e5e7eb;';
+        
+        const description = document.createElement('p');
+        description.textContent = 'Upload or edit your IVAC_APP_DATA configuration. This data will be saved locally and auto-populate all forms.';
+        description.style.cssText = 'font-size: 11px; color: #6b7280; margin: 8px 0 12px 0;';
+        
+        const createLabel = (text) => {
+            const label = document.createElement('div');
+            label.textContent = text;
+            label.style.cssText = 'font-size: 11px; font-weight: 600; margin-bottom: 4px; color: #374151;';
+            return label;
+        };
+        
+        const textareaLabel = createLabel('Configuration JSON:');
+        
+        const configTextarea = document.createElement('textarea');
+        configTextarea.style.cssText = 'width: 100%; height: 300px; padding: 8px; border: 1px solid #d1d5db; border-radius: 4px; font-family: "Courier New", monospace; font-size: 11px; resize: vertical;';
+        configTextarea.placeholder = `{
+  "webfile_id": "BGDRV8490D25",
+  "mission": "3",
+  "ivac_center": "IVACRAJ|2",
+  "visa_type": "6",
+  "family_count": "4",
+  "asweoi_erilfs": "Medical medical medical",
+  "family_data": [
+    {"name":"Full Name", "webfile":"BGDRV1234567"}
+  ],
+  "personal_info": {
+    "full_name": "Your Name",
+    "email_name": "email@example.com",
+    "phone": "01234567890"
+  }
+}`;
+        
+        // Load existing config from localStorage
+        const savedConfig = localStorage.getItem('IVAC_APP_DATA');
+        if (savedConfig) {
+            try {
+                const parsed = JSON.parse(savedConfig);
+                configTextarea.value = JSON.stringify(parsed, null, 2);
+            } catch (e) {
+                LogManager.add('Error loading saved config: ' + e.message, 'error');
+            }
+        }
+        
+        const messageDiv = document.createElement('div');
+        messageDiv.style.cssText = 'margin-top: 8px; padding: 8px; border-radius: 4px; font-size: 11px; display: none;';
+        
+        const showMessage = (text, isError = false) => {
+            messageDiv.textContent = text;
+            messageDiv.style.display = 'block';
+            messageDiv.style.background = isError ? '#fee2e2' : '#d1fae5';
+            messageDiv.style.color = isError ? '#991b1b' : '#065f46';
+            setTimeout(() => messageDiv.style.display = 'none', 3000);
+        };
+        
+        const buttonRow = document.createElement('div');
+        buttonRow.style.cssText = 'display: flex; gap: 8px; margin-top: 10px;';
+        
+        const createBtn = (text, bg) => {
+            const btn = document.createElement('button');
+            btn.textContent = text;
+            btn.style.cssText = `flex: 1; padding: 8px; background: ${bg}; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 11px; font-weight: 600;`;
+            btn.addEventListener('mouseover', () => btn.style.opacity = '0.9');
+            btn.addEventListener('mouseout', () => btn.style.opacity = '1');
+            return btn;
+        };
+        
+        const saveBtn = createBtn('Save Config', '#10b981');
+        const loadBtn = createBtn('Load Config', '#3b82f6');
+        const clearBtn = createBtn('Clear Config', '#ef4444');
+        
+        // Save config to localStorage
+        saveBtn.addEventListener('click', () => {
+            const configText = configTextarea.value.trim();
+            if (!configText) {
+                showMessage('Please enter configuration data', true);
+                return;
+            }
+            
+            try {
+                const parsed = JSON.parse(configText);
+                
+                // Validate required fields
+                const requiredFields = ['webfile_id', 'mission', 'ivac_center', 'visa_type', 'family_count'];
+                const missing = requiredFields.filter(field => !parsed[field]);
+                
+                if (missing.length > 0) {
+                    showMessage('Missing required fields: ' + missing.join(', '), true);
+                    return;
+                }
+                
+                localStorage.setItem('IVAC_APP_DATA', JSON.stringify(parsed));
+                showMessage('Configuration saved successfully!');
+                LogManager.add('Config saved to localStorage', 'success');
+            } catch (e) {
+                showMessage('Invalid JSON format: ' + e.message, true);
+                LogManager.add('Config save failed: ' + e.message, 'error');
+            }
+        });
+        
+        // Load config from localStorage
+        loadBtn.addEventListener('click', () => {
+            const saved = localStorage.getItem('IVAC_APP_DATA');
+            if (saved) {
+                try {
+                    const parsed = JSON.parse(saved);
+                    configTextarea.value = JSON.stringify(parsed, null, 2);
+                    showMessage('Configuration loaded!');
+                    LogManager.add('Config loaded from localStorage', 'success');
+                } catch (e) {
+                    showMessage('Error loading config: ' + e.message, true);
+                }
+            } else {
+                showMessage('No saved configuration found', true);
+            }
+        });
+        
+        // Clear config
+        clearBtn.addEventListener('click', () => {
+            if (confirm('Are you sure you want to clear the saved configuration?')) {
+                localStorage.removeItem('IVAC_APP_DATA');
+                configTextarea.value = '';
+                showMessage('Configuration cleared!');
+                LogManager.add('Config cleared from localStorage', 'info');
+            }
+        });
+        
+        buttonRow.appendChild(saveBtn);
+        buttonRow.appendChild(loadBtn);
+        buttonRow.appendChild(clearBtn);
+        
+        const infoBox = document.createElement('div');
+        infoBox.style.cssText = 'margin-top: 12px; padding: 8px; background: #f3f4f6; border-radius: 4px; font-size: 10px; color: #4b5563;';
+        infoBox.innerHTML = `
+            <strong>How to use:</strong><br>
+            1. Paste your IVAC_APP_DATA JSON in the textarea<br>
+            2. Click "Save Config" to store it locally<br>
+            3. Go to Autofill/Login/Submit panels - fields will auto-populate<br>
+            4. Change config anytime for different accounts
+        `;
+        
+        panel.appendChild(title);
+        panel.appendChild(description);
+        panel.appendChild(textareaLabel);
+        panel.appendChild(configTextarea);
+        panel.appendChild(messageDiv);
+        panel.appendChild(buttonRow);
+        panel.appendChild(infoBox);
+        
+        popupContainer.appendChild(panel);
+        LogManager.add('Config panel opened', 'info');
+    }
+
+    // ==================== BUTTON HANDLERS ====================
+    header.querySelectorAll('.header-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            const panel = btn.dataset.panel;
+            
+            if (panel === 'autofill') createAutofillPanel();
+            else if (panel === 'login') createLoginPanel();
+            else if (panel === 'submit') createSubmitPanel();
+            else if (panel === 'payment') createPaymentPanel();
+            else if (panel === 'config') createConfigPanel();
+            
+            if (panel) LogManager.add(`Panel switched: ${panel}`, 'info');
+        });
+    });
+
+    // Minimize button handler
+    let isMinimized = false;
+    const minimizeBtn = document.getElementById('minimize-btn');
+    minimizeBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        isMinimized = !isMinimized;
+        
+        if (isMinimized) {
+            bodyWrapper.style.display = 'none';
+            minimizeBtn.textContent = '+';
+            container.style.height = 'auto';
+        } else {
+            bodyWrapper.style.display = 'flex';
+            minimizeBtn.textContent = '−';
+        }
+        
+        LogManager.add(isMinimized ? 'Panel minimized' : 'Panel restored', 'info');
+    });
+
+    // ==================== DRAGGING ====================
+    let isDragging = false;
+    let offsetX, offsetY;
+    
+    header.addEventListener('mousedown', (e) => {
+        isDragging = true;
+        offsetX = e.clientX - container.offsetLeft;
+        offsetY = e.clientY - container.offsetTop;
+        header.style.cursor = 'grabbing';
+    });
+    
+    document.addEventListener('mousemove', (e) => {
+        if (!isDragging) return;
+        container.style.left = (e.clientX - offsetX) + 'px';
+        container.style.top = (e.clientY - offsetY) + 'px';
+        container.style.right = 'auto';
+    });
+    
+    document.addEventListener('mouseup', () => {
+        if (isDragging) {
+            isDragging = false;
+            header.style.cursor = 'move';
+        }
+    });
+
+    // ==================== INIT ====================
+    SilentConsole.log('[OK] IVAC System loaded successfully!');
+    LogManager.add('System ready - STEALTH MODE ACTIVE', 'success');
+
+    })(); // End of initializeSystem async IIFE
+
+})(); // End of main IIFE

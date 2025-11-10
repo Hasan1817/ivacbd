@@ -24,6 +24,12 @@
       "expires": "2025-11-15",
       "role": "basic",
       "name": "Demo User 3"
+    },
+    "demo_user5": {
+      "password": "c0RiQDRHbmkjVGc=",
+      "expires": "2025-11-15",
+      "role": "basic",
+      "name": "Demo User 3"
     }
   }
 }

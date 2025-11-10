@@ -20,13 +20,19 @@
       "name": "Demo User 3"
     },
     "demo_user6": {
-      "password": "tiQDRH=",
+      "password": "S2I0WiRUZjhuMQ==",
       "expires": "2025-11-15",
       "role": "basic",
       "name": "Demo User 3"
     },
     "demo_user5": {
       "password": "c0RiQDRHbmkjVG",
+      "expires": "2025-11-15",
+      "role": "basic",
+      "name": "Demo User 3"
+    },
+    "demo_user7": {
+      "password": "",
       "expires": "2025-11-15",
       "role": "basic",
       "name": "Demo User 3"

@@ -19,6 +19,5 @@
       "role": "basic",
       "name": "Demo User 3"
     }
-  },
-  "note": "Passwords are base64 encoded. Actual passwords: pass123456, mysecurepass, test123456"
+  }
 }
